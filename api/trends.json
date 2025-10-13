@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-13T16:36:05.804564+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2025-10-13T17:21:14.904824+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2166988",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 16时36分]"
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 17时21分]"
         },
         {
           "title": "美股盘前，明星科技股集体走高，英伟达、AMD盘前涨超3%，甲骨文盘前涨超2%，苹果涨超1.8%，热门中概股普涨，阿里巴巴涨超5%。",
@@ -24,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            11
+            11,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时36分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时21分]"
         },
         {
           "title": "摩根士丹利：重申对阿里“增持”评级，料次财季云收入增长32%",
