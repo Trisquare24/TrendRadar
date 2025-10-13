@@ -8,7 +8,10 @@ gemini
 chatgpt
 openai
 
+人工智能
+AI
 大模型
+LLM
 AGI
 
 GitHub
@@ -20,3 +23,6 @@ Qwen
 字节
 Kimi
 豆包
+
+机器人
+具身智能
