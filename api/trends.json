@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T00:22:20.439237+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-14T01:17:34.946051+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "香港首个自主研发AI机械人平台今日亮相",
           "url": "https://wallstreetcn.com/livenews/2986899",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "库克抖音官宣iPhone Air中国发售",
@@ -37,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时17分]"
         }
       ]
     },
@@ -51,11 +52,12 @@
           "url": "https://wallstreetcn.com/livenews/2986910",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "谷歌将与印度安得拉邦签署1吉瓦数据中心合作协议。",
@@ -79,22 +81,24 @@
           "url": "https://wallstreetcn.com/livenews/2986906",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "OpenAI或将成为最大的无人公司",
           "url": "https://www.baidu.com/s?wd=OpenAI%E6%88%96%E5%B0%86%E6%88%90%E4%B8%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%97%A0%E4%BA%BA%E5%85%AC%E5%8F%B8",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时17分]"
         }
       ]
     },
@@ -110,8 +114,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "聚焦稀土、机器人等27个领域 摩根大通启动1.5万亿美元投融资项目",
@@ -121,8 +125,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时17分]"
         }
       ]
     }
