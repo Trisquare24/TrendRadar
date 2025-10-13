@@ -8,18 +8,15 @@ gemini
 chatgpt
 openai
 
-金价
+大模型
+AGI
 
-黄金
-+价格
+GitHub
+github
 
-美债
+阿里
+Qwen
 
-美股
-
-美元
-+指数
-
-特朗普
-
-伊朗
+字节
+Kimi
+豆包
