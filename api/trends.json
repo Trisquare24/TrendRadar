@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T19:16:13.525408+08:00",
-  "total_titles_processed": 1781,
+  "generated_at": "2025-10-14T20:38:07.943019+08:00",
+  "total_titles_processed": 1899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
         {
           "title": "高盛大幅上调阿里未来三年资本开支预测至4600亿：云业务国际化被低估，AI支出转化正重塑增长！",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时00分 ~ 17时20分]"
+        },
+        {
+          "title": "剑指三个“一千万”！上海推动AI终端“做大做强” 智能眼镜、机器人等获点名",
+          "url": "https://www.cls.cn/detail/2169261",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
         },
         {
           "title": "马斯克回应xAI开发AI游戏：xAI正大举进军视频游戏领域，因为我喜欢玩视频游戏。赚钱是次要的问题。",
@@ -91,6 +102,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时22分 ~ 17时20分]"
+        },
+        {
+          "title": "大雁塔玄奘铜像长满青苔系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%81%E5%A1%94%E7%8E%84%E5%A5%98%E9%93%9C%E5%83%8F%E9%95%BF%E6%BB%A1%E9%9D%92%E8%8B%94%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 20时38分]"
+        },
+        {
+          "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31765142",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 20时38分]"
         },
         {
           "title": "人工智能领域有哪些精妙的数学原理？",
@@ -154,17 +188,6 @@
           "time_info": "[04时20分 ~ 05时16分]"
         },
         {
-          "title": "大雁塔玄奘铜像长满青苔系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E9%9B%81%E5%A1%94%E7%8E%84%E5%A5%98%E9%93%9C%E5%83%8F%E9%95%BF%E6%BB%A1%E9%9D%92%E8%8B%94%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
-        },
-        {
           "title": "香港首个自主研发AI机械人平台今日亮相",
           "url": "https://wallstreetcn.com/livenews/2986899",
           "source": "华尔街见闻-快讯",
@@ -189,15 +212,15 @@
           "time_info": "[16时22分 ~ 17时20分]"
         },
         {
-          "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31765142",
-          "source": "澎湃新闻",
+          "title": "对于 LLM 的 SFT 和 RL，我们有哪些新奇的洞察点？",
+          "url": "https://www.zhihu.com/question/1934907181452485781",
+          "source": "知乎",
           "ranks": [
-            20
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
+          "time_info": "[20时37分 ~ 20时38分]"
         },
         {
           "title": "iPhone Air将在中国发售",
@@ -261,9 +284,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "AMD美股盘前涨超1%，CNBC消息，甲骨文云将于2026年下半年开始部署5万颗AMD AI芯片。",
+          "url": "https://wallstreetcn.com/livenews/2987532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "甲骨文云自2026年下半年起将部署5万块AMD人工智能芯片",
+          "url": "https://flash.jin10.com/detail/20251014200836647800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "上海：到2027年人工智能计算机、人工智能手机、人工智能新终端规模各达到千万台以上",
@@ -354,6 +399,17 @@
           "time_info": "16时22分"
         },
         {
+          "title": "据CNBC报道，甲骨文云计划在2026年下半年部署5万片AMD AI芯片。AMD(AMD.O)盘前拉升涨1%。",
+          "url": "https://flash.jin10.com/detail/20251014200514139800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "英伟达个人AI超级计算机本周开售",
           "url": "https://flash.jin10.com/detail/20251014081613240800",
           "source": "金十数据",
@@ -404,8 +460,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时00分 ~ 19时16分]"
+          "appearance_count": 14,
+          "time_info": "[11时00分 ~ 20时38分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
