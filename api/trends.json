@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T14:26:53.829377+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2025-10-14T15:17:58.441169+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 14时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 15时17分]"
         },
         {
           "title": "库克抖音官宣iPhone Air中国发售",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时00分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时00分 ~ 15时17分]"
         },
         {
           "title": "马斯克回应xAI开发AI游戏：xAI正大举进军视频游戏领域，因为我喜欢玩视频游戏。赚钱是次要的问题。",
@@ -247,7 +247,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -294,8 +294,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时00分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时00分 ~ 15时17分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -307,8 +307,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时16分 ~ 14时26分]"
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 15时17分]"
         },
         {
           "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
