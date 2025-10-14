@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T04:19:05.800133+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2025-10-15T05:15:49.542187+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时15分]"
         },
         {
           "title": "大雁塔玄奘铜像长满青苔系AI生成",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时15分]"
         },
         {
           "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
@@ -38,8 +38,22 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时15分]"
+        },
+        {
+          "title": "iPhone Air开启无SIM卡时代",
+          "url": "https://www.douyin.com/hot/2269405",
+          "source": "抖音",
+          "ranks": [
+            23,
+            22,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 05时15分]"
         },
         {
           "title": "英特尔增添新款GPU “Crescent Island”（肯尼亚新月岛）到AI加速器组合。",
@@ -51,19 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "iPhone Air开启无SIM卡时代",
-          "url": "https://www.douyin.com/hot/2269405",
-          "source": "抖音",
-          "ranks": [
-            23,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 04时19分]"
         },
         {
           "title": "鲍威尔：现在判断AI对招聘的（潜在）影响还言之过早。",
@@ -141,7 +142,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -152,8 +153,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 05时15分]"
+        },
+        {
+          "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
+          "url": "https://flash.jin10.com/detail/20251015044342683800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "德银：OpenAI在欧洲的订阅用户“增长停滞”",
@@ -162,7 +174,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         }
