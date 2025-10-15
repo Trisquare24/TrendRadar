@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T03:15:50.091208+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2025-10-16T04:22:07.914971+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时22分]"
+        },
+        {
+          "title": "如何评价 10 月 15 日发布的荣耀 Magic8 系列？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1961832439438607799",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12,
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时22分]"
         },
         {
           "title": "Meta Platforms(META.O)：人工智能排名与推荐系统将借助Arm(ARM.O)基于Neoverse的数据中心平台，以实现相较于x86系统更低的功耗。",
@@ -44,19 +58,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时15分]"
-        },
-        {
-          "title": "如何评价 10 月 15 日发布的荣耀 Magic8 系列？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1961832439438607799",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时26分]"
         },
         {
           "title": "人工智能（AI）初创公司Poolside在大规模数据中心问题上与CoreWeave组团。",
@@ -186,8 +187,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时22分]"
         },
         {
           "title": "【每日收评】沪指涨超1%重返3900点，两市成交额萎缩超5000亿，机器人概念股午后异军突起",
@@ -198,8 +199,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时22分]"
         },
         {
           "title": "三花智控：关于获得机器人大额订单的传言不属实",
@@ -216,7 +217,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -228,6 +229,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 02时26分]"
+        },
+        {
+          "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
+          "url": "https://wallstreetcn.com/livenews/2988383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         }
       ]
     }
