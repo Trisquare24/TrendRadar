@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T07:17:35.996407+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2025-10-15T09:16:22.168561+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "剑指三个“一千万”！上海推动AI终端“做大做强” 智能眼镜、机器人等获点名",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 09时16分]"
         },
         {
           "title": "大雁塔玄奘铜像长满青苔系AI生成",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 09时16分]"
         },
         {
           "title": "新质观察｜我们教AI做善人，它会变成好人吗？",
@@ -53,8 +53,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 09时16分]"
         },
         {
           "title": "英特尔增添新款GPU “Crescent Island”（肯尼亚新月岛）到AI加速器组合。",
@@ -129,13 +129,24 @@
           "time_info": "[02时27分 ~ 03时15分]"
         },
         {
+          "title": "甲骨文官宣明年部署5万枚AMD芯片 或预示AI硬件格局生变",
+          "url": "https://www.cls.cn/detail/2169443",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
+        },
+        {
           "title": "IMF总裁格奥尔基耶娃：如果大规模人工智能投资取得成效，生产力提升将消除增长难题。",
           "url": "https://flash.jin10.com/detail/20251015061658609800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -154,7 +165,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -180,6 +191,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时18分]"
+        },
+        {
+          "title": "OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目",
+          "url": "https://www.cls.cn/detail/2169533",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 09时16分]"
         },
         {
           "title": "德银：OpenAI在欧洲的订阅用户“增长停滞”",
