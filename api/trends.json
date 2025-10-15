@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T02:26:57.053256+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2025-10-16T03:15:50.091208+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时15分]"
         },
         {
           "title": "Meta Platforms(META.O)：人工智能排名与推荐系统将借助Arm(ARM.O)基于Neoverse的数据中心平台，以实现相较于x86系统更低的功耗。",
@@ -37,11 +38,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时15分]"
         },
         {
           "title": "如何评价 10 月 15 日发布的荣耀 Magic8 系列？有哪些亮点？",
@@ -55,6 +57,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 02时26分]"
+        },
+        {
+          "title": "人工智能（AI）初创公司Poolside在大规模数据中心问题上与CoreWeave组团。",
+          "url": "https://wallstreetcn.com/livenews/2988357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时15分]"
         },
         {
           "title": "李健称荣耀Magic8是最强标准版",
@@ -80,24 +94,13 @@
           "time_info": "01时17分"
         },
         {
-          "title": "人工智能（AI）初创公司Poolside在大规模数据中心问题上与CoreWeave组团。",
-          "url": "https://wallstreetcn.com/livenews/2988357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
           "title": "达利欧：欢迎大家留下有关黄金等看法的疑问 正在利用此训练AI克隆体",
           "url": "https://flash.jin10.com/detail/20251016015840392800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         },
@@ -141,7 +144,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         },
@@ -163,7 +166,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
         }
@@ -179,11 +182,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时15分]"
         },
         {
           "title": "【每日收评】沪指涨超1%重返3900点，两市成交额萎缩超5000亿，机器人概念股午后异军突起",
@@ -194,8 +198,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 03时15分]"
         },
         {
           "title": "三花智控：关于获得机器人大额订单的传言不属实",
