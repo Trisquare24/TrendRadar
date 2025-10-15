@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T04:22:07.914971+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2025-10-16T05:17:08.989039+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 05时17分]"
         },
         {
           "title": "如何评价 10 月 15 日发布的荣耀 Magic8 系列？有哪些亮点？",
@@ -28,11 +29,12 @@
             17,
             12,
             19,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时17分]"
         },
         {
           "title": "Meta Platforms(META.O)：人工智能排名与推荐系统将借助Arm(ARM.O)基于Neoverse的数据中心平台，以实现相较于x86系统更低的功耗。",
@@ -174,50 +176,8 @@
       ]
     },
     {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "三花智控：关于获得机器人大额订单的传言不属实",
-          "url": "https://www.cls.cn/detail/2170710",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时22分]"
-        },
-        {
-          "title": "【每日收评】沪指涨超1%重返3900点，两市成交额萎缩超5000亿，机器人概念股午后异军突起",
-          "url": "https://www.cls.cn/detail/2170265",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时22分]"
-        },
-        {
-          "title": "三花智控：关于获得机器人大额订单的传言不属实",
-          "url": "https://wallstreetcn.com/livenews/2988308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -237,9 +197,62 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "美国总统特朗普邀请白宫装修捐赠者参加奢华的白宫晚宴，嘉宾包括来自洛克希德马丁、微软、Meta公司、谷歌和亚马逊公司的代表。",
+          "url": "https://flash.jin10.com/detail/20251016043045817800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "三花智控：关于获得机器人大额订单的传言不属实",
+          "url": "https://www.cls.cn/detail/2170710",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 05时17分]"
+        },
+        {
+          "title": "【每日收评】沪指涨超1%重返3900点，两市成交额萎缩超5000亿，机器人概念股午后异军突起",
+          "url": "https://www.cls.cn/detail/2170265",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 05时17分]"
+        },
+        {
+          "title": "三花智控：关于获得机器人大额订单的传言不属实",
+          "url": "https://wallstreetcn.com/livenews/2988308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
         }
       ]
     }
