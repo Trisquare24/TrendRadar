@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T16:34:28.588639+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2025-10-15T17:19:12.533220+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
@@ -82,6 +82,19 @@
           "time_info": "[09时15分 ~ 13时17分]"
         },
         {
+          "title": "美银调查：做多黄金登顶最拥挤交易 “AI泡沫”成最大尾部风险",
+          "url": "https://www.cls.cn/detail/2169746",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 17时19分]"
+        },
+        {
           "title": "中兴通讯完成IMT-2020（5G）推进组RAN AI关键技术测试",
           "url": "https://wallstreetcn.com/livenews/2987934",
           "source": "华尔街见闻-快讯",
@@ -94,6 +107,18 @@
           "time_info": "[13时17分 ~ 14时34分]"
         },
         {
+          "title": "美银调查：亚洲基金经理愈发看好中国资产 半导体和AI是首选",
+          "url": "https://www.cls.cn/detail/2169939",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时19分]"
+        },
+        {
           "title": "这波人工智能浪潮怎么越来越像泡沫，AI 到底带来了什么？",
           "url": "https://www.zhihu.com/question/658385796",
           "source": "知乎",
@@ -104,18 +129,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时03分 ~ 13时17分]"
-        },
-        {
-          "title": "美银调查：做多黄金登顶最拥挤交易 “AI泡沫”成最大尾部风险",
-          "url": "https://www.cls.cn/detail/2169746",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 16时34分]"
         },
         {
           "title": "鲍威尔：现在判断AI对招聘的（潜在）影响还言之过早。",
@@ -167,6 +180,18 @@
           "time_info": "[02时27分 ~ 03时15分]"
         },
         {
+          "title": "英国AI数据中心开发商NSCALE与微软签订了约20万个英伟达GB300 GPU合同。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2988061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时19分]"
+        },
+        {
           "title": "英特尔增添新款GPU “Crescent Island”（肯尼亚新月岛）到人工智能加速器组合（AI Accelerator Portfolio）。",
           "url": "https://wallstreetcn.com/livenews/2987652",
           "source": "华尔街见闻-快讯",
@@ -200,28 +225,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
-        },
-        {
-          "title": "英国AI数据中心开发商NSCALE与微软签订了约20万个英伟达GB300 GPU合同。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2988061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "美银调查：亚洲基金经理愈发看好中国资产 半导体和AI是首选",
-          "url": "https://www.cls.cn/detail/2169939",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
         },
         {
           "title": "高盛员工信：AI将成为实现增长新路径 代价是部分人的岗位",
@@ -421,7 +424,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -465,9 +468,48 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【每日收评】沪指涨超1%重返3900点，两市成交额萎缩超5000亿，机器人概念股午后异军突起",
+          "url": "https://www.cls.cn/detail/2170265",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 17时19分]"
+        },
+        {
+          "title": "公司是特斯拉Optimus人形机器人关节轴承独家供应商？中研股份：目前没有人形机器人零部件生产能力",
+          "url": "https://wallstreetcn.com/livenews/2988096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "A股机器人概念股震荡走强，征和工业午后涨停，股价创历史新高，中坚科技、远大智能此前封板，五洲新春、三花智控、信质集团、浙江荣泰等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2987943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         }
       ]
     },
@@ -485,23 +527,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股机器人概念股震荡走强，征和工业午后涨停，股价创历史新高，中坚科技、远大智能此前封板，五洲新春、三花智控、信质集团、浙江荣泰等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2987943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
         }
       ]
     }
