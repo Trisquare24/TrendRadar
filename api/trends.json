@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T15:19:16.792374+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2025-10-16T16:25:16.724214+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "如何评价荣耀Magic8",
@@ -26,6 +26,19 @@
           "time_info": "[00时19分 ~ 12时22分]"
         },
         {
+          "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
+          "url": "https://wallstreetcn.com/articles/3757228",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时15分 ~ 16时25分]"
+        },
+        {
           "title": "如何评价 10 月 15 日发布的荣耀 Magic8 系列？有哪些亮点？",
           "url": "https://www.zhihu.com/question/1961832439438607799",
           "source": "知乎",
@@ -43,19 +56,6 @@
           "time_info": "[00时19分 ~ 07时17分]"
         },
         {
-          "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
-          "url": "https://wallstreetcn.com/articles/3757228",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 15时19分]"
-        },
-        {
           "title": "央视主持人李梓萌遭AI仿冒带货",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9D%8E%E6%A2%93%E8%90%8C%E9%81%ADAI%E4%BB%BF%E5%86%92%E5%B8%A6%E8%B4%A7",
           "source": "百度热搜",
@@ -71,6 +71,20 @@
           "time_info": "[11时03分 ~ 15时19分]"
         },
         {
+          "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31790934",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 16时25分]"
+        },
+        {
           "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
           "url": "https://www.cls.cn/detail/2170822",
           "source": "财联社热门",
@@ -84,19 +98,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时15分 ~ 13时19分]"
-        },
-        {
-          "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31790934",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时21分 ~ 15时19分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-16）",
@@ -290,7 +291,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -312,7 +313,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -323,7 +324,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -367,9 +368,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "美股盘前，AI芯片股普涨，台积电(TSM.N)涨2.4%，Q3净利润创历史新高；博通(AVGO.O)涨1.46%，英伟达(NVDA.O)、AMD(AMD.O)涨超1%。蔚来汽车(NIO.N)盘前跌6.6%。",
+          "url": "https://flash.jin10.com/detail/20251016160116214800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "台积电：现在讨论2026年还为时过早。 汇率波动将影响公司的利润率。 我们正处于AI应用的早期阶段。 非常关注终端客户。 对先进制程芯片的需求是真实存在的。",
@@ -378,7 +390,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -389,7 +401,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -634,11 +646,12 @@
           "ranks": [
             7,
             9,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 16时25分]"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
