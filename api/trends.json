@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T17:20:37.157098+08:00",
-  "total_titles_processed": 1636,
+  "generated_at": "2025-10-17T18:19:21.633442+08:00",
+  "total_titles_processed": 1736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
@@ -30,11 +30,28 @@
             3,
             11,
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时02分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[11时02分 ~ 18时19分]"
+        },
+        {
+          "title": "超薄iPhoneAir续航如何",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            21,
+            20,
+            25,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时21分 ~ 18时19分]"
         },
         {
           "title": "UP主用AI教库克说中文",
@@ -90,26 +107,26 @@
             13,
             15,
             18,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时02分 ~ 17时20分]"
+          "appearance_count": 12,
+          "time_info": "[11时02分 ~ 18时19分]"
         },
         {
-          "title": "超薄iPhoneAir续航如何",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
+          "title": "iPhone Air的eSIM办理教程",
+          "url": "https://www.douyin.com/hot/2272840",
+          "source": "抖音",
           "ranks": [
-            2,
             21,
-            20,
-            25,
-            23
+            17,
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时21分 ~ 17时20分]"
+          "appearance_count": 7,
+          "time_info": "[14时25分 ~ 18时19分]"
         },
         {
           "title": "开售火爆！iPhoneAir首批售罄",
@@ -121,19 +138,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
-        },
-        {
-          "title": "iPhone Air的eSIM办理教程",
-          "url": "https://www.douyin.com/hot/2272840",
-          "source": "抖音",
-          "ranks": [
-            21,
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时25分 ~ 17时20分]"
         },
         {
           "title": "台积电强劲业绩带动AI乐观情绪，美股三大股指集体上涨，科技股盘前多数走高，金银维持强势，加密货币震荡",
@@ -182,6 +186,17 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
+          "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
+          "url": "https://www.zhihu.com/question/1957708491813783087",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 18时19分]"
+        },
+        {
           "title": "德意志银行分析师：强劲的人工智能需求可能会挤占台积电的产能",
           "url": "https://flash.jin10.com/detail/20251017112205880800",
           "source": "金十数据",
@@ -192,17 +207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 12时22分]"
-        },
-        {
-          "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
-          "url": "https://www.zhihu.com/question/1957708491813783087",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 17时20分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-17）",
@@ -263,6 +267,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "京东：iPhone Air 成交额1秒钟破亿",
+          "url": "https://wallstreetcn.com/livenews/2989636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "聚焦第二届湾区半导体投融资战略发展论坛：产业投资结构持续优化，AI及自主可控成焦点",
           "url": "https://wallstreetcn.com/livenews/2989226",
           "source": "华尔街见闻-快讯",
@@ -283,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "iPhone Air全颜色开箱",
+          "url": "https://search.bilibili.com/all?keyword=iPhone%20Air%E5%85%A8%E9%A2%9C%E8%89%B2%E5%BC%80%E7%AE%B1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "美联储理事米兰：人工智能有潜力提高生产率增长。",
@@ -394,8 +420,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时14分 ~ 17时20分]"
+          "appearance_count": 14,
+          "time_info": "[09时14分 ~ 18时19分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
@@ -414,7 +440,7 @@
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股明星科技股盘前普跌，英特尔(INTC.O)跌4.56%，AMD(AMD.O)、美光科技(MU.O)、甲骨文(ORCL.N)跌超4%，阿里巴巴(BABA.N)跌3.7%，特斯拉(TSLA.O)跌超3%。",
@@ -426,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "阿里巴巴与蚂蚁联合投资设立香港总部",
+          "url": "https://wallstreetcn.com/livenews/2989641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         }
       ]
     },
@@ -441,11 +478,12 @@
             15,
             9,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时25分 ~ 17时20分]"
+          "appearance_count": 7,
+          "time_info": "[14时25分 ~ 18时19分]"
         }
       ]
     }
