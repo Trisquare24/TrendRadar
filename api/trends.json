@@ -1,596 +1,83 @@
 {
-  "generated_at": "2025-10-17T23:19:26.439578+08:00",
-  "total_titles_processed": 2183,
+  "generated_at": "2025-10-18T00:22:18.226830+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 33,
+      "match_count": 5,
       "titles": [
         {
-          "title": "央视主持人李梓萌遭AI仿冒带货！北京查处首例AI虚假广告案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31790934",
-          "source": "澎湃新闻",
+          "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
+          "url": "https://www.zhihu.com/question/1957708491813783087",
+          "source": "知乎",
           "ranks": [
-            4,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时15分]"
-        },
-        {
-          "title": "国行iPhone Air上手体验",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            11,
-            13,
-            14,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时02分 ~ 23时19分]"
-        },
-        {
-          "title": "UP主用AI教库克说中文",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%95%99%E5%BA%93%E5%85%8B%E8%AF%B4%E4%B8%AD%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            25,
-            23,
-            24,
-            14,
-            15,
-            20,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 09时15分]"
-        },
-        {
-          "title": "超薄iPhoneAir续航如何",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            21,
-            20,
-            25,
-            23,
-            19,
-            29,
-            22,
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时21分 ~ 23时19分]"
-        },
-        {
-          "title": "台积电法说会：对人工智能大趋势的信心正在“增强”，上调全年销售预期和资本支出下限",
-          "url": "https://wallstreetcn.com/articles/3757296",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时16分 ~ 14时26分]"
-        },
-        {
-          "title": "大模型单日调用150亿次！“双11”三大新变量：AI、即时零售与出海",
-          "url": "https://www.cls.cn/detail/2172161",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时02分 ~ 17时20分]"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
         },
         {
           "title": "国行iPhone Air测评",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E6%B5%8B%E8%AF%84",
           "source": "bilibili 热搜",
           "ranks": [
-            9,
-            13,
-            15,
-            18,
-            10,
-            21,
-            20,
-            25,
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时02分 ~ 23时19分]"
-        },
-        {
-          "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
-          "url": "https://www.zhihu.com/question/1957708491813783087",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时23分 ~ 23时19分]"
-        },
-        {
-          "title": "iPhone Air的eSIM办理教程",
-          "url": "https://www.douyin.com/hot/2272840",
-          "source": "抖音",
-          "ranks": [
-            21,
-            17,
-            11,
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时25分 ~ 19时16分]"
-        },
-        {
-          "title": "开售火爆！iPhoneAir首批售罄",
-          "url": "https://wallstreetcn.com/livenews/2989311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "高盛组建全球基础设施融资团队 押注AI与能源转型机遇",
-          "url": "https://flash.jin10.com/detail/20251017223547959800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "台积电强劲业绩带动AI乐观情绪，美股三大股指集体上涨，科技股盘前多数走高，金银维持强势，加密货币震荡",
-          "url": "https://wallstreetcn.com/articles/3757299",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "据The Information：XAI正在筹划一项价值200亿美元的英伟达(NVDA.O)芯片租购交易。",
-          "url": "https://flash.jin10.com/detail/20251017010558147800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "据华尔街日报：高盛正在扩大基础设施融资业务，组建全新团队，专注于数据中心及其他人工智能基础设施。",
-          "url": "https://flash.jin10.com/detail/20251017223434821800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "iPhoneAir正式开售",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhoneAir%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%94%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26cate%3D5001%26band_rank%3D5%26stream_entry_id%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26pos%3D4%26q%3D%2523iPhoneAir%25E6%25AD%25A3%25E5%25BC%258F%25E5%25BC%2580%25E5%2594%25AE%2523%26dgr%3D0%26realpos%3D5%26c_type%3D31%26display_time%3D1760670003%26pre_seqid%3D176067000389900674147",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "Fulton Breakefield Broenniman研究主管Michael Bailey说：现在我更担心的是投资者情绪受到打击，而不是美国地区银行的资产负债表受到重创。",
-          "url": "https://wallstreetcn.com/livenews/2989221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "德意志银行分析师：强劲的人工智能需求可能会挤占台积电的产能",
-          "url": "https://flash.jin10.com/detail/20251017112205880800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时22分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-17）",
-          "url": "https://flash.jin10.com/detail/20251017113854837800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时17分]"
-        },
-        {
-          "title": "IMF总裁警示人工智能或扩大发展差距",
-          "url": "https://wallstreetcn.com/livenews/2989452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时26分]"
-        },
-        {
-          "title": "甲骨文设法打消投资者对人工智能（AI）利润的恐惧感，称大型AI基础设施项目的利润率可以达到35%。 该公司在拉斯维加斯年度活动上举例称，一个为期六年、600亿美元总收入的AI基建项目利润率就可以达到35%。 CoreWeave上涨6.6%，甲骨文也涨4.7%。",
-          "url": "https://wallstreetcn.com/livenews/2989137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时14分]"
-        },
-        {
-          "title": "最近你写的代码里，有多大比例是 AI 帮你搞定的？",
-          "url": "https://www.zhihu.com/question/1962231054061498522",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时17分]"
-        },
-        {
-          "title": "AI for Science 行业目前进展如何？未来在哪些领域会有发展潜力？",
-          "url": "https://www.zhihu.com/question/9749353322",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
-          "title": "AI芯片需求持续火热，台积电Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757293",
-          "source": "华尔街见闻",
-          "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
+        },
+        {
+          "title": "国行iPhone Air上手体验",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
+        },
+        {
+          "title": "超薄iPhoneAir续航如何",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
         },
         {
           "title": "高盛创建一个侧重于人工智能（AI）融资的团队。 该团队将注重AI基础设施的融资。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/2989806",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "华侨银行：地方银行危机记忆犹新 AI热潮推高估值令投资者保持警惕",
-          "url": "https://flash.jin10.com/detail/20251017182441102800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "京东：iPhone Air 成交额1秒钟破亿",
-          "url": "https://wallstreetcn.com/livenews/2989636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "聚焦第二届湾区半导体投融资战略发展论坛：产业投资结构持续优化，AI及自主可控成焦点",
-          "url": "https://wallstreetcn.com/livenews/2989226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "智谱AI辟谣部门解散，称公司组织调整涉及十余人",
-          "url": "https://wallstreetcn.com/livenews/2989739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "阅文升级三大AI能力覆盖IP全流程",
-          "url": "https://wallstreetcn.com/livenews/2989797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "华泰证券：关注AI算力链业绩兑现 运营商预计稳健增长",
-          "url": "https://wallstreetcn.com/livenews/2989275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "iPhone Air全颜色开箱",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%20Air%E5%85%A8%E9%A2%9C%E8%89%B2%E5%BC%80%E7%AE%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "美联储理事米兰：人工智能有潜力提高生产率增长。",
-          "url": "https://flash.jin10.com/detail/20251017042517693800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "荣耀高管称Magic8不装杯",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8D%A3%E8%80%80%E9%AB%98%E7%AE%A1%E7%A7%B0Magic8%E4%B8%8D%E8%A3%85%E6%9D%AF%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E8%258D%25A3%25E8%2580%2580%25E9%25AB%2598%25E7%25AE%25A1%25E7%25A7%25B0Magic8%25E4%25B8%258D%25E8%25A3%2585%25E6%259D%25AF%2523%26flag%3D1%26pos%3D31%26dgr%3D0%26band_rank%3D30%26realpos%3D30%26filter_type%3Drealtimehot%26display_time%3D1760706588%26pre_seqid%3D17607065886750362121834",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "港股尾盘跌幅扩大，恒生科技指数跌超4%，恒生指数跌2.4%，比亚迪电子跌超8%，地平线机器人、华虹半导体跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/2989532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "永茂泰：与国内某头部人形机器人企业签订《战略合作框架协议》，就具身智能机器人执行器及关节零部件领域进行深入合作探索，共同推出极具性价比的具身智能机器人执行器及关节零部件并旨在共同制定全球具身智能机器人执行器及关节零部件行业标准。",
-          "url": "https://wallstreetcn.com/livenews/2989586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 17时20分]"
-        },
-        {
-          "title": "小马智行：机器人出租车将于2026年起逐步在欧洲城市推广部署。",
-          "url": "https://flash.jin10.com/detail/20251017160310630800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "小马智行与斯泰兰蒂斯(STLA.N)签署备忘录，旨在加速机器人出租车解决方案在欧洲的开发与部署。",
-          "url": "https://flash.jin10.com/detail/20251017160259299800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "机器人怎样改变人类生活",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%80%8E%E6%A0%B7%E6%94%B9%E5%8F%98%E4%BA%BA%E7%B1%BB%E7%94%9F%E6%B4%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E6%2580%258E%25E6%25A0%25B7%25E6%2594%25B9%25E5%258F%2598%25E4%25BA%25BA%25E7%25B1%25BB%25E7%2594%259F%25E6%25B4%25BB%2523%26dgr%3D0%26flag%3D1%26c_type%3D31%26band_rank%3D15%26cate%3D5001%26realpos%3D15%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D16%26display_time%3D1760678197%26pre_seqid%3D17606781971620054728",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "如何看待孙正义重金投资机器人",
-          "url": "https://www.toutiao.com/trending/7562052888449519154/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "美联储理事米兰：在一个机器人做更多工作的世界里，我们可能需要重新思考什么是“充分就业”，但这并不是一个合理的风险。",
-          "url": "https://flash.jin10.com/detail/20251017043049059800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "英国竞争与市场管理局批准解除对谷歌的限制措施。",
-          "url": "https://flash.jin10.com/detail/20251017200137863800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
         {
           "title": "小马智行旗下卢森堡部门与斯泰兰蒂斯集团Stellantis宣布，双方将在欧洲共同测试无人驾驶出租车。 未来数月，两家公司将在卢森堡共同测试无人驾驶出租车，并将在2026年拓展至欧洲的其他地区。 本周稍早，谷歌母公司Alphabet旗下无人驾驶业务Waymo宣布，计划在英国伦敦启动自动驾驶出租车业务。",
           "url": "https://wallstreetcn.com/livenews/2989800",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 OpenAI 将推出成人版 ChatGPT？它为什么要这么做？可能带来哪些风险？",
-          "url": "https://www.zhihu.com/question/1961867297695166783",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时14分 ~ 19时16分]"
-        },
-        {
-          "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
-          "url": "https://wallstreetcn.com/livenews/2989420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 13时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里 Qwen",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股明星科技股盘前普跌，英特尔(INTC.O)跌4.56%，AMD(AMD.O)、美光科技(MU.O)、甲骨文(ORCL.N)跌超4%，阿里巴巴(BABA.N)跌3.7%，特斯拉(TSLA.O)跌超3%。",
-          "url": "https://flash.jin10.com/detail/20251017160634596800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "阿里巴巴与蚂蚁联合投资设立香港总部",
-          "url": "https://wallstreetcn.com/livenews/2989641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "time_info": "00时22分"
         }
       ]
     },
@@ -603,16 +90,11 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%AE%8B%E6%96%B9%E9%87%91%E8%B0%88%E7%9F%AD%E5%89%A7%E7%83%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            15,
-            9,
-            2,
-            3,
-            4,
-            10
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时25分 ~ 22时17分]"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
         }
       ]
     }
