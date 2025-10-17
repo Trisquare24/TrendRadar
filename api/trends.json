@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T21:28:40.282462+08:00",
-  "total_titles_processed": 2026,
+  "generated_at": "2025-10-17T22:17:24.261406+08:00",
+  "total_titles_processed": 2094,
   "failed_sources": [],
   "trends": [
     {
@@ -35,26 +35,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时02分 ~ 21时28分]"
-        },
-        {
-          "title": "超薄iPhoneAir续航如何",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            21,
-            20,
-            25,
-            23,
-            19,
-            29,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时21分 ~ 21时28分]"
+          "appearance_count": 17,
+          "time_info": "[11时02分 ~ 22时17分]"
         },
         {
           "title": "UP主用AI教库克说中文",
@@ -73,6 +55,25 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时23分 ~ 09时15分]"
+        },
+        {
+          "title": "超薄iPhoneAir续航如何",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            21,
+            20,
+            25,
+            23,
+            19,
+            29,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[12时21分 ~ 22时17分]"
         },
         {
           "title": "台积电法说会：对人工智能大趋势的信心正在“增强”，上调全年销售预期和资本支出下限",
@@ -113,11 +114,12 @@
             10,
             21,
             20,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时02分 ~ 21时28分]"
+          "appearance_count": 17,
+          "time_info": "[11时02分 ~ 22时17分]"
         },
         {
           "title": "iPhone Air的eSIM办理教程",
@@ -144,8 +146,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时23分 ~ 21时28分]"
+          "appearance_count": 8,
+          "time_info": "[16时23分 ~ 22时17分]"
         },
         {
           "title": "开售火爆！iPhoneAir首批售罄",
@@ -253,6 +255,17 @@
           "time_info": "[02时26分 ~ 03时14分]"
         },
         {
+          "title": "最近你写的代码里，有多大比例是 AI 帮你搞定的？",
+          "url": "https://www.zhihu.com/question/1962231054061498522",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时17分]"
+        },
+        {
           "title": "AI for Science 行业目前进展如何？未来在哪些领域会有发展潜力？",
           "url": "https://www.zhihu.com/question/9749353322",
           "source": "知乎",
@@ -295,17 +308,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
-        },
-        {
-          "title": "最近你写的代码里，有多大比例是 AI 帮你搞定的？",
-          "url": "https://www.zhihu.com/question/1962231054061498522",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "聚焦第二届湾区半导体投融资战略发展论坛：产业投资结构持续优化，AI及自主可控成焦点",
@@ -369,7 +371,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         }
@@ -548,11 +550,12 @@
             9,
             2,
             3,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时25分 ~ 21时28分]"
+          "appearance_count": 12,
+          "time_info": "[14时25分 ~ 22时17分]"
         }
       ]
     }
