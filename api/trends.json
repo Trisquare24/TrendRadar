@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T19:15:14.232550+08:00",
-  "total_titles_processed": 1372,
+  "generated_at": "2025-10-18T20:32:18.151891+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -53,6 +53,19 @@
           "time_info": "[00时21分 ~ 06时17分]"
         },
         {
+          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时20分 ~ 20时32分]"
+        },
+        {
           "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
           "url": "https://www.zhihu.com/question/1957708491813783087",
           "source": "知乎",
@@ -64,18 +77,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 03时15分]"
-        },
-        {
-          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时20分 ~ 19时15分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -92,28 +93,6 @@
           "time_info": "[13时16分 ~ 16时21分]"
         },
         {
-          "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
-          "url": "https://wallstreetcn.com/livenews/2990065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
-          "url": "https://wallstreetcn.com/livenews/2990064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
           "title": "肖远企：人工智能作为重大科技进步，推动金融最大生产可能性边界向外移动也是完全可以期待的",
           "url": "https://wallstreetcn.com/livenews/2990007",
           "source": "华尔街见闻-快讯",
@@ -126,6 +105,57 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时16分 ~ 16时21分]"
+        },
+        {
+          "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
+          "url": "https://wallstreetcn.com/livenews/2990065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时32分]"
+        },
+        {
+          "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
+          "url": "https://wallstreetcn.com/livenews/2990064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时32分]"
+        },
+        {
+          "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
+          "url": "https://www.cls.cn/detail/2172757",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 20时32分]"
+        },
+        {
+          "title": "苹果公司CEO库克：企业如果没有部署AI，就会丧失竞争力",
+          "url": "https://wallstreetcn.com/livenews/2990046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时32分]"
         },
         {
           "title": "陈天桥用AIGC亲诉脑科学科普",
@@ -141,19 +171,6 @@
           "time_info": "[12时21分 ~ 14时24分]"
         },
         {
-          "title": "苹果公司CEO库克：企业如果没有部署AI，就会丧失竞争力",
-          "url": "https://wallstreetcn.com/livenews/2990046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时15分]"
-        },
-        {
           "title": "苹果CEO库克：中国年轻AI开发者的创造力令人惊叹",
           "url": "https://wallstreetcn.com/livenews/2990020",
           "source": "华尔街见闻-快讯",
@@ -165,18 +182,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时15分 ~ 17时18分]"
-        },
-        {
-          "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
-          "url": "https://www.cls.cn/detail/2172757",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时18分 ~ 19时15分]"
         },
         {
           "title": "我国生成式人工智能用户规模超5亿",
@@ -306,6 +311,46 @@
       ]
     },
     {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.2%，本周累涨约1.7%。 热门中概股里，新东方涨2.3%，阿里巴巴涨1.2%，拼多多百胜中国、京东涨约1%，蔚来和台积电则跌超1%，文远知行跌4.2%，小马智行跌5.5%。",
+          "url": "https://wallstreetcn.com/livenews/2989893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.14%，报8165.92点，本周累计上涨1.83%。 热门中概股里，新东方涨2.3%，阿里巴巴涨1.2%，拼多多百胜中国、京东涨约1%，蔚来和台积电则跌超1%，文远知行跌4.2%，小马智行跌5.5%。 ETF中，中国科技指数ETF（CQQQ）收跌1.79%，中概互联网指数ETF（KWEB）收跌0.10%，富时中国3倍做多ETF（YINN）收跌0.10%。 XtrackersHarvest中证50（ASHS）收跌1.76%，德银嘉实沪深300指数ETF（ASHR）收跌1.22%，中国ETF-iShares MSCI（MCHI）收跌0.14%。 本周，MCHI反弹3.13%（上周跌7.75%），KWEB反弹2.79%（上周跌9.92%），ASHR反弹2.51%（上周跌4.46%），CQQQ反弹0.13%（上周跌9.91%），ASHS跌0.51%（上周跌4.58%）。",
+          "url": "https://wallstreetcn.com/livenews/2989893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时17分]"
+        },
+        {
+          "title": "阿里云Aegaeon方案入选SOSP，GPU用量削减82%",
+          "url": "https://wallstreetcn.com/livenews/2990067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -331,35 +376,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里 Qwen",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.2%，本周累涨约1.7%。 热门中概股里，新东方涨2.3%，阿里巴巴涨1.2%，拼多多百胜中国、京东涨约1%，蔚来和台积电则跌超1%，文远知行跌4.2%，小马智行跌5.5%。",
-          "url": "https://wallstreetcn.com/livenews/2989893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.14%，报8165.92点，本周累计上涨1.83%。 热门中概股里，新东方涨2.3%，阿里巴巴涨1.2%，拼多多百胜中国、京东涨约1%，蔚来和台积电则跌超1%，文远知行跌4.2%，小马智行跌5.5%。 ETF中，中国科技指数ETF（CQQQ）收跌1.79%，中概互联网指数ETF（KWEB）收跌0.10%，富时中国3倍做多ETF（YINN）收跌0.10%。 XtrackersHarvest中证50（ASHS）收跌1.76%，德银嘉实沪深300指数ETF（ASHR）收跌1.22%，中国ETF-iShares MSCI（MCHI）收跌0.14%。 本周，MCHI反弹3.13%（上周跌7.75%），KWEB反弹2.79%（上周跌9.92%），ASHR反弹2.51%（上周跌4.46%），CQQQ反弹0.13%（上周跌9.91%），ASHS跌0.51%（上周跌4.58%）。",
-          "url": "https://wallstreetcn.com/livenews/2989893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
         }
       ]
     },
