@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T07:17:01.262900+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2025-10-19T09:24:05.979112+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -16,19 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
-          "url": "https://flash.jin10.com/detail/20251018223232047800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 09时24分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -41,8 +30,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 09时24分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
+          "url": "https://flash.jin10.com/detail/20251018223232047800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时24分]"
         },
         {
           "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
@@ -52,22 +53,24 @@
             4,
             11,
             13,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时24分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
           "url": "https://flash.jin10.com/detail/20251018213151998800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时24分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
@@ -77,11 +80,24 @@
             9,
             16,
             18,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时24分]"
+        },
+        {
+          "title": "马斯克：GROK 5 将会是AGI，或者与AGI 已经无法区分的东西。",
+          "url": "https://flash.jin10.com/detail/20251018203430382800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时24分]"
         },
         {
           "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
@@ -92,17 +108,6 @@
             21,
             23,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "马斯克：GROK 5 将会是AGI，或者与AGI 已经无法区分的东西。",
-          "url": "https://flash.jin10.com/detail/20251018203430382800",
-          "source": "金十数据",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -148,6 +153,17 @@
           "time_info": "[00时21分 ~ 03时13分]"
         },
         {
+          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
+          "url": "https://wallstreetcn.com/articles/3757427",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
+        },
+        {
           "title": "英伟达退出 国产AI芯片要崛起了吗",
           "url": "https://www.toutiao.com/trending/7562416129633701419/",
           "source": "今日头条",
@@ -157,6 +173,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 07时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "deepseek 本地部署能做到阅读几百万字文本吗？",
+          "url": "https://www.zhihu.com/question/11521332735",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 09时24分]"
         }
       ]
     },
