@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T17:16:14.441453+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2025-10-19T18:18:17.718199+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时21分 ~ 17时16分]"
+          "appearance_count": 26,
+          "time_info": "[00时21分 ~ 18时18分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -48,6 +48,19 @@
           "time_info": "[00时21分 ~ 11时16分]"
         },
         {
+          "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
+          "url": "https://wallstreetcn.com/articles/3757441",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 18时18分]"
+        },
+        {
           "title": "Andrej Karpathy最新万字采访：AGI还需10年，RL其实很糟糕，AGI不会导致经济大爆发",
           "url": "https://wallstreetcn.com/articles/3757435",
           "source": "华尔街见闻",
@@ -57,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时15分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时15分 ~ 18时18分]"
         },
         {
           "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
@@ -129,21 +142,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时15分 ~ 17时16分]"
-        },
-        {
-          "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
-          "url": "https://wallstreetcn.com/articles/3757441",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 17时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时15分 ~ 18时18分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
@@ -182,6 +182,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
+          "url": "https://news.ifeng.com/c/8na1AOphcs7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
         },
         {
           "title": "为什么AI写的文章总有一股“AI味”",
@@ -239,6 +250,17 @@
           "time_info": "[00时21分 ~ 04时18分]"
         },
         {
+          "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
+          "url": "https://wallstreetcn.com/articles/3757443",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 18时18分]"
+        },
+        {
           "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
           "url": "https://wallstreetcn.com/livenews/2990064",
           "source": "华尔街见闻-快讯",
@@ -251,17 +273,6 @@
           "time_info": "[00时21分 ~ 03时13分]"
         },
         {
-          "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
-          "url": "https://wallstreetcn.com/articles/3757443",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
-        },
-        {
           "title": "英伟达退出 国产AI芯片要崛起了吗",
           "url": "https://www.toutiao.com/trending/7562416129633701419/",
           "source": "今日头条",
@@ -271,6 +282,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普发布AI视频向抗议者洒粪",
+          "url": "https://www.toutiao.com/trending/7562522819947511850/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
         }
       ]
     },
@@ -343,11 +365,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时16分]"
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 18时18分]"
         }
       ]
     }
