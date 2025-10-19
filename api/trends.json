@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T11:16:14.508752+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2025-10-19T12:21:09.537738+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 11时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 12时21分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 11时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 12时21分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
@@ -56,11 +56,12 @@
             13,
             15,
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 11时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 12时21分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
@@ -77,6 +78,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 11时16分]"
+        },
+        {
+          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
+          "url": "https://wallstreetcn.com/articles/3757427",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 12时21分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
@@ -131,16 +145,15 @@
           "time_info": "[02时22分 ~ 06时17分]"
         },
         {
-          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
-          "url": "https://wallstreetcn.com/articles/3757427",
-          "source": "华尔街见闻",
+          "title": "特朗普发AI视频挑衅抗议者",
+          "url": "https://flash.jin10.com/detail/20251019112407399800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 11时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
@@ -156,6 +169,42 @@
           "time_info": "[00时21分 ~ 04时18分]"
         },
         {
+          "title": "Andrej Karpathy最新万字采访：AGI还需10年，RL其实很糟糕，AGI不会导致经济大爆发",
+          "url": "https://wallstreetcn.com/articles/3757435",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 12时21分]"
+        },
+        {
+          "title": "为AI供电的“终极方案”？详解SMR（小型模块化核反应堆技术）",
+          "url": "https://wallstreetcn.com/articles/3757428",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 12时21分]"
+        },
+        {
+          "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
+          "url": "https://www.cls.cn/detail/2173607",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 12时21分]"
+        },
+        {
           "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
           "url": "https://wallstreetcn.com/livenews/2990064",
           "source": "华尔街见闻-快讯",
@@ -166,39 +215,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 03时13分]"
-        },
-        {
-          "title": "Andrej Karpathy最新万字采访：AGI还需10年，RL其实很糟糕，AGI不会导致经济大爆发",
-          "url": "https://wallstreetcn.com/articles/3757435",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
-        },
-        {
-          "title": "为AI供电的“终极方案”？详解SMR（小型模块化核反应堆技术）",
-          "url": "https://wallstreetcn.com/articles/3757428",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
-        },
-        {
-          "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
-          "url": "https://www.cls.cn/detail/2173607",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
         },
         {
           "title": "英伟达退出 国产AI芯片要崛起了吗",
@@ -226,8 +242,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 11时16分]"
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 12时21分]"
         }
       ]
     },
@@ -240,11 +256,12 @@
           "url": "https://flash.jin10.com/detail/20251019102338888800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时21分]"
         }
       ]
     },
