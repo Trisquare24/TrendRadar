@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T19:14:46.007039+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2025-10-19T20:32:15.817746+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时21分 ~ 19时14分]"
+          "appearance_count": 29,
+          "time_info": "[00时21分 ~ 20时32分]"
         },
         {
           "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时18分 ~ 19时14分]"
+          "appearance_count": 11,
+          "time_info": "[13时18分 ~ 20时32分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -116,6 +116,17 @@
           "time_info": "[09时23分 ~ 13时18分]"
         },
         {
+          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
+          "url": "https://news.ifeng.com/c/8na1AOphcs7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 20时32分]"
+        },
+        {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
           "url": "https://wallstreetcn.com/livenews/2990078",
           "source": "华尔街见闻-快讯",
@@ -142,8 +153,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时15分 ~ 19时14分]"
+          "appearance_count": 15,
+          "time_info": "[11时15分 ~ 20时32分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
@@ -170,17 +181,6 @@
           "time_info": "[00时21分 ~ 09时24分]"
         },
         {
-          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
-          "url": "https://news.ifeng.com/c/8na1AOphcs7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时14分]"
-        },
-        {
           "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
           "url": "https://wallstreetcn.com/livenews/2990073",
           "source": "华尔街见闻-快讯",
@@ -193,6 +193,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
+          "url": "https://wallstreetcn.com/articles/3757443",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时15分 ~ 20时32分]"
         },
         {
           "title": "为什么AI写的文章总有一股“AI味”",
@@ -237,16 +249,17 @@
           "time_info": "[12时21分 ~ 16时19分]"
         },
         {
-          "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
-          "url": "https://wallstreetcn.com/articles/3757443",
-          "source": "华尔街见闻",
+          "title": "特朗普发布AI视频向抗议者洒粪",
+          "url": "https://www.toutiao.com/trending/7562522819947511850/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            9
+            26,
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时15分 ~ 19时14分]"
+          "time_info": "[18时17分 ~ 20时32分]"
         },
         {
           "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
@@ -274,16 +287,15 @@
           "time_info": "[00时21分 ~ 03时13分]"
         },
         {
-          "title": "特朗普发布AI视频向抗议者洒粪",
-          "url": "https://www.toutiao.com/trending/7562522819947511850/",
-          "source": "今日头条",
+          "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
+          "source": "澎湃新闻",
           "ranks": [
-            26,
-            13
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 19时14分]"
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "英伟达退出 国产AI芯片要崛起了吗",
