@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T17:23:00.053413+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2025-10-20T18:21:24.551979+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
@@ -88,6 +88,18 @@
           "time_info": "[00时20分 ~ 09时21分]"
         },
         {
+          "title": "BLG无畏契约官宣bail离队",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时21分]"
+        },
+        {
           "title": "远景科技集团董事长张雷：未来能源企业核心竞争力，将是人工智能资产",
           "url": "https://wallstreetcn.com/livenews/2990192",
           "source": "华尔街见闻-快讯",
@@ -102,17 +114,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 05时15分]"
-        },
-        {
-          "title": "BLG无畏契约官宣bail离队",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "据美国科技资讯网站Tom's Hardware：微软(MSFT.O)已向英特尔下达其下一代AI芯片Maia2的晶圆代工订单，计划采用18A或18A-P制程。该芯片将用于微软Azure数据中心等AI基础设施。",
@@ -164,6 +165,17 @@
           "time_info": "[09时21分 ~ 11时15分]"
         },
         {
+          "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
+          "url": "https://wallstreetcn.com/articles/3757473",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时21分]"
+        },
+        {
           "title": "特朗普发布辣眼AI视频引争议",
           "url": "https://www.douyin.com/hot/2275568",
           "source": "抖音",
@@ -187,6 +199,18 @@
           "time_info": "[16时26分 ~ 17时22分]"
         },
         {
+          "title": "宇树王兴兴：AI和软件能力越来越强，对硬件的要求是越来越低的",
+          "url": "https://wallstreetcn.com/livenews/2990562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时21分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-20）",
           "url": "https://flash.jin10.com/detail/20251020115503116800",
           "source": "金十数据",
@@ -197,6 +221,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 13时19分]"
+        },
+        {
+          "title": "IBM(IBM.N)：IBM与GROQ合作，助力企业人工智能部署实现速度与规模的双重提升。",
+          "url": "https://flash.jin10.com/detail/20251020181126040800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "Blg大变天,功勋教练Bail卸任离队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345970&amp;topic_name=Blg%E5%A4%A7%E5%8F%98%E5%A4%A9%2C%E5%8A%9F%E5%8B%8B%E6%95%99%E7%BB%83Bail%E5%8D%B8%E4%BB%BB%E7%A6%BB%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
@@ -210,26 +256,26 @@
           "time_info": "11时15分"
         },
         {
-          "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
-          "url": "https://wallstreetcn.com/articles/3757473",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "宇树王兴兴：AI和软件能力越来越强，对硬件的要求是越来越低的",
-          "url": "https://wallstreetcn.com/livenews/2990562",
+          "title": "阿里夸克秘密开展“C计划”：涉对话式AI应用，或对标字节豆包",
+          "url": "https://wallstreetcn.com/livenews/2990582",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时22分"
+          "time_info": "18时21分"
+        },
+        {
+          "title": "国际铝业协会（IAI）：9月份全球原铝产量为608万吨。",
+          "url": "https://flash.jin10.com/detail/20251020180102311800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "中国AI的未来为何系于新疆",
@@ -257,7 +303,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "宇树科技发布H2人形机器人",
@@ -265,11 +311,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 17时22分]"
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 18时21分]"
         },
         {
           "title": "宇树科技发布H2仿生人形机器人",
@@ -281,8 +328,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 17时22分]"
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 18时21分]"
         },
         {
           "title": "宇树科技发布H2仿生机器人",
@@ -295,6 +342,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时26分 ~ 17时22分]"
+        },
+        {
+          "title": "明新旭腾：与上海清宝引擎机器人有限公司拟在上海共同投资设立旭清灵动（上海）具身智能科技有限公司，以开展灵巧手研发、制造及销售业务。",
+          "url": "https://wallstreetcn.com/livenews/2990589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "宇树科技发布H2仿生人形机器人",
@@ -322,18 +380,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI：所有受影响的服务现已完全恢复。",
+          "url": "https://flash.jin10.com/detail/20251020181236971800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
         {
           "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
           "url": "https://wallstreetcn.com/livenews/2990557",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时21分]"
         },
         {
           "title": "OpenAI：我们正面临“单点登录”（SSO）问题。",
@@ -342,7 +412,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -353,9 +423,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "OpenAI：正在观察受影响服务的恢复情况，我们正在密切关注。",
+          "url": "https://flash.jin10.com/detail/20251020174853570800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
