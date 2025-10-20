@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T14:33:22.042875+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2025-10-20T15:20:11.550263+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
@@ -50,11 +50,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 14时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 15时20分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -67,11 +68,12 @@
             16,
             17,
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 14时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 15时20分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -162,6 +164,17 @@
           "time_info": "[12时25分 ~ 13时19分]"
         },
         {
+          "title": "美国女子AI生成号码中10万美元彩票",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90AI%E7%94%9F%E6%88%90%E5%8F%B7%E7%A0%81%E4%B8%AD10%E4%B8%87%E7%BE%8E%E5%85%83%E5%BD%A9%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 15时20分]"
+        },
+        {
           "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
           "url": "https://wallstreetcn.com/articles/3757443",
           "source": "华尔街见闻",
@@ -196,9 +209,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 15时20分]"
         },
         {
           "title": "宇树科技发布H2仿生人形机器人",
@@ -207,9 +220,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 15时20分]"
         },
         {
           "title": "宇树科技发布H2仿生人形机器人",
@@ -218,7 +231,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
