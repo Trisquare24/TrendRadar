@@ -1,12 +1,28 @@
 {
-  "generated_at": "2025-10-21T19:20:57.043886+08:00",
-  "total_titles_processed": 1704,
+  "generated_at": "2025-10-21T20:36:41.607778+08:00",
+  "total_titles_processed": 1800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "AI时代需要什么样的程序员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813433",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            11,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时21分 ~ 20时36分]"
+        },
         {
           "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
           "url": "https://wallstreetcn.com/articles/3757473",
@@ -19,21 +35,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时22分 ~ 13时18分]"
-        },
-        {
-          "title": "AI时代需要什么样的程序员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31813433",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时21分 ~ 19时20分]"
         },
         {
           "title": "Blg大变天,功勋教练Bail卸任离队",
@@ -249,6 +250,17 @@
           "time_info": "17时21分"
         },
         {
+          "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31818525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "LG电子将与韩国航空宇宙产业（KAI）共同开发利用微型LED技术的下一代飞行模拟器。",
           "url": "https://flash.jin10.com/detail/20251021130635713800",
           "source": "金十数据",
@@ -298,8 +310,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时21分 ~ 19时20分]"
+          "appearance_count": 12,
+          "time_info": "[12时21分 ~ 20时36分]"
         },
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -328,8 +340,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时06分 ~ 19时20分]"
+          "appearance_count": 12,
+          "time_info": "[11时06分 ~ 20时36分]"
         },
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -341,8 +353,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 19时20分]"
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 20时36分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
