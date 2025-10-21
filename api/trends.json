@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T18:20:21.865559+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2025-10-21T19:20:57.043886+08:00",
+  "total_titles_processed": 1704,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 18时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 19时20分]"
         },
         {
           "title": "Blg大变天,功勋教练Bail卸任离队",
@@ -200,7 +200,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -288,6 +288,20 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
+          "url": "https://wallstreetcn.com/articles/3757530",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 19时20分]"
+        },
+        {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
           "url": "https://www.zhihu.com/question/1963642369963426172",
           "source": "知乎",
@@ -303,19 +317,6 @@
           "time_info": "[00时22分 ~ 11时07分]"
         },
         {
-          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
-          "url": "https://wallstreetcn.com/articles/3757530",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 18时20分]"
-        },
-        {
           "title": "DeepSeek新模型深度解读",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
@@ -327,8 +328,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时06分 ~ 18时20分]"
+          "appearance_count": 11,
+          "time_info": "[11时06分 ~ 19时20分]"
         },
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -340,8 +341,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 18时20分]"
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 19时20分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
@@ -677,7 +678,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         }
