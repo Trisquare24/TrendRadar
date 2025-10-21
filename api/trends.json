@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-10-22T02:25:46.876495+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2025-10-22T03:16:46.210230+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI时代需要什么样的程序员",
           "url": "https://m.thepaper.cn/newsDetail_forward_31813433",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
@@ -26,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
@@ -38,8 +39,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "iPhone Air评测",
@@ -51,8 +52,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "如何评价「AI 就是美国的城投」的观点？",
@@ -60,11 +61,23 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时16分]"
+        },
+        {
+          "title": "Veeam Software同意，按17亿美元收购Securiti AI。",
+          "url": "https://wallstreetcn.com/livenews/2991379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "Cohere Inc.首席执行官（CEO）Aidan Gomez称：很快将IPO。",
@@ -84,7 +97,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         }
@@ -102,8 +115,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -113,8 +126,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -122,11 +135,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            12
+            12,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
         },
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -135,11 +149,12 @@
           "ranks": [
             17,
             24,
-            25
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
         }
       ]
     },
@@ -177,7 +192,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -196,7 +211,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
@@ -208,12 +223,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "谷歌“登月工厂”将评估里约电网，为数据中心做准备",
+          "url": "https://wallstreetcn.com/livenews/2991386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         }
       ]
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "产量激增1.2倍！机器人核心部件国产化高歌猛进",
@@ -221,11 +247,23 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "广州机器人企业在广交会上意向成交超千万美元",
+          "url": "https://wallstreetcn.com/livenews/2991374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         }
       ]
     }
