@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T16:24:19.159798+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2025-10-24T17:19:37.348209+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时00分 ~ 16时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时00分 ~ 17时19分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -95,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "据日经新闻：日本与美国将就人工智能和下一代电信标准达成合作共识。",
+          "url": "https://flash.jin10.com/detail/20251024170315281800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "摩根大通：韩国Kospi股指在牛市行情下“更有可能”达到5000点。 AI和企业改革措施有望为这样的预期带来尾部风险。",
@@ -161,11 +172,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 16时24分]"
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 17时19分]"
         },
         {
           "title": "阴和俊：将继续加强基础研究和关键核心技术攻关，夯实人工智能发展技术根基",
@@ -350,7 +362,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -403,7 +415,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
@@ -432,8 +444,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时22分 ~ 16时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时22分 ~ 17时19分]"
         },
         {
           "title": "王兴兴回应新款机器人长得吓人",
@@ -454,9 +466,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "京东独家首发万元机器人",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E7%8B%AC%E5%AE%B6%E9%A6%96%E5%8F%91%E4%B8%87%E5%85%83%E6%9C%BA%E5%99%A8%E4%BA%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26cate%3D5001%26realpos%3D30%26pos%3D30%26stream_entry_id%3D31%26lcate%3D5001%26c_type%3D31%26filter_type%3Drealtimehot%26flag%3D1%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E7%258B%25AC%25E5%25AE%25B6%25E9%25A6%2596%25E5%258F%2591%25E4%25B8%2587%25E5%2585%2583%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%2523%26band_rank%3D30%26display_time%3D1761297551%26pre_seqid%3D1761297550985032710853",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "宇树机器人翻跳权志龙POWER",
@@ -494,7 +517,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
