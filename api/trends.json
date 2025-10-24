@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T20:37:11.374132+08:00",
-  "total_titles_processed": 1905,
+  "generated_at": "2025-10-24T21:29:16.598430+08:00",
+  "total_titles_processed": 2003,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             10,
             16,
             6,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时00分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时00分 ~ 21时29分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -85,6 +86,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时16分 ~ 15时17分]"
+        },
+        {
+          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
+          "url": "https://wallstreetcn.com/articles/3757782",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时19分 ~ 21时29分]"
         },
         {
           "title": "380亿美元创AI债务融资新纪录 甲骨文数据中心获史诗级输血",
@@ -155,18 +168,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时00分 ~ 11时37分]"
-        },
-        {
-          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
-          "url": "https://wallstreetcn.com/articles/3757782",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 20时37分]"
         },
         {
           "title": "美国银行CTO Gopalkrishnan：Agentic AI可以“重型举重”。 大规模的AI产能积压将带来丰收。",
