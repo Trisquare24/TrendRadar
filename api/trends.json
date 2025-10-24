@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T15:17:07.981520+08:00",
-  "total_titles_processed": 1391,
+  "generated_at": "2025-10-24T16:24:19.159798+08:00",
+  "total_titles_processed": 1510,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,21 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时22分 ~ 09时12分]"
+        },
+        {
+          "title": "AI续写你的名字",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2,
+            10,
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时00分 ~ 16时24分]"
         },
         {
           "title": "UP主手搓AI眼镜",
@@ -58,20 +73,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时22分 ~ 09时12分]"
-        },
-        {
-          "title": "AI续写你的名字",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            2,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时00分 ~ 15时17分]"
         },
         {
           "title": "中共中央权威解读四中全会：未来10年将再造一个中国高技术产业，深入实施“人工智能+”行动",
@@ -155,6 +156,18 @@
           "time_info": "[05时16分 ~ 06时17分]"
         },
         {
+          "title": "iPhone Air 国行版发售，官网已无现货，平台最高溢价 500 元，其产品力怎样？值得入手吗？",
+          "url": "https://www.zhihu.com/question/1964293577816408687",
+          "source": "知乎",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 16时24分]"
+        },
+        {
           "title": "阴和俊：将继续加强基础研究和关键核心技术攻关，夯实人工智能发展技术根基",
           "url": "https://wallstreetcn.com/livenews/2993035",
           "source": "华尔街见闻-快讯",
@@ -177,17 +190,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时17分]"
-        },
-        {
-          "title": "iPhone Air 国行版发售，官网已无现货，平台最高溢价 500 元，其产品力怎样？值得入手吗？",
-          "url": "https://www.zhihu.com/question/1964293577816408687",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 15时17分]"
         },
         {
           "title": "美法官承认：使用人工智能导致法院裁决出错",
@@ -325,7 +327,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
@@ -340,6 +342,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时11分 ~ 15时17分]"
+        },
+        {
+          "title": "Anthropic将使用价值数百亿美元的谷歌AI芯片，Alphabet(GOOG.O)盘前上涨1%。",
+          "url": "https://flash.jin10.com/detail/20251024160713714800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "Anthropic确认，与谷歌公司达成的云协议价值数十亿美元。 谷歌云协议包括100万TPUs和到2026年增加超过1 GW算力。",
@@ -390,7 +403,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
@@ -415,11 +428,12 @@
             27,
             30,
             20,
-            28
+            28,
+            15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 15时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 16时24分]"
         },
         {
           "title": "王兴兴回应新款机器人长得吓人",
@@ -434,6 +448,17 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
+          "title": "智元发布「灵创」平台，0 代码、0 门槛训练机器人",
+          "url": "https://wallstreetcn.com/livenews/2993206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "宇树机器人翻跳权志龙POWER",
           "url": "https://www.douyin.com/hot/2280704",
           "source": "抖音",
@@ -443,6 +468,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "但斌最新美股持仓曝光：首度建仓阿里、博通，英伟达仍为第一大重仓股",
+          "url": "https://wallstreetcn.com/livenews/2992993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 12时22分]"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.74%，重回26000点上方，恒生科技指数收涨1.82%。半导体、科技股多数走高，华虹半导体涨超13%，中芯国际涨超8%，地平线机器人涨超6%，阿里巴巴涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/2993207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.66%，报6339.27点。 热门中概股里，美团涨5.4%，文远知行、阿里巴巴至少涨3.6%，百度、拼多多、腾讯、京东、小米至少涨超2.1%，理想、网易、百胜中国至多涨1.9%。 ETF中，富时中国3倍做多ETF（YINN）收涨5.12%，中概互联网指数ETF（KWEB）收涨2.05%，中国科技指数ETF（CQQQ）收涨1.10%。 追踪富时25中国股指数ETF-iShares（FXI）收涨1.69%，德银嘉实沪深300指数ETF（ASHR）收涨0.89%，XtrackersHarvest中证50（ASHS）收涨0.88%。",
+          "url": "https://wallstreetcn.com/livenews/2992746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "中概指数收涨超1.6%，KWEB涨2%，阿里与世纪互联至少涨超3.5%",
+          "url": "https://wallstreetcn.com/livenews/2992746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
@@ -486,46 +562,6 @@
       ]
     },
     {
-      "keyword_group": "阿里 Qwen",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "但斌最新美股持仓曝光：首度建仓阿里、博通，英伟达仍为第一大重仓股",
-          "url": "https://wallstreetcn.com/livenews/2992993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 12时22分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.66%，报6339.27点。 热门中概股里，美团涨5.4%，文远知行、阿里巴巴至少涨3.6%，百度、拼多多、腾讯、京东、小米至少涨超2.1%，理想、网易、百胜中国至多涨1.9%。 ETF中，富时中国3倍做多ETF（YINN）收涨5.12%，中概互联网指数ETF（KWEB）收涨2.05%，中国科技指数ETF（CQQQ）收涨1.10%。 追踪富时25中国股指数ETF-iShares（FXI）收涨1.69%，德银嘉实沪深300指数ETF（ASHR）收涨0.89%，XtrackersHarvest中证50（ASHS）收涨0.88%。",
-          "url": "https://wallstreetcn.com/livenews/2992746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "中概指数收涨超1.6%，KWEB涨2%，阿里与世纪互联至少涨超3.5%",
-          "url": "https://wallstreetcn.com/livenews/2992746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "字节 Kimi 豆包",
       "match_count": 2,
       "titles": [
@@ -541,11 +577,12 @@
             23,
             24,
             26,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 15时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 16时24分]"
         },
         {
           "title": "豆包和夸克吵起来了",
