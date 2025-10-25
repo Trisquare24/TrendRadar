@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T13:17:27.359030+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2025-10-25T14:23:18.505937+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 13时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 14时23分]"
         },
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -45,6 +45,18 @@
           "time_info": "[02时25分 ~ 09时14分]"
         },
         {
+          "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
+          "url": "https://wallstreetcn.com/articles/3757873",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 14时23分]"
+        },
+        {
           "title": "AI时代的国际教育选择",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%9B%BD%E9%99%85%E6%95%99%E8%82%B2%E9%80%89%E6%8B%A9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523AI%25E6%2597%25B6%25E4%25BB%25A3%25E7%259A%2584%25E5%259B%25BD%25E9%2599%2585%25E6%2595%2599%25E8%2582%25B2%25E9%2580%2589%25E6%258B%25A9%2523%26dgr%3D0%26band_rank%3D19%26stream_entry_id%3D31%26realpos%3D19%26flag%3D1%26c_type%3D31%26lcate%3D5001%26pos%3D19%26cate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1761363308%26pre_seqid%3D1761363308846032827883",
           "source": "微博",
@@ -57,28 +69,17 @@
           "time_info": "[11时38分 ~ 12时20分]"
         },
         {
-          "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
-          "url": "https://wallstreetcn.com/articles/3757873",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 13时17分]"
-        },
-        {
           "title": "美国总统特朗普：我们在人工智能领域引领所有人。",
           "url": "https://flash.jin10.com/detail/20251025115711896800",
           "source": "金十数据",
           "ranks": [
             6,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时23分]"
         },
         {
           "title": "据华尔街日报：南卡罗来纳州大型电力供应商Santee Coope正就出售两座闲置核反应堆与布鲁克菲尔德资产管理公司（Brookfield Asset Management）进行深入谈判，这些反应堆可为支撑人工智能热潮的数据中心供电。",
@@ -92,6 +93,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
+          "url": "https://www.cls.cn/detail/2180505",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "高盛：对冲基金对AI投资敞口达到近9年来新高 押注亚股和美股将上涨",
           "url": "https://www.cls.cn/detail/2180012",
           "source": "财联社热门",
@@ -101,6 +113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "前三季度广西工业人工智能核心产值同比增长超60%",
+          "url": "https://flash.jin10.com/detail/20251025130119719800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "英国央行：AI估值已将一些美国股指的估值倍数推至互联网泡沫顶峰时的水平",
@@ -172,8 +195,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 13时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 14时23分]"
+        },
+        {
+          "title": "多省市前三季度GDP增长亮眼 机器人“立功”",
+          "url": "https://www.cls.cn/detail/2180504",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 14时23分]"
         },
         {
           "title": "京东物流：将采购300万台机器人、100万台无人车、10万架无人机",
@@ -183,24 +220,12 @@
             2,
             4,
             8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时02分 ~ 13时17分]"
-        },
-        {
-          "title": "多省市前三季度GDP增长亮眼 机器人“立功”",
-          "url": "https://www.cls.cn/detail/2180504",
-          "source": "财联社热门",
-          "ranks": [
             9,
-            7,
-            6
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时38分 ~ 13时17分]"
+          "time_info": "[11时02分 ~ 14时23分]"
         }
       ]
     },
@@ -219,11 +244,12 @@
             15,
             17,
             21,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时18分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[06时18分 ~ 14时23分]"
         },
         {
           "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
