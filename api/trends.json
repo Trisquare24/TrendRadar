@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T12:20:02.786473+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2025-10-25T13:17:27.359030+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 12时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 13时17分]"
         },
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -61,11 +61,24 @@
           "url": "https://wallstreetcn.com/articles/3757873",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 13时17分]"
+        },
+        {
+          "title": "美国总统特朗普：我们在人工智能领域引领所有人。",
+          "url": "https://flash.jin10.com/detail/20251025115711896800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "time_info": "[12时20分 ~ 13时17分]"
         },
         {
           "title": "据华尔街日报：南卡罗来纳州大型电力供应商Santee Coope正就出售两座闲置核反应堆与布鲁克菲尔德资产管理公司（Brookfield Asset Management）进行深入谈判，这些反应堆可为支撑人工智能热潮的数据中心供电。",
@@ -77,17 +90,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "美国总统特朗普：我们在人工智能领域引领所有人。",
-          "url": "https://flash.jin10.com/detail/20251025115711896800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "高盛：对冲基金对AI投资敞口达到近9年来新高 押注亚股和美股将上涨",
@@ -170,8 +172,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 12时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时21分 ~ 13时17分]"
         },
         {
           "title": "京东物流：将采购300万台机器人、100万台无人车、10万架无人机",
@@ -180,11 +182,12 @@
           "ranks": [
             2,
             4,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 13时17分]"
         },
         {
           "title": "多省市前三季度GDP增长亮眼 机器人“立功”",
@@ -192,11 +195,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 12时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 13时17分]"
         }
       ]
     },
@@ -214,11 +218,12 @@
             10,
             15,
             17,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时18分 ~ 12时20分]"
+          "appearance_count": 7,
+          "time_info": "[06时18分 ~ 13时17分]"
         },
         {
           "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
