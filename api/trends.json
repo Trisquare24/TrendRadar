@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T20:30:49.934079+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2025-10-25T21:23:25.103830+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时19分 ~ 20时30分]"
+          "appearance_count": 11,
+          "time_info": "[12时19分 ~ 21时23分]"
         },
         {
           "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
@@ -57,8 +57,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时23分 ~ 20时30分]"
+          "appearance_count": 8,
+          "time_info": "[14时23分 ~ 21时23分]"
         },
         {
           "title": "AI续写你的名字",
@@ -81,11 +81,12 @@
             4,
             10,
             21,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 20时30分]"
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 21时23分]"
         },
         {
           "title": "AI时代的国际教育选择",
@@ -113,6 +114,19 @@
           "time_info": "[12时20分 ~ 14时23分]"
         },
         {
+          "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
+          "url": "https://wallstreetcn.com/livenews/2993677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时23分]"
+        },
+        {
           "title": "前三季度广西工业人工智能核心产值同比增长超60%",
           "url": "https://flash.jin10.com/detail/20251025130119719800",
           "source": "金十数据",
@@ -124,18 +138,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时23分 ~ 16时21分]"
-        },
-        {
-          "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
-          "url": "https://wallstreetcn.com/livenews/2993677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时30分]"
         },
         {
           "title": "据华尔街日报：南卡罗来纳州大型电力供应商Santee Coope正就出售两座闲置核反应堆与布鲁克菲尔德资产管理公司（Brookfield Asset Management）进行深入谈判，这些反应堆可为支撑人工智能热潮的数据中心供电。",
@@ -200,8 +202,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时38分 ~ 20时30分]"
+          "appearance_count": 13,
+          "time_info": "[11时38分 ~ 21时23分]"
         },
         {
           "title": "京东物流：未来5年拟采购300万台机器人、100万台无人车和10万架无人机",
@@ -245,19 +247,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时30分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时23分]"
         },
         {
           "title": "火热！定价9998元，3小时卖出200台！全球首款万元以下“高性能”人形机器人，身高仅94厘米，体重约12千克",
           "url": "https://wallstreetcn.com/articles/3757894",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时30分]"
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时23分]"
         }
       ]
     },
