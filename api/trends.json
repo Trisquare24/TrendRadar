@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T07:18:02.116172+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2025-10-25T09:14:29.900136+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3757786",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时14分]"
         },
         {
           "title": "AI续写你的名字",
@@ -35,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             29,
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时25分 ~ 07时18分]"
+          "appearance_count": 7,
+          "time_info": "[02时25分 ~ 09时14分]"
         },
         {
           "title": "据华尔街日报：南卡罗来纳州大型电力供应商Santee Coope正就出售两座闲置核反应堆与布鲁克菲尔德资产管理公司（Brookfield Asset Management）进行深入谈判，这些反应堆可为支撑人工智能热潮的数据中心供电。",
@@ -97,11 +99,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时18分]"
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 09时14分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.27%，报8361.90点，本周累计上涨2.40%。 热门中概股里，文远知行涨4.6%，小马智行涨3.5%，百度、台积电、阿里巴巴涨超1.4%。 ETF中，中国科技指数ETF（CQQQ）收涨2.41%，中概互联网指数ETF（KWEB）收涨0.74%。 XtrackersHarvest中证50（ASHS）收涨1.51%，德银嘉实沪深300指数ETF（ASHR）收涨1.19%，富时中国3倍做多ETF（YINN）收涨0.95%，中国ETF-iShares MSCI（MCHI）收涨0.62%，追踪富时25中国股指数ETF-iShares（FXI）收涨0.36%。 本周，CQQQ反弹4.07%，ASHS反弹3.07%，KWEB涨2.73%，ASHR涨2.76%。",
@@ -127,11 +130,12 @@
           "ranks": [
             7,
             14,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时18分]"
+          "appearance_count": 4,
+          "time_info": "[05时16分 ~ 09时14分]"
         }
       ]
     },
@@ -145,11 +149,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时18分]"
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 09时14分]"
         }
       ]
     },
@@ -164,11 +169,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 09时14分]"
         }
       ]
     }
