@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T21:24:08.282559+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2025-10-26T22:16:28.471072+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
@@ -92,8 +92,21 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 22时16分]"
+        },
+        {
+          "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
+          "url": "https://wallstreetcn.com/articles/3757917",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时14分 ~ 21时24分]"
+          "time_info": "[20时32分 ~ 22时16分]"
         },
         {
           "title": "华为Mate 70 Air超薄设计曝光",
@@ -122,16 +135,16 @@
           "time_info": "[13时17分 ~ 18时16分]"
         },
         {
-          "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
-          "url": "https://wallstreetcn.com/articles/3757917",
-          "source": "华尔街见闻",
+          "title": "AI把玉米片判为枪惊动八辆美国警车",
+          "url": "https://www.baidu.com/s?wd=AI%E6%8A%8A%E7%8E%89%E7%B1%B3%E7%89%87%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            9
+            18,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时32分 ~ 21时24分]"
+          "time_info": "[21时23分 ~ 22时16分]"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：预计发达经济体60%的就业机会受到人工智能的影响。",
@@ -158,15 +171,26 @@
           "time_info": "[09时20分 ~ 11时10分]"
         },
         {
-          "title": "AI把玉米片判为枪惊动八辆美国警车",
-          "url": "https://www.baidu.com/s?wd=AI%E6%8A%8A%E7%8E%89%E7%B1%B3%E7%89%87%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6",
-          "source": "百度热搜",
+          "title": "GAI周延沧海一声笑",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E5%91%A8%E5%BB%B6%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91",
+          "source": "bilibili 热搜",
           "ranks": [
-            18
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时23分 ~ 21时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
+          "url": "https://www.cls.cn/detail/2180802",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "巴克莱首席执行官：人工智能领域存在资本，因为人们看到了从中获得的回报，虽然会出现资源配置不当的情况，但这种情况在每个周期都会发生。",
@@ -276,11 +300,12 @@
           "ranks": [
             11,
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 21时24分]"
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 22时16分]"
         }
       ]
     },
