@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T05:16:22.672403+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2025-10-27T06:17:09.700952+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
@@ -28,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -39,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "GAI周延沧海一声笑",
@@ -53,8 +54,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -64,8 +65,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "AI把玉米片判为枪惊动八辆美国警车",
@@ -93,8 +94,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时17分]"
         }
       ]
     }
