@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T14:29:05.490871+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2025-10-27T15:20:14.387275+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -85,8 +85,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 14时29分]"
+          "appearance_count": 8,
+          "time_info": "[11时19分 ~ 15时20分]"
+        },
+        {
+          "title": "沙特AI公司Humain首席执行官：Humain搜索和Humain视觉将于本周推出。",
+          "url": "https://flash.jin10.com/detail/20251027145436636800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "蚂蚁集团投资AI科技硬件公司艾德未来智能",
@@ -193,8 +204,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 15时20分]"
+        },
+        {
+          "title": "阿里前CEO张勇购入香港半山豪宅",
+          "url": "https://www.toutiao.com/trending/7564604284818505764/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 15时20分]"
         },
         {
           "title": "阿里前CEO张勇购入香港半山豪宅",
@@ -208,18 +232,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时23分 ~ 13时19分]"
-        },
-        {
-          "title": "阿里前CEO张勇购入香港半山豪宅",
-          "url": "https://www.toutiao.com/trending/7564604284818505764/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 14时29分]"
         },
         {
           "title": "部分中概股在美股夜盘走高，阿里巴巴(BABA.N)和百度(BIDU.O)均涨3%，理想汽车(LI.O)、小鹏汽车(XPEV.N)和哔哩哔哩(BILI.O)涨超2%，",
