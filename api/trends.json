@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T04:17:44.117534+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2025-10-28T05:16:48.497543+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特斯拉在虚拟世界训练AI司机",
@@ -16,19 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时17分]"
-        },
-        {
-          "title": "英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心",
-          "url": "https://flash.jin10.com/detail/20251028034031282800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时16分]"
         },
         {
           "title": "AI大电影葫芦兄弟",
@@ -41,8 +30,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时16分]"
         },
         {
           "title": "高通推出人工智能芯片后股价大涨20%",
@@ -50,11 +39,24 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 05时16分]"
+        },
+        {
+          "title": "英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心",
+          "url": "https://flash.jin10.com/detail/20251028034031282800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 05时16分]"
         },
         {
           "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
@@ -67,6 +69,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 03时15分]"
+        },
+        {
+          "title": "AI初创公司Mercor按100亿美元估值融资3.5亿美元",
+          "url": "https://wallstreetcn.com/livenews/2994508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 05时16分]"
         },
         {
           "title": "扎克伯格任命元宇宙业务前主管推进AI战略",
@@ -93,6 +107,17 @@
           "time_info": "[02时59分 ~ 03时15分]"
         },
         {
+          "title": "周一（10月27日），降息赢家指数涨0.40%，报99.06点，全天呈现出平坦的V形反转。 成分股Cadence银行、Wayfair、RH涨4.38%-4.02%领跑，SoFi Technologies股份涨3.41%紧随其后。 俄亥俄州亨廷顿银行控股则收跌2.68%跌幅第三大，福特汽车跌4.19%，哈雷戴维森跌4.36%。",
+          "url": "https://wallstreetcn.com/livenews/2994535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
           "title": "路孚特宣布与Anthropic开展合作，并称这是路孚特人工智能战略中的最大里程碑。",
           "url": "https://flash.jin10.com/detail/20251028000308659800",
           "source": "金十数据",
@@ -102,17 +127,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        },
-        {
-          "title": "AI初创公司Mercor按100亿美元估值融资3.5亿美元",
-          "url": "https://wallstreetcn.com/livenews/2994508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时17分"
         },
         {
           "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
@@ -151,7 +165,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "标普500指数初步收涨1.2%，电信板块涨约2.4%，科技板块涨2%，可选消费板块涨1.6%，能源板块涨0.3%。 纳斯达克100指数初步收涨1.8%，成分股中，高通初步收涨约11%，KDP涨7.7%，拉美电商MercadoLibre涨5.5%，迈威尔科技、Arm控股、特斯拉、安森美半导体、Applovin、拉姆研究、谷歌A至少涨约3.5%，Diamondback Energy则收跌1.1%，贝克休斯跌1.2%，Workday和ORLY跌1.6%，Roper Technologies跌3.5%。 英伟达收涨大约2.7%，苹果涨2.3%，微软和IBM涨约1.5%，领跑道指成分股，耐克与沃尔玛则至少跌约0.9%。",
@@ -160,7 +174,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
         },
@@ -212,12 +226,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 03时15分]"
+        },
+        {
+          "title": "NextEra Energy（公告确认）与谷歌公司在核能领域合作。",
+          "url": "https://wallstreetcn.com/livenews/2994532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨4.3%，谷歌涨3.6%，英伟达和苹果也涨超2%",
+          "url": "https://wallstreetcn.com/livenews/2994531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         }
       ]
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨大约1.6%。 热门中概股里，小马智行涨6.5%，小鹏涨6.4%，百度涨4.8%，京东涨3%，腾讯、拼多多、阿里巴巴、蔚来汽车涨超2%，百胜中国则跌0.6%，理想跌1.8%。 ETF中，YINN初步收涨3.6%，CQQQ涨2.4%，KWEB涨1.9%。",
@@ -226,9 +262,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.59%，报8494.48点。 热门中概股里，小马智行涨6.5%，小鹏涨6.4%，百度涨4.8%，京东涨3%，腾讯、拼多多、阿里巴巴、蔚来汽车涨超2%，百胜中国则跌0.6%，理想跌1.8%。 ETF中，中国科技指数ETF（CQQQ）收涨2.46%，中概互联网指数ETF（KWEB）收涨1.92%。 XtrackersHarvest中证50（ASHS）收涨1.71%，中国ETF-iShares MSCI（MCHI）收涨1.67%，德银嘉实沪深300指数ETF（ASHR）收涨1.27%。 富时中国3倍做多ETF（YINN）收涨3.82%，追踪富时25中国股指数ETF-iShares（FXI）收涨1.31%。",
+          "url": "https://wallstreetcn.com/livenews/2994517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "阿里前CEO张勇购香港豪宅是何操作",
@@ -240,6 +287,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
+          "url": "https://flash.jin10.com/detail/20251028045401357800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         }
       ]
     }
