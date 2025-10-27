@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T15:20:14.387275+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2025-10-27T16:34:48.534882+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
@@ -82,11 +82,12 @@
             15,
             19,
             16,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时19分 ~ 15时20分]"
+          "appearance_count": 9,
+          "time_info": "[11时19分 ~ 16时34分]"
         },
         {
           "title": "沙特AI公司Humain首席执行官：Humain搜索和Humain视觉将于本周推出。",
@@ -95,7 +96,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -204,8 +205,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时23分 ~ 15时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时23分 ~ 16时34分]"
         },
         {
           "title": "阿里前CEO张勇购入香港半山豪宅",
