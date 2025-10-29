@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T13:18:19.081115+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2025-10-29T14:27:21.602042+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 14时27分]"
         },
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时17分 ~ 13时18分]"
+          "appearance_count": 11,
+          "time_info": "[05时17分 ~ 14时27分]"
         },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -54,6 +54,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
+          "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
+          "url": "https://wallstreetcn.com/articles/3758074",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时21分 ~ 14时27分]"
         },
         {
           "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
@@ -78,6 +90,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "沙特阿美战略执行副总裁：天然气正定位为推动与人工智能相关需求增长的关键助力。",
+          "url": "https://flash.jin10.com/detail/20251029141540666800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "英伟达(NVDA.O)：美国各领域企业，包括服务器制造商、云服务提供商、模型构建者、技术供应商和企业，正在投资先进的AI基础设施。",
           "url": "https://flash.jin10.com/detail/20251029005944952800",
           "source": "金十数据",
@@ -89,16 +112,17 @@
           "time_info": "01时18分"
         },
         {
-          "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
-          "url": "https://wallstreetcn.com/articles/3758074",
-          "source": "华尔街见闻",
+          "title": "黄仁勋坚称AI热潮并未泡沫，携全新合作伙伴进军各大前沿领域！",
+          "url": "https://www.cls.cn/detail/2184178",
+          "source": "财联社热门",
           "ranks": [
+            8,
             7,
             6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时21分 ~ 13时18分]"
+          "time_info": "[11时14分 ~ 14时27分]"
         },
         {
           "title": "英伟达(NVDA.O)：为美国能源部下属阿尔贡与洛斯阿拉莫斯国家实验室提供AI基础设施，加速七套新型计算系统研发进程，推动科学研究与技术创新。",
@@ -145,17 +169,17 @@
           "time_info": "02时28分"
         },
         {
-          "title": "黄仁勋坚称AI热潮并未泡沫，携全新合作伙伴进军各大前沿领域！",
-          "url": "https://www.cls.cn/detail/2184178",
+          "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
+          "url": "https://www.cls.cn/detail/2184173",
           "source": "财联社热门",
           "ranks": [
-            8,
-            7,
-            6
+            11,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时14分 ~ 14时27分]"
         },
         {
           "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
@@ -180,19 +204,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时20分]"
-        },
-        {
-          "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
-          "url": "https://www.cls.cn/detail/2184173",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 13时18分]"
         },
         {
           "title": "苹果计划在MacBook Air和iPad产品线升级显示屏，iPad mini或将涨价100美元",
@@ -288,6 +299,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "商务部等5部门：完善智能导引、精准营销、云上购物、沉浸体验等智慧商业新模式，推广一批“人工智能+消费”场景",
+          "url": "https://wallstreetcn.com/livenews/2995646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "Zoom(ZM.O)的联合人工智能平台借助英伟达(NVDA.O)Nemotron模型实现扩展，让每家企业的人工智能更加快速、更加智能。",
           "url": "https://flash.jin10.com/detail/20251029024236289800",
           "source": "金十数据",
@@ -319,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "老年人需要 AI 吗？当未来已来，我们能为长辈做些什么小事？",
+          "url": "https://www.zhihu.com/question/1961814182115632287",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-29）",
@@ -670,8 +703,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时14分 ~ 14时27分]"
         },
         {
           "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
@@ -766,7 +799,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -802,6 +835,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "罗永浩",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "罗永浩深度对谈贾樟柯",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%B7%B1%E5%BA%A6%E5%AF%B9%E8%B0%88%E8%B4%BE%E6%A8%9F%E6%9F%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时27分]"
+        },
+        {
+          "title": "罗永浩深度对谈贾樟柯",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%B7%B1%E5%BA%A6%E5%AF%B9%E8%B0%88%E8%B4%BE%E6%A8%9F%E6%9F%AF",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "罗永浩把贾樟柯聊哭了",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%8A%8A%E8%B4%BE%E6%A8%9F%E6%9F%AF%E8%81%8A%E5%93%AD%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         }
       ]
     },
@@ -862,34 +935,6 @@
       ]
     },
     {
-      "keyword_group": "罗永浩",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "罗永浩深度对谈贾樟柯",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%B7%B1%E5%BA%A6%E5%AF%B9%E8%B0%88%E8%B4%BE%E6%A8%9F%E6%9F%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "罗永浩把贾樟柯聊哭了",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%8A%8A%E8%B4%BE%E6%A8%9F%E6%9F%AF%E8%81%8A%E5%93%AD%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "GitHub github",
       "match_count": 1,
       "titles": [
@@ -919,11 +964,12 @@
           "ranks": [
             13,
             7,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时21分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[09时21分 ~ 14时27分]"
         }
       ]
     },
@@ -942,8 +988,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 14时27分]"
         }
       ]
     }
