@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T14:25:51.500663+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2025-10-30T15:18:52.160403+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时28分 ~ 14时25分]"
+          "appearance_count": 12,
+          "time_info": "[04时28分 ~ 15时18分]"
         },
         {
           "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
@@ -135,11 +135,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 14时25分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 15时18分]"
         },
         {
           "title": "微软(MSFT.O)CEO：今年将把公司的整体人工智能能力提高超过80%。",
@@ -212,6 +213,39 @@
           "time_info": "07时21分"
         },
         {
+          "title": "日本央行行长植田和男：但如果人工智能的预期未能实现，可能会出现一些调整。",
+          "url": "https://flash.jin10.com/detail/20251030145623991800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "日本央行行长植田和男：食品通胀的临时因素仍然很大。 预计大米价格增速将放缓。 如果AI预期令人失望，将会有调整。 消费者信心略有改善。 无法确定中性利率。 贸易政策、海外经济的不确定性仍在继续。 观察企业对明年工资谈判的立场。",
+          "url": "https://wallstreetcn.com/livenews/2996546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "日本央行行长植田和男：人工智能推动当前繁荣，预计生产将增加。",
+          "url": "https://flash.jin10.com/detail/20251030145453126800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "Meta警告称：可能会加大开支来支持人工智能（AI）繁荣。",
           "url": "https://wallstreetcn.com/livenews/2996222",
           "source": "华尔街见闻-快讯",
@@ -234,6 +268,17 @@
           "time_info": "11时09分"
         },
         {
+          "title": "日本央行行长植田和男：需要与政府保持密切沟通。 政府官员在每次日本央行会议上都发表意见。 目前还没有足够的材料来预测下一次工资谈判的结果。 想看看制造业、汽车业的工资趋势。 美国经济目前表现强劲。 AI影响强劲，而关税影响显现缓慢。 自4月份以来，我们面临的下行风险有所减弱。 不就贝森特的言论发表评论。 希望再评估一下数据。",
+          "url": "https://wallstreetcn.com/livenews/2996540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "三星电子：第三季度芯片业务营业利润达7万亿韩元。 2026年将重点研发HBM4处理器。 受第四季度人工智能投资持续增长推动，半导体市场预计将保持强劲。 2025年第四季度，晶圆代工业务将力争持续提升盈利能力。 向所有客户销售HBM3E芯片。 在美国的泰勒晶圆工厂将于2026年开始运营。",
           "url": "https://wallstreetcn.com/livenews/2996306",
           "source": "华尔街见闻-快讯",
@@ -243,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "央行科技司副司长周祥昆：加快落实出台“人工智能+金融”的相关政策文件",
+          "url": "https://wallstreetcn.com/livenews/2996531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "三星电子：由于第四季度人工智能投资势头持续，预计半导体市场将保持强劲。",
@@ -464,11 +520,12 @@
           "ranks": [
             9,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 14时25分]"
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 15时18分]"
         },
         {
           "title": "OpenAI计划于2027年上市",
