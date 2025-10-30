@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T18:20:55.992730+08:00",
-  "total_titles_processed": 1488,
+  "generated_at": "2025-10-30T19:15:29.140915+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[04时28分 ~ 18时20分]"
+          "appearance_count": 17,
+          "time_info": "[04时28分 ~ 19时15分]"
         },
         {
           "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
@@ -277,7 +277,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -553,17 +553,6 @@
           "time_info": "[09时18分 ~ 16时23分]"
         },
         {
-          "title": "OpenAI计划于2027年上市",
-          "url": "https://www.douyin.com/hot/2288033",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时18分 ~ 13时18分]"
-        },
-        {
           "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
           "url": "https://www.cls.cn/detail/2185897",
           "source": "财联社热门",
@@ -573,8 +562,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 18时20分]"
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 19时15分]"
+        },
+        {
+          "title": "OpenAI计划于2027年上市",
+          "url": "https://www.douyin.com/hot/2288033",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时18分 ~ 13时18分]"
         },
         {
           "title": "微软因投资OpenAI而面临31亿美元冲击。",
@@ -619,7 +619,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
