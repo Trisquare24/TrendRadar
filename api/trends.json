@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T11:09:55.942280+08:00",
-  "total_titles_processed": 752,
+  "generated_at": "2025-10-30T12:20:29.235723+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时28分 ~ 07时21分]"
+        },
+        {
+          "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31533770",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时28分 ~ 12时20分]"
         },
         {
           "title": "外交部回应黄仁勋AI芯片言论",
@@ -32,16 +45,15 @@
           "time_info": "[04时28分 ~ 09时19分]"
         },
         {
-          "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31533770",
-          "source": "澎湃新闻",
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-30）",
+          "url": "https://flash.jin10.com/detail/20251030120122104800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时28分 ~ 11时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "美国商务部长卢特尼克：韩国2000亿美元对美投资将用于阿拉斯加天然气项目及人工智能。",
@@ -91,6 +103,19 @@
           "time_info": "[04时29分 ~ 06时22分]"
         },
         {
+          "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
+          "url": "https://www.cls.cn/detail/2185393",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 12时20分]"
+        },
+        {
           "title": "微软(MSFT.O)CEO：旗下产品中的人工智能功能月度活跃用户已达到9亿。",
           "url": "https://flash.jin10.com/detail/20251030054121006800",
           "source": "金十数据",
@@ -101,18 +126,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
-        },
-        {
-          "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
-          "url": "https://www.cls.cn/detail/2185393",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 11时09分]"
         },
         {
           "title": "微软(MSFT.O)CEO：今年将把公司的整体人工智能能力提高超过80%。",
@@ -163,6 +176,17 @@
           "time_info": "[04时29分 ~ 05时20分]"
         },
         {
+          "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
+          "url": "https://www.cls.cn/detail/2185750",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "微软(MSFT.O)CEO：GitHub目前拥有1.8亿开发者；第一季度Copilot平台上的AI代理用户总数环比翻番。",
           "url": "https://flash.jin10.com/detail/20251030055159688800",
           "source": "金十数据",
@@ -191,7 +215,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
         },
@@ -436,11 +460,12 @@
           "url": "https://www.cls.cn/detail/2185569",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 11时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 12时20分]"
         },
         {
           "title": "OpenAI计划于2027年上市",
@@ -450,8 +475,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 11时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 12时20分]"
         },
         {
           "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
