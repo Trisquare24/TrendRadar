@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T19:15:29.140915+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2025-10-30T20:35:45.662313+08:00",
+  "total_titles_processed": 1709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
@@ -214,6 +214,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "Meta拟发行六部分美元债券，应对AI支出激增",
+          "url": "https://flash.jin10.com/detail/20251030201342896800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "UP主自制的AI眼镜发布了",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9A%84AI%E7%9C%BC%E9%95%9C%E5%8F%91%E5%B8%83%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "日本央行行长植田和男：但如果人工智能的预期未能实现，可能会出现一些调整。",
@@ -661,6 +683,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "今晚八点京东首发机器人新品",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BB%8A%E6%99%9A%E5%85%AB%E7%82%B9%E4%BA%AC%E4%B8%9C%E9%A6%96%E5%8F%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%B0%E5%93%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26realpos%3D28%26q%3D%2523%25E4%25BB%258A%25E6%2599%259A%25E5%2585%25AB%25E7%2582%25B9%25E4%25BA%25AC%25E4%25B8%259C%25E9%25A6%2596%25E5%258F%2591%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E6%2596%25B0%25E5%2593%2581%2523%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D28%26pos%3D29%26display_time%3D1761826207%26pre_seqid%3D17618262069520267584114",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     },
