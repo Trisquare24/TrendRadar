@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T20:35:45.662313+08:00",
-  "total_titles_processed": 1709,
+  "generated_at": "2025-10-30T21:30:01.741071+08:00",
+  "total_titles_processed": 1797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
@@ -146,6 +146,29 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
+          "title": "UP主自制的AI眼镜发布了",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9A%84AI%E7%9C%BC%E9%95%9C%E5%8F%91%E5%B8%83%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 21时30分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落终结7连阳，AI硬件端遭重挫，锂矿股逆势爆发",
+          "url": "https://www.cls.cn/detail/2186433",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 21时30分]"
+        },
+        {
           "title": "微软(MSFT.O)CEO：今年将把公司的整体人工智能能力提高超过80%。",
           "url": "https://flash.jin10.com/detail/20251030053716449800",
           "source": "金十数据",
@@ -222,18 +245,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "UP主自制的AI眼镜发布了",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9A%84AI%E7%9C%BC%E9%95%9C%E5%8F%91%E5%B8%83%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -351,7 +363,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "谷歌母公司Alphabet CEO Pichai：谷歌新云客户同比增长34%。 超过70%的云客户使用谷歌AI产品。",
@@ -451,6 +463,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 06时22分]"
+        },
+        {
+          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2186836",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 21时30分]"
         },
         {
           "title": "AI热潮助推云业务增长 谷歌营收飙升",
@@ -558,7 +581,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
@@ -609,6 +632,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
+          "url": "https://www.cls.cn/detail/2186587",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 21时30分]"
         },
         {
           "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
@@ -688,18 +722,30 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "今晚八点京东首发机器人新品",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BB%8A%E6%99%9A%E5%85%AB%E7%82%B9%E4%BA%AC%E4%B8%9C%E9%A6%96%E5%8F%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%B0%E5%93%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26realpos%3D28%26q%3D%2523%25E4%25BB%258A%25E6%2599%259A%25E5%2585%25AB%25E7%2582%25B9%25E4%25BA%25AC%25E4%25B8%259C%25E9%25A6%2596%25E5%258F%2591%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E6%2596%25B0%25E5%2593%2581%2523%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D28%26pos%3D29%26display_time%3D1761826207%26pre_seqid%3D17618262069520267584114",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 21时30分]"
+        },
+        {
+          "title": "消息人士：特斯拉(TSLA.O)尚未完成在亚利桑那州和内华达州开始提供机器人出租车服务所需的所有文件手续。",
+          "url": "https://flash.jin10.com/detail/20251030210257969800",
+          "source": "金十数据",
+          "ranks": [
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时35分"
+          "time_info": "21时30分"
         }
       ]
     },
