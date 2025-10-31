@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T02:26:58.010053+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2025-11-01T03:14:44.182108+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
         },
         {
           "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
@@ -107,11 +107,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
         },
         {
           "title": "科学家研发能治病的毒液机器人",
@@ -119,11 +120,12 @@
           "source": "微博",
           "ranks": [
             9,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时14分]"
         }
       ]
     },
@@ -140,8 +142,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
         }
       ]
     },
@@ -157,8 +159,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
         }
       ]
     }
