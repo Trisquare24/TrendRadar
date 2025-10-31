@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T18:18:51.397976+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2025-10-31T19:16:39.628825+08:00",
+  "total_titles_processed": 1692,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时21分 ~ 18时18分]"
+          "appearance_count": 23,
+          "time_info": "[00时21分 ~ 19时16分]"
         },
         {
           "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
@@ -543,8 +544,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时09分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[11时09分 ~ 19时16分]"
         },
         {
           "title": "如何看待博主基德的新视频《人形机器人为什么注定失败》？",
@@ -573,8 +574,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时25分 ~ 18时18分]"
+          "appearance_count": 9,
+          "time_info": "[14时25分 ~ 19时16分]"
         },
         {
           "title": "又一开源具身智能机器人项目发布 预计明年一季度上线",
@@ -812,8 +813,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 19时16分]"
         },
         {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
@@ -840,11 +841,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时23分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[12时23分 ~ 19时16分]"
         }
       ]
     }
