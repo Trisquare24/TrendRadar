@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T02:22:19.759332+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2025-11-02T03:12:32.398292+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -26,11 +26,12 @@
           "ranks": [
             16,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
@@ -39,9 +40,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 03时12分]"
         }
       ]
     },
@@ -59,8 +60,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "宇树、乐聚、智元IPO竞速 两代人形机器人企业的“殊途同归”？",
@@ -70,8 +71,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         }
       ]
     },
@@ -87,8 +88,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         }
       ]
     }
