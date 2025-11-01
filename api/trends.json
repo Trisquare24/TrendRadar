@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T15:15:53.308298+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2025-11-01T16:21:58.541721+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 15时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 16时21分]"
+        },
+        {
+          "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
+          "url": "https://wallstreetcn.com/articles/3758449",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时20分 ~ 16时21分]"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -33,18 +45,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时22分 ~ 09时21分]"
-        },
-        {
-          "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
-          "url": "https://wallstreetcn.com/articles/3758449",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时20分 ~ 15时15分]"
         },
         {
           "title": "亚太经合组织人工智能倡议：亚太经济体应加大努力，为人工智能弹性基础设施投资营造有利环境。",
@@ -190,11 +190,12 @@
             19,
             5,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 15时15分]"
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 16时21分]"
         },
         {
           "title": "宇树、乐聚、智元IPO竞速 两代人形机器人企业的“殊途同归”？",
@@ -206,8 +207,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时10分 ~ 15时15分]"
+          "appearance_count": 7,
+          "time_info": "[11时10分 ~ 16时21分]"
         },
         {
           "title": "宇树科技人形机器人 H2 加入仿生人脸，有些人觉得长得吓人，为什么机器人有了脸之后会觉得吓人？",
@@ -337,11 +338,12 @@
           "url": "https://wallstreetcn.com/articles/3758470",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 16时21分]"
         }
       ]
     }
