@@ -1,323 +1,8 @@
 {
-  "generated_at": "2025-11-01T23:17:01.156543+08:00",
-  "total_titles_processed": 1605,
+  "generated_at": "2025-11-02T00:18:27.512355+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
-          "url": "https://wallstreetcn.com/articles/3758417",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时22分 ~ 23时17分]"
-        },
-        {
-          "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
-          "url": "https://wallstreetcn.com/articles/3758449",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时20分 ~ 21时24分]"
-        },
-        {
-          "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
-          "url": "https://wallstreetcn.com/articles/3758381",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时21分]"
-        },
-        {
-          "title": "亚太经合组织人工智能倡议：亚太经济体应加大努力，为人工智能弹性基础设施投资营造有利环境。",
-          "url": "https://flash.jin10.com/detail/20251101125245344800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时15分]"
-        },
-        {
-          "title": "亚太经合组织人工智能倡议：人工智能在推动解决亚太地区共同优先事项方面具有巨大潜力。",
-          "url": "https://flash.jin10.com/detail/20251101125236158800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时15分]"
-        },
-        {
-          "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
-          "url": "https://wallstreetcn.com/articles/3758382",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时16分 ~ 09时21分]"
-        },
-        {
-          "title": "韩国总统李在明：希望在人工智能的共同问题上找到创造性的解决方案。",
-          "url": "https://wallstreetcn.com/livenews/2997940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 13时16分]"
-        },
-        {
-          "title": "韩国总统李在明：希望在人工智能这一共同问题上找到创新性解决方案。",
-          "url": "https://flash.jin10.com/detail/20251101090947123800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时19分]"
-        },
-        {
-          "title": "中美在AI治理路径上的分歧成焦点",
-          "url": "https://www.toutiao.com/trending/7567396544937705510/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时16分 ~ 23时17分]"
-        },
-        {
-          "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
-          "url": "https://wallstreetcn.com/articles/3758471",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
-          "url": "https://flash.jin10.com/detail/20251031235402298800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "美银策略师：黄金与中国股票成为AI热潮下的最佳对冲工具",
-          "url": "https://wallstreetcn.com/livenews/2997809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "Getty Images Holdings Inc.高开将近60%，随后逐步回吐涨幅，目前涨18%。 该公司宣布，与Perplexity AI达成持续多年的许可协议。",
-          "url": "https://wallstreetcn.com/livenews/2997796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
-          "url": "https://wallstreetcn.com/livenews/2997794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "现代汽车与英伟达将携手打造AI工厂，支持韩国AI生态的发展",
-          "url": "https://wallstreetcn.com/livenews/2997787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：人工智能（AI）技术让企业在招聘问题上迟疑不决。",
-          "url": "https://wallstreetcn.com/livenews/2997823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "人形机器人进厂“打螺丝”，灵巧手寿命和成本仍是待突破瓶颈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31873105",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时16分 ~ 23时17分]"
-        },
-        {
-          "title": "宇树、乐聚、智元IPO竞速 两代人形机器人企业的“殊途同归”？",
-          "url": "https://www.cls.cn/detail/2188519",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时10分 ~ 23时17分]"
-        },
-        {
-          "title": "机器人牵机器狗遛弯把大哥看懵了",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%89%B5%E6%9C%BA%E5%99%A8%E7%8B%97%E9%81%9B%E5%BC%AF%E6%8A%8A%E5%A4%A7%E5%93%A5%E7%9C%8B%E6%87%B5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            5,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 16时21分]"
-        },
-        {
-          "title": "宇树科技人形机器人 H2 加入仿生人脸，有些人觉得长得吓人，为什么机器人有了脸之后会觉得吓人？",
-          "url": "https://www.zhihu.com/question/1964768855290242461",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 07时16分]"
-        },
-        {
-          "title": "科学家研发能治病的毒液机器人",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E5%8F%91%E8%83%BD%E6%B2%BB%E7%97%85%E7%9A%84%E6%AF%92%E6%B6%B2%E6%9C%BA%E5%99%A8%E4%BA%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E7%25A7%2591%25E5%25AD%25A6%25E5%25AE%25B6%25E7%25A0%2594%25E5%258F%2591%25E8%2583%25BD%25E6%25B2%25BB%25E7%2597%2585%25E7%259A%2584%25E6%25AF%2592%25E6%25B6%25B2%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%2523%26pos%3D9%26dgr%3D0%26flag%3D1%26c_type%3D31%26band_rank%3D9%26cate%3D5001%26realpos%3D9%26lcate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26display_time%3D1761930502%26pre_seqid%3D17619305021970252277304&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            9,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时14分]"
-        },
-        {
-          "title": "机器人牵机器狗遛弯把大爷看懵了",
-          "url": "https://www.toutiao.com/trending/7567170483431637055/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 15时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
-          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 06时16分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜亚马逊收涨约9.6%，10月谷歌A涨约15.7%连涨七个月、Meta累跌11.7%",
-          "url": "https://wallstreetcn.com/livenews/2997895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时15分 ~ 07时16分]"
-        }
-      ]
-    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
@@ -327,95 +12,67 @@
           "url": "https://wallstreetcn.com/articles/3758470",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            5,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时15分 ~ 23时17分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
           "url": "https://www.zhihu.com/question/1967273703189480617",
           "source": "知乎",
           "ranks": [
-            17,
-            19,
-            9,
-            10,
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[19时14分 ~ 23时17分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     },
     {
-      "keyword_group": "阿里 Qwen",
+      "keyword_group": "机器人 具身智能",
       "match_count": 2,
       "titles": [
         {
-          "title": "纳斯达克金龙中国指数初步收涨0.5%，10月份累跌约4%。 热门中概股里，小马智行初步收跌约5.7%，腾讯、阿里跌超2%，小米、京东、百度跌超1%，网易则涨0.7%，理想涨1.6%，小鹏涨2.2%，蔚来涨3.3%。",
-          "url": "https://wallstreetcn.com/livenews/2997886",
-          "source": "华尔街见闻-快讯",
+          "title": "人形机器人进厂“打螺丝”，灵巧手寿命和成本仍是待突破瓶颈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31873105",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "00时18分"
         },
         {
-          "title": "纳斯达克金龙中国指数收涨0.53%，报8273.84点，本周累计下跌1.05%，10月份累计下跌4.19%，结束此前连续五个月上涨的趋势。 热门中概股里，小马智行初步收跌约5.7%，腾讯、阿里跌超2%，小米、京东、百度跌超1%，网易则涨0.7%，理想涨1.6%，小鹏涨2.2%，蔚来涨3.3%。 ETF中，中国科技指数ETF（CQQQ）收跌1.75%，10月份累跌4.91%，此前四个月先后涨8.88%、5.76%、14.34%、10.28%； 德银嘉实沪深300指数ETF（ASHR）收跌1.49%，10月份累涨0.15%——连续第六个月上涨； 中国ETF-iShares MSCI（MCHI）收跌1.26%，10月份累跌3.46%，此前连续五个月上涨； XtrackersHarvest中证50（ASHS）收跌0.98%，10月份累跌1.49%，此前连涨五个月； 中概互联网指数ETF（KWEB）收跌0.67%，10月份累跌4.90%，此前连涨五个月。",
-          "url": "https://wallstreetcn.com/livenews/2997886",
-          "source": "华尔街见闻-快讯",
+          "title": "宇树、乐聚、智元IPO竞速 两代人形机器人企业的“殊途同归”？",
+          "url": "https://www.cls.cn/detail/2188519",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            20
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时16分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "人工智能 AI 大模型 LLM AGI",
       "match_count": 1,
       "titles": [
         {
-          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
-          "source": "澎湃新闻",
+          "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
+          "url": "https://wallstreetcn.com/articles/3758471",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            8,
-            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "罗永浩",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "罗永浩说乐道L90是今年最大黑马",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%AF%B4%E4%B9%90%E9%81%93L90%E6%98%AF%E4%BB%8A%E5%B9%B4%E6%9C%80%E5%A4%A7%E9%BB%91%E9%A9%AC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26c_type%3D31%26cate%3D5001%26q%3D%2523%25E7%25BD%2597%25E6%25B0%25B8%25E6%25B5%25A9%25E8%25AF%25B4%25E4%25B9%2590%25E9%2581%2593L90%25E6%2598%25AF%25E4%25BB%258A%25E5%25B9%25B4%25E6%259C%2580%25E5%25A4%25A7%25E9%25BB%2591%25E9%25A9%25AC%2523%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26dgr%3D0%26lcate%3D5001%26band_rank%3D20%26realpos%3D20%26pos%3D21%26display_time%3D1761998780%26pre_seqid%3D17619987801870342818257&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时30分 ~ 20时31分]"
+          "appearance_count": 1,
+          "time_info": "00时18分"
         }
       ]
     }
