@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T02:21:25.493878+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2025-11-03T03:14:27.110769+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时14分]"
         },
         {
           "title": "AI医疗为何引发巨头押注",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时14分]"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
@@ -37,11 +37,12 @@
           "ranks": [
             24,
             20,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时14分]"
         },
         {
           "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
@@ -51,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时15分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 03时14分]"
         },
         {
           "title": "阿布扎比国家石油公司、马斯达尔公司、XRG公司与微软达成人工智能部署协议。（彭博）",
@@ -62,8 +63,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时14分]"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC：公司和微软将在Adnoc的价值链中共同开发和部署人工智能代理，以提高效率并最大限度地减少排放",
@@ -73,8 +74,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时14分]"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC：本公司、马斯达尔、XRG和微软将携手推动人工智能在能源领域的应用，以及能源在人工智能领域的支持。",
@@ -84,8 +85,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时14分]"
         }
       ]
     },
@@ -101,8 +102,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时14分]"
         },
         {
           "title": "人形机器人为啥进步“神速”？",
@@ -112,8 +113,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 03时14分]"
         },
         {
           "title": "深圳机器人火炬手“夸父”火了",
