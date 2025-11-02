@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T17:17:04.898080+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2025-11-02T18:18:42.939656+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             10,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 17时17分]"
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 18时18分]"
         },
         {
           "title": "全球超长线成长股捕手Baillie Gifford：对中国维持积极看法",
@@ -43,11 +44,12 @@
             1,
             4,
             11,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 18时18分]"
         },
         {
           "title": "马斯克：AI6和AI7芯片将会紧随其后迅速推出。",
@@ -62,6 +64,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时24分 ~ 17时17分]"
+        },
+        {
+          "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
+          "url": "https://wallstreetcn.com/livenews/2998093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            14,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 18时18分]"
         },
         {
           "title": "韩国总统办公室：韩国与新加坡同意在国防技术领域展开合作。韩国、新加坡签署人工智能与绿色航运谅解备忘录。",
@@ -107,20 +124,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时17分 ~ 17时17分]"
-        },
-        {
-          "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
-          "url": "https://wallstreetcn.com/livenews/2998093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 17时17分]"
         },
         {
           "title": "马斯克：刚刚和特斯拉(TSLA.O)加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。",
@@ -187,11 +190,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 18时18分]"
         },
         {
           "title": "工业机器人加速“上岗”，前三季度我国实现“智”造升级",
@@ -308,11 +312,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时20分 ~ 17时17分]"
+          "appearance_count": 11,
+          "time_info": "[12时20分 ~ 18时18分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
