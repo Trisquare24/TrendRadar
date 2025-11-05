@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T19:16:12.130053+08:00",
-  "total_titles_processed": 1722,
+  "generated_at": "2025-11-05T20:36:31.120820+08:00",
+  "total_titles_processed": 1807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
@@ -34,6 +34,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时10分 ~ 17时21分]"
+        },
+        {
+          "title": "满屏都“带电”！AI用电荒催化电力设备板块 “新瓦特时代”谁将受益？",
+          "url": "https://www.cls.cn/detail/2191698",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 20时36分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -97,11 +111,12 @@
             23,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时21分 ~ 19时16分]"
+          "appearance_count": 28,
+          "time_info": "[00时21分 ~ 20时36分]"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
@@ -130,19 +145,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "满屏都“带电”！AI用电荒催化电力设备板块 “新瓦特时代”谁将受益？",
-          "url": "https://www.cls.cn/detail/2191698",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时23分 ~ 19时16分]"
         },
         {
           "title": "亚马逊对Perplexity下“逐客令”：带着你的AI代理滚出我的地盘",
@@ -195,6 +197,18 @@
           "time_info": "07时17分"
         },
         {
+          "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
+          "url": "https://www.cls.cn/detail/2192067",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时36分]"
+        },
+        {
           "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
           "url": "https://flash.jin10.com/detail/20251105062032603800",
           "source": "金十数据",
@@ -217,17 +231,6 @@
           "time_info": "05时16分"
         },
         {
-          "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
-          "url": "https://www.cls.cn/detail/2192067",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
-        },
-        {
           "title": "北京：支持医疗卫生机构联合大模型企业挂牌AI实体医院",
           "url": "https://wallstreetcn.com/livenews/2999668",
           "source": "华尔街见闻-快讯",
@@ -238,6 +241,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时26分 ~ 15时19分]"
+        },
+        {
+          "title": "晶泰科技子公司与礼来在双抗领域达成3.45亿美元AI大分子研发合作",
+          "url": "https://wallstreetcn.com/livenews/2999868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时36分]"
         },
         {
           "title": "卡特彼勒将把燃气轮机产能翻倍，以满足AI热潮的需求",
@@ -381,17 +396,6 @@
           "time_info": "11时10分"
         },
         {
-          "title": "晶泰科技子公司与礼来在双抗领域达成3.45亿美元AI大分子研发合作",
-          "url": "https://wallstreetcn.com/livenews/2999868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
           "title": "美国民主党人ABIGAIL SPANBERGER在弗吉尼亚州州长竞选中获胜。",
           "url": "https://flash.jin10.com/detail/20251105085817452800",
           "source": "金十数据",
@@ -445,6 +449,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
+          "url": "https://www.cls.cn/detail/2191989",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "AMD：预计云需求将保持强劲势头。 数据中心GPU业务正在加速。 面向企业的EPYC销售急剧增加。 人工智能（AI）业务将于2027年达到数百亿美元规模。 个人电脑（PC）部门的收入增速将超过市场（增速）。",
@@ -584,8 +599,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时18分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[13时18分 ~ 20时36分]"
         },
         {
           "title": "「阿里模式」和「山姆模式」的冲突点是什么？为什么中产害怕山姆「阿里化」？",
@@ -614,8 +629,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时24分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[12时24分 ~ 20时36分]"
         },
         {
           "title": "饿了么或将更名为「淘宝闪购」，骑手已同步更换橙黑新工服，这一调整对阿里意味着什么？如何从商业角度解读？",
@@ -625,11 +640,12 @@
             19,
             17,
             12,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时26分 ~ 19时16分]"
+          "appearance_count": 10,
+          "time_info": "[14时26分 ~ 20时36分]"
         },
         {
           "title": "网友在山姆账号评论区刷屏「退卡、差评、开除 XX 高管」，网友为什么对阿里高管如此抵制？",
@@ -850,18 +866,19 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "宇树科技王兴兴：今年国内智能机器人平均每家公司增长应超50%-100%",
           "url": "https://www.cls.cn/detail/2191948",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时36分]"
         },
         {
           "title": "小鹏机器人会走猫步太像人了",
@@ -874,6 +891,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时21分 ~ 18时20分]"
+        },
+        {
+          "title": "业内预测：明年人形机器人在工业领域会出现采购交付数量过万的企业",
+          "url": "https://wallstreetcn.com/livenews/2999885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "一起“淘”进博丨机器人对决、空中专车、减肥手环，进博首日看神仙打架！",
@@ -907,6 +935,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "影视飓风",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "钱锟和影视飓风奔现",
+          "url": "https://search.bilibili.com/all?keyword=%E9%92%B1%E9%94%9F%E5%92%8C%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E5%A5%94%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     }
