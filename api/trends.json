@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T06:16:55.651091+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2025-11-06T07:17:03.353296+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -50,11 +50,12 @@
           "source": "贴吧",
           "ranks": [
             24,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "世界经济论坛主席警告：AI、加密货币和债务恐成三大泡沫",
@@ -110,7 +111,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         }
@@ -329,8 +330,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "网友爆料多位前阿里人加入山姆，为什么越来越多的阿里人选择在山姆开启下一站？会对山姆带来哪些变化？",
@@ -343,8 +344,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时17分]"
+        },
+        {
+          "title": "饿了么或将更名为「淘宝闪购」，骑手已同步更换橙黑新工服，这一调整对阿里意味着什么？如何从商业角度解读？",
+          "url": "https://www.zhihu.com/question/1969076570078541241",
+          "source": "知乎",
+          "ranks": [
+            5,
+            8,
+            19,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "为何消费者害怕山姆阿里化",
@@ -356,22 +372,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时16分]"
-        },
-        {
-          "title": "饿了么或将更名为「淘宝闪购」，骑手已同步更换橙黑新工服，这一调整对阿里意味着什么？如何从商业角度解读？",
-          "url": "https://www.zhihu.com/question/1969076570078541241",
-          "source": "知乎",
-          "ranks": [
-            5,
-            8,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时17分]"
         }
       ]
     },
@@ -384,11 +386,12 @@
           "url": "https://www.cls.cn/detail/2191948",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时17分]"
         },
         {
           "title": "小鹏首款女性机器人正式亮相，将于 2026 年实现规模量产，其产品力怎么样？你觉得机器人是否需要性别？",
@@ -399,8 +402,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时16分]"
+          "appearance_count": 4,
+          "time_info": "[05时16分 ~ 07时17分]"
         }
       ]
     },
@@ -418,11 +421,12 @@
             29,
             14,
             23,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时17分]"
         }
       ]
     }
