@@ -1,11 +1,83 @@
 {
-  "generated_at": "2025-11-06T01:17:47.730444+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-11-06T02:25:10.702381+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
+          "url": "https://wallstreetcn.com/livenews/3000038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "谷歌：在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮",
+          "url": "https://wallstreetcn.com/livenews/3000038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "谷歌：Chrome浏览器中的AI模式快捷方式即将扩展至160个新的国家和地区，并支持包括印地语、印尼语、日语、韩语、葡萄牙语等更多语言。",
+          "url": "https://flash.jin10.com/detail/20251106010654630800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "谷歌：该功能将于未来几天开始向移动用户推出。",
+          "url": "https://flash.jin10.com/detail/20251106010606824800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
+          "url": "https://flash.jin10.com/detail/20251106010550622800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
+          "url": "https://flash.jin10.com/detail/20251106010421100800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -15,8 +87,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时25分]"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
@@ -24,11 +96,12 @@
           "source": "微博",
           "ranks": [
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时25分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -38,8 +111,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时25分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -50,8 +123,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时25分]"
+        },
+        {
+          "title": "美银CEO：不认为我们整体的岗位数量会因人工智能而减少，但可以看到人工智能将改变工作量的完成方式。",
+          "url": "https://flash.jin10.com/detail/20251106020220838800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         },
         {
           "title": "Mosaic：玉米和大豆价格的复苏应当有助于化肥的应用。",
@@ -60,7 +144,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         }
@@ -78,30 +162,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时25分]"
         },
         {
           "title": "饿了么或将更名为「淘宝闪购」，骑手已同步更换橙黑新工服，这一调整对阿里意味着什么？如何从商业角度解读？",
           "url": "https://www.zhihu.com/question/1969076570078541241",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时25分]"
         },
         {
           "title": "网友爆料多位前阿里人加入山姆，为什么越来越多的阿里人选择在山姆开启下一站？会对山姆带来哪些变化？",
           "url": "https://www.zhihu.com/question/1969459088606851517",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时25分]"
         },
         {
           "title": "为何消费者害怕山姆阿里化",
@@ -111,25 +197,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
-          "url": "https://wallstreetcn.com/livenews/3000038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时25分]"
         }
       ]
     },
@@ -145,8 +214,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时25分]"
         }
       ]
     },
@@ -163,8 +232,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时25分]"
         }
       ]
     }
