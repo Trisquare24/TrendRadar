@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T07:17:03.353296+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2025-11-06T09:18:31.872967+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时18分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -51,11 +51,23 @@
           "ranks": [
             24,
             22,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时18分]"
+        },
+        {
+          "title": "鸿海首席执行官：未来数月内将在美国部署人形机器人，生产人工智能服务器。",
+          "url": "https://flash.jin10.com/detail/20251106090940518800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "世界经济论坛主席警告：AI、加密货币和债务恐成三大泡沫",
@@ -92,6 +104,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时16分]"
+        },
+        {
+          "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
+          "url": "https://www.cls.cn/detail/2192480",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：“中国将赢得人工智能竞赛”",
+          "url": "https://wallstreetcn.com/livenews/3000201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：“中国将赢得人工智能竞赛”",
+          "url": "https://flash.jin10.com/detail/20251106085715580800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：人工智能会消灭部分工作岗位，但也会创造岗位。",
+          "url": "https://wallstreetcn.com/livenews/3000200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "Mosaic：玉米和大豆价格的复苏应当有助于化肥的应用。",
@@ -327,11 +383,12 @@
             1,
             4,
             3,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时18分]"
         },
         {
           "title": "网友爆料多位前阿里人加入山姆，为什么越来越多的阿里人选择在山姆开启下一站？会对山姆带来哪些变化？",
@@ -341,11 +398,12 @@
             8,
             5,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时18分]"
         },
         {
           "title": "饿了么或将更名为「淘宝闪购」，骑手已同步更换橙黑新工服，这一调整对阿里意味着什么？如何从商业角度解读？",
@@ -359,8 +417,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时18分]"
         },
         {
           "title": "为何消费者害怕山姆阿里化",
@@ -372,14 +430,14 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时18分]"
         }
       ]
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "宇树科技王兴兴：今年国内智能机器人平均每家公司增长应超50%-100%",
@@ -399,11 +457,34 @@
           "source": "知乎",
           "ranks": [
             20,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时16分 ~ 07时17分]"
+          "appearance_count": 5,
+          "time_info": "[05时16分 ~ 09时18分]"
+        },
+        {
+          "title": "小鹏汽车“更名”后多项成果“涌现” 涉智能驾驶、Robotaxi、机器人及低空飞行领域",
+          "url": "https://www.cls.cn/detail/2192246",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "小鹏机器人走猫步太像人了",
+          "url": "https://www.douyin.com/hot/2295769",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     },
@@ -425,8 +506,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时18分]"
         }
       ]
     }
