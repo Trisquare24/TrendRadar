@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T21:30:18.215814+08:00",
-  "total_titles_processed": 1923,
+  "generated_at": "2025-11-06T22:18:28.642908+08:00",
+  "total_titles_processed": 1998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -41,11 +41,12 @@
             1,
             2,
             7,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时19分 ~ 21时30分]"
+          "appearance_count": 10,
+          "time_info": "[15时19分 ~ 22时18分]"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
@@ -144,6 +145,19 @@
           "time_info": "09时18分"
         },
         {
+          "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
+          "url": "https://wallstreetcn.com/articles/3758820",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 22时18分]"
+        },
+        {
           "title": "英伟达(NVDA.O)投资的Vast Data公司与CoreWeave签署11.7亿美元人工智能合作协议。",
           "url": "https://flash.jin10.com/detail/20251106201237676800",
           "source": "金十数据",
@@ -153,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
+        },
+        {
+          "title": "微软(MSFT.O)AI组建超级智能团队，该团队将由苏莱曼领导。",
+          "url": "https://flash.jin10.com/detail/20251106221421640800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "华为Mate 70 Air开启预售",
@@ -216,18 +241,6 @@
           "time_info": "[16时23分 ~ 18时21分]"
         },
         {
-          "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
-          "url": "https://wallstreetcn.com/articles/3758820",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 21时30分]"
-        },
-        {
           "title": "打假AI温峥嵘不能只靠演员温峥嵘",
           "url": "https://www.baidu.com/s?wd=%E6%89%93%E5%81%87AI%E6%B8%A9%E5%B3%A5%E5%B5%98%E4%B8%8D%E8%83%BD%E5%8F%AA%E9%9D%A0%E6%BC%94%E5%91%98%E6%B8%A9%E5%B3%A5%E5%B5%98",
           "source": "百度热搜",
@@ -238,6 +251,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时20分 ~ 20时37分]"
+        },
+        {
+          "title": "英国央行行长贝利：看到就业低迷，公司招聘减少。 我们可能会出现人工智能泡沫。 关注对金融稳定的影响。 泡沫破裂将收紧金融环境。 我希望看到更多证据表明通胀已过峰值。",
+          "url": "https://wallstreetcn.com/livenews/3000587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 22时18分]"
         },
         {
           "title": "摩根大通CEO戴蒙：随着时间的推移，一些工作岗位将因人工智能而被淘汰。我们可以通过人工智能节省20多亿美元的成本。",
@@ -297,17 +322,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时23分 ~ 17时20分]"
-        },
-        {
-          "title": "英国央行行长贝利：看到就业低迷，公司招聘减少。 我们可能会出现人工智能泡沫。 关注对金融稳定的影响。 泡沫破裂将收紧金融环境。 我希望看到更多证据表明通胀已过峰值。",
-          "url": "https://wallstreetcn.com/livenews/3000587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时30分"
         },
         {
           "title": "英伟达CEO黄仁勋：“中国将赢得人工智能竞赛”",
@@ -470,7 +484,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -492,7 +506,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -503,7 +517,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -533,7 +547,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "小鹏首款女性机器人亮相，其走路形态被质疑是真人扮演，机器人能实现走「猫步」吗？小鹏的产品能力究竟如何？",
@@ -541,11 +555,51 @@
           "source": "知乎",
           "ranks": [
             1,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[11时14分 ~ 22时18分]"
+        },
+        {
+          "title": "宇树机器人丝滑做完全套家务",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9D%E6%BB%91%E5%81%9A%E5%AE%8C%E5%85%A8%E5%A5%97%E5%AE%B6%E5%8A%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            3,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时23分 ~ 22时18分]"
+        },
+        {
+          "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
+          "url": "https://www.zhihu.com/question/1969734521176941617",
+          "source": "知乎",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时20分 ~ 22时18分]"
+        },
+        {
+          "title": "太逼真,小鹏机器人被迫脱衣自证",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时14分 ~ 21时30分]"
+          "appearance_count": 8,
+          "time_info": "[17时20分 ~ 22时18分]"
         },
         {
           "title": "事关机器人、自动驾驶板块！马斯克“万亿薪酬”提案将表决 通过概率几何？",
@@ -560,44 +614,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时18分 ~ 19时16分]"
-        },
-        {
-          "title": "宇树机器人丝滑做完全套家务",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9D%E6%BB%91%E5%81%9A%E5%AE%8C%E5%85%A8%E5%A5%97%E5%AE%B6%E5%8A%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            3,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时23分 ~ 21时30分]"
-        },
-        {
-          "title": "太逼真,小鹏机器人被迫脱衣自证",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时20分 ~ 21时30分]"
-        },
-        {
-          "title": "怎样看待何小鹏发机器人「脱衣」视频回应是「真人扮演」质疑？其中有哪些技术值得关注？",
-          "url": "https://www.zhihu.com/question/1969734521176941617",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时20分 ~ 21时30分]"
         },
         {
           "title": "小鹏女机器人里藏真人？何小鹏回应",
@@ -637,11 +653,28 @@
             17,
             28,
             24,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时18分 ~ 19时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时18分 ~ 22时18分]"
+        },
+        {
+          "title": "去掉蒙皮的小鹏机器人什么样",
+          "url": "https://www.douyin.com/hot/2296258",
+          "source": "抖音",
+          "ranks": [
+            18,
+            7,
+            4,
+            8,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时23分 ~ 22时18分]"
         },
         {
           "title": "女性人形机器人里藏真人？何小鹏回应",
@@ -672,22 +705,6 @@
           "time_info": "[11时14分 ~ 17时20分]"
         },
         {
-          "title": "去掉蒙皮的小鹏机器人什么样",
-          "url": "https://www.douyin.com/hot/2296258",
-          "source": "抖音",
-          "ranks": [
-            18,
-            7,
-            4,
-            8,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时23分 ~ 21时30分]"
-        },
-        {
           "title": "小鹏首款女性机器人正式亮相，将于 2026 年实现规模量产，其产品力怎么样？你觉得机器人是否需要性别？",
           "url": "https://www.zhihu.com/question/1969450608642745244",
           "source": "知乎",
@@ -713,6 +730,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时23分 ~ 20时37分]"
+        },
+        {
+          "title": "何小鹏剪机器人腿部哽咽辟谣藏真人",
+          "url": "https://www.toutiao.com/trending/7569600745033747978/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "港股小鹏汽车涨超5%，此前小鹏汽车携手高德地图，宣布2026年三款自研Robotaxi车型正式试运营，整合高德叫车平台并开放生态布局，进军海外市场。小鹏同时发布人形机器人IRON，并宣布2026年底目标实现规模量产高阶人形机器人。",
@@ -785,8 +813,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 22时18分]"
         },
         {
           "title": "小鹏新一代机器人走猫步动作逼真",
@@ -831,12 +859,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
+        },
+        {
+          "title": "比价直播间出现机器人主播",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%AF%94%E4%BB%B7%E7%9B%B4%E6%92%AD%E9%97%B4%E5%87%BA%E7%8E%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%BB%E6%92%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E6%25AF%2594%25E4%25BB%25B7%25E7%259B%25B4%25E6%2592%25AD%25E9%2597%25B4%25E5%2587%25BA%25E7%258E%25B0%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%25E4%25B8%25BB%25E6%2592%25AD%2523%26dgr%3D0%26cate%3D5001%26band_rank%3D17%26flag%3D1%26stream_entry_id%3D31%26realpos%3D17%26pos%3D18%26lcate%3D5001%26c_type%3D31%26display_time%3D1762438296%26pre_seqid%3D1762438296280012342972&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "据报道，谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。",
@@ -845,7 +884,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -867,7 +906,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -985,7 +1024,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -1010,6 +1049,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
+        },
+        {
+          "title": "谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3000596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "谷歌洽谈加大投资Anthropic 后者估值或超3500亿美元",
