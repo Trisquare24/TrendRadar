@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T14:27:04.251971+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2025-11-06T15:19:57.355496+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -53,11 +53,25 @@
             22,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 14时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 15时19分]"
+        },
+        {
+          "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
+          "url": "https://www.cls.cn/detail/2192687",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时23分 ~ 15时19分]"
         },
         {
           "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
@@ -70,20 +84,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时18分 ~ 14时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时18分 ~ 15时19分]"
         },
         {
-          "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
-          "url": "https://www.cls.cn/detail/2192687",
-          "source": "财联社热门",
+          "title": "华为Mate 70 Air评测",
+          "url": "https://www.douyin.com/hot/2296483",
+          "source": "抖音",
           "ranks": [
-            11,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时23分 ~ 14时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "华为Mate 70 Air开启预售",
+          "url": "https://www.toutiao.com/trending/7569394262991929363/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "鸿海首席执行官：未来数月内将在美国部署人形机器人，生产人工智能服务器。",
@@ -109,6 +133,18 @@
           "time_info": "[04时21分 ~ 05时16分]"
         },
         {
+          "title": "温峥嵘被AI温峥嵘拉黑",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 15时19分]"
+        },
+        {
           "title": "摩根大通CEO戴蒙：随着时间的推移，一些工作岗位将因人工智能而被淘汰。我们可以通过人工智能节省20多亿美元的成本。",
           "url": "https://flash.jin10.com/detail/20251106043443479800",
           "source": "金十数据",
@@ -131,17 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时16分]"
-        },
-        {
-          "title": "温峥嵘被AI温峥嵘拉黑",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
         },
         {
           "title": "英伟达CEO黄仁勋：“中国将赢得人工智能竞赛”",
@@ -221,6 +246,17 @@
           "time_info": "11时14分"
         },
         {
+          "title": "瑞士人力资源公司德科：由于人工智能的出现，一些公司进行了裁员，但没有出现大规模浪潮。",
+          "url": "https://flash.jin10.com/detail/20251106145702334800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "华为Mate 70 Air开启预售",
           "url": "https://wallstreetcn.com/livenews/3000234",
           "source": "华尔街见闻-快讯",
@@ -256,8 +292,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时14分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时14分 ~ 15时19分]"
         },
         {
           "title": "宇树科技王兴兴：今年国内智能机器人平均每家公司增长应超50%-100%",
@@ -285,6 +321,33 @@
           "time_info": "[05时16分 ~ 09时18分]"
         },
         {
+          "title": "中国版特斯拉！2026年，小鹏汽车要和高德合作推出Robotaxi，量产人型机器人",
+          "url": "https://wallstreetcn.com/articles/3758729",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时14分 ~ 15时19分]"
+        },
+        {
+          "title": "事关机器人、自动驾驶板块！马斯克“万亿薪酬”提案将表决 通过概率几何？",
+          "url": "https://www.cls.cn/detail/2192690",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 15时19分]"
+        },
+        {
           "title": "小鹏机器人走猫步太像人了",
           "url": "https://www.douyin.com/hot/2295769",
           "source": "抖音",
@@ -299,52 +362,17 @@
           "time_info": "[09时18分 ~ 14时27分]"
         },
         {
-          "title": "中国版特斯拉！2026年，小鹏汽车要和高德合作推出Robotaxi，量产人型机器人",
-          "url": "https://wallstreetcn.com/articles/3758729",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时14分 ~ 14时27分]"
-        },
-        {
-          "title": "创业板指涨超2%，沪指涨0.9%，深成指涨1.73%，磷化工、有色金属、机器人、算力硬件等方向领涨，沪深京三市上涨个股近2800只。",
-          "url": "https://wallstreetcn.com/livenews/3000348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
-          "title": "事关机器人、自动驾驶板块！马斯克“万亿薪酬”提案将表决 通过概率几何？",
-          "url": "https://www.cls.cn/detail/2192690",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 14时27分]"
-        },
-        {
           "title": "港股小鹏汽车涨超5%，此前小鹏汽车携手高德地图，宣布2026年三款自研Robotaxi车型正式试运营，整合高德叫车平台并开放生态布局，进军海外市场。小鹏同时发布人形机器人IRON，并宣布2026年底目标实现规模量产高阶人形机器人。",
           "url": "https://wallstreetcn.com/livenews/3000332",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时27分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时19分]"
         },
         {
           "title": "A股人形机器人概念股午后拉升，方正电机直线涨停，浙江仙通、五洲新春、绿的谐波、博杰股份、汉宇集团跟涨。",
@@ -352,23 +380,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时27分]"
-        },
-        {
-          "title": "小鹏机器人里藏了真人？何小鹏澄清",
-          "url": "https://www.toutiao.com/trending/7569436659226250758/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            18
+            9,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时18分 ~ 14时27分]"
+          "time_info": "[13时18分 ~ 15时19分]"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.9%，深成指涨1.73%，磷化工、有色金属、机器人、算力硬件等方向领涨，沪深京三市上涨个股近2800只。",
+          "url": "https://wallstreetcn.com/livenews/3000348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 15时19分]"
         },
         {
           "title": "小鹏女机器人里藏真人？何小鹏回应",
@@ -376,33 +405,49 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 14时27分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 15时19分]"
+        },
+        {
+          "title": "小鹏机器人里藏了真人？何小鹏澄清",
+          "url": "https://www.toutiao.com/trending/7569436659226250758/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 15时19分]"
         },
         {
           "title": "女性人形机器人里藏真人？何小鹏回应",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%80%A7%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%87%8C%E8%97%8F%E7%9C%9F%E4%BA%BA%EF%BC%9F%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 15时19分]"
         },
         {
           "title": "小鹏机器人",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%25E5%25B0%258F%25E9%25B9%258F%25E6%259C%25BA%25E5%2599%25A8%25E4%25BA%25BA%26dgr%3D0%26cate%3D5001%26realpos%3D9%26stream_entry_id%3D31%26flag%3D1%26pos%3D10%26band_rank%3D9%26display_time%3D1762410240%26pre_seqid%3D17624102401580257238022&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 15时19分]"
         },
         {
           "title": "小鹏新一代机器人走猫步动作逼真",
@@ -433,17 +478,6 @@
       "match_count": 14,
       "titles": [
         {
-          "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
-          "url": "https://wallstreetcn.com/livenews/3000351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
           "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
           "url": "https://wallstreetcn.com/livenews/3000038",
           "source": "华尔街见闻-快讯",
@@ -453,6 +487,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
+          "url": "https://wallstreetcn.com/livenews/3000351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 15时19分]"
         },
         {
           "title": "谷歌公司人工智能（AI）大模型Gemini将从2026年开始帮助运行苹果公司语音助理Siri的那些功能。 苹果接近最终敲定一份协议，每年将向对方支付大约10亿美元。 苹果将利用1.2万亿parameter谷歌模型来支持其Siri。 谷歌母公司Alphabet股价和苹果股价上涨，刷新日高。",
@@ -533,7 +579,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -544,7 +590,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
