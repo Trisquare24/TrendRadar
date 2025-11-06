@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T09:18:31.872967+08:00",
-  "total_titles_processed": 810,
+  "generated_at": "2025-11-06T11:14:44.244532+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 11时14分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -55,8 +55,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 11时14分]"
         },
         {
           "title": "鸿海首席执行官：未来数月内将在美国部署人形机器人，生产人工智能服务器。",
@@ -65,7 +65,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -80,6 +80,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时16分]"
+        },
+        {
+          "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
+          "url": "https://www.cls.cn/detail/2192480",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 11时14分]"
         },
         {
           "title": "摩根大通CEO戴蒙：随着时间的推移，一些工作岗位将因人工智能而被淘汰。我们可以通过人工智能节省20多亿美元的成本。",
@@ -106,24 +118,13 @@
           "time_info": "[02时25分 ~ 03时16分]"
         },
         {
-          "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
-          "url": "https://www.cls.cn/detail/2192480",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
           "title": "英伟达CEO黄仁勋：“中国将赢得人工智能竞赛”",
           "url": "https://wallstreetcn.com/livenews/3000201",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -134,7 +135,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -145,7 +146,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -170,12 +171,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "日本执政党：希望每年投入1万亿日元用于芯片和人工智能",
+          "url": "https://flash.jin10.com/detail/20251106102034608800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "华为Mate 70 Air开启预售",
+          "url": "https://wallstreetcn.com/livenews/3000234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "日本自民党议员関芳弘：力争每年获得1万亿日元预算，用于芯片和人工智能领域。",
+          "url": "https://wallstreetcn.com/livenews/3000232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
@@ -247,6 +281,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时16分]"
+        },
+        {
+          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。",
+          "url": "https://flash.jin10.com/detail/20251106104149768800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3000270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
@@ -372,72 +428,8 @@
       ]
     },
     {
-      "keyword_group": "阿里 Qwen",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "阿里员工怎么看待刘鹏上任山姆引发的全网抵制阿里系舆情？",
-          "url": "https://www.zhihu.com/question/1969056763866211543",
-          "source": "知乎",
-          "ranks": [
-            1,
-            4,
-            3,
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时18分]"
-        },
-        {
-          "title": "网友爆料多位前阿里人加入山姆，为什么越来越多的阿里人选择在山姆开启下一站？会对山姆带来哪些变化？",
-          "url": "https://www.zhihu.com/question/1969459088606851517",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时18分]"
-        },
-        {
-          "title": "饿了么或将更名为「淘宝闪购」，骑手已同步更换橙黑新工服，这一调整对阿里意味着什么？如何从商业角度解读？",
-          "url": "https://www.zhihu.com/question/1969076570078541241",
-          "source": "知乎",
-          "ranks": [
-            5,
-            8,
-            19,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时18分]"
-        },
-        {
-          "title": "为何消费者害怕山姆阿里化",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%B6%88%E8%B4%B9%E8%80%85%E5%AE%B3%E6%80%95%E5%B1%B1%E5%A7%86%E9%98%BF%E9%87%8C%E5%8C%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时18分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 具身智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "宇树科技王兴兴：今年国内智能机器人平均每家公司增长应超50%-100%",
@@ -465,26 +457,126 @@
           "time_info": "[05时16分 ~ 09时18分]"
         },
         {
-          "title": "小鹏汽车“更名”后多项成果“涌现” 涉智能驾驶、Robotaxi、机器人及低空飞行领域",
-          "url": "https://www.cls.cn/detail/2192246",
-          "source": "财联社热门",
+          "title": "小鹏首款女性机器人亮相，其走路形态被质疑是真人扮演，机器人能实现走「猫步」吗？小鹏的产品能力究竟如何？",
+          "url": "https://www.zhihu.com/question/1969450608642745244",
+          "source": "知乎",
           "ranks": [
-            10
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时18分"
+          "time_info": "11时14分"
         },
         {
           "title": "小鹏机器人走猫步太像人了",
           "url": "https://www.douyin.com/hot/2295769",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 11时14分]"
+        },
+        {
+          "title": "中国版特斯拉！2026年，小鹏汽车要和高德合作推出Robotaxi，量产人型机器人",
+          "url": "https://wallstreetcn.com/articles/3758729",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "小鹏汽车“更名”后多项成果“涌现” 涉智能驾驶、Robotaxi、机器人及低空飞行领域",
+          "url": "https://www.cls.cn/detail/2192246",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "09时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "阿里员工怎么看待刘鹏上任山姆引发的全网抵制阿里系舆情？",
+          "url": "https://www.zhihu.com/question/1969056763866211543",
+          "source": "知乎",
+          "ranks": [
+            1,
+            4,
+            3,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时18分]"
+        },
+        {
+          "title": "网友爆料多位前阿里人加入山姆，为什么越来越多的阿里人选择在山姆开启下一站？会对山姆带来哪些变化？",
+          "url": "https://www.zhihu.com/question/1969459088606851517",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            7,
+            4,
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 11时14分]"
+        },
+        {
+          "title": "饿了么或将更名为「淘宝闪购」，骑手已同步更换橙黑新工服，这一调整对阿里意味着什么？如何从商业角度解读？",
+          "url": "https://www.zhihu.com/question/1969076570078541241",
+          "source": "知乎",
+          "ranks": [
+            5,
+            8,
+            19,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时18分]"
+        },
+        {
+          "title": "为何消费者害怕山姆阿里化",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%B6%88%E8%B4%B9%E8%80%85%E5%AE%B3%E6%80%95%E5%B1%B1%E5%A7%86%E9%98%BF%E9%87%8C%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 11时14分]"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至1%。中芯国际涨超3%，阿里巴巴、海尔智家、华虹半导体涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3000258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         }
       ]
     },
@@ -503,11 +595,12 @@
             14,
             23,
             20,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 11时14分]"
         }
       ]
     }
