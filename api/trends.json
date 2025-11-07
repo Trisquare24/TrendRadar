@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T14:26:46.927464+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2025-11-07T15:18:47.877059+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时47分 ~ 14时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时47分 ~ 15时18分]"
         },
         {
           "title": "11 月 6 日华为 Mate70 Air 开启预售， 4199 元起，有哪些亮点值得关注，你会买吗？",
@@ -55,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时17分 ~ 14时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时17分 ~ 15时18分]"
         },
         {
           "title": "阿里巴巴集团CEO吴泳铭：实现“超级人工智能”还需要非常长的时间",
@@ -68,6 +68,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 15时18分]"
         },
         {
           "title": "高通(QCOM.O)CEO：汽车是（本公司业务中）当前增速最快的领域。对个人AI设备的前景“非常乐观”。",
@@ -92,28 +105,17 @@
           "time_info": "05时15分"
         },
         {
-          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 14时26分]"
-        },
-        {
           "title": "在美国及大型科技公司施压下，欧盟考虑暂停《人工智能法案》部分条款的实施。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3000980",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时26分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时18分]"
         },
         {
           "title": "高通CEO Cristiano Amon：汽车是（本公司业务中）当前增速最快的领域。 对个人AI设备的前景“非常乐观”。（彭博电视）",
@@ -288,7 +290,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -404,11 +406,12 @@
             2,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时47分 ~ 14时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时47分 ~ 15时18分]"
         },
         {
           "title": "宇树机器人丝滑做完全套家务",
@@ -424,6 +427,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时47分 ~ 09时17分]"
+        },
+        {
+          "title": "特斯拉股东批准马斯克万亿美元薪酬包 世界首富与机器人共舞庆祝",
+          "url": "https://www.cls.cn/detail/2193634",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时17分 ~ 15时18分]"
         },
         {
           "title": "去掉蒙皮的小鹏机器人什么样",
@@ -486,31 +502,6 @@
           "time_info": "[00时47分 ~ 11时09分]"
         },
         {
-          "title": "特斯拉股东批准马斯克万亿美元薪酬包 世界首富与机器人共舞庆祝",
-          "url": "https://www.cls.cn/detail/2193634",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时17分 ~ 14时26分]"
-        },
-        {
-          "title": "特斯拉人形机器人亮相进博会",
-          "url": "https://www.toutiao.com/trending/7569466884635233843/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 14时26分]"
-        },
-        {
           "title": "小鹏汽车发力人形机器人意欲何为",
           "url": "https://www.toutiao.com/trending/7569599100031602212/",
           "source": "今日头条",
@@ -528,6 +519,19 @@
           "time_info": "[00时47分 ~ 07时16分]"
         },
         {
+          "title": "特斯拉人形机器人亮相进博会",
+          "url": "https://www.toutiao.com/trending/7569466884635233843/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 15时18分]"
+        },
+        {
           "title": "小鹏汽车是真做机器人还是炒作",
           "url": "https://www.toutiao.com/trending/7569605442133822985/",
           "source": "今日头条",
@@ -540,6 +544,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时47分 ~ 03时15分]"
+        },
+        {
+          "title": "何为进博｜从机器人到“空中专车”，科技成果向“新”见未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31908695",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 15时18分]"
         },
         {
           "title": "马斯克和机器人跳出六亲不认的步伐",
@@ -564,18 +581,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时17分 ~ 12时21分]"
-        },
-        {
-          "title": "何为进博｜从机器人到“空中专车”，科技成果向“新”见未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31908695",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 14时26分]"
         },
         {
           "title": "小鹏机器人里藏了真人？何小鹏发一镜到底视频，机器人“脱衣”回应质疑",
@@ -682,8 +687,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时16分 ~ 14时26分]"
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 15时18分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -709,8 +714,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时09分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时09分 ~ 15时18分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -722,8 +727,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时09分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时09分 ~ 15时18分]"
         },
         {
           "title": "AI泡沫担忧隐现，OpenAI创始人谈营收和投资承诺",
@@ -812,8 +817,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时17分 ~ 14时26分]"
+          "appearance_count": 11,
+          "time_info": "[06时17分 ~ 15时18分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
