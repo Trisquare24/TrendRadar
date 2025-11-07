@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T02:24:32.552408+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2025-11-08T03:16:57.259894+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
@@ -26,8 +26,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时16分]"
+        },
+        {
+          "title": "美国总统特朗普：我完全支持人工智能。",
+          "url": "https://flash.jin10.com/detail/20251108022405006800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         }
       ]
     },
@@ -43,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时16分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -54,8 +65,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时16分]"
         }
       ]
     },
@@ -72,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时16分]"
         }
       ]
     }
