@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T18:18:11.208039+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2025-11-08T19:14:00.809857+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时02分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[11时02分 ~ 19时14分]"
         },
         {
           "title": "国办：加强人工智能领域关键核心技术攻关和推广应用，推动海陆空全空间无人体系应用和标准建设",
@@ -64,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 19时14分]"
         },
         {
           "title": "高盛：人们对AI交易不再是“买入一切”，而是“更有选择性”，是“零和游戏”",
@@ -91,17 +91,6 @@
           "time_info": "01时16分"
         },
         {
-          "title": "美国俄勒冈州参议员卢·弗雷德里克时隔6年再次访华，Accelerate合伙人称在AI存在投资、合作机会",
-          "url": "https://wallstreetcn.com/livenews/3001548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "美国共和党参议员Daines对参议院民主党提出的关于平价医疗法补贴的提议予以拒绝。",
           "url": "https://flash.jin10.com/detail/20251108035138524800",
           "source": "金十数据",
@@ -112,6 +101,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时19分 ~ 09时15分]"
+        },
+        {
+          "title": "世界互联网大会蓝皮书：人工智能向全域赋能发展",
+          "url": "https://wallstreetcn.com/livenews/3001525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 19时14分]"
         },
         {
           "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
@@ -141,6 +144,18 @@
           "time_info": "[12时19分 ~ 15时17分]"
         },
         {
+          "title": "美国俄勒冈州参议员卢·弗雷德里克时隔6年再次访华，Accelerate合伙人称在AI存在投资、合作机会",
+          "url": "https://wallstreetcn.com/livenews/3001548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 19时14分]"
+        },
+        {
           "title": "阿里研究院院长袁媛：生成式AI浪潮下，软件成为连接科技创新与产业创新的桥梁",
           "url": "https://wallstreetcn.com/livenews/3001497",
           "source": "华尔街见闻-快讯",
@@ -154,17 +169,16 @@
           "time_info": "[13时16分 ~ 15时17分]"
         },
         {
-          "title": "世界互联网大会蓝皮书：人工智能向全域赋能发展",
-          "url": "https://wallstreetcn.com/livenews/3001525",
-          "source": "华尔街见闻-快讯",
+          "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3758961",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            13,
-            24
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 19时14分]"
         },
         {
           "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
@@ -190,17 +204,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时17分]"
-        },
-        {
-          "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3758961",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
         },
         {
           "title": "星展：美股AI股票的高估值问题非常值得担忧，尤其是所谓的美股“科技七巨头”",
@@ -273,11 +276,26 @@
             9,
             17,
             10,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时02分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[11时02分 ~ 19时14分]"
+        },
+        {
+          "title": "从展厅到工厂，人形机器人如何跨越规模交付瓶颈？明年是关键期｜进博会观察",
+          "url": "https://www.cls.cn/detail/2194894",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时23分 ~ 19时14分]"
         },
         {
           "title": "国内机器人走出惊艳“猫步”引发热议，专家解读：是不是越像人越好？",
@@ -292,8 +310,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时02分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[11时02分 ~ 19时14分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -305,25 +323,12 @@
             18,
             20,
             21,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时19分 ~ 18时18分]"
-        },
-        {
-          "title": "从展厅到工厂，人形机器人如何跨越规模交付瓶颈？明年是关键期｜进博会观察",
-          "url": "https://www.cls.cn/detail/2194894",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时23分 ~ 18时18分]"
+          "appearance_count": 25,
+          "time_info": "[00时19分 ~ 19时14分]"
         },
         {
           "title": "马斯克点赞小鹏机器人",
@@ -546,11 +551,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 19时14分]"
         },
         {
           "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
@@ -615,11 +621,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时15分 ~ 18时18分]"
+          "appearance_count": 14,
+          "time_info": "[09时15分 ~ 19时14分]"
         }
       ]
     }
