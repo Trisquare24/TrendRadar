@@ -1,28 +1,12 @@
 {
-  "generated_at": "2025-11-08T22:16:02.744167+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2025-11-08T23:16:08.383776+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
       "match_count": 22,
       "titles": [
-        {
-          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
-          "url": "https://www.cls.cn/detail/2193939",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3,
-            2,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时02分 ~ 22时16分]"
-        },
         {
           "title": "国办：加强人工智能领域关键核心技术攻关和推广应用，推动海陆空全空间无人体系应用和标准建设",
           "url": "https://wallstreetcn.com/articles/3758922",
@@ -35,6 +19,23 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[07时17分 ~ 18时18分]"
+        },
+        {
+          "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
+          "url": "https://www.cls.cn/detail/2193939",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3,
+            2,
+            4,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[11时02分 ~ 23时16分]"
         },
         {
           "title": "今年的乌镇AI含量拉满了",
@@ -59,6 +60,20 @@
           "time_info": "[11时39分 ~ 16时22分]"
         },
         {
+          "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3758961",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[18时17分 ~ 23时16分]"
+        },
+        {
           "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
           "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
           "source": "澎湃新闻",
@@ -70,18 +85,18 @@
           "time_info": "[00时19分 ~ 07时17分]"
         },
         {
-          "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3758961",
-          "source": "华尔街见闻",
+          "title": "用AI前瞻S15决赛",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%89%8D%E7%9E%BBS15%E5%86%B3%E8%B5%9B",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9,
-            7,
-            6
+            8,
+            12,
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时17分 ~ 22时16分]"
+          "appearance_count": 7,
+          "time_info": "[20时30分 ~ 23时16分]"
         },
         {
           "title": "高盛：人们对AI交易不再是“买入一切”，而是“更有选择性”，是“零和游戏”",
@@ -104,11 +119,12 @@
             7,
             11,
             19,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 22时16分]"
+          "appearance_count": 6,
+          "time_info": "[18时18分 ~ 23时16分]"
         },
         {
           "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
@@ -120,30 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "快手科技高级副总裁马宏彬：可灵AI全球用户破4500万，已与2万多家企业及开发者达成合作",
-          "url": "https://wallstreetcn.com/livenews/3001588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "用AI前瞻S15决赛",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%89%8D%E7%9E%BBS15%E5%86%B3%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时30分 ~ 22时16分]"
         },
         {
           "title": "美国共和党参议员Daines对参议院民主党提出的关于平价医疗法补贴的提议予以拒绝。",
@@ -197,6 +189,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时19分 ~ 15时17分]"
+        },
+        {
+          "title": "快手科技高级副总裁马宏彬：可灵AI全球用户破4500万，已与2万多家企业及开发者达成合作",
+          "url": "https://wallstreetcn.com/livenews/3001588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时16分]"
         },
         {
           "title": "阿里研究院院长袁媛：生成式AI浪潮下，软件成为连接科技创新与产业创新的桥梁",
@@ -310,8 +314,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时23分 ~ 22时16分]"
+          "appearance_count": 15,
+          "time_info": "[14时23分 ~ 23时16分]"
         },
         {
           "title": "马斯克点赞小鹏机器人",
@@ -329,8 +333,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时02分 ~ 22时16分]"
+          "appearance_count": 20,
+          "time_info": "[11时02分 ~ 23时16分]"
         },
         {
           "title": "国内机器人走出惊艳“猫步”引发热议，专家解读：是不是越像人越好？",
@@ -346,8 +350,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时02分 ~ 22时16分]"
+          "appearance_count": 20,
+          "time_info": "[11时02分 ~ 23时16分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -363,11 +367,12 @@
             25,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时19分 ~ 22时16分]"
+          "appearance_count": 32,
+          "time_info": "[00时19分 ~ 23时16分]"
         },
         {
           "title": "马斯克点赞小鹏机器人",
@@ -596,8 +601,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时17分 ~ 22时16分]"
+          "appearance_count": 12,
+          "time_info": "[17时17分 ~ 23时16分]"
         },
         {
           "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
