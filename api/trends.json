@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T01:14:06.450058+08:00",
-  "total_titles_processed": 337,
+  "generated_at": "2025-11-10T02:23:10.042376+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
@@ -16,8 +16,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "GAI演唱会江湖流大合唱",
@@ -27,8 +27,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
@@ -49,8 +49,19 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
+        },
+        {
+          "title": "张朝阳：有些时候我们要拒绝AI",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9C%9D%E9%98%B3%EF%BC%9A%E6%9C%89%E4%BA%9B%E6%97%B6%E5%80%99%E6%88%91%E4%BB%AC%E8%A6%81%E6%8B%92%E7%BB%9DAI",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "time_info": "[02时22分 ~ 02时23分]"
         }
       ]
     },
@@ -67,8 +78,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "起猛了机器人敲上青铜器了",
@@ -76,11 +87,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            22
+            22,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时23分]"
         }
       ]
     },
@@ -96,8 +108,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 02时23分]"
         }
       ]
     }
