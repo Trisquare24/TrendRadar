@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T03:13:14.470186+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2025-11-10T04:17:58.194086+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "GAI演唱会江湖流大合唱",
@@ -25,33 +25,24 @@
           "source": "抖音",
           "ranks": [
             22,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：取消针对纽瓦克机场（Newark Airport）的停飞命令。",
           "url": "https://wallstreetcn.com/livenews/3001690",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时13分]"
-        },
-        {
-          "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
-          "url": "https://wallstreetcn.com/livenews/3001685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "张朝阳：有些时候我们要拒绝AI",
@@ -59,11 +50,24 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            24
+            24,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时22分 ~ 04时17分]"
+        },
+        {
+          "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
+          "url": "https://wallstreetcn.com/livenews/3001685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时17分]"
         }
       ]
     },
@@ -80,8 +84,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 04时17分]"
         },
         {
           "title": "起猛了机器人敲上青铜器了",
@@ -94,8 +98,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 04时17分]"
         }
       ]
     },
@@ -111,8 +115,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 04时17分]"
         }
       ]
     }
