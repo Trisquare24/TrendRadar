@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T12:25:58.978287+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2025-11-10T13:20:11.578170+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
@@ -19,6 +19,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时19分 ~ 07时16分]"
+        },
+        {
+          "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
+          "url": "https://www.cls.cn/detail/2195310",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时15分 ~ 13时20分]"
         },
         {
           "title": "张朝阳：有些时候我们要拒绝AI",
@@ -52,19 +67,19 @@
           "time_info": "[00时19分 ~ 05时14分]"
         },
         {
-          "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
-          "url": "https://www.cls.cn/detail/2195310",
-          "source": "财联社热门",
+          "title": "每天一个奇吧—novelai吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
+          "source": "贴吧",
           "ranks": [
-            13,
-            9,
             6,
-            5,
-            4
+            7,
+            9,
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时15分 ~ 12时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时16分 ~ 13时20分]"
         },
         {
           "title": "英矽智能与礼来达成AI驱动药物研发合作，总额超过1亿美金",
@@ -91,18 +106,15 @@
           "time_info": "[00时19分 ~ 05时14分]"
         },
         {
-          "title": "每天一个奇吧—novelai吧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
-          "source": "贴吧",
+          "title": "一口气看清美股AI泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
-            7,
-            9,
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时16分 ~ 12时25分]"
+          "time_info": "[11时17分 ~ 13时20分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足问题而对纽瓦克机场（Newark Airport）下达停飞命令。",
@@ -129,15 +141,26 @@
           "time_info": "[11时17分 ~ 12时25分]"
         },
         {
-          "title": "一口气看清美股AI泡沫",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "bilibili 热搜",
+          "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
+          "url": "https://www.cls.cn/detail/2195390",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时17分 ~ 12时25分]"
+          "time_info": "[12时25分 ~ 13时20分]"
+        },
+        {
+          "title": "美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论",
+          "url": "https://www.cls.cn/detail/2195609",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 13时20分]"
         },
         {
           "title": "日本央行审议委员中川顺子：我关注的风险包括美国经济前景，例如关税对经济和物价的影响可能大于预期，以及人工智能驱动的投资增长预期可能发生改变。",
@@ -146,7 +169,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
         },
@@ -173,15 +196,15 @@
           "time_info": "09时21分"
         },
         {
-          "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
-          "url": "https://www.cls.cn/detail/2195390",
-          "source": "财联社热门",
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-10）",
+          "url": "https://flash.jin10.com/detail/20251110120705247800",
+          "source": "金十数据",
           "ranks": [
-            11
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时25分"
+          "time_info": "13时20分"
         },
         {
           "title": "美国参议院民主党议员Kaine表示，他支持共和党提出的结束政府停摆的法案。",
@@ -220,8 +243,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时19分 ~ 12时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时19分 ~ 13时20分]"
         },
         {
           "title": "起猛了机器人敲上青铜器了",
