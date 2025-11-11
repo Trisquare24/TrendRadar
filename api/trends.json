@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-11T18:20:42.819494+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2025-11-11T19:16:06.205967+08:00",
+  "total_titles_processed": 1681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "“把算力送入太空！” 中国企业卡位“太空AI”前沿赛道｜聚焦",
+          "url": "https://www.cls.cn/detail/2196710",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时26分 ~ 19时16分]"
+        },
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
           "url": "https://wallstreetcn.com/articles/3759030",
@@ -19,19 +32,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时22分 ~ 15时18分]"
-        },
-        {
-          "title": "“把算力送入太空！” 中国企业卡位“太空AI”前沿赛道｜聚焦",
-          "url": "https://www.cls.cn/detail/2196710",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时26分 ~ 18时20分]"
         },
         {
           "title": "12岁小孩做一张AI图吓坏整个小区",
@@ -62,8 +62,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时22分 ~ 18时20分]"
+          "appearance_count": 25,
+          "time_info": "[00时22分 ~ 19时16分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -143,6 +143,31 @@
           "time_info": "13时18分"
         },
         {
+          "title": "微软公司宣布，将投资100亿美元在葡萄牙海岸建设一个人工智能数据中心。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3002756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "2025乌镇峰会观察：AI大模型“上身”机器人 浙江本土科技力量成新焦点",
+          "url": "https://www.cls.cn/detail/2196822",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时24分 ~ 19时16分]"
+        },
+        {
           "title": "C3.ai(AI.N)盘中直线拉升，涨幅一度超10%。",
           "url": "https://flash.jin10.com/detail/20251111044243734800",
           "source": "金十数据",
@@ -214,19 +239,6 @@
           "time_info": "[02时27分 ~ 03时15分]"
         },
         {
-          "title": "2025乌镇峰会观察：AI大模型“上身”机器人 浙江本土科技力量成新焦点",
-          "url": "https://www.cls.cn/detail/2196822",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 18时20分]"
-        },
-        {
           "title": "如何看待《Science》称大模型「幻觉」难根除？",
           "url": "https://www.zhihu.com/question/1971225365486736628",
           "source": "知乎",
@@ -238,6 +250,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时22分 ~ 14时27分]"
+        },
+        {
+          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 19时16分]"
+        },
+        {
+          "title": "美国家庭电费上涨，左翼参议员桑德斯致信白宫：别让老百姓为科技巨头的AI梦买单",
+          "url": "https://wallstreetcn.com/articles/3759084",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时16分]"
         },
         {
           "title": "钢琴奶奶给AI打分评歌",
@@ -300,18 +336,6 @@
           "time_info": "[04时21分 ~ 05时16分]"
         },
         {
-          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时20分]"
-        },
-        {
           "title": "苹果(AAPL.O)公司因销量疲软推迟发布下一代iPhone Air。",
           "url": "https://flash.jin10.com/detail/20251111031535141800",
           "source": "金十数据",
@@ -369,15 +393,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "美国家庭电费上涨，左翼参议员桑德斯致信白宫：别让老百姓为科技巨头的AI梦买单",
-          "url": "https://wallstreetcn.com/articles/3759084",
-          "source": "华尔街见闻",
+          "title": "AI投资热潮遭遇资本支出“反噬” 苹果因保守策略意外成为避风港",
+          "url": "https://flash.jin10.com/detail/20251111190155430800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "19时16分"
         },
         {
           "title": "美股 AI 科技股遭惨烈一周，英伟达等八巨头市值缩水 8000 亿美元，会否重蹈互联网泡沫的走势？",
@@ -435,13 +459,24 @@
           "time_info": "14时27分"
         },
         {
+          "title": "微软宣布在葡萄牙锡尼什投资100亿美元建设AI数据中心",
+          "url": "https://flash.jin10.com/detail/20251111184532762800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "苹果考虑在下一代iPhone Air上增加第二颗摄像头。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3002706",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -474,7 +509,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         }
@@ -499,8 +534,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时22分 ~ 18时20分]"
+          "appearance_count": 25,
+          "time_info": "[00时22分 ~ 19时16分]"
         },
         {
           "title": "特斯拉准备扩建得州超级工厂，拟年产1000万台Optimus人形机器人",
@@ -541,6 +576,18 @@
           "time_info": "[12时22分 ~ 14时27分]"
         },
         {
+          "title": "【焦点复盘】沪指冲高回落险守4000点，锂电材料股持续火热，机器人概念午后异军突起",
+          "url": "https://www.cls.cn/detail/2197306",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时16分]"
+        },
+        {
           "title": "智元机器人完成股改，即将开启上市之路？",
           "url": "https://www.cls.cn/detail/2195804",
           "source": "财联社热门",
@@ -574,17 +621,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时13分 ~ 12时22分]"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落险守4000点，锂电材料股持续火热，机器人概念午后异军突起",
-          "url": "https://www.cls.cn/detail/2197306",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         },
         {
           "title": "传化智联与智元机器人等共建国家级具身智能创新平台",
@@ -637,7 +673,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -667,8 +703,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
         {
           "title": "OpenAI挖走英特尔印度大将",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8C%96%E8%B5%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%B0%86",
@@ -721,7 +768,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -782,7 +829,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -822,6 +869,34 @@
       ]
     },
     {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "字节火山引擎正式发布豆包编程模型：成本降低62.7%，国内最低价",
+          "url": "https://wallstreetcn.com/livenews/3002596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "字节跳动辟谣“成中通快运新股东”",
+          "url": "https://wallstreetcn.com/livenews/3002755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "阿里 Qwen",
       "match_count": 1,
       "titles": [
@@ -840,23 +915,6 @@
       ]
     },
     {
-      "keyword_group": "字节 Kimi 豆包",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "字节火山引擎正式发布豆包编程模型：成本降低62.7%，国内最低价",
-          "url": "https://wallstreetcn.com/livenews/3002596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "罗永浩",
       "match_count": 1,
       "titles": [
@@ -870,8 +928,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时18分 ~ 18时20分]"
+          "appearance_count": 11,
+          "time_info": "[13时18分 ~ 19时16分]"
         }
       ]
     }
