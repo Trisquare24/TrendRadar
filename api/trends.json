@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T09:18:54.847867+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2025-11-11T11:13:08.090114+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时13分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -25,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时13分]"
         },
         {
           "title": "12岁小孩做一张AI图吓坏整个小区",
@@ -37,11 +39,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时13分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -129,6 +132,18 @@
           "time_info": "[02时27分 ~ 03时15分]"
         },
         {
+          "title": "美参议员指责AI热潮推高电价 要求白宫应对数据中心用电压力",
+          "url": "https://www.cls.cn/detail/2196521",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 11时13分]"
+        },
+        {
           "title": "摩根大通：AI的5万亿美元成本将需要所有的债务市场（来满足）。",
           "url": "https://wallstreetcn.com/livenews/3002262",
           "source": "华尔街见闻-快讯",
@@ -151,6 +166,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时17分]"
+        },
+        {
+          "title": "李飞飞教授预言AI下一个十年",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E9%A3%9E%E9%A3%9E%E6%95%99%E6%8E%88%E9%A2%84%E8%A8%80AI%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8D%81%E5%B9%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 11时13分]"
         },
         {
           "title": "苹果推迟发布下一代iPhone Air。（The Information）",
@@ -207,7 +233,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         },
@@ -223,17 +249,6 @@
           "time_info": "01时16分"
         },
         {
-          "title": "美参议员指责AI热潮推高电价 要求白宫应对数据中心用电压力",
-          "url": "https://www.cls.cn/detail/2196521",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
           "title": "英伟达拉美主管Marcio Aguiar：英伟达支持创新。 在墨西哥，人工智能（AI）机会大于挑战。 英伟达的合作伙伴们现在计划在墨西哥投资。 他们将在墨西哥数据中心投资200万-400万美元。",
           "url": "https://wallstreetcn.com/livenews/3002295",
           "source": "华尔街见闻-快讯",
@@ -247,9 +262,96 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "keyword_group": "机器人 具身智能",
+      "match_count": 6,
       "titles": [
+        {
+          "title": "胸部设计擦边,小鹏机器人被批媚男",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时13分]"
+        },
+        {
+          "title": "深圳人形机器人卖爆",
+          "url": "https://www.toutiao.com/trending/7570940971802693161/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            16,
+            29,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时15分 ~ 07时17分]"
+        },
+        {
+          "title": "智元机器人完成股改，即将开启上市之路？",
+          "url": "https://www.cls.cn/detail/2195804",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时16分]"
+        },
+        {
+          "title": "智元机器人、蚂蚁集团等成立未来科技公司",
+          "url": "https://wallstreetcn.com/livenews/3002474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "宇树科技机器人手指专利获授权",
+          "url": "https://wallstreetcn.com/livenews/3002468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "小鹏汽车港股涨超15%，追随隔夜小鹏汽车美股走势（隔夜涨幅16.15%），市场对其机器人感到乐观。",
+          "url": "https://wallstreetcn.com/livenews/3002456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI寻求变现又一招？这次瞄准AI医疗 或开发个人健康助理",
+          "url": "https://www.cls.cn/detail/2196380",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 11时13分]"
+        },
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
           "url": "https://wallstreetcn.com/livenews/3002253",
@@ -283,48 +385,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "胸部设计擦边,小鹏机器人被批媚男",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时18分]"
-        },
-        {
-          "title": "深圳人形机器人卖爆",
-          "url": "https://www.toutiao.com/trending/7570940971802693161/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            16,
-            29,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时15分 ~ 07时17分]"
-        },
-        {
-          "title": "智元机器人完成股改，即将开启上市之路？",
-          "url": "https://www.cls.cn/detail/2195804",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时16分]"
         }
       ]
     },
