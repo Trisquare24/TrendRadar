@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T18:20:24.481826+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2025-11-12T19:16:07.997903+08:00",
+  "total_titles_processed": 1649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "硅谷AI“地震”：从债券市场开始？",
@@ -29,11 +29,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时10分 ~ 18时20分]"
+          "appearance_count": 14,
+          "time_info": "[11时10分 ~ 19时16分]"
         },
         {
           "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
@@ -77,6 +78,18 @@
           "time_info": "[00时21分 ~ 11时11分]"
         },
         {
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 19时16分]"
+        },
+        {
           "title": "“AI牛市”靠不靠谱？华尔街现在找到了新的看涨动力！",
           "url": "https://www.cls.cn/detail/2197833",
           "source": "财联社热门",
@@ -103,18 +116,6 @@
           "time_info": "[09时17分 ~ 12时22分]"
         },
         {
-          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
-          "url": "https://wallstreetcn.com/articles/3759168",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 16时25分]"
-        },
-        {
           "title": "商汤在沙特共建人工智能创新中心",
           "url": "https://flash.jin10.com/detail/20251112124229582800",
           "source": "金十数据",
@@ -132,9 +133,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "工信部就《人工智能 安全治理 安全威胁情报共享技术要求》等325项行业标准、22项行业标准外文版、55项推荐性国家标准和3项推荐性国家标准外文版计划项目公开征集意见。",
+          "url": "https://wallstreetcn.com/livenews/3003388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "盛宝银行看好亚洲AI市场前景 美企估值偏高且面临循环交易风险",
@@ -352,7 +364,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -445,6 +457,17 @@
           "time_info": "13时18分"
         },
         {
+          "title": "芯片初创公司D-Matrix融资2.75亿美元 拟扩大AI推理芯片生产和分销",
+          "url": "https://flash.jin10.com/detail/20251112180638505800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "鸿海：预计第四季度人工智能服务器收入将环比增长。",
           "url": "https://flash.jin10.com/detail/20251112142110257800",
           "source": "金十数据",
@@ -514,7 +537,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "2张海报推动20cm涨停，机器人牛股预警：股价或随时快速下跌",
@@ -652,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "优必选首批数百台全尺寸工业人形机器人Walker S2正式开启量产交付",
+          "url": "https://wallstreetcn.com/livenews/3003377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人",
@@ -847,7 +881,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
@@ -898,6 +932,17 @@
           "time_info": "14时26分"
         },
         {
+          "title": "谷歌：支持美国国会通过的关键两党法案，以保护民众免受网络钓鱼侵害。",
+          "url": "https://flash.jin10.com/detail/20251112180704966800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "谷歌高管贾斯图斯：数据中心不存在德国政府补贴。",
           "url": "https://flash.jin10.com/detail/20251111234557842800",
           "source": "金十数据",
@@ -939,6 +984,19 @@
           "time_info": "[14时26分 ~ 16时25分]"
         },
         {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时24分 ~ 19时16分]"
+        },
+        {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
           "url": "https://wallstreetcn.com/livenews/3003176",
           "source": "华尔街见闻-快讯",
@@ -961,18 +1019,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时20分 ~ 18时20分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 18时20分]"
         }
       ]
     },
@@ -1025,11 +1071,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8ETim%E7%9B%B8%E4%BA%B2%E7%A4%BE%E6%AD%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%2523%25E5%25BD%25B1%25E8%25A7%2586%25E9%25A3%2593%25E9%25A3%258ETim%25E7%259B%25B8%25E4%25BA%25B2%25E7%25A4%25BE%25E6%25AD%25BB%2523%26realpos%3D14%26stream_entry_id%3D31%26pos%3D13%26band_rank%3D14%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26display_time%3D1762942200%26pre_seqid%3D176294220040801130158142&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            14
+            14,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时16分]"
         }
       ]
     },
