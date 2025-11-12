@@ -1,12 +1,40 @@
 {
-  "generated_at": "2025-11-12T15:18:14.424256+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2025-11-12T16:25:13.492342+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "硅谷AI“地震”：从债券市场开始？",
+          "url": "https://www.cls.cn/detail/2197841",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时10分 ~ 16时25分]"
+        },
+        {
+          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
+          "url": "https://wallstreetcn.com/articles/3759159",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时10分 ~ 16时25分]"
+        },
         {
           "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
           "url": "https://www.cls.cn/detail/2197694",
@@ -19,20 +47,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时17分 ~ 14时26分]"
-        },
-        {
-          "title": "硅谷AI“地震”：从债券市场开始？",
-          "url": "https://www.cls.cn/detail/2197841",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时10分 ~ 15时18分]"
         },
         {
           "title": "李飞飞发表长文：空间智能是AI下一个前沿",
@@ -63,18 +77,6 @@
           "time_info": "[00时21分 ~ 11时11分]"
         },
         {
-          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
-          "url": "https://wallstreetcn.com/articles/3759159",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时10分 ~ 15时18分]"
-        },
-        {
           "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
           "url": "https://wallstreetcn.com/articles/3759111",
           "source": "华尔街见闻",
@@ -86,6 +88,31 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时17分 ~ 12时22分]"
+        },
+        {
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 16时25分]"
+        },
+        {
+          "title": "“AI牛市”靠不靠谱？华尔街现在找到了新的看涨动力！",
+          "url": "https://www.cls.cn/detail/2197833",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 16时25分]"
         },
         {
           "title": "商汤在沙特共建人工智能创新中心",
@@ -148,30 +175,6 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
-          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
-          "url": "https://wallstreetcn.com/articles/3759168",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 15时18分]"
-        },
-        {
-          "title": "“AI牛市”靠不靠谱？华尔街现在找到了新的看涨动力！",
-          "url": "https://www.cls.cn/detail/2197833",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 15时18分]"
-        },
-        {
           "title": "AMD：预计2027年与数据中心相关的AI芯片业务收入将为“数百亿美元”。 服务器CPU的市场份额超过50%。 PC（个人电脑）市场的份额超过40%。 预计未来3-5年CAGR（复合年均增长率）年度收入增幅为35%。 预计整体数据中心增速将比CAGR市场多出60%。",
           "url": "https://wallstreetcn.com/livenews/3002943",
           "source": "华尔街见闻-快讯",
@@ -209,6 +212,17 @@
           "time_info": "[00时22分 ~ 01时16分]"
         },
         {
+          "title": "Meta 首席 AI 科学家 LeCun 被曝将离职创业，具体情况如何？他的离职会给公司带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1971881827078726660",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
           "title": "孙燕姿两年前就预言了AI",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%AD%99%E7%87%95%E5%A7%BF%E4%B8%A4%E5%B9%B4%E5%89%8D%E5%B0%B1%E9%A2%84%E8%A8%80%E4%BA%86AI&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D29%26cate%3D5001%26q%3D%25E5%25AD%2599%25E7%2587%2595%25E5%25A7%25BF%25E4%25B8%25A4%25E5%25B9%25B4%25E5%2589%258D%25E5%25B0%25B1%25E9%25A2%2584%25E8%25A8%2580%25E4%25BA%2586AI%26filter_type%3Drealtimehot%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26pos%3D30%26band_rank%3D29%26c_type%3D31%26display_time%3D1762924565%26pre_seqid%3D1762924565597025594125&launchid=10000360-page_H5",
           "source": "微博",
@@ -229,6 +243,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "鸿海：人工智能数据中心系统集成商的利润将更高。",
+          "url": "https://flash.jin10.com/detail/20251112155226137800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "鸿海：人工智能计算需求将迎来爆发式增长。",
+          "url": "https://flash.jin10.com/detail/20251112155048600800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "澳洲联储副主席豪泽回应AI泡沫论：市场恐已进入“新范式”",
@@ -253,6 +289,17 @@
           "time_info": "12时22分"
         },
         {
+          "title": "鸿海：人工智能的发展尚处于起步阶段。",
+          "url": "https://flash.jin10.com/detail/20251112154646279800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "AMD首席执行官苏姿丰：推理业务增长速度快于训练业务。人工智能加速器并未导致CPU市场放缓。",
           "url": "https://flash.jin10.com/detail/20251112022626987800",
           "source": "金十数据",
@@ -270,7 +317,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -336,9 +383,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "鸿海董事长：对2026年人工智能发展前景非常乐观。 对2026年的业务非常看好。 人工智能将是公司2026年最重要的增长力。",
+          "url": "https://wallstreetcn.com/livenews/3003264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "澳洲联储副主席豪泽：我们不知道是否正处于人工智能泡沫中，目前的中心情形并非市场即将崩盘。",
@@ -388,7 +446,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "2张海报推动20cm涨停，机器人牛股预警：股价或随时快速下跌",
@@ -505,6 +563,17 @@
           "time_info": "[12时22分 ~ 13时18分]"
         },
         {
+          "title": "车企为何要研发机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BD%A6%E4%BC%81%E4%B8%BA%E4%BD%95%E8%A6%81%E7%A0%94%E5%8F%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
           "title": "摩根士丹利上调小鹏港股目标价至131港元 称机器人等带来重估机会",
           "url": "https://wallstreetcn.com/livenews/3003058",
           "source": "华尔街见闻-快讯",
@@ -538,6 +607,17 @@
           "time_info": "13时18分"
         },
         {
+          "title": "智微智能：公司在机器人“大小脑”控制器领域已有客户订单落地",
+          "url": "https://wallstreetcn.com/livenews/3003269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "中金：水下机器人市场有望迎来快速发展",
           "url": "https://wallstreetcn.com/livenews/3003045",
           "source": "华尔街见闻-快讯",
@@ -552,7 +632,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -564,8 +644,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 15时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 16时25分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -628,6 +708,17 @@
           "time_info": "[03时14分 ~ 04时19分]"
         },
         {
+          "title": "鸿海：将于下周公布与OpenAI合作的具体细节。",
+          "url": "https://wallstreetcn.com/livenews/3003282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
           "url": "https://flash.jin10.com/detail/20251112060435250800",
           "source": "金十数据",
@@ -637,6 +728,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "鸿海：我们将于下周发布与OpenAI相关的公告。",
+          "url": "https://flash.jin10.com/detail/20251112154841373800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "AMD(AMD.O)CEO：公司与OpenAI的合作非常谨慎。与OpenAI的交易包含具体的部署计划。",
@@ -656,9 +758,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "鸿海：我们当然会与OpenAI合作。",
+          "url": "https://flash.jin10.com/detail/20251112154635082800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         }
       ]
     },
@@ -739,6 +852,48 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26flag%3D1%26dgr%3D0%26band_rank%3D7%26q%3D%2523%25E5%2589%258DDeepSeek%25E7%25A0%2594%25E7%25A9%25B6%25E5%2591%2598%25E7%25BD%2597%25E7%25A6%258F%25E8%258E%2589%25E5%25B7%25B2%25E5%258A%25A0%25E5%2585%25A5%25E5%25B0%258F%25E7%25B1%25B3%2523%26filter_type%3Drealtimehot%26realpos%3D7%26c_type%3D31%26pos%3D8%26display_time%3D1762928706%26pre_seqid%3D1762928706249026303112&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            7,
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时26分 ~ 16时25分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
+          "url": "https://wallstreetcn.com/livenews/3003176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时26分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "阿里 Qwen",
       "match_count": 3,
       "titles": [
@@ -775,36 +930,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26flag%3D1%26dgr%3D0%26band_rank%3D7%26q%3D%2523%25E5%2589%258DDeepSeek%25E7%25A0%2594%25E7%25A9%25B6%25E5%2591%2598%25E7%25BD%2597%25E7%25A6%258F%25E8%258E%2589%25E5%25B7%25B2%25E5%258A%25A0%25E5%2585%25A5%25E5%25B0%258F%25E7%25B1%25B3%2523%26filter_type%3Drealtimehot%26realpos%3D7%26c_type%3D31%26pos%3D8%26display_time%3D1762928706%26pre_seqid%3D1762928706249026303112&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 15时18分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
-          "url": "https://wallstreetcn.com/livenews/3003176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时26分]"
         }
       ]
     },
