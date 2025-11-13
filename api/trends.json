@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T07:17:29.673700+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2025-11-13T09:19:24.365914+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -37,22 +37,24 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 09时19分]"
         },
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
           "url": "https://www.cls.cn/detail/2198992",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 09时19分]"
         },
         {
           "title": "墨西哥新莱昂州州长：英伟达(NVDA.O)将投资10亿美元在该州建设绿色人工智能数据中心。",
@@ -130,9 +132,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "如何看待米哈游《星布谷地》的 AI NPC 技术？",
+          "url": "https://www.zhihu.com/question/1970221380470568183",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "思科(CSCO.O)CEO：预计到2026财年下半年，思科在主权、新型云计算和企业客户领域的AI机遇将加速增长。",
@@ -177,12 +190,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "互联网被AI“污染”成什么样了",
+          "url": "https://www.toutiao.com/trending/7571810846737714730/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -194,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "OpenAI发布GPT-5.1",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -225,9 +260,52 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "拿下1.2亿元订单后 “周杰伦概念股”与宇树科技成立合资公司 将开发明星IP机器人",
+          "url": "https://www.cls.cn/detail/2198609",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 09时19分]"
+        },
+        {
+          "title": "“拟人”暗战打响！多上市公司披露仿生布局 机构称机器人“泡沫”处于上升期|行业观察",
+          "url": "https://www.cls.cn/detail/2198568",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "为机器人改筋骨换皮肉 塑料企业扎堆布局具身智能“轻量化”已小批量供货|行业观察",
+          "url": "https://www.cls.cn/detail/2198735",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     },
@@ -240,11 +318,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31948143",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 09时19分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -290,33 +369,19 @@
       ]
     },
     {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 2,
+      "keyword_group": "影视飓风",
+      "match_count": 1,
       "titles": [
         {
-          "title": "拿下1.2亿元订单后 “周杰伦概念股”与宇树科技成立合资公司 将开发明星IP机器人",
-          "url": "https://www.cls.cn/detail/2198609",
-          "source": "财联社热门",
+          "title": "影视飓风Tim相亲被嫌弃学历低",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8ETim%E7%9B%B8%E4%BA%B2%E8%A2%AB%E5%AB%8C%E5%BC%83%E5%AD%A6%E5%8E%86%E4%BD%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D24%26q%3D%2523%25E5%25BD%25B1%25E8%25A7%2586%25E9%25A3%2593%25E9%25A3%258ETim%25E7%259B%25B8%25E4%25BA%25B2%25E8%25A2%25AB%25E5%25AB%258C%25E5%25BC%2583%25E5%25AD%25A6%25E5%258E%2586%25E4%25BD%258E%2523%26stream_entry_id%3D31%26dgr%3D0%26filter_type%3Drealtimehot%26pos%3D23%26c_type%3D31%26band_rank%3D24%26lcate%3D5001%26cate%3D5001%26flag%3D1%26display_time%3D1762996686%26pre_seqid%3D17629966861290113434383&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            10,
-            8,
-            7
+            24
           ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "“拟人”暗战打响！多上市公司披露仿生布局 机构称机器人“泡沫”处于上升期|行业观察",
-          "url": "https://www.cls.cn/detail/2198568",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 07时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     }
