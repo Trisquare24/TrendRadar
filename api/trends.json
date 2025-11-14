@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T11:12:06.119698+08:00",
-  "total_titles_processed": 980,
+  "generated_at": "2025-11-14T12:21:30.092470+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 11时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时21分]"
         },
         {
           "title": "AI造世界的时代来了",
@@ -29,11 +29,12 @@
             5,
             4,
             6,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 11时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时21分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -59,19 +60,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 11时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时21分]"
         },
         {
           "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
           "url": "https://www.cls.cn/detail/2200326",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时11分 ~ 11时12分]"
+          "appearance_count": 3,
+          "time_info": "[11时11分 ~ 12时21分]"
+        },
+        {
+          "title": "晨星：AI服务器需求激增，鸿海增长前景强劲",
+          "url": "https://flash.jin10.com/detail/20251114115801982800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "网信部门从严整治利用AI仿冒公众人物开展直播营销问题乱象：已处置仿冒公众人物账号1.1万余个。（新华社）",
@@ -83,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-14）",
+          "url": "https://flash.jin10.com/detail/20251114115348256800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：从联系人处得知，通胀过高，且正朝着错误的方向发展。 在特朗普政府停摆期间，非官方数据（Anecdotal Data）一直很重要。 美国经济一直表现出惊人的韧性。 随着就业市场的疲软，美联储的就业目标（即双重使命中的就业方面）正面临挑战。 当前失业率徘徊在最高水平附近。 部分通胀可能由关税推动，但服务业通胀是一个真正的担忧。 对FOMC货币政策而言，这是一个困难的时期。 美联储政策需要保持一定的限制性，以抑制通胀压力。 预计关税将推高通胀，并持续到明年初。 目前就业市场看起来平衡，但仍有值得担忧的原因。 美联储的独立性对于实现就业和通胀目标至关重要。 政治在制定货币政策中不发挥任何作用。 现在断言人工智能（A.I.）会发生什么为时过早。 人工智能公司的估值是否合理，需要时间来证明。",
@@ -292,8 +316,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 11时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时21分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -303,11 +327,12 @@
             18,
             17,
             16,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 11时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时21分]"
         },
         {
           "title": "微软CEO：祝OpenAI甲骨文好运",
