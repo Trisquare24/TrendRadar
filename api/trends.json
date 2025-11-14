@@ -1,8 +1,84 @@
 {
-  "generated_at": "2025-11-15T05:16:22.410382+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2025-11-15T06:16:47.831750+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
+          "url": "https://wallstreetcn.com/articles/3759409",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时16分]"
+        },
+        {
+          "title": "13F报告显示：Soros Fund Management LLC.三季度建仓做多Brown & Brown、Aramark、iShares 7-10年期美国国债ETF、Idacorp、JBT Marel。 清仓阿斯利康、摩根大通、纳斯达克等。 增持英伟达、Snowflake、KKR等。 减持SPDR标普500 ETF信托、谷歌A、高盛等。",
+          "url": "https://wallstreetcn.com/livenews/3005054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "13F报告显示：Coatue Management三季度建仓新思科技Synopsys、应用材料、谷歌C、Snowflake、Figma。 清仓飞利浦莫里斯、礼来、Generac、百胜中国、LexinFintech。 增持谷歌A、Applovin、甲骨文、微软、台积电。 减持CoreWeave、Arm控股、亚马逊、Intuit、KKR。 重仓Meta、微软、台积电、GE Vernova、亚马逊。",
+          "url": "https://wallstreetcn.com/livenews/3005032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时16分]"
+        },
+        {
+          "title": "13F数据显示，Tiger Global Management LLC.三季度建仓做多奈飞、MongoDB、Bullish、Figma、以及Accelerant等。 清仓礼来、CrowdStrike、诺和诺德、ZKH等。 增持博通、GE Vernova、Coupang、亚马逊、Block。 减持Meta、Sherwin-Williams、Zillow（C类股+A类股）、Reddit。 重仓微软、Sea Ltd.、谷歌A、亚马逊、英伟达。",
+          "url": "https://wallstreetcn.com/livenews/3005015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时16分]"
+        },
+        {
+          "title": "巴菲特旗下伯克希尔三季度建仓谷歌母公司Alphabet，在仓位中位列第十大。",
+          "url": "https://wallstreetcn.com/livenews/3005050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "谷歌将在美国得州投资400亿美元，新建三个数据中心",
+          "url": "https://wallstreetcn.com/livenews/3005043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
       "match_count": 6,
@@ -16,8 +92,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "美联储洛根：经济正受益于与人工智能相关的投资。",
@@ -28,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时16分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时16分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
@@ -37,11 +113,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时16分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时16分]"
         },
         {
           "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
@@ -51,8 +128,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 06时16分]"
         },
         {
           "title": "武汉造全球首台AI胶囊内镜获广泛应用",
@@ -91,19 +168,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时16分]"
-        },
-        {
-          "title": "阿里巴巴ADR跌幅扩大至4.6%。",
-          "url": "https://wallstreetcn.com/livenews/3005037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "阿里巴巴股价短线从161.90美元上方跳水至157.75美元下方，从上涨1.3%转而下跌2%。",
@@ -119,6 +185,18 @@
           "time_info": "[02时24分 ~ 04时20分]"
         },
         {
+          "title": "阿里巴巴ADR跌幅扩大至4.6%。",
+          "url": "https://wallstreetcn.com/livenews/3005037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时16分]"
+        },
+        {
           "title": "阿里巴巴(BABA.N)短线走低，现跌2.3%。",
           "url": "https://flash.jin10.com/detail/20251115020302958800",
           "source": "金十数据",
@@ -129,47 +207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
-          "url": "https://wallstreetcn.com/articles/3759409",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 05时16分]"
-        },
-        {
-          "title": "13F报告显示：Coatue Management三季度建仓新思科技Synopsys、应用材料、谷歌C、Snowflake、Figma。 清仓飞利浦莫里斯、礼来、Generac、百胜中国、LexinFintech。 增持谷歌A、Applovin、甲骨文、微软、台积电。 减持CoreWeave、Arm控股、亚马逊、Intuit、KKR。 重仓Meta、微软、台积电、GE Vernova、亚马逊。",
-          "url": "https://wallstreetcn.com/livenews/3005032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "13F数据显示，Tiger Global Management LLC.三季度建仓做多奈飞、MongoDB、Bullish、Figma、以及Accelerant等。 清仓礼来、CrowdStrike、诺和诺德、ZKH等。 增持博通、GE Vernova、Coupang、亚马逊、Block。 减持Meta、Sherwin-Williams、Zillow（C类股+A类股）、Reddit。 重仓微软、Sea Ltd.、谷歌A、亚马逊、英伟达。",
-          "url": "https://wallstreetcn.com/livenews/3005015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时16分]"
         }
       ]
     }
