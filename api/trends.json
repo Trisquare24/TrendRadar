@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T12:20:14.065605+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2025-11-15T13:17:01.256386+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 12时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 13时17分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时05分 ~ 12时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时05分 ~ 13时17分]"
         },
         {
           "title": "13F报告显示：高盛集团三季度建仓Figma、BitMine Immersion Technologies、摩根大通国际债券机会ETF等。 增持英伟达、苹果、微软、谷歌等。 减持Enbridge、iShares罗素2000 ETF等。 重仓英伟达、微软、苹果、SPDR标普500 ETF信托、亚马逊。",
@@ -43,6 +43,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
+          "url": "https://www.cls.cn/detail/2201480",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时05分 ~ 13时17分]"
         },
         {
           "title": "13F报告显示：Coatue Management三季度建仓新思科技Synopsys、应用材料、谷歌C、Snowflake、Figma。 清仓飞利浦莫里斯、礼来、Generac、百胜中国、LexinFintech。 增持谷歌A、Applovin、甲骨文、微软、台积电。 减持CoreWeave、Arm控股、亚马逊、Intuit、KKR。 重仓Meta、微软、台积电、GE Vernova、亚马逊。",
@@ -70,28 +82,17 @@
           "time_info": "[06时16分 ~ 07时16分]"
         },
         {
-          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
-          "url": "https://www.cls.cn/detail/2201480",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时05分 ~ 12时20分]"
-        },
-        {
           "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
           "url": "https://flash.jin10.com/detail/20251115093238774800",
           "source": "金十数据",
           "ranks": [
             7,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时05分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时05分 ~ 13时17分]"
         },
         {
           "title": "13F数据显示，Tiger Global Management LLC.三季度建仓做多奈飞、MongoDB、Bullish、Figma、以及Accelerant等。 清仓礼来、CrowdStrike、诺和诺德、ZKH等。 增持博通、GE Vernova、Coupang、亚马逊、Block。 减持Meta、Sherwin-Williams、Zillow（C类股+A类股）、Reddit。 重仓微软、Sea Ltd.、谷歌A、亚马逊、英伟达。",
@@ -156,8 +157,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时14分 ~ 12时20分]"
+          "appearance_count": 13,
+          "time_info": "[03时14分 ~ 13时17分]"
         },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
@@ -179,8 +180,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时05分 ~ 12时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时05分 ~ 13时17分]"
+        },
+        {
+          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
+          "url": "https://wallstreetcn.com/articles/3759419",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时15分 ~ 13时17分]"
         },
         {
           "title": "美联储洛根：经济正受益于与人工智能相关的投资。",
@@ -194,18 +207,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时20分 ~ 09时16分]"
-        },
-        {
-          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
-          "url": "https://wallstreetcn.com/articles/3759419",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 12时20分]"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从2026年开始按AI影响力对员工（绩效）评级。（Business Insider）",
@@ -269,8 +270,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 12时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 13时17分]"
         },
         {
           "title": "13F报告显示，高瓴HHLR Advisors Ltd.三季度新进满帮、百度、Sea Ltd.、巴里克矿业等。 增持阿里巴巴、百度、拼多多等。 清仓看准网/Boss直聘、理想汽车、唯品会、WNS、京东等。 减持中通快递、网易、富途控股、逸仙电商等。 重仓拼多多、阿里、富途、Webull、百度、传奇生物、网易等。",
@@ -347,8 +348,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 13时17分]"
         },
         {
           "title": "影视飓风Tim回应相亲争议",
