@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-15T14:24:07.581900+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2025-11-15T15:16:01.274252+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 11,
       "titles": [
+        {
+          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
+          "url": "https://wallstreetcn.com/articles/3759431",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时05分 ~ 15时16分]"
+        },
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
           "url": "https://wallstreetcn.com/articles/3759409",
@@ -18,20 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 14时24分]"
-        },
-        {
-          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
-          "url": "https://wallstreetcn.com/articles/3759431",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时05分 ~ 14时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 15时16分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -43,8 +43,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时05分 ~ 14时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时05分 ~ 15时16分]"
         },
         {
           "title": "13F报告显示：高盛集团三季度建仓Figma、BitMine Immersion Technologies、摩根大通国际债券机会ETF等。 增持英伟达、苹果、微软、谷歌等。 减持Enbridge、iShares罗素2000 ETF等。 重仓英伟达、微软、苹果、SPDR标普500 ETF信托、亚马逊。",
@@ -149,6 +149,17 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "AI爆梗王?串子罗伯特炸翻全场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时05分 ~ 15时16分]"
+        },
+        {
           "title": "豪赌AI代价惨重：甲骨文债务激增、股价暴跌30%居科技股跌幅榜首",
           "url": "https://wallstreetcn.com/articles/3759380",
           "source": "华尔街见闻",
@@ -159,19 +170,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时14分 ~ 14时24分]"
+          "appearance_count": 17,
+          "time_info": "[03时14分 ~ 15时16分]"
         },
         {
-          "title": "AI爆梗王?串子罗伯特炸翻全场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
-          "source": "贴吧",
+          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
+          "url": "https://wallstreetcn.com/articles/3759419",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时05分 ~ 14时24分]"
+          "appearance_count": 11,
+          "time_info": "[09时15分 ~ 15时16分]"
         },
         {
           "title": "【焦点复盘】创业板指低开低走跌近3%，AI硬件端全线退潮，抗寒概念股逆势爆发",
@@ -184,18 +197,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
-          "title": "万亿美元AI投资回报被夸大？现在每个人都在问：GPU的寿命究竟有几年？",
-          "url": "https://wallstreetcn.com/articles/3759419",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时15分 ~ 14时24分]"
         },
         {
           "title": "美联储洛根：经济正受益于与人工智能相关的投资。",
@@ -350,8 +351,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 14时24分]"
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 15时16分]"
         },
         {
           "title": "影视飓风Tim回应相亲争议",
