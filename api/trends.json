@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T06:13:49.956170+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2025-11-16T07:16:23.235993+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -27,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "浙江：“十五五”时期要加快建设人工智能创新发展高地",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "字节、红杉投资的AI公司接入网易《蛋仔派对》，融资数千万美元",
@@ -49,8 +49,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
@@ -78,8 +78,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -105,11 +105,12 @@
           "ranks": [
             13,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 06时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 07时16分]"
         }
       ]
     },
@@ -125,8 +126,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时16分]"
         }
       ]
     },
