@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T19:16:25.655971+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2025-11-17T20:36:42.813311+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -78,6 +78,22 @@
           "time_info": "[00时19分 ~ 14时27分]"
         },
         {
+          "title": "千问APP正式上线，阿里要打造AI超级入口！",
+          "url": "https://wallstreetcn.com/articles/3759516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 20时36分]"
+        },
+        {
           "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
           "url": "https://www.cls.cn/detail/2201993",
           "source": "财联社热门",
@@ -90,21 +106,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时24分 ~ 17时22分]"
-        },
-        {
-          "title": "千问APP正式上线，阿里要打造AI超级入口！",
-          "url": "https://wallstreetcn.com/articles/3759516",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时27分 ~ 19时16分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -186,6 +187,30 @@
           "time_info": "12时24分"
         },
         {
+          "title": "CARBON3.AI将投资10亿英镑用于英国主权AI基础设施网络。",
+          "url": "https://wallstreetcn.com/livenews/3005849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 20时36分]"
+        },
+        {
           "title": "阿里巴巴旗下夸克宣布上线千问助手，“使用阿里Qwen最强大模型”。",
           "url": "https://wallstreetcn.com/livenews/3005525",
           "source": "华尔街见闻-快讯",
@@ -196,18 +221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时14分 ~ 12时24分]"
-        },
-        {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 19时16分]"
         },
         {
           "title": "华为，AI突破将发布",
@@ -256,8 +269,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时36分]"
         },
         {
           "title": "华为将发布AI领域突破性技术",
@@ -281,6 +294,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时25分 ~ 17时22分]"
+        },
+        {
+          "title": "CARBON3.AI将投资10亿英镑用于英国主权人工智能基础设施网络。",
+          "url": "https://flash.jin10.com/detail/20251117195327094800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "券商晨会精华：AI带动的算力需求依然非常旺盛，调整是机会",
@@ -507,11 +531,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时24分 ~ 19时16分]"
+          "appearance_count": 8,
+          "time_info": "[12时24分 ~ 20时36分]"
         },
         {
           "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
@@ -589,6 +614,18 @@
           "time_info": "[12时24分 ~ 13时18分]"
         },
         {
+          "title": "泰王参观北京人形机器人创新中心",
+          "url": "https://www.toutiao.com/trending/7572969115011432489/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时36分]"
+        },
+        {
           "title": "具身智能应用百花齐放：人形机器人将商业落地异构机器人已导入场景",
           "url": "https://wallstreetcn.com/livenews/3005388",
           "source": "华尔街见闻-快讯",
@@ -631,17 +668,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
-        },
-        {
-          "title": "泰王参观北京人形机器人创新中心",
-          "url": "https://www.toutiao.com/trending/7572969115011432489/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         }
       ]
     },
