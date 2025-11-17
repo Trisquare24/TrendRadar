@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-18T00:24:00.573853+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-18T01:17:55.128673+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
           "url": "https://wallstreetcn.com/articles/3759493",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
@@ -26,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "谷歌：将投资建设两个面向跨印度洋地区的全新连接枢纽。",
@@ -36,9 +37,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "市场消息：美国最高法院拒绝受理针对苹果、谷歌和LG的专利上诉案。",
+          "url": "https://flash.jin10.com/detail/20251118002000418800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
           "title": "谷歌A(GOOGL.O)：WeatherNext 2的预报速度提升了8倍。",
@@ -47,7 +59,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
         },
@@ -58,7 +70,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
         },
@@ -69,7 +81,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
         }
@@ -77,7 +89,7 @@
     },
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
@@ -87,8 +99,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
@@ -98,19 +110,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "成龙去世照片系AI生成",
           "url": "https://www.douyin.com/hot/2309157",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "惠誉：在人工智能驱动的需求、政策转变和并购的背景下，北美发电商的评级保持稳定。",
+          "url": "https://flash.jin10.com/detail/20251118004426248800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
+          "url": "https://www.zhihu.com/question/1972861967086666313",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
           "title": "据Axios：美国商务部延长特朗普时期人工智能出口计划期限。",
@@ -119,7 +154,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
         },
@@ -130,7 +165,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
         }
