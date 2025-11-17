@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T20:36:42.813311+08:00",
-  "total_titles_processed": 1589,
+  "generated_at": "2025-11-17T21:30:53.745183+08:00",
+  "total_titles_processed": 1705,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,22 @@
           "time_info": "[09时18分 ~ 16时25分]"
         },
         {
+          "title": "千问APP正式上线，阿里要打造AI超级入口！",
+          "url": "https://wallstreetcn.com/articles/3759516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时27分 ~ 21时30分]"
+        },
+        {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
           "url": "https://m.thepaper.cn/newsDetail_forward_31979142",
           "source": "澎湃新闻",
@@ -76,22 +92,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时19分 ~ 14时27分]"
-        },
-        {
-          "title": "千问APP正式上线，阿里要打造AI超级入口！",
-          "url": "https://wallstreetcn.com/articles/3759516",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时27分 ~ 20时36分]"
         },
         {
           "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
@@ -152,6 +152,19 @@
           "time_info": "[04时18分 ~ 07时15分]"
         },
         {
+          "title": "成龙去世照片系AI生成",
+          "url": "https://www.douyin.com/hot/2309157",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 21时30分]"
+        },
+        {
           "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
           "url": "https://www.zhihu.com/question/1971154128169301668",
           "source": "知乎",
@@ -193,22 +206,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
-        },
-        {
-          "title": "成龙去世照片系AI生成",
-          "url": "https://www.douyin.com/hot/2309157",
-          "source": "抖音",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 20时36分]"
         },
         {
           "title": "阿里巴巴旗下夸克宣布上线千问助手，“使用阿里Qwen最强大模型”。",
@@ -236,6 +236,18 @@
           "time_info": "[11时14分 ~ 14时27分]"
         },
         {
+          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
+          "url": "https://www.cls.cn/detail/2202608",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 21时30分]"
+        },
+        {
           "title": "成龙去世谣言系AI生成",
           "url": "https://www.toutiao.com/trending/7573506510103691273/",
           "source": "今日头条",
@@ -260,17 +272,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时18分 ~ 15时18分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
-          "url": "https://www.cls.cn/detail/2202608",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时36分]"
         },
         {
           "title": "华为将发布AI领域突破性技术",
@@ -302,7 +303,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -535,8 +536,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时24分 ~ 20时36分]"
+          "appearance_count": 9,
+          "time_info": "[12时24分 ~ 21时30分]"
         },
         {
           "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
@@ -672,6 +673,46 @@
       ]
     },
     {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "字节Seed研究员被开除原因曝光：多次接受付费访谈泄密",
+          "url": "https://wallstreetcn.com/livenews/3005730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "如何看待字节跳动 seed 团队在 3D 开放世界中训练的通用智能体 Lumine？这一技术有何应用前景？",
+          "url": "https://www.zhihu.com/question/1972689617061962046",
+          "source": "知乎",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时18分 ~ 11时14分]"
+        },
+        {
+          "title": "字节跳动霸榜苹果应用商店",
+          "url": "https://wallstreetcn.com/livenews/3005885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -696,35 +737,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "字节 Kimi 豆包",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "字节Seed研究员被开除原因曝光：多次接受付费访谈泄密",
-          "url": "https://wallstreetcn.com/livenews/3005730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "如何看待字节跳动 seed 团队在 3D 开放世界中训练的通用智能体 Lumine？这一技术有何应用前景？",
-          "url": "https://www.zhihu.com/question/1972689617061962046",
-          "source": "知乎",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 11时14分]"
         }
       ]
     }
