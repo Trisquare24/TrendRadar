@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T15:18:21.563916+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2025-11-18T16:24:28.650685+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
@@ -46,8 +46,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时16分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[07时16分 ~ 16时24分]"
         },
         {
           "title": "成龙去世照片系AI生成",
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时10分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时10分 ~ 16时24分]"
         },
         {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
@@ -97,8 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时10分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时10分 ~ 16时24分]"
         },
         {
           "title": "英伟达(NVDA.O)表示，与日本理化学研究所（RIKEN）推出了用于人工智能和量子计算的新型超级计算机，推动了日本的科学前沿。两台新的超级计算机将于2026年春季投入使用，而FugakuNEXT的目标则是在2030年投入使用。",
@@ -112,6 +112,19 @@
           "time_info": "07时16分"
         },
         {
+          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
+          "url": "https://www.cls.cn/detail/2203555",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 16时24分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-18）",
           "url": "https://flash.jin10.com/detail/20251118120343282800",
           "source": "金十数据",
@@ -122,18 +135,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 13时18分]"
-        },
-        {
-          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
-          "url": "https://www.cls.cn/detail/2203555",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 15时18分]"
         },
         {
           "title": "惠誉：在人工智能驱动的需求、政策转变和并购的背景下，北美发电商的评级保持稳定。",
@@ -160,6 +161,17 @@
           "time_info": "[12时21分 ~ 13时18分]"
         },
         {
+          "title": "大摩Wilson展望2026年：AI驱动盈利强劲增长，标普500或升至7800点，收益率曲线“牛陡”，黄金仍是首选",
+          "url": "https://wallstreetcn.com/articles/3759546",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时24分]"
+        },
+        {
           "title": "美联储理事沃勒：如果不考虑人工智能行业，商业投资正在下降。",
           "url": "https://flash.jin10.com/detail/20251118051844797800",
           "source": "金十数据",
@@ -172,24 +184,35 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
+          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
+          "url": "https://www.zhihu.com/question/1971246965376389265",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
+          "url": "https://flash.jin10.com/detail/20251118154840821800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "沪指跌0.81%录得3连阴，AI应用方向逆势爆发",
           "url": "https://wallstreetcn.com/livenews/3006322",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "大摩Wilson展望2026年：AI驱动盈利强劲增长，标普500或升至7800点，收益率曲线“牛陡”，黄金仍是首选",
-          "url": "https://wallstreetcn.com/articles/3759546",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -247,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "夸克全面接入千问对话助手，将发布全新AI浏览器",
+          "url": "https://wallstreetcn.com/livenews/3006333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     },
@@ -383,11 +417,12 @@
           "ranks": [
             28,
             20,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[12时21分 ~ 16时24分]"
         },
         {
           "title": "人形机器人量产交付视频遭Figure创始人公开质疑造假，优必选回应",
@@ -419,7 +454,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         }
@@ -465,6 +500,34 @@
       ]
     },
     {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Kimi K2 Thinking被Perplexity接入，系接入的唯一国产模型",
+          "url": "https://wallstreetcn.com/livenews/3006312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "字节跳动内部人士：抖音电商、生活服务和广告的工程技术团队整合",
+          "url": "https://wallstreetcn.com/livenews/3006343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -480,23 +543,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时21分 ~ 15时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "字节 Kimi 豆包",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Kimi K2 Thinking被Perplexity接入，系接入的唯一国产模型",
-          "url": "https://wallstreetcn.com/livenews/3006312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         }
       ]
     }
