@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T13:18:22.057885+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2025-11-18T14:26:08.418342+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "千问APP正式上线，阿里要打造AI超级入口！",
@@ -49,6 +49,19 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
+          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
+          "url": "https://wallstreetcn.com/articles/3759559",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 14时26分]"
+        },
+        {
           "title": "【焦点复盘】沪指日线2连阴失守20日线，锂电材料股强者恒强，AI应用端逆势爆发",
           "url": "https://www.cls.cn/detail/2202608",
           "source": "财联社热门",
@@ -61,17 +74,17 @@
           "time_info": "[00时23分 ~ 04时20分]"
         },
         {
-          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
-          "url": "https://wallstreetcn.com/articles/3759559",
-          "source": "华尔街见闻",
+          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
+          "url": "https://www.cls.cn/detail/2203227",
+          "source": "财联社热门",
           "ranks": [
             10,
             7,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时10分 ~ 14时26分]"
         },
         {
           "title": "英伟达(NVDA.O)表示，与日本理化学研究所（RIKEN）推出了用于人工智能和量子计算的新型超级计算机，推动了日本的科学前沿。两台新的超级计算机将于2026年春季投入使用，而FugakuNEXT的目标则是在2030年投入使用。",
@@ -85,17 +98,17 @@
           "time_info": "07时16分"
         },
         {
-          "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
-          "url": "https://www.cls.cn/detail/2203227",
-          "source": "财联社热门",
+          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            7,
-            5
+            16,
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时10分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时10分 ~ 14时26分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-18）",
@@ -108,19 +121,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 13时18分]"
-        },
-        {
-          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时10分 ~ 13时18分]"
         },
         {
           "title": "惠誉：在人工智能驱动的需求、政策转变和并购的背景下，北美发电商的评级保持稳定。",
@@ -145,6 +145,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时21分 ~ 13时18分]"
+        },
+        {
+          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
+          "url": "https://www.cls.cn/detail/2203555",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 14时26分]"
         },
         {
           "title": "美联储理事沃勒：如果不考虑人工智能行业，商业投资正在下降。",
@@ -255,8 +266,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时10分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时10分 ~ 14时26分]"
         },
         {
           "title": "标普500指数初步收跌约1%，金融、能源、科技、原材料、工业板块至多跌约2%，电信板块仍然涨超0.9%。 纳斯达克100指数初步收跌0.9%，成分股中，Booking、Trade Desk、Shopify、高通初步至多收跌4.8%，安进则涨1.4%，再生元制药涨1.7%，谷歌C涨2.9%，谷歌A涨3.1%。 美国运通初步收跌约4.3%，Salesforce、IBM至多跌2.7%，领跌道指成分股，英伟达跌1.9%，苹果跌1.8%，安进与强生则涨超1%。 半导体指数跌1.5%，银行指数跌2.6%，小盘股指跌2.2%。",
@@ -327,6 +338,58 @@
       ]
     },
     {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "人形机器人卖出手机价",
+          "url": "https://www.toutiao.com/trending/7573145369601769478/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时18分]"
+        },
+        {
+          "title": "人形机器人量产交付视频遭Figure创始人公开质疑造假，优必选回应",
+          "url": "https://wallstreetcn.com/livenews/3006288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "人形机器人卖出手机价",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%96%E5%87%BA%E6%89%8B%E6%9C%BA%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 14时26分]"
+        },
+        {
+          "title": "何小鹏：机器人市场潜力比汽车大，售价有望看齐",
+          "url": "https://wallstreetcn.com/livenews/3006275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "阿里 Qwen",
       "match_count": 3,
       "titles": [
@@ -366,35 +429,6 @@
       ]
     },
     {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "人形机器人卖出手机价",
-          "url": "https://www.toutiao.com/trending/7573145369601769478/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时18分]"
-        },
-        {
-          "title": "人形机器人卖出手机价",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%96%E5%87%BA%E6%89%8B%E6%9C%BA%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时18分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -407,8 +441,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 14时26分]"
         }
       ]
     }
