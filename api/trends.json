@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T18:19:46.511379+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2025-11-20T19:16:33.413035+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时08分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[11时08分 ~ 19时16分]"
         },
         {
           "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
@@ -96,8 +96,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时22分 ~ 18时19分]"
+          "appearance_count": 24,
+          "time_info": "[00时22分 ~ 19时16分]"
         },
         {
           "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
@@ -125,6 +125,21 @@
           "time_info": "[04时17分 ~ 11时08分]"
         },
         {
+          "title": "华尔街分析师激辩：英伟达财报能否平息“AI泡沫”担忧？",
+          "url": "https://www.cls.cn/detail/2205868",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 19时16分]"
+        },
+        {
           "title": "大力推进美国AI发展，特朗普又有“新计划”！",
           "url": "https://www.cls.cn/detail/2205764",
           "source": "财联社热门",
@@ -139,21 +154,6 @@
           "time_info": "[14时25分 ~ 18时19分]"
         },
         {
-          "title": "华尔街分析师激辩：英伟达财报能否平息“AI泡沫”担忧？",
-          "url": "https://www.cls.cn/detail/2205868",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时18分 ~ 18时19分]"
-        },
-        {
           "title": "UP主翻唱AI歌曲美猴亡",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
           "source": "bilibili 热搜",
@@ -162,11 +162,12 @@
             22,
             26,
             20,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时25分 ~ 18时19分]"
+          "appearance_count": 7,
+          "time_info": "[14时25分 ~ 19时16分]"
         },
         {
           "title": "美国商务部：已批准向位于阿联酋的G42公司和位于沙特的Humain公司出口先进的美国半导体产品。",
@@ -740,6 +741,17 @@
           "time_info": "11时08分"
         },
         {
+          "title": "克里姆林宫：俄罗斯总统普京本人未使用人工智能，但总统行政部门在使用。",
+          "url": "https://flash.jin10.com/detail/20251120181052149800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "野村：可灵AI需推新功能以应对激烈竞争",
           "url": "https://flash.jin10.com/detail/20251120140519580800",
           "source": "金十数据",
@@ -839,8 +851,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时17分 ~ 18时19分]"
+          "appearance_count": 22,
+          "time_info": "[01时17分 ~ 19时16分]"
         },
         {
           "title": "Gemini3是目前最强AI吗",
@@ -859,8 +871,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时22分 ~ 18时19分]"
+          "appearance_count": 24,
+          "time_info": "[00时22分 ~ 19时16分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -874,8 +886,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[02时25分 ~ 18时19分]"
+          "appearance_count": 21,
+          "time_info": "[02时25分 ~ 19时16分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -987,7 +999,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1138,7 +1150,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "机器人“进厂”先头部队绩效如何？Figure披露：已参与3万辆宝马汽车生产",
@@ -1151,8 +1163,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时18分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[13时18分 ~ 19时16分]"
         },
         {
           "title": "人形机器人为普京献舞后鞠躬",
@@ -1189,6 +1201,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时16分 ~ 11时08分]"
+        },
+        {
+          "title": "机器人挑战吉尼斯纪录",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8C%91%E6%88%98%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
@@ -1243,9 +1266,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时16分]"
         }
       ]
     }
