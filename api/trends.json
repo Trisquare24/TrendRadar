@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T21:27:20.416377+08:00",
-  "total_titles_processed": 2014,
+  "generated_at": "2025-11-21T22:18:24.426947+08:00",
+  "total_titles_processed": 2105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
@@ -35,6 +35,20 @@
           "time_info": "[00时23分 ~ 09时17分]"
         },
         {
+          "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
+          "url": "https://wallstreetcn.com/articles/3759864",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时24分 ~ 22时18分]"
+        },
+        {
           "title": "UP主翻唱AI歌曲美猴亡",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
           "source": "bilibili 热搜",
@@ -61,20 +75,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时16分 ~ 15时18分]"
-        },
-        {
-          "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
-          "url": "https://wallstreetcn.com/articles/3759864",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 21时27分]"
         },
         {
           "title": "英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心",
@@ -114,8 +114,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时08分 ~ 21时27分]"
+          "appearance_count": 16,
+          "time_info": "[11时08分 ~ 22时18分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -135,22 +135,23 @@
           "ranks": [
             21,
             22,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时18分 ~ 21时27分]"
+          "appearance_count": 8,
+          "time_info": "[17时18分 ~ 22时18分]"
         },
         {
-          "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
-          "url": "https://www.zhihu.com/question/1975115860181022671",
-          "source": "知乎",
+          "title": "美联储副主席Jefferson：金融体系稳健且具有韧性。 当前市场与互联网泡沫时代存在差异，因此我们不太可能正在经历上世纪90年代末的重演。 与互联网泡沫时期不同，人工智能相关股票的上涨主要因为AI公司确实有实际盈利。 杠杆使用更有限，可能会减少任何由AI情绪转变传导至经济的程度，但我们正密切关注AI企业的债务发行情况。 现在判断人工智能将如何影响劳动力市场、通胀和货币政策还为时过早。",
+          "url": "https://wallstreetcn.com/livenews/3008750",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 21时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "英伟达一度转跌，英伟达CEO黄仁勋此前驳斥“AI泡沫”论，称：“我们看到了截然不同的东西”。",
@@ -162,6 +163,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
+          "url": "https://www.cls.cn/detail/2207687",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时26分 ~ 22时18分]"
+        },
+        {
+          "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
+          "url": "https://www.zhihu.com/question/1975115860181022671",
+          "source": "知乎",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时26分 ~ 22时18分]"
         },
         {
           "title": "阿联酋在500亿美元框架下对加拿大的投资将涵盖人工智能与能源领域。",
@@ -195,6 +220,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
+          "url": "https://www.cls.cn/detail/2207484",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 22时18分]"
         },
         {
           "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
@@ -258,38 +296,16 @@
           "time_info": "[03时14分 ~ 04时20分]"
         },
         {
-          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
-          "url": "https://www.cls.cn/detail/2207484",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 21时27分]"
-        },
-        {
           "title": "我AI的易梦玲胡彦斌",
           "url": "https://s.weibo.com/weibo?q=%E6%88%91AI%E7%9A%84%E6%98%93%E6%A2%A6%E7%8E%B2%E8%83%A1%E5%BD%A6%E6%96%8C&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 21时27分]"
-        },
-        {
-          "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
-          "url": "https://www.cls.cn/detail/2207687",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 21时27分]"
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 22时18分]"
         },
         {
           "title": "元宝上线AI视频能力，实现“图文音视”多模态覆盖",
@@ -302,6 +318,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时18分 ~ 14时27分]"
+        },
+        {
+          "title": "美联储“三把手”威廉姆斯：明确的沟通可以限制市场动荡。 已有一段时间没有走在可持续的财政道路上了。 美债是全球金融体系的核心，这一点毫无疑问。 我们既面临供给冲击，也面临需求冲击。 预计今年和明年将实现大致趋势性增长。 财政政策可能将中性利率推高了25至50个基点。 全球来看，仍处于低中性利率环境。 股票和债券市场预期人工智能将实现非常高速的增长。",
+          "url": "https://wallstreetcn.com/livenews/3008725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时27分 ~ 22时18分]"
         },
         {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
@@ -373,15 +401,15 @@
           "time_info": "07时16分"
         },
         {
-          "title": "美联储“三把手”威廉姆斯：明确的沟通可以限制市场动荡。 已有一段时间没有走在可持续的财政道路上了。 美债是全球金融体系的核心，这一点毫无疑问。 我们既面临供给冲击，也面临需求冲击。 预计今年和明年将实现大致趋势性增长。 财政政策可能将中性利率推高了25至50个基点。 全球来看，仍处于低中性利率环境。 股票和债券市场预期人工智能将实现非常高速的增长。",
-          "url": "https://wallstreetcn.com/livenews/3008725",
+          "title": "美联储“三把手”威廉姆斯应届大学毕业生正面临“完美风暴”——招聘疲软。 招聘疲软是周期性问题，而非结构性问题。 目前没有看到大量裁员。 雇主在招聘新员工方面非常谨慎。 人工智能将会改变我们的就业类型。",
+          "url": "https://wallstreetcn.com/livenews/3008742",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时27分"
+          "time_info": "22时18分"
         },
         {
           "title": "英伟达副总裁在鸿海科技日上表示，通过与鸿海的合作，我们能够更快地部署先进的人工智能基础设施，以满足客户需求。",
@@ -450,6 +478,17 @@
           "time_info": "14时27分"
         },
         {
+          "title": "美联储副主席杰斐逊：AI企业的上涨潮不太可能重演当年互联网泡沫的情景",
+          "url": "https://flash.jin10.com/detail/20251121215455386800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "小米智驾起步太晚？小米高管回应：今年在AI领域研发投入超70亿，智驾团队超1800人",
           "url": "https://wallstreetcn.com/livenews/3008466",
           "source": "华尔街见闻-快讯",
@@ -500,9 +539,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：现在判断人工智能将如何影响劳动力市场、通胀和货币政策还为时过早。",
+          "url": "https://flash.jin10.com/detail/20251121214555783800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "美联储理事库克：生成式人工智能在交易中的应用引发担忧，但也可能带来益处，必须谨慎关注。",
@@ -514,6 +564,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：杠杆的使用更加有限可能会降低任何人工智能情绪转变传递至经济的程度，但正在密切关注人工智能公司的债务发行情况。",
+          "url": "https://flash.jin10.com/detail/20251121214537456800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "美联储副主席杰斐逊：与互联网泡沫时期不同，与人工智能相关的股票上涨主要得益于人工智能公司确实拥有实际收益。",
+          "url": "https://flash.jin10.com/detail/20251121214527130800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "据声明称，阿联酋与加拿大启动一项规模达500亿美元的投资框架。阿联酋在加拿大的投资将依托现有框架拓展至人工智能与能源领域。",
@@ -897,8 +969,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 21时27分]"
+          "appearance_count": 3,
+          "time_info": "[21时26分 ~ 22时18分]"
         },
         {
           "title": "人形机器人从苏州走到上海创纪录",
@@ -988,11 +1060,12 @@
           "url": "https://www.cls.cn/detail/2207621",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 21时27分]"
+          "appearance_count": 3,
+          "time_info": "[21时26分 ~ 22时18分]"
         }
       ]
     },
@@ -1007,11 +1080,12 @@
           "ranks": [
             25,
             23,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时18分 ~ 21时27分]"
+          "appearance_count": 8,
+          "time_info": "[17时18分 ~ 22时18分]"
         }
       ]
     },
