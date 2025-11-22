@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T12:20:03.980708+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2025-11-22T13:16:57.788277+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 12时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 13时16分]"
         },
         {
           "title": "华为AI新技术揭晓！英伟达曾花50亿收购“同款”",
@@ -42,8 +42,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 12时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 13时16分]"
         },
         {
           "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
@@ -55,6 +55,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 07时16分]"
+        },
+        {
+          "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
+          "url": "https://www.cls.cn/detail/2207918",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 13时16分]"
         },
         {
           "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
@@ -79,17 +91,6 @@
           "time_info": "[00时22分 ~ 09时14分]"
         },
         {
-          "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
-          "url": "https://www.cls.cn/detail/2207918",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时14分 ~ 12时20分]"
-        },
-        {
           "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
           "url": "https://www.cls.cn/detail/2207484",
           "source": "财联社热门",
@@ -100,6 +101,22 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 04时19分]"
+        },
+        {
+          "title": "集体诉讼显示：Figma Inc.在训练自家人工智能（AI）模型方面并没有（事前）征求用户的意见。",
+          "url": "https://wallstreetcn.com/livenews/3008923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            15,
+            24,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时17分 ~ 13时16分]"
         },
         {
           "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
@@ -115,19 +132,29 @@
           "time_info": "[04时19分 ~ 09时14分]"
         },
         {
-          "title": "集体诉讼显示：Figma Inc.在训练自家人工智能（AI）模型方面并没有（事前）征求用户的意见。",
-          "url": "https://wallstreetcn.com/livenews/3008923",
-          "source": "华尔街见闻-快讯",
+          "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
+          "url": "https://wallstreetcn.com/articles/3759852",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            6,
-            15,
-            24,
-            28
+            10,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[06时17分 ~ 12时20分]"
+          "time_info": "[09时14分 ~ 13时16分]"
+        },
+        {
+          "title": "胡彦斌回应亲吻照：不是AI",
+          "url": "https://www.baidu.com/s?wd=%E8%83%A1%E5%BD%A6%E6%96%8C%E5%9B%9E%E5%BA%94%E4%BA%B2%E5%90%BB%E7%85%A7%EF%BC%9A%E4%B8%8D%E6%98%AFAI",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 13时16分]"
         },
         {
           "title": "【美国四分之一失业者拥有本科或以上学历，创纪录水平】9月，美国25岁及以上、拥有至少本科学历的失业人口超过190万人，占全美失业总人数的四分之一。自1992年有数据记录以来，这一比例在2025年之前从未达到如此之高。摩根大通美国首席经济学家Michael Feroli指出，受过大学教育的人群失业率上升“应该会进一步加剧对人工智能引发失业的担忧”。与此同时，一系列大型企业宣布裁员，包括亚马逊、塔吉特和星巴克。就业服务公司Challenger, Gray & Christmas的最新报告显示，随着人工智能重塑行业格局以及成本削减加速，美国企业10月份宣布的裁员规模是二十多年来同期最高水平。",
@@ -168,19 +195,6 @@
           "time_info": "[01时16分 ~ 02时24分]"
         },
         {
-          "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
-          "url": "https://wallstreetcn.com/articles/3759852",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时14分 ~ 12时20分]"
-        },
-        {
           "title": "如果 AI 能完美替代你现在的工作，那剩下的，什么是只有「人」才能做的事情？",
           "url": "https://www.zhihu.com/question/1971908267061019658",
           "source": "知乎",
@@ -191,18 +205,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时15分 ~ 02时24分]"
-        },
-        {
-          "title": "胡彦斌回应亲吻照：不是AI",
-          "url": "https://www.baidu.com/s?wd=%E8%83%A1%E5%BD%A6%E6%96%8C%E5%9B%9E%E5%BA%94%E4%BA%B2%E5%90%BB%E7%85%A7%EF%BC%9A%E4%B8%8D%E6%98%AFAI",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时14分 ~ 12时20分]"
         },
         {
           "title": "不是AI是爱",
@@ -323,7 +325,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -334,8 +336,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时14分 ~ 12时20分]"
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 13时16分]"
         },
         {
           "title": "谷歌反垄断案：美国法官询问拆分广告技术业务的补救措施生效时间，称“时间至关重要”",
@@ -358,8 +360,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 13时16分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -369,8 +371,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 13时16分]"
         },
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
@@ -395,6 +397,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时15分]"
+        },
+        {
+          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
+          "url": "https://www.cls.cn/detail/2207169",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时16分"
         },
         {
           "title": "谷歌：我们推出BigQuery AI。",
