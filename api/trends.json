@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T15:15:56.358141+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2025-11-22T16:21:21.586323+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[09时14分 ~ 16时21分]"
         },
         {
           "title": "强得离谱！实测Nano Banana Pro：甚至不想叫它AI，这是视觉层面的AGI！",
@@ -66,8 +66,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 15时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 16时21分]"
         },
         {
           "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
@@ -113,8 +113,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[09时14分 ~ 16时21分]"
         },
         {
           "title": "集体诉讼显示：Figma Inc.在训练自家人工智能（AI）模型方面并没有（事前）征求用户的意见。",
@@ -147,14 +147,14 @@
         },
         {
           "title": "第四届中国空间科学大会在京开幕 AI赋能空间科学跨越发展",
-          "url": "https://wallstreetcn.com/livenews/3008967",
-          "source": "华尔街见闻-快讯",
+          "url": "https://flash.jin10.com/detail/20251122151156685800",
+          "source": "金十数据",
           "ranks": [
-            1
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时15分"
+          "time_info": "16时21分"
         },
         {
           "title": "胡彦斌回应亲吻照：不是AI",
@@ -167,6 +167,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时14分 ~ 13时16分]"
+        },
+        {
+          "title": "第四届中国空间科学大会在京开幕 AI赋能空间科学跨越发展",
+          "url": "https://wallstreetcn.com/livenews/3008967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 16时21分]"
         },
         {
           "title": "【美国四分之一失业者拥有本科或以上学历，创纪录水平】9月，美国25岁及以上、拥有至少本科学历的失业人口超过190万人，占全美失业总人数的四分之一。自1992年有数据记录以来，这一比例在2025年之前从未达到如此之高。摩根大通美国首席经济学家Michael Feroli指出，受过大学教育的人群失业率上升“应该会进一步加剧对人工智能引发失业的担忧”。与此同时，一系列大型企业宣布裁员，包括亚马逊、塔吉特和星巴克。就业服务公司Challenger, Gray & Christmas的最新报告显示，随着人工智能重塑行业格局以及成本削减加速，美国企业10月份宣布的裁员规模是二十多年来同期最高水平。",
@@ -345,11 +357,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[09时14分 ~ 16时21分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -360,8 +373,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时02分 ~ 15时15分]"
+          "appearance_count": 7,
+          "time_info": "[11时02分 ~ 16时21分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -397,8 +410,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时15分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 16时21分]"
         },
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
