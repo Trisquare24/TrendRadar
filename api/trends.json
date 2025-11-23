@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T18:17:24.639111+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2025-11-23T19:13:59.739582+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 18时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 19时13分]"
         },
         {
           "title": "第一批AI公司，已经开始破产了",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时25分 ~ 18时17分]"
+          "appearance_count": 10,
+          "time_info": "[11时25分 ~ 19时13分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -47,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 18时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 19时13分]"
         },
         {
           "title": "16只硬科技主题基金同日获批，包括首批7只科创创业人工智能ETF",
@@ -81,8 +81,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 18时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 19时13分]"
         },
         {
           "title": "中欧专家呼吁加强人工智能领域务实合作",
@@ -99,6 +99,22 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时19分 ~ 15时16分]"
+        },
+        {
+          "title": "加拿大政府：卡尼总理与德国总理默茨讨论了在关键矿物、清洁能源、人工智能、航空航天和国防领域的伙伴关系。重申对乌克兰的支持，并强调任何解决方案都必须有乌克兰的参与。",
+          "url": "https://flash.jin10.com/detail/20251123140222907800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            17,
+            18,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时24分 ~ 19时13分]"
         },
         {
           "title": "AI又团灭一个行业",
@@ -120,26 +136,47 @@
           "ranks": [
             1,
             2,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 19时13分]"
         },
         {
-          "title": "加拿大政府：卡尼总理与德国总理默茨讨论了在关键矿物、清洁能源、人工智能、航空航天和国防领域的伙伴关系。重申对乌克兰的支持，并强调任何解决方案都必须有乌克兰的参与。",
-          "url": "https://flash.jin10.com/detail/20251123140222907800",
-          "source": "金十数据",
+          "title": "英伟达AI爆雷!334亿账款收不回",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347412&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BEAI%E7%88%86%E9%9B%B7%21334%E4%BA%BF%E8%B4%A6%E6%AC%BE%E6%94%B6%E4%B8%8D%E5%9B%9E",
+          "source": "贴吧",
           "ranks": [
-            2,
-            8,
-            17,
-            18,
-            26
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
+          "url": "https://wallstreetcn.com/livenews/3009047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时24分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 19时13分]"
+        },
+        {
+          "title": "理想汽车范皓宇：VLA大模型可视化是理想聚焦用户价值的体现",
+          "url": "https://wallstreetcn.com/livenews/3009069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "林园：明年投资还是这两个方向，目前不投AI，不确定性高",
@@ -155,27 +192,28 @@
           "time_info": "[12时31分 ~ 16时21分]"
         },
         {
-          "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
-          "url": "https://wallstreetcn.com/livenews/3009047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 18时17分]"
-        },
-        {
           "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
           "url": "https://wallstreetcn.com/articles/3759951",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 19时13分]"
+        },
+        {
+          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
+          "url": "https://wallstreetcn.com/articles/3759948",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时13分]"
         },
         {
           "title": "AI大神Karpathy：LLM渴望的不是生存，而是你的点赞",
@@ -187,6 +225,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 11时25分]"
+        },
+        {
+          "title": "AI+ 时代，碳硅共生会如何带来生产力的跃迁？",
+          "url": "https://www.zhihu.com/question/1974446156558910121",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时13分]"
         },
         {
           "title": "AI产业为何成为烧钱竞赛",
@@ -201,17 +251,6 @@
           "time_info": "[02时22分 ~ 06时16分]"
         },
         {
-          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
-          "url": "https://wallstreetcn.com/articles/3759948",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
           "url": "https://www.cls.cn/detail/2208142",
           "source": "财联社热门",
@@ -221,17 +260,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
-        },
-        {
-          "title": "AI+ 时代，碳硅共生会如何带来生产力的跃迁？",
-          "url": "https://www.zhihu.com/question/1974446156558910121",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
         }
       ]
     },
@@ -307,11 +335,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            20,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时13分]"
         }
       ]
     },
