@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T12:31:23.357958+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2025-11-23T13:16:41.828405+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 13时16分]"
         },
         {
           "title": "16只硬科技主题基金同日获批，包括首批7只科创创业人工智能ETF",
@@ -26,11 +26,12 @@
             2,
             5,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 13时16分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -45,8 +46,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 13时16分]"
         },
         {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
@@ -58,8 +59,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 13时16分]"
         },
         {
           "title": "中欧专家呼吁加强人工智能领域务实合作",
@@ -69,11 +70,12 @@
             17,
             20,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 13时16分]"
         },
         {
           "title": "第一批AI公司，已经开始破产了",
@@ -84,8 +86,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 13时16分]"
         },
         {
           "title": "AI又团灭一个行业",
@@ -96,8 +98,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 13时16分]"
         },
         {
           "title": "AI大神Karpathy：LLM渴望的不是生存，而是你的点赞",
@@ -111,6 +113,17 @@
           "time_info": "[09时27分 ~ 11时25分]"
         },
         {
+          "title": "林园：明年投资还是这两个方向，目前不投AI，不确定性高",
+          "url": "https://wallstreetcn.com/articles/3759935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时16分]"
+        },
+        {
           "title": "AI产业为何成为烧钱竞赛",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E7%83%A7%E9%92%B1%E7%AB%9E%E8%B5%9B",
           "source": "bilibili 热搜",
@@ -121,17 +134,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时22分 ~ 06时16分]"
-        },
-        {
-          "title": "林园：明年投资还是这两个方向，目前不投AI，不确定性高",
-          "url": "https://wallstreetcn.com/articles/3759935",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
         }
       ]
     },
@@ -150,8 +152,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 13时16分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -180,8 +182,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时22分 ~ 12时31分]"
+          "appearance_count": 10,
+          "time_info": "[02时22分 ~ 13时16分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -193,11 +195,12 @@
             26,
             22,
             16,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 12时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 13时16分]"
         }
       ]
     },
@@ -214,8 +217,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时16分 ~ 12时31分]"
+          "appearance_count": 6,
+          "time_info": "[06时16分 ~ 13时16分]"
         }
       ]
     }
