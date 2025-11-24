@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T20:36:58.439345+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2025-11-24T21:32:38.155884+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时27分 ~ 20时36分]"
+          "appearance_count": 10,
+          "time_info": "[14时27分 ~ 21时32分]"
         },
         {
           "title": "【早报】泽连斯基就日内瓦会谈发表声明：收到美方积极信号；涉及AI、芯片等，16只硬科技主题基金获批",
@@ -116,11 +116,12 @@
             20,
             23,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时19分 ~ 20时36分]"
+          "appearance_count": 24,
+          "time_info": "[00时19分 ~ 21时32分]"
         },
         {
           "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
@@ -160,8 +161,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 20时36分]"
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 21时32分]"
         },
         {
           "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
@@ -173,8 +174,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时18分 ~ 20时36分]"
+          "appearance_count": 8,
+          "time_info": "[15时18分 ~ 21时32分]"
         },
         {
           "title": "两美刀逼疯AI!怒要报官告公司",
@@ -182,11 +183,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时36分]"
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 21时32分]"
         },
         {
           "title": "阿布扎比lunate基金正考虑向人工智能公司MGX投资10亿美元。（彭博）",
@@ -219,11 +221,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时36分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 21时32分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-24）",
@@ -340,7 +343,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -363,6 +366,17 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时19分 ~ 16时25分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet盘前涨幅扩大至高达4.1%。",
+          "url": "https://flash.jin10.com/detail/20251124211321112800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -455,11 +469,12 @@
           "url": "https://wallstreetcn.com/articles/3759974",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 20时36分]"
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 21时32分]"
         },
         {
           "title": "A股三大指数翻红，创业板涨近1%，阿里概念股大涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
@@ -545,11 +560,12 @@
           "url": "https://www.cls.cn/detail/2208716",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时36分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 21时32分]"
         }
       ]
     },
@@ -579,11 +595,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时36分]"
+          "appearance_count": 3,
+          "time_info": "[19时16分 ~ 21时32分]"
         }
       ]
     },
@@ -601,8 +618,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 20时36分]"
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 21时32分]"
         }
       ]
     },
@@ -617,7 +634,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         }
