@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T14:28:09.839503+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2025-11-24T15:18:38.250137+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
@@ -20,22 +20,6 @@
           "time_info": "[00时19分 ~ 13时19分]"
         },
         {
-          "title": "英伟达财报背后的未来AI密码",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%83%8C%E5%90%8E%E7%9A%84%E6%9C%AA%E6%9D%A5AI%E5%AF%86%E7%A0%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            7,
-            9,
-            19,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时19分 ~ 14时28分]"
-        },
-        {
           "title": "【早报】泽连斯基就日内瓦会谈发表声明：收到美方积极信号；涉及AI、芯片等，16只硬科技主题基金获批",
           "url": "https://www.cls.cn/detail/2208386",
           "source": "财联社热门",
@@ -45,8 +29,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时22分 ~ 14时28分]"
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 15时18分]"
+        },
+        {
+          "title": "英伟达财报背后的未来AI密码",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%83%8C%E5%90%8E%E7%9A%84%E6%9C%AA%E6%9D%A5AI%E5%AF%86%E7%A0%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7,
+            9,
+            19,
+            23,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 15时18分]"
         },
         {
           "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
@@ -68,11 +69,12 @@
             8,
             9,
             14,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时19分 ~ 14时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 15时18分]"
         },
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -91,11 +93,12 @@
           "url": "https://wallstreetcn.com/articles/3759968",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 14时28分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 15时18分]"
         },
         {
           "title": "需要AI给答案",
@@ -106,8 +109,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 15时18分]"
+        },
+        {
+          "title": "阿布扎比lunate基金正考虑向人工智能公司MGX投资10亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "英伟达救不了AI股，市场想看到什么？",
@@ -115,11 +129,26 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 15时18分]"
+        },
+        {
+          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
+          "url": "https://www.cls.cn/detail/2208561",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 15时18分]"
         },
         {
           "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
@@ -133,19 +162,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时19分 ~ 07时16分]"
-        },
-        {
-          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
-          "url": "https://www.cls.cn/detail/2208561",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 14时28分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-24）",
@@ -171,6 +187,17 @@
           "time_info": "[14时27分 ~ 14时28分]"
         },
         {
+          "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
+          "url": "https://wallstreetcn.com/articles/3759964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "银行系股权投资“扩军”，三家股份制银行AIC已上阵",
           "url": "https://wallstreetcn.com/livenews/3009194",
           "source": "华尔街见闻-快讯",
@@ -188,9 +215,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "市场消息：阿布扎比投资管理公司Lunate向人工智能公司MGX承诺投资10亿美元。",
+          "url": "https://flash.jin10.com/detail/20251124150547293800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "A股三大指数午后再度翻红，中船系、军工装备、智谱AI板块涨幅居前。",
@@ -199,15 +237,48 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "俄罗斯联邦储蓄银行第一副行长：全球人工智能基础设施投资属于“过度炒作”，硬件和电力成本预计将下降。",
+          "url": "https://flash.jin10.com/detail/20251124150128430800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "俄罗斯联邦储蓄银行第一副行长：由于投资并未过度，俄罗斯并不存在“人工智能泡沫”风险。",
+          "url": "https://flash.jin10.com/detail/20251124150058998800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "俄罗斯联邦储蓄银行第一副行长：为保持在人工智能领域的竞争力，未来16年俄罗斯需在发电和电网领域投资5700亿美元。",
+          "url": "https://flash.jin10.com/detail/20251124150045949800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -254,6 +325,17 @@
           "time_info": "[00时19分 ~ 00时20分]"
         },
         {
+          "title": "谷歌云：北约与谷歌云签署数百万美元协议，打造由人工智能驱动的主权云。",
+          "url": "https://flash.jin10.com/detail/20251124150257144800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
           "url": "https://wallstreetcn.com/livenews/3009237",
           "source": "华尔街见闻-快讯",
@@ -268,7 +350,7 @@
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "下周重磅日程：阿里美团财报、美国对乌“最后通牒日”、“美联储最爱通胀指标”",
@@ -299,11 +381,12 @@
           "url": "https://wallstreetcn.com/livenews/3009390",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时18分]"
         },
         {
           "title": "港股快速拉升，恒生科技指数涨幅扩大至2%，恒指涨1.4%。阿里巴巴快速拉升涨超4%，快手涨近5%。",
@@ -316,6 +399,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时22分 ~ 12时32分]"
+        },
+        {
+          "title": "A股三大指数翻红，创业板涨近1%，阿里概念股大涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
+          "url": "https://wallstreetcn.com/articles/3759974",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
@@ -332,8 +426,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 15时18分]"
         },
         {
           "title": "工业和信息化部公示人形机器人标准化技术委员会委员名单。其中，宇树科技股份有限公司王兴兴、智元创新（上海）科技股份有限公司彭志辉均任副主任委员。",
