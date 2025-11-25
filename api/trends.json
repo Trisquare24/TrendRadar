@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T13:18:47.890834+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2025-11-25T14:28:11.635813+08:00",
+  "total_titles_processed": 1214,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -29,8 +29,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时28分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
@@ -75,6 +75,19 @@
           "time_info": "[00时19分 ~ 09时18分]"
         },
         {
+          "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
+          "url": "https://www.cls.cn/detail/2209653",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 14时28分]"
+        },
+        {
           "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
           "url": "https://www.zhihu.com/question/1962093650352771598",
           "source": "知乎",
@@ -91,16 +104,43 @@
           "time_info": "[01时17分 ~ 07时17分]"
         },
         {
-          "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
-          "url": "https://www.cls.cn/detail/2209653",
+          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
+          "url": "https://www.cls.cn/detail/2209616",
           "source": "财联社热门",
           "ranks": [
-            4,
-            3
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时13分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 14时28分]"
+        },
+        {
+          "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
+          "url": "https://www.zhihu.com/question/1976013755256153204",
+          "source": "知乎",
+          "ranks": [
+            19,
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时13分 ~ 14时28分]"
+        },
+        {
+          "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
+          "url": "https://www.cls.cn/detail/2209531",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 14时28分]"
         },
         {
           "title": "市场消息：贝恩资本（Bain Capital）拟通过一致性行动大宗交易筹集11.4亿美元。",
@@ -125,30 +165,6 @@
           "time_info": "06时17分"
         },
         {
-          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
-          "url": "https://www.cls.cn/detail/2209616",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 13时18分]"
-        },
-        {
-          "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
-          "url": "https://www.cls.cn/detail/2209531",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 13时18分]"
-        },
-        {
           "title": "【数据看盘】银行ETF上周份额大减 多只AI应用概念股龙虎榜现机构与游资博弈",
           "url": "https://www.cls.cn/detail/2209112",
           "source": "财联社热门",
@@ -166,11 +182,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时28分]"
         },
         {
           "title": "亚马逊将投资高达500亿美元，为美国政府机构扩展人工智能和超级计算基础设施。",
@@ -185,17 +202,17 @@
           "time_info": "[00时20分 ~ 01时17分]"
         },
         {
-          "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
-          "url": "https://www.zhihu.com/question/1976013755256153204",
-          "source": "知乎",
+          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
+          "url": "https://wallstreetcn.com/articles/3760049",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            11,
-            5
+            10,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时13分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 14时28分]"
         },
         {
           "title": "市场消息：亚马逊(AMZN.O)计划在印第安纳州北部投资150亿美元，用于建设新的数据中心园区并推动人工智能创新。",
@@ -221,18 +238,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时13分]"
-        },
-        {
-          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
-          "url": "https://wallstreetcn.com/articles/3760049",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时18分]"
         },
         {
           "title": "美国钢铁协会（AISI）：截至11月22日当周美国钢铁产能利用率为76.9%。",
@@ -355,7 +360,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -457,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "软银集团暴跌11% 因AI竞争担忧加剧",
+          "url": "https://flash.jin10.com/detail/20251125125119877800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
@@ -473,8 +489,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 14时28分]"
         },
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -522,6 +538,18 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
+          "url": "https://www.cls.cn/detail/2209826",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时28分]"
+        },
+        {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
           "url": "https://www.zhihu.com/question/1976223014631733240",
           "source": "知乎",
@@ -565,17 +593,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
-          "url": "https://www.cls.cn/detail/2209826",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
@@ -758,8 +775,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时19分 ~ 14时28分]"
         },
         {
           "title": "【焦点复盘】市场现久违普涨反弹，商业航天概念大放异彩，千问APP引爆阿里概念",
