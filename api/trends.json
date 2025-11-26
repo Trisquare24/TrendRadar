@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T15:17:47.473467+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2025-11-26T16:24:23.322239+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "网友发现新版初中人教版生物课本出现豆包生成的图片，你能否接受教材用 AI 生成的图片？",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 15时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 16时24分]"
         },
         {
           "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
@@ -87,8 +87,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 15时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 16时24分]"
         },
         {
           "title": "两美刀逼疯AI!怒要报官告公司",
@@ -103,17 +103,6 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
-          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
-          "url": "https://www.cls.cn/detail/2210324",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 04时20分]"
-        },
-        {
           "title": "马斯克宣布旗下 AI 将在尽可能模拟真人习惯的限定条件下挑战《英雄联盟》最强人类战队，你觉得谁会赢？",
           "url": "https://www.zhihu.com/question/1976705955216516456",
           "source": "知乎",
@@ -122,11 +111,12 @@
             11,
             12,
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 16时24分]"
         },
         {
           "title": "日本电磁炮试射炸毁舰船？系AI合成",
@@ -137,8 +127,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 16时24分]"
+        },
+        {
+          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
+          "url": "https://www.cls.cn/detail/2210324",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "戴尔科技预计全年营收1112亿-1122亿美元，公司原本预计1050亿-1090亿美元。预计AI服务器发货258亿美元，分析师预期208.2亿美元，公司原本预计200亿美元。",
@@ -186,6 +187,19 @@
           "time_info": "07时16分"
         },
         {
+          "title": "人类正在被AI反向训练吗",
+          "url": "https://www.douyin.com/hot/2317425",
+          "source": "抖音",
+          "ranks": [
+            18,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 16时24分]"
+        },
+        {
           "title": "戴尔(DELL.N)：今年下半年人工智能势头正在加速，迄今为止已收到300亿美元的人工智能服务器订单。",
           "url": "https://flash.jin10.com/detail/20251126050745140800",
           "source": "金十数据",
@@ -220,19 +234,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 13时18分]"
-        },
-        {
-          "title": "人类正在被AI反向训练吗",
-          "url": "https://www.douyin.com/hot/2317425",
-          "source": "抖音",
-          "ranks": [
-            18,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 15时17分]"
         },
         {
           "title": "00后谈恋爱用AI当“僚机”",
@@ -306,6 +307,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
+          "url": "https://wallstreetcn.com/articles/3760129",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "市场消息：法拉第未来（FF）和FX系列的领导层参加哈伊马角投资与商业峰会，以推动中东地区EAI移动战略；首辆FX Super One车辆计划于11月27日在迪拜交付给安德烈斯·伊涅斯塔（西班牙著名足球运动员）。",
           "url": "https://flash.jin10.com/detail/20251126103920805800",
           "source": "金十数据",
@@ -323,9 +335,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "AI为小米汽车带来出行新体验",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E4%B8%BA%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B8%A6%E6%9D%A5%E5%87%BA%E8%A1%8C%E6%96%B0%E4%BD%93%E9%AA%8C%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "惠普(HPQ.N)首席执行官：惠普将加大对某些领域的投资，以将人工智能融入其产品组合中。",
@@ -364,7 +387,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -379,6 +402,18 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
+          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
+          "url": "https://wallstreetcn.com/articles/3760086",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时17分 ~ 16时24分]"
+        },
+        {
           "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
           "url": "https://www.cls.cn/detail/2210305",
           "source": "财联社热门",
@@ -388,18 +423,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
-          "url": "https://wallstreetcn.com/articles/3760086",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时17分 ~ 15时17分]"
         },
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
@@ -439,6 +462,18 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时17分 ~ 16时24分]"
+        },
+        {
           "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
           "url": "https://www.cls.cn/detail/2210371",
           "source": "财联社热门",
@@ -452,16 +487,18 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
+          "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
+          "url": "https://wallstreetcn.com/articles/3760084",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时17分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 16时24分]"
         },
         {
           "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
@@ -469,19 +506,6 @@
           "source": "华尔街见闻",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 15时17分]"
-        },
-        {
-          "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
-          "url": "https://wallstreetcn.com/articles/3760084",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -537,6 +561,19 @@
           "time_info": "[12时23分 ~ 13时18分]"
         },
         {
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 16时24分]"
+        },
+        {
           "title": "美股收盘：谷歌市值逼近4万亿美元",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B0%B7%E6%AD%8C%E5%B8%82%E5%80%BC%E9%80%BC%E8%BF%914%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -547,6 +584,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时17分 ~ 11时13分]"
+        },
+        {
+          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
+          "url": "https://www.cls.cn/detail/2211111",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 16时24分]"
         },
         {
           "title": "谷歌股价飙升，两位创始人分别成为世界第二、第三富豪",
@@ -561,27 +610,26 @@
           "time_info": "[00时24分 ~ 01时18分]"
         },
         {
-          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
-          "url": "https://www.cls.cn/detail/2211188",
-          "source": "财联社热门",
+          "title": "谷歌AI平台全球第一 火山引擎中国第一",
+          "url": "https://www.toutiao.com/trending/7576941585242505243/",
+          "source": "今日头条",
           "ranks": [
-            11,
             10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
-          "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
-          "url": "https://www.cls.cn/detail/2211111",
-          "source": "财联社热门",
+          "title": "谷歌状态页面显示亚洲地区谷歌会议（Google Meet）服务出现问题。",
+          "url": "https://flash.jin10.com/detail/20251126154853273800",
+          "source": "金十数据",
           "ranks": [
-            13
+            17
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 13时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "如何评价谷歌 TPU 业务？",
@@ -598,7 +646,7 @@
     },
     {
       "keyword_group": "罗永浩",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "罗永浩喊话华与华老板",
@@ -607,11 +655,12 @@
           "ranks": [
             14,
             12,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 15时17分]"
+          "appearance_count": 7,
+          "time_info": "[12时23分 ~ 16时24分]"
         },
         {
           "title": "罗永浩 录音",
@@ -621,11 +670,12 @@
             28,
             11,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 16时24分]"
         },
         {
           "title": "罗永浩 华杉",
@@ -636,8 +686,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 15时17分]"
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 16时24分]"
+        },
+        {
+          "title": "华杉称西贝被算计 罗永浩怒怼",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E6%9D%89%E7%A7%B0%E8%A5%BF%E8%B4%9D%E8%A2%AB%E7%AE%97%E8%AE%A1+%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%80%92%E6%80%BC",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 16时24分]"
+        },
+        {
+          "title": "华与华创始人华杉称西贝「被人算计」，罗永浩回怼「你要是说不清楚，我就公布录音了」，可能还有哪些隐情？",
+          "url": "https://www.zhihu.com/question/1976993691924133477",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 16时24分]"
         },
         {
           "title": "华杉称西贝被算计 罗永浩回应",
@@ -662,17 +734,6 @@
           "time_info": "[14时27分 ~ 15时17分]"
         },
         {
-          "title": "华杉称西贝被算计 罗永浩怒怼",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E6%9D%89%E7%A7%B0%E8%A5%BF%E8%B4%9D%E8%A2%AB%E7%AE%97%E8%AE%A1+%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%80%92%E6%80%BC",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时17分]"
-        },
-        {
           "title": "罗永浩怒怼华与华创始人",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%80%92%E6%80%BC%E5%8D%8E%E4%B8%8E%E5%8D%8E%E5%88%9B%E5%A7%8B%E4%BA%BA%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -685,15 +746,15 @@
           "time_info": "[14时27分 ~ 15时17分]"
         },
         {
-          "title": "华与华创始人华杉称西贝「被人算计」，罗永浩回怼「你要是说不清楚，我就公布录音了」，可能还有哪些隐情？",
-          "url": "https://www.zhihu.com/question/1976993691924133477",
-          "source": "知乎",
+          "title": "罗永浩公司被执行715万",
+          "url": "https://www.toutiao.com/trending/7576114483035373595/",
+          "source": "今日头条",
           "ranks": [
-            6
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时17分"
+          "time_info": "16时24分"
         }
       ]
     },
@@ -710,8 +771,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 15时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 16时24分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.3%。 热门中概股里，小马智行初步收涨6.1%。小鹏涨3.5%，万国数据、华住涨超1%，阿里则跌2.4%，蔚来跌4.5%。 ETF中，CQQQ涨1.2%，KWEB涨0.5%。",
@@ -743,7 +804,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -765,7 +826,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
@@ -773,7 +834,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据The Information：截至7月，约有3500万人支付了ChatGPT Plus或Pro订阅费用，通常每月花费20美元和200美元。",
@@ -820,6 +881,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
+          "url": "https://flash.jin10.com/detail/20251126153143429800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     },
@@ -838,8 +910,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 16时24分]"
         },
         {
           "title": "智元机器人灵巧手控制相关专利获授权",
@@ -870,7 +942,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
