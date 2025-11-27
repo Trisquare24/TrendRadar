@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T18:20:15.734515+08:00",
-  "total_titles_processed": 1636,
+  "generated_at": "2025-11-27T19:16:46.644102+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
@@ -100,6 +100,18 @@
           "time_info": "[00时22分 ~ 06时17分]"
         },
         {
+          "title": "解读马斯克用AI宣战LOL顶尖战队",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 19时16分]"
+        },
+        {
           "title": "多家手机厂商取消Air机型",
           "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88Air%E6%9C%BA%E5%9E%8B",
           "source": "百度热搜",
@@ -113,17 +125,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时18分 ~ 17时20分]"
-        },
-        {
-          "title": "解读马斯克用AI宣战LOL顶尖战队",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "市场消息：马来西亚计划通过人工智能技能提升计划创造50万个新就业岗位。",
@@ -202,11 +203,60 @@
           "url": "https://www.cls.cn/detail/2212827",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 19时16分]"
+        },
+        {
+          "title": "王自如称选择用AI创业还债",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E7%A7%B0%E9%80%89%E6%8B%A9%E7%94%A8AI%E5%88%9B%E4%B8%9A%E8%BF%98%E5%80%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 19时16分]"
+        },
+        {
+          "title": "我用AI开了家一人公司",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%BC%80%E4%BA%86%E5%AE%B6%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 19时16分]"
+        },
+        {
+          "title": "夸克AI眼镜带来的行业利好",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E5%B8%A6%E6%9D%A5%E7%9A%84%E8%A1%8C%E4%B8%9A%E5%88%A9%E5%A5%BD%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 19时16分]"
+        },
+        {
+          "title": "TES官宣naiyou加入",
+          "url": "https://search.bilibili.com/all?keyword=TES%E5%AE%98%E5%AE%A3naiyou%E5%8A%A0%E5%85%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 19时16分]"
         },
         {
           "title": "麦肯锡：人工智能支出或将限制美联储在2026年的降息幅度",
@@ -230,50 +280,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 00时23分]"
-        },
-        {
-          "title": "王自如称选择用AI创业还债",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E7%A7%B0%E9%80%89%E6%8B%A9%E7%94%A8AI%E5%88%9B%E4%B8%9A%E8%BF%98%E5%80%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
-        },
-        {
-          "title": "我用AI开了家一人公司",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%BC%80%E4%BA%86%E5%AE%B6%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
-        },
-        {
-          "title": "夸克AI眼镜带来的行业利好",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E5%B8%A6%E6%9D%A5%E7%9A%84%E8%A1%8C%E4%B8%9A%E5%88%A9%E5%A5%BD%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
-        },
-        {
-          "title": "TES官宣naiyou加入",
-          "url": "https://search.bilibili.com/all?keyword=TES%E5%AE%98%E5%AE%A3naiyou%E5%8A%A0%E5%85%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "金十数据整理：AI眼镜密集发布 行业发展进入加速阶段",
@@ -366,8 +372,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时17分 ~ 18时20分]"
+          "appearance_count": 13,
+          "time_info": "[09时17分 ~ 19时16分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -382,6 +388,21 @@
           "time_info": "[00时22分 ~ 07时16分]"
         },
         {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            3,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时28分 ~ 19时16分]"
+        },
+        {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
           "url": "https://wallstreetcn.com/articles/3760117",
           "source": "华尔街见闻",
@@ -391,20 +412,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 05时15分]"
-        },
-        {
-          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
-          "url": "https://www.cls.cn/detail/2212466",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时28分 ~ 18时20分]"
         },
         {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
@@ -437,11 +444,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时16分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -499,6 +507,20 @@
           "time_info": "[09时17分 ~ 16时25分]"
         },
         {
+          "title": "国家发改委：要注意防范重复度高的人形机器人产品“扎堆”上市",
+          "url": "https://www.cls.cn/detail/2212698",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时24分 ~ 19时16分]"
+        },
+        {
           "title": "MrBeast 人类机器人同台竞技",
           "url": "https://search.bilibili.com/all?keyword=MrBeast%20%E4%BA%BA%E7%B1%BB%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%8C%E5%8F%B0%E7%AB%9E%E6%8A%80",
           "source": "bilibili 热搜",
@@ -513,19 +535,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时16分 ~ 07时16分]"
-        },
-        {
-          "title": "国家发改委：要注意防范重复度高的人形机器人产品“扎堆”上市",
-          "url": "https://www.cls.cn/detail/2212698",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 18时20分]"
         },
         {
           "title": "工信部：将会同有关部门加强养老服务机器人研发 继续加力扩围发布优质老年用品推广目录",
@@ -622,8 +631,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 18时20分]"
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 19时16分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
@@ -666,8 +675,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 18时20分]"
+          "appearance_count": 6,
+          "time_info": "[16时24分 ~ 19时16分]"
         },
         {
           "title": "阿里巴巴ADR短线从159美元一线跳水至150美元，日内整体从涨约1.1%转而跌超3%。 百度ADR下跌3.3%，比亚迪ADR转而下跌0.8%。",
