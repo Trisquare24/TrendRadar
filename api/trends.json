@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T16:25:07.690438+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2025-11-27T17:20:26.784714+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
@@ -62,11 +62,12 @@
             24,
             25,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 16时25分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 17时20分]"
         },
         {
           "title": "【每日收评】AI产业链引领创业板指走强，中际旭创再创新高，大消费尾盘异军突起",
@@ -106,11 +107,12 @@
             29,
             24,
             23,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 16时25分]"
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 17时20分]"
         },
         {
           "title": "市场消息：马来西亚计划通过人工智能技能提升计划创造50万个新就业岗位。",
@@ -208,6 +210,17 @@
           "time_info": "[00时22分 ~ 00时23分]"
         },
         {
+          "title": "金十数据整理：AI眼镜密集发布 行业发展进入加速阶段",
+          "url": "https://flash.jin10.com/detail/20251127164906023800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
           "title": "阿里吴嘉首谈千问：AI助手比拼的是智力水平",
           "url": "https://wallstreetcn.com/livenews/3011353",
           "source": "华尔街见闻-快讯",
@@ -247,7 +260,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -258,7 +271,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -277,7 +290,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -287,8 +300,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时17分 ~ 16时25分]"
+          "appearance_count": 10,
+          "time_info": "[09时17分 ~ 17时20分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -327,6 +340,19 @@
           "time_info": "[00时22分 ~ 07时16分]"
         },
         {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时28分 ~ 17时20分]"
+        },
+        {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
           "url": "https://wallstreetcn.com/articles/3760114",
           "source": "华尔街见闻",
@@ -339,17 +365,15 @@
           "time_info": "[00时22分 ~ 05时15分]"
         },
         {
-          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
-          "url": "https://www.cls.cn/detail/2212466",
-          "source": "财联社热门",
+          "title": "【长盈精密：与谷歌合作十年 正配合开发新品】长盈精密在互动平台表示，谷歌是公司前十大客户，公司已与其合作十年。目前正积极配合客户开发新品，鉴于保密原因不方便透露具体项目。",
+          "url": "https://wallstreetcn.com/livenews/3011463",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            6,
-            3
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时28分 ~ 16时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -427,11 +451,12 @@
           "url": "https://www.cls.cn/detail/2212698",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 16时25分]"
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 17时20分]"
         },
         {
           "title": "工信部：将会同有关部门加强养老服务机器人研发 继续加力扩围发布优质老年用品推广目录",
@@ -463,7 +488,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -474,7 +499,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         }
@@ -540,8 +565,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 17时20分]"
         }
       ]
     },
@@ -592,11 +617,12 @@
           "url": "https://www.zhihu.com/question/1977091164105638048",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 16时25分]"
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 17时20分]"
         },
         {
           "title": "夸克眼镜装下整个阿里",
