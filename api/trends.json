@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T04:19:28.477419+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2025-11-29T05:15:13.163861+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时15分]"
         },
         {
           "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
@@ -47,8 +47,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时15分]"
         }
       ]
     },
@@ -83,8 +83,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时15分]"
         }
       ]
     },
@@ -101,11 +101,12 @@
             22,
             15,
             14,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时15分]"
         }
       ]
     }
