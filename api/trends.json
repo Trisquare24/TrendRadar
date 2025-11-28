@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-29T00:21:53.993365+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-29T01:15:34.509870+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
       "match_count": 2,
       "titles": [
-        {
-          "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
-          "url": "https://wallstreetcn.com/livenews/3012331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
         {
           "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
           "url": "https://www.cls.cn/detail/2214152",
@@ -26,8 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时15分]"
+        },
+        {
+          "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
+          "url": "https://wallstreetcn.com/livenews/3012331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时15分]"
         }
       ]
     },
@@ -40,11 +41,12 @@
           "url": "https://wallstreetcn.com/articles/3760294",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时15分]"
         }
       ]
     },
@@ -60,8 +62,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时15分]"
         }
       ]
     },
@@ -77,8 +79,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时15分]"
         }
       ]
     },
@@ -91,11 +93,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%AF%B9%E8%AF%9D%E5%AF%BC%E6%BC%94%E6%AF%95%E8%B5%A3",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时15分]"
         }
       ]
     }
