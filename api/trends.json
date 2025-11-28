@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T06:16:44.394881+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2025-11-29T07:16:33.803721+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时16分]"
         },
         {
           "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
@@ -35,6 +35,35 @@
       ]
     },
     {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【焦点复盘】市场再现缩量普涨反弹，成交金额创近4个月地量，锂电池、机器人概念表现亮眼",
+          "url": "https://www.cls.cn/detail/2214176",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时16分]"
+        },
+        {
+          "title": "国家发改委表示要注意防范重复度高的人形机器人产品扎堆上市，我国已有超 150 家人形机器人企业，如何解读？",
+          "url": "https://www.zhihu.com/question/1977401930948044538",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -44,11 +73,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 07时16分]"
         }
       ]
     },
@@ -67,24 +97,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 02时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【焦点复盘】市场再现缩量普涨反弹，成交金额创近4个月地量，锂电池、机器人概念表现亮眼",
-          "url": "https://www.cls.cn/detail/2214176",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时16分]"
         }
       ]
     },
