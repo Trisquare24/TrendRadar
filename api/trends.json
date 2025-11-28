@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T21:29:39.037858+08:00",
-  "total_titles_processed": 1802,
+  "generated_at": "2025-11-28T22:18:03.525717+08:00",
+  "total_titles_processed": 1877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时16分 ~ 16时24分]"
+        },
+        {
+          "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
+          "url": "https://www.cls.cn/detail/2214152",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时19分 ~ 22时18分]"
         },
         {
           "title": "英伟达全员“AI化”，内部有人要求“少用AI”，黄仁勋直接发飙：“你疯了吗？”",
@@ -49,19 +62,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时21分 ~ 11时09分]"
-        },
-        {
-          "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
-          "url": "https://www.cls.cn/detail/2214152",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时19分 ~ 21时29分]"
         },
         {
           "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
@@ -160,6 +160,19 @@
           "time_info": "[15时17分 ~ 19时16分]"
         },
         {
+          "title": "LLM 中为什么没有使用二进制编码而是使用词嵌入呢？",
+          "url": "https://www.zhihu.com/question/1976966449831633104",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时35分 ~ 22时18分]"
+        },
+        {
           "title": "摩根大通姚橙：中国AI产业发展态势明朗，明年关键在于应用端创新和普及",
           "url": "https://wallstreetcn.com/livenews/3011659",
           "source": "华尔街见闻-快讯",
@@ -210,16 +223,27 @@
           "time_info": "[17时18分 ~ 18时19分]"
         },
         {
-          "title": "LLM 中为什么没有使用二进制编码而是使用词嵌入呢？",
-          "url": "https://www.zhihu.com/question/1976966449831633104",
-          "source": "知乎",
+          "title": "北京拟将大规模AI算力搬上太空",
+          "url": "https://wallstreetcn.com/articles/3760284",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            13
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 21时29分]"
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
+        },
+        {
+          "title": "华为与深交所联合发布证券行业法规大模型",
+          "url": "https://wallstreetcn.com/livenews/3012244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时18分]"
         },
         {
           "title": "国家能源局综合司发布关于组织开展“人工智能+”能源试点工作的通知",
@@ -310,17 +334,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
-        },
-        {
-          "title": "华为与深交所联合发布证券行业法规大模型",
-          "url": "https://wallstreetcn.com/livenews/3012244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
         },
         {
           "title": "惠誉评级：2026年亚太科技行业将面临消费需求疲软，但人工智能将带来顺风。",
@@ -482,8 +495,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时16分 ~ 21时29分]"
+          "appearance_count": 20,
+          "time_info": "[07时16分 ~ 22时18分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -522,11 +535,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时17分 ~ 21时29分]"
+          "appearance_count": 13,
+          "time_info": "[15时17分 ~ 22时18分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -655,6 +669,19 @@
           "time_info": "[00时21分 ~ 03时14分]"
         },
         {
+          "title": "【焦点复盘】市场再现缩量普涨反弹，成交金额创近4个月地量，锂电池、机器人概念表现亮眼",
+          "url": "https://www.cls.cn/detail/2214176",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时35分 ~ 22时18分]"
+        },
+        {
           "title": "福莱新材推出第三代电子皮肤新品，开启机器人“触觉智能TPU”新时代",
           "url": "https://wallstreetcn.com/livenews/3011651",
           "source": "华尔街见闻-快讯",
@@ -666,18 +693,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时17分 ~ 06时17分]"
-        },
-        {
-          "title": "【焦点复盘】市场再现缩量普涨反弹，成交金额创近4个月地量，锂电池、机器人概念表现亮眼",
-          "url": "https://www.cls.cn/detail/2214176",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 21时29分]"
         },
         {
           "title": "险企开辟新赛道：人形机器人专属保险破冰",
