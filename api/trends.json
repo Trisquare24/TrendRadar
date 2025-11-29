@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T15:16:28.593488+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2025-11-29T16:21:51.047784+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时16分 ~ 15时16分]"
+          "appearance_count": 9,
+          "time_info": "[09时16分 ~ 16时21分]"
         },
         {
           "title": "小鹏汽车：车展色情视频系AI生成",
@@ -40,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时10分 ~ 15时16分]"
+          "appearance_count": 8,
+          "time_info": "[11时10分 ~ 16时21分]"
         },
         {
           "title": "中信证券：空间算力PUE低发电成本低，已成为人工智能发展新趋势",
@@ -52,11 +52,23 @@
             13,
             15,
             21,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时10分 ~ 15时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时10分 ~ 16时21分]"
+        },
+        {
+          "title": "美光将在日本西部投资96亿美元，用于生产人工智能内存芯片。",
+          "url": "https://flash.jin10.com/detail/20251129154414299800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
@@ -78,7 +90,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         }
@@ -99,8 +111,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时10分 ~ 15时16分]"
+          "appearance_count": 8,
+          "time_info": "[11时10分 ~ 16时21分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -111,8 +123,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 15时16分]"
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 16时21分]"
         }
       ]
     },
@@ -138,11 +150,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 15时16分]"
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 16时21分]"
         }
       ]
     },
@@ -156,11 +169,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时16分 ~ 15时16分]"
+          "appearance_count": 10,
+          "time_info": "[07时16分 ~ 16时21分]"
         },
         {
           "title": "【焦点复盘】市场再现缩量普涨反弹，成交金额创近4个月地量，锂电池、机器人概念表现亮眼",
