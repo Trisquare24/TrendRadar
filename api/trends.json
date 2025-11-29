@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T07:16:33.803721+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2025-11-29T09:16:40.643650+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时16分]"
         },
         {
           "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 02时24分]"
+        },
+        {
+          "title": "美联储的AI困局：学格林斯潘是“死路”，不降息是“绝路”",
+          "url": "https://wallstreetcn.com/articles/3760347",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         }
       ]
     },
@@ -44,22 +55,24 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时16分]"
         },
         {
           "title": "国家发改委表示要注意防范重复度高的人形机器人产品扎堆上市，我国已有超 150 家人形机器人企业，如何解读？",
           "url": "https://www.zhihu.com/question/1977401930948044538",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时16分]"
         }
       ]
     },
@@ -79,6 +92,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "甲骨文等再贷380亿美元，“OpenAI链”数据中心圈子累计负债已达1000亿美元！",
+          "url": "https://wallstreetcn.com/articles/3760323",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         }
       ]
     },
