@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T13:17:15.784373+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2025-11-29T14:25:27.759408+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 14时25分]"
         },
         {
           "title": "小鹏汽车：车展色情视频系AI生成",
@@ -39,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时10分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[11时10分 ~ 14时25分]"
         },
         {
           "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
@@ -62,11 +63,12 @@
           "ranks": [
             7,
             13,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 14时25分]"
         }
       ]
     },
@@ -81,22 +83,53 @@
           "ranks": [
             8,
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时10分 ~ 13时17分]"
+          "appearance_count": 6,
+          "time_info": "[11时10分 ~ 14时25分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
           "url": "https://wallstreetcn.com/articles/3760370",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 14时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价阿里通义实验室开源新图像生成模型 Z-Image，他和刚刚发布的 FLUX.2-dev 比如何？",
+          "url": "https://www.zhihu.com/question/1977349505541234944",
+          "source": "知乎",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时24分]"
+        },
+        {
+          "title": "美团 2025 年 Q3 季报出炉，本地市场业务亏损约 141 亿，低于京东和阿里，如何评价其在外卖大战中的成果？",
+          "url": "https://www.zhihu.com/question/1977830541605766570",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
@@ -113,8 +146,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 14时25分]"
         },
         {
           "title": "【焦点复盘】市场再现缩量普涨反弹，成交金额创近4个月地量，锂电池、机器人概念表现亮眼",
@@ -163,26 +196,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 11时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里 Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价阿里通义实验室开源新图像生成模型 Z-Image，他和刚刚发布的 FLUX.2-dev 比如何？",
-          "url": "https://www.zhihu.com/question/1977349505541234944",
-          "source": "知乎",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "time_info": "[09时16分 ~ 14时25分]"
         }
       ]
     },
