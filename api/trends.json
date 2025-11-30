@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T21:24:51.308271+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2025-11-30T22:15:54.135605+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时25分 ~ 21时24分]"
+          "appearance_count": 15,
+          "time_info": "[11时25分 ~ 22时15分]"
         },
         {
           "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
@@ -62,6 +62,20 @@
           "time_info": "[11时25分 ~ 18时17分]"
         },
         {
+          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
+          "url": "https://www.cls.cn/detail/2215028",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时21分 ~ 22时15分]"
+        },
+        {
           "title": "浪潮已至，传媒行业如何以AI“弄潮”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32064201",
           "source": "澎湃新闻",
@@ -73,19 +87,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 06时16分]"
-        },
-        {
-          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
-          "url": "https://www.cls.cn/detail/2215028",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时21分 ~ 21时24分]"
         },
         {
           "title": "韩国一男子涉嫌借助AI无照行医被移送检察机关",
@@ -163,22 +164,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时24分]"
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时15分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
           "url": "https://www.cls.cn/detail/2215087",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时24分]"
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时15分]"
         }
       ]
     },
@@ -245,11 +248,12 @@
             13,
             16,
             15,
-            19
+            19,
+            11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时20分 ~ 21时24分]"
+          "appearance_count": 26,
+          "time_info": "[00时20分 ~ 22时15分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -318,8 +322,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时21分 ~ 21时24分]"
+          "appearance_count": 8,
+          "time_info": "[16时21分 ~ 22时15分]"
         }
       ]
     }
