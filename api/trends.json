@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T12:32:52.148405+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2025-11-30T13:17:33.853994+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 13时17分]"
         },
         {
           "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
@@ -27,11 +27,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 09时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 13时17分]"
         },
         {
           "title": "浪潮已至，传媒行业如何以AI“弄潮”",
@@ -47,6 +48,19 @@
           "time_info": "[00时20分 ~ 06时16分]"
         },
         {
+          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
+          "url": "https://wallstreetcn.com/articles/3760389",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 13时17分]"
+        },
+        {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
           "url": "https://www.toutiao.com/trending/7578124515407970367/",
           "source": "今日头条",
@@ -59,18 +73,6 @@
           "time_info": "[09时26分 ~ 11时25分]"
         },
         {
-          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
-          "url": "https://wallstreetcn.com/articles/3760389",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时32分]"
-        },
-        {
           "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
           "url": "https://wallstreetcn.com/articles/3760382",
           "source": "华尔街见闻",
@@ -79,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 13时17分]"
         }
       ]
     },
@@ -123,8 +125,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 13时17分]"
         }
       ]
     },
@@ -167,9 +169,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 13时17分]"
         }
       ]
     },
@@ -187,11 +189,12 @@
             3,
             2,
             8,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 13时17分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -219,11 +222,12 @@
           "ranks": [
             8,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 13时17分]"
         },
         {
           "title": "如何评价 Qwen 门控注意力 Gated Attention 获得 NeurIPS 最佳论文？",
