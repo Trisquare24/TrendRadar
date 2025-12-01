@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T12:47:59.082778+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2025-12-01T13:27:00.158021+08:00",
+  "total_titles_processed": 929,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
@@ -32,28 +32,42 @@
           "time_info": "[00时20分 ~ 09时42分]"
         },
         {
-          "title": "软银：和安川电机 (Yaskawa Electric Corporation)签署谅解备忘录，联合开发面向办公场景的人工智能机器人应用方案。将拓展机器人可执行的任务范围。",
-          "url": "https://flash.jin10.com/detail/20251201122301880800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
           "title": "海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察",
           "url": "https://www.cls.cn/detail/2215163",
           "source": "财联社热门",
           "ranks": [
             12,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 12时47分]"
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 13时27分]"
+        },
+        {
+          "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
+          "url": "https://wallstreetcn.com/articles/3760431",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 13时27分]"
+        },
+        {
+          "title": "软银：和安川电机 (Yaskawa Electric Corporation)签署谅解备忘录，联合开发面向办公场景的人工智能机器人应用方案。将拓展机器人可执行的任务范围。",
+          "url": "https://flash.jin10.com/detail/20251201122301880800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 13时27分]"
         },
         {
           "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
@@ -63,8 +77,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时47分]"
+          "appearance_count": 4,
+          "time_info": "[11时49分 ~ 13时27分]"
+        },
+        {
+          "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
+          "url": "https://www.cls.cn/detail/2215541",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 13时27分]"
         },
         {
           "title": "中国聚变能源公司：与同方股份探讨“人工智能赋能聚变研发”等议题",
@@ -79,26 +105,15 @@
           "time_info": "[11时49分 ~ 12时47分]"
         },
         {
-          "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
-          "url": "https://wallstreetcn.com/articles/3760431",
-          "source": "华尔街见闻",
+          "title": "据英国金融时报：汇丰签署协议，将使用Mistral的人工智能工具",
+          "url": "https://flash.jin10.com/detail/20251201130151032800",
+          "source": "金十数据",
           "ranks": [
-            9
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
-          "url": "https://www.cls.cn/detail/2215541",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "13时27分"
         },
         {
           "title": "没想到夸克AI浏览器还可以这么用",
@@ -107,7 +122,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -118,9 +133,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "日本央行审议委员中村豊明：我们必须警惕人工智能相关股票可能出现的估值过高问题。",
+          "url": "https://flash.jin10.com/detail/20251201125304161800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         }
       ]
     },
@@ -219,8 +245,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时15分 ~ 12时47分]"
+          "appearance_count": 10,
+          "time_info": "[05时15分 ~ 13时27分]"
         },
         {
           "title": "机器人日租价格跳水式下跌",
@@ -267,8 +293,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时47分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 13时27分]"
         }
       ]
     },
