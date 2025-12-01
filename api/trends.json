@@ -1,12 +1,41 @@
 {
-  "generated_at": "2025-12-01T15:22:07.855191+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2025-12-01T16:28:10.438555+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
+          "url": "https://wallstreetcn.com/articles/3760431",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时47分 ~ 16时28分]"
+        },
+        {
+          "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
+          "url": "https://www.cls.cn/detail/2215541",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时47分 ~ 16时28分]"
+        },
         {
           "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
           "url": "https://wallstreetcn.com/articles/3760389",
@@ -32,20 +61,6 @@
           "time_info": "[00时20分 ~ 09时42分]"
         },
         {
-          "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
-          "url": "https://wallstreetcn.com/articles/3760431",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时47分 ~ 15时22分]"
-        },
-        {
           "title": "海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察",
           "url": "https://www.cls.cn/detail/2215163",
           "source": "财联社热门",
@@ -56,22 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时41分 ~ 15时22分]"
-        },
-        {
-          "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
-          "url": "https://www.cls.cn/detail/2215541",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时47分 ~ 15时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时41分 ~ 16时28分]"
         },
         {
           "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
@@ -81,8 +82,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时49分 ~ 14时30分]"
+          "appearance_count": 8,
+          "time_info": "[11时49分 ~ 16时28分]"
+        },
+        {
+          "title": "梅赛德斯-奔驰：今年将员工的人工智能使用率提高了一倍，目标是到2025年底达到50%的使用率。",
+          "url": "https://flash.jin10.com/detail/20251201160943754800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "软银：和安川电机 (Yaskawa Electric Corporation)签署谅解备忘录，联合开发面向办公场景的人工智能机器人应用方案。将拓展机器人可执行的任务范围。",
@@ -115,7 +127,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -167,7 +179,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -199,8 +211,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 15时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 16时28分]"
         },
         {
           "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
@@ -225,6 +237,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时30分 ~ 15时22分]"
+        },
+        {
+          "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
+          "url": "https://www.cls.cn/detail/2215337",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
         }
       ]
     },
@@ -244,8 +267,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时15分 ~ 15时22分]"
+          "appearance_count": 16,
+          "time_info": "[05时15分 ~ 16时28分]"
         },
         {
           "title": "机器人日租价格跳水式下跌",
@@ -364,11 +387,12 @@
           "url": "https://www.zhihu.com/question/1975658884703225303",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 16时28分]"
         }
       ]
     },
@@ -381,11 +405,12 @@
           "url": "https://www.zhihu.com/question/1978457122200052701",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 16时28分]"
         }
       ]
     }
