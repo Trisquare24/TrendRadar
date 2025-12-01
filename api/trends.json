@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-02T06:16:05.993315+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2025-12-02T07:17:55.331381+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
           "url": "https://wallstreetcn.com/articles/3760431",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时17分]"
         },
         {
           "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
@@ -24,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时17分]"
         },
         {
           "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
@@ -37,11 +39,12 @@
           "ranks": [
             11,
             12,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时17分]"
         },
         {
           "title": "郑恺上戏合影 AI生成",
@@ -53,8 +56,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时17分]"
         },
         {
           "title": "顾客买鞋子仅退款拿AI视频当凭证",
@@ -64,11 +67,12 @@
             24,
             18,
             21,
-            23
+            23,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时16分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时17分]"
         },
         {
           "title": "微软CEO：将欧洲视为人工智能战略的关键地区",
@@ -131,12 +135,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时19分]"
+        },
+        {
+          "title": "苹果任命AI业务副总裁",
+          "url": "https://flash.jin10.com/detail/20251202061819637800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
@@ -147,8 +162,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时17分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
+          "url": "https://wallstreetcn.com/livenews/3013217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时17分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -163,15 +190,15 @@
           "time_info": "[05时15分 ~ 06时16分]"
         },
         {
-          "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
-          "url": "https://wallstreetcn.com/livenews/3013217",
+          "title": "苹果宣布AI主管将离职，接班人曾在谷歌DeepMind和微软工作",
+          "url": "https://wallstreetcn.com/livenews/3013239",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时16分"
+          "time_info": "07时17分"
         },
         {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
@@ -202,18 +229,17 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1978819912970555965",
-          "source": "知乎",
+          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
+          "url": "https://wallstreetcn.com/articles/3760468",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
+            8,
             7,
-            6,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时17分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -224,16 +250,18 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时17分]"
         },
         {
-          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
-          "url": "https://wallstreetcn.com/articles/3760468",
-          "source": "华尔街见闻",
+          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1978819912970555965",
+          "source": "知乎",
           "ranks": [
-            8,
-            7
+            11,
+            7,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -249,8 +277,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时17分]"
         }
       ]
     },
@@ -306,11 +334,29 @@
           "url": "https://wallstreetcn.com/livenews/3013211",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "人形机器人成本结构巨变！半导体占比将激增至24%，聚焦“大脑+视觉+传感”三大核心赛道",
+          "url": "https://wallstreetcn.com/articles/3760430",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时16分"
+          "time_info": "07时17分"
         }
       ]
     },
@@ -345,11 +391,12 @@
           "ranks": [
             10,
             13,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 07时17分]"
         }
       ]
     }
