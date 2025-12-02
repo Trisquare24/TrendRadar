@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T14:28:46.050239+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2025-12-02T15:20:52.514506+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
@@ -61,6 +61,19 @@
           "time_info": "[00时25分 ~ 07时17分]"
         },
         {
+          "title": "苹果更换AI主管 白银年内涨幅突破100% | 环球市场",
+          "url": "https://www.cls.cn/detail/2216521",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 15时20分]"
+        },
+        {
           "title": "顾客买鞋子仅退款拿AI视频当凭证",
           "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E6%8B%BFAI%E8%A7%86%E9%A2%91%E5%BD%93%E5%87%AD%E8%AF%81",
           "source": "百度热搜",
@@ -76,19 +89,6 @@
           "time_info": "[01时19分 ~ 07时17分]"
         },
         {
-          "title": "苹果更换AI主管 白银年内涨幅突破100% | 环球市场",
-          "url": "https://www.cls.cn/detail/2216521",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 14时28分]"
-        },
-        {
           "title": "网警破获通过AI换脸非法侵入系统案",
           "url": "https://www.toutiao.com/trending/7578802867742461503/",
           "source": "今日头条",
@@ -96,8 +96,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 15时20分]"
         },
         {
           "title": "网警破获“AI换脸”侵入计算机案",
@@ -107,8 +107,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 15时20分]"
         },
         {
           "title": "网警破获AI换脸非法侵入系统案",
@@ -118,8 +118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 15时20分]"
         },
         {
           "title": "网警破获AI换脸非法侵入案",
@@ -129,19 +129,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 14时28分]"
-        },
-        {
-          "title": "韩国AI初创公司Upstage计划最早于2026年下半年进行IPO",
-          "url": "https://flash.jin10.com/detail/20251202140703581800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 15时20分]"
         },
         {
           "title": "“让AI拥有操作系统级权限！” 字节跳动携手中兴通讯试水AI手机",
@@ -153,8 +142,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 15时20分]"
+        },
+        {
+          "title": "韩国AI初创公司Upstage计划最早于2026年下半年进行IPO",
+          "url": "https://flash.jin10.com/detail/20251202140703581800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "网警侦破AI换脸侵入计算机案",
@@ -167,6 +167,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时16分 ~ 12时28分]"
+        },
+        {
+          "title": "AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用",
+          "url": "https://www.cls.cn/detail/2216806",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 15时20分]"
         },
         {
           "title": "微软CEO：将欧洲视为人工智能战略的关键地区",
@@ -195,17 +209,17 @@
           "time_info": "[02时29分 ~ 05时15分]"
         },
         {
-          "title": "AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用",
-          "url": "https://www.cls.cn/detail/2216806",
+          "title": "AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链",
+          "url": "https://www.cls.cn/detail/2216759",
           "source": "财联社热门",
           "ranks": [
-            11,
-            9,
-            8
+            12,
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时28分 ~ 14时28分]"
+          "time_info": "[13时18分 ~ 15时20分]"
         },
         {
           "title": "据Politico：微软(MSFT.O)首席执行官周一表示，微软正日益将欧洲视为其人工智能战略的关键区域。",
@@ -230,18 +244,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时17分 ~ 12时28分]"
-        },
-        {
-          "title": "AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链",
-          "url": "https://www.cls.cn/detail/2216759",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时28分]"
         },
         {
           "title": "监管机构发出警告：AI加剧大型科技公司对欧盟银行的系统性威胁",
@@ -290,6 +292,28 @@
           "time_info": "07时17分"
         },
         {
+          "title": "首销备货 50 万台，豆包 AI 手机要卖给谁？",
+          "url": "https://wallstreetcn.com/articles/3760465",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "中国AI公司智谱今年营收料较2024年的4200万美元增长逾一倍。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "中信建投：关注字节Force大会和AI产业链",
           "url": "https://wallstreetcn.com/livenews/3013308",
           "source": "华尔街见闻-快讯",
@@ -307,9 +331,42 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "英国央行金融稳定报告：若出现与人工智能相关的资产价格修正，贷款损失或将加剧金融稳定风险。",
+          "url": "https://flash.jin10.com/detail/20251202150510898800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "英国央行金融稳定报告：人工智能估值加剧市场剧烈回调的风险。",
+          "url": "https://flash.jin10.com/detail/20251202150351073800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "英国央行金融稳定报告：许多风险资产的估值仍严重高估，尤其是专注于人工智能的科技公司。",
+          "url": "https://flash.jin10.com/detail/20251202150318242800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "全国首支AI领域孵化培育型创新基金发布",
@@ -351,8 +408,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 15时20分]"
+        },
+        {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时20分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
@@ -377,18 +447,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时16分]"
-        },
-        {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时28分]"
         },
         {
           "title": "苹果宣布AI主管将离职，接班人曾在谷歌DeepMind和微软工作",
@@ -438,7 +496,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
@@ -453,8 +511,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 14时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 15时20分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -467,8 +525,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 14时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 15时20分]"
         },
         {
           "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
@@ -478,8 +536,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 14时28分]"
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 15时20分]"
+        },
+        {
+          "title": "实测DeepSeekV3.2正式版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4,
+            11,
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 15时20分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -509,20 +582,6 @@
           "time_info": "[00时25分 ~ 07时17分]"
         },
         {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 14时28分]"
-        },
-        {
           "title": "DeepSeek新模型追平Gemini",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
           "source": "bilibili 热搜",
@@ -531,8 +590,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 14时28分]"
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 15时20分]"
+        },
+        {
+          "title": "2025 年 12 月 1 日，DeepSeek 正式发布 V3.2 和 V3.2-Speciale，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/1978907565543945170",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },
@@ -540,17 +610,6 @@
       "keyword_group": "机器人 具身智能",
       "match_count": 5,
       "titles": [
-        {
-          "title": "中国汽车动力电池联盟赴北京人形机器人创新中心调研交流",
-          "url": "https://wallstreetcn.com/livenews/3013514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
         {
           "title": "优必选与卓世科技计划5年内联合部署1万台机器人",
           "url": "https://wallstreetcn.com/livenews/3013463",
@@ -563,6 +622,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时28分 ~ 14时28分]"
+        },
+        {
+          "title": "中国汽车动力电池联盟赴北京人形机器人创新中心调研交流",
+          "url": "https://wallstreetcn.com/livenews/3013514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时20分]"
         },
         {
           "title": "创业板指跌超1%，沪指跌0.57%，深成指跌0.74%，机器人、小金属、锂矿、CRO等方向跌幅居前，沪深京三市下跌个股近4000只。",
@@ -607,6 +678,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 15时20分]"
+        },
+        {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
           "url": "https://flash.jin10.com/detail/20251202121909836800",
           "source": "金十数据",
@@ -616,17 +699,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
-        },
-        {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 14时28分]"
         },
         {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
@@ -718,11 +790,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 15时20分]"
         },
         {
           "title": "如何看待博主 H 先生小韩哥发视频评测并质疑影视飓风三合一冲锋衣？",
@@ -767,8 +840,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时28分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时20分]"
         }
       ]
     },
@@ -787,8 +860,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 14时28分]"
+          "appearance_count": 7,
+          "time_info": "[09时19分 ~ 15时20分]"
         }
       ]
     }
