@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T03:42:18.186926+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2025-12-03T04:42:48.163148+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2217493",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时42分]"
         },
         {
           "title": "中国AI大战将在2026年“全面加剧”：“流量入口”成大厂“必争之地”，AI出海也将加速",
@@ -27,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时42分]"
         },
         {
           "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
@@ -37,11 +38,24 @@
           "ranks": [
             12,
             7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时42分]"
+        },
+        {
+          "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
+          "url": "https://wallstreetcn.com/articles/3760506",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时42分]"
         },
         {
           "title": "亚马逊推出定制AI芯片Trainium3 英伟达迎战新一轮攻势",
@@ -53,18 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
-          "url": "https://wallstreetcn.com/articles/3760506",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时42分]"
         },
         {
           "title": "投资者对冲AI项目失败的担忧，甲骨文和软银的CDS成本飙升",
@@ -85,11 +87,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 03时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 04时42分]"
         },
         {
           "title": "从夸克眼镜，到豆包手机，为什么巨头扎堆端侧AI?",
@@ -109,11 +112,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 03时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 04时42分]"
         },
         {
           "title": "法国Mistral AI发布自家下一代模型Mistral 3。 该系列模型用于支持多语种的机器人聊天工具和其他AI服务，包括在网络连接有限的移动设备上运行。",
@@ -121,11 +125,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 03时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 04时42分]"
         },
         {
           "title": "英伟达高管：AI芯片出货主要用于扩容，驱动数据中心收入暴增",
@@ -138,6 +143,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "亚马逊云服务：搭载全新Trainium3芯片的Trainium3超服务器正式全面上线。",
+          "url": "https://flash.jin10.com/detail/20251203023155647800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时42分 ~ 04时42分]"
         },
         {
           "title": "Upwind将与英伟达锁定下一代AI基础设施。",
@@ -175,17 +192,6 @@
           "time_info": "00时24分"
         },
         {
-          "title": "亚马逊云服务：搭载全新Trainium3芯片的Trainium3超服务器正式全面上线。",
-          "url": "https://flash.jin10.com/detail/20251203023155647800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时42分"
-        },
-        {
           "title": "MongoDB股价上涨25%，今年迄今已上涨超过40%。 该公司超越了第三季度的预期并上调了业绩预测，这得益于其从 人工智能（AI） 中获益，以及其Atlas平台越来越受欢迎。 首席执行官Chirantan “CJ” Desai表示，随着人工智能达到一个转折点（inflection），公司正在迎来一个“千载难逢”（once in a lifetime）的机遇。",
           "url": "https://wallstreetcn.com/livenews/3013797",
           "source": "华尔街见闻-快讯",
@@ -209,11 +215,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时42分]"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -234,8 +241,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 03时42分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 04时42分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -276,8 +283,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时42分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -289,8 +296,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时42分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -301,8 +308,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时42分]"
         },
         {
           "title": "实测DeepSeekV3.2正式版",
@@ -312,11 +319,12 @@
             8,
             10,
             9,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时42分]"
         }
       ]
     },
@@ -333,8 +341,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时42分]"
         },
         {
           "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
@@ -360,22 +368,24 @@
           "source": "抖音",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时42分]"
         },
         {
           "title": "“豆包”加持，3499元的手机，一天就卖光，闲鱼挂价最高近万元",
           "url": "https://wallstreetcn.com/livenews/3013889",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时42分 ~ 04时42分]"
         }
       ]
     },
@@ -393,8 +403,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时42分]"
         }
       ]
     },
@@ -408,11 +418,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时42分]"
         }
       ]
     },
@@ -427,11 +438,12 @@
           "ranks": [
             14,
             29,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 03时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 04时42分]"
         }
       ]
     },
@@ -449,8 +461,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时42分]"
         }
       ]
     }
