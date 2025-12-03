@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T12:27:08.152526+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2025-12-03T13:18:11.235084+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 12时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 13时18分]"
         },
         {
           "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
@@ -47,6 +47,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时24分 ~ 11时16分]"
+        },
+        {
+          "title": "12月3日投资避雷针：4连板人气股紧急澄清 目前不存在AI手机相关业务",
+          "url": "https://www.cls.cn/detail/2217771",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时19分 ~ 13时18分]"
         },
         {
           "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
@@ -64,17 +77,17 @@
           "time_info": "[00时24分 ~ 05时18分]"
         },
         {
-          "title": "12月3日投资避雷针：4连板人气股紧急澄清 目前不存在AI手机相关业务",
-          "url": "https://www.cls.cn/detail/2217771",
+          "title": "端侧AI“上新潮”来了！哪些上市公司有望分羹产业链盛宴？",
+          "url": "https://www.cls.cn/detail/2217832",
           "source": "财联社热门",
           "ranks": [
-            11,
-            6,
-            5
+            8,
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时19分 ~ 12时27分]"
+          "time_info": "[11时15分 ~ 13时18分]"
         },
         {
           "title": "亚马逊推出定制AI芯片Trainium3 英伟达迎战新一轮攻势",
@@ -86,28 +99,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "阿里千问App位列全球AI应用增速榜第一",
-          "url": "https://wallstreetcn.com/livenews/3014157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "惠誉：人工智能支出浪潮将支撑韩国存储芯片制造商的前景。",
-          "url": "https://flash.jin10.com/detail/20251203114922353800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
         },
         {
           "title": "投资者对冲AI项目失败的担忧，甲骨文和软银的CDS成本飙升",
@@ -160,16 +151,28 @@
           "time_info": "[02时29分 ~ 04时42分]"
         },
         {
-          "title": "端侧AI“上新潮”来了！哪些上市公司有望分羹产业链盛宴？",
-          "url": "https://www.cls.cn/detail/2217832",
-          "source": "财联社热门",
+          "title": "阿里千问App位列全球AI应用增速榜第一",
+          "url": "https://wallstreetcn.com/livenews/3014157",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            9
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 12时27分]"
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时18分]"
+        },
+        {
+          "title": "惠誉：人工智能支出浪潮将支撑韩国存储芯片制造商的前景。",
+          "url": "https://flash.jin10.com/detail/20251203114922353800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时18分]"
         },
         {
           "title": "迈威尔科技将以大约32.5亿美元现金+股票收购Celestial AI。",
@@ -182,6 +185,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时16分]"
+        },
+        {
+          "title": "缺电、缺人、缺设备，大摩：明年市场将转向解决AI基建瓶颈，看好能源基础设施",
+          "url": "https://wallstreetcn.com/articles/3760522",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 13时18分]"
         },
         {
           "title": "从夸克眼镜，到豆包手机，为什么巨头扎堆端侧AI?",
@@ -231,17 +246,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时16分 ~ 09时20分]"
-        },
-        {
-          "title": "缺电、缺人、缺设备，大摩：明年市场将转向解决AI基建瓶颈，看好能源基础设施",
-          "url": "https://wallstreetcn.com/articles/3760522",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
           "title": "联合国报告：人工智能管理差异或加剧国家间不平等",
@@ -324,6 +328,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-03）",
+          "url": "https://flash.jin10.com/detail/20251203115452067800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "对AI泡沫的担忧加剧：甲骨文“恐慌指数”创2009年以来新高",
@@ -417,8 +432,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 12时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时19分 ~ 13时18分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -458,6 +473,18 @@
           "time_info": "[02时28分 ~ 05时18分]"
         },
         {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 13时18分]"
+        },
+        {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
           "url": "https://wallstreetcn.com/articles/3760498",
           "source": "华尔街见闻",
@@ -481,17 +508,6 @@
           "time_info": "[00时24分 ~ 01时21分]"
         },
         {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
-        },
-        {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3013807",
           "source": "华尔街见闻-快讯",
@@ -507,7 +523,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国产T800机器人来了",
@@ -528,11 +544,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%91%E5%B8%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E8%A7%86%E9%A2%91%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 12时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 13时18分]"
         },
         {
           "title": "浙江“十五五”规划建议：聚焦人形机器人、脑机接口等领域 布局建设一批未来产业先导区",
@@ -543,8 +560,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 12时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 13时18分]"
         },
         {
           "title": "特斯拉人形机器人跑步视频",
@@ -556,6 +573,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "特斯拉发布人形机器人跑步视频",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E5%8F%91%E5%B8%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
         },
         {
           "title": "浙江“十五五”规划建议：聚焦具身智能、智能驾驶等重点领域建设全国领先的核心产业集群",
@@ -706,6 +734,18 @@
           "time_info": "[00时24分 ~ 09时20分]"
         },
         {
+          "title": "千问APP接入阿里学习模型",
+          "url": "https://wallstreetcn.com/livenews/3014150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时18分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌0.6%。 热门中概股里，小鹏初步收跌7.5%，阿特斯太阳能跌5.9%，万国数据、蔚来、B站、世纪互联、阿里巴巴等至少跌约2%，华住则涨1%，文远知行涨2.7%，亚朵涨5.4%。 ETF中，CQQQ跌1.2%，KWEB跌0.9%。",
           "url": "https://wallstreetcn.com/livenews/3013907",
           "source": "华尔街见闻-快讯",
@@ -715,17 +755,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
-        },
-        {
-          "title": "千问APP接入阿里学习模型",
-          "url": "https://wallstreetcn.com/livenews/3014150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.65%，报7808.98点。 热门中概股里，小鹏初步收跌7.5%，阿特斯太阳能跌5.9%，万国数据、蔚来、B站、世纪互联、阿里巴巴等至少跌约2%，华住则涨1%，文远知行涨2.7%，亚朵涨5.4%。 ETF中，中国科技指数ETF（CQQQ）收跌1.25%，中概互联网指数ETF（KWEB）收跌1.03%。 XtrackersHarvest中证50（ASHS）收跌1.11%，德银嘉实沪深300指数ETF（ASHR）收跌0.73%。",
