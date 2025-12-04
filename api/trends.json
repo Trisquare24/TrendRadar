@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T05:17:55.720732+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2025-12-05T06:16:06.126507+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1979572748297715966",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[01时20分 ~ 06时16分]"
         },
         {
           "title": "遭微信、银行等App集体预警 豆包AI手机助手引发“系统级控制权”争夺战",
@@ -27,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 06时16分]"
         },
         {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
@@ -39,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 06时16分]"
         },
         {
           "title": "比尔·盖茨小女儿为AI企业Phia筹资3000万美元",
@@ -127,8 +128,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 05时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 06时16分]"
         }
       ]
     }
