@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T19:18:12.559651+08:00",
-  "total_titles_processed": 1651,
+  "generated_at": "2025-12-04T20:39:00.893190+08:00",
+  "total_titles_processed": 1756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
@@ -22,18 +22,6 @@
           "time_info": "[12时28分 ~ 19时18分]"
         },
         {
-          "title": "理想AI眼镜Livis首发开箱",
-          "url": "https://www.douyin.com/hot/2325492",
-          "source": "抖音",
-          "ranks": [
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时16分 ~ 11时17分]"
-        },
-        {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
           "url": "https://www.zhihu.com/question/1979578572474709507",
           "source": "知乎",
@@ -44,8 +32,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时28分 ~ 19时18分]"
+          "appearance_count": 10,
+          "time_info": "[14时28分 ~ 20时39分]"
+        },
+        {
+          "title": "理想AI眼镜Livis首发开箱",
+          "url": "https://www.douyin.com/hot/2325492",
+          "source": "抖音",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时16分 ~ 11时17分]"
         },
         {
           "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
@@ -73,13 +73,24 @@
           "time_info": "13时18分"
         },
         {
+          "title": "2025“人工智能+”产业生态大会在北京举办",
+          "url": "https://wallstreetcn.com/livenews/3015180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "民航局出台意见 推动“人工智能+民航”深度融合创新",
           "url": "https://wallstreetcn.com/livenews/3015129",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -302,7 +313,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -316,6 +327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "Alphabet的AI芯片被誉为“独门秘籍” 或可为其创收近万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3015167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "九峰山实验室发布最新成果，一年可为超大型AI算力中心省3亿度电",
@@ -338,6 +360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "工信部：加快工业互联网与人工智能、5G、大数据、云计算等技术互促发展",
+          "url": "https://wallstreetcn.com/livenews/3015160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "消息人士：Meta公司因在WhatsApp中使用人工智能，或将面临欧盟反垄断调查。",
@@ -453,7 +486,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "“长”出皮肤：人形机器人量产前夜的“触觉战争”",
@@ -480,6 +513,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时19分 ~ 14时28分]"
+        },
+        {
+          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
+          "url": "https://www.cls.cn/detail/2219555",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时25分 ~ 20时39分]"
         },
         {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
@@ -524,19 +570,6 @@
           "time_info": "[12时28分 ~ 17时22分]"
         },
         {
-          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
-          "url": "https://www.cls.cn/detail/2219555",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 19时18分]"
-        },
-        {
           "title": "国际残疾人日·看见他们｜专访渐冻人蔡磊：我还有一个梦想，创造一个自己的“具身智能分身”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32094364",
           "source": "澎湃新闻",
@@ -551,13 +584,38 @@
           "time_info": "[09时19分 ~ 15时19分]"
         },
         {
+          "title": "【每日收评】创业板指探底回升涨超1%，两市成交额不足1.6万亿，机器人、商业航天板块走强",
+          "url": "https://www.cls.cn/detail/2219726",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 20时39分]"
+        },
+        {
+          "title": "大摩调查：高达62%中国企业或在三年内采用人形机器人",
+          "url": "https://www.cls.cn/detail/2219505",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 20时39分]"
+        },
+        {
           "title": "骏亚科技：公司生产的PCB产品可用于人形机器人，但相关产品占公司营业收入比重很小，占公司营业收入比重低于0.05%，不会对公司当期业绩产生重大影响。",
           "url": "https://wallstreetcn.com/livenews/3015128",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -585,31 +643,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 03时17分]"
-        },
-        {
-          "title": "【每日收评】创业板指探底回升涨超1%，两市成交额不足1.6万亿，机器人、商业航天板块走强",
-          "url": "https://www.cls.cn/detail/2219726",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 19时18分]"
-        },
-        {
-          "title": "大摩调查：高达62%中国企业或在三年内采用人形机器人",
-          "url": "https://www.cls.cn/detail/2219505",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 19时18分]"
         },
         {
           "title": "美股机器人概念股走强",
@@ -672,6 +705,17 @@
           "time_info": "[12时29分 ~ 13时18分]"
         },
         {
+          "title": "宇树发布两款人形机器人实战视频",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E4%B8%A4%E6%AC%BE%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%9E%E6%88%98%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
+        },
+        {
           "title": "如何评价众擎新发布的 T800 机器人？",
           "url": "https://www.zhihu.com/question/1979154184961033830",
           "source": "知乎",
@@ -719,7 +763,7 @@
     },
     {
       "keyword_group": "字节 Kimi 豆包",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "豆包回应“手机助手无法使用微信”：不会代替用户进行相关授权和敏感操作，不在云端存储任何用户屏幕内容",
@@ -727,11 +771,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[12时28分 ~ 20时39分]"
         },
         {
           "title": "豆包手机助手触发微信账号强制下线？豆包、微信双方回应",
@@ -768,11 +813,12 @@
           "ranks": [
             11,
             2,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 19时18分]"
+          "appearance_count": 8,
+          "time_info": "[16时25分 ~ 20时39分]"
         },
         {
           "title": "豆包手机",
@@ -780,11 +826,23 @@
           "source": "微博",
           "ranks": [
             5,
-            1
+            1,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 20时39分]"
+        },
+        {
+          "title": "周鸿祎称豆包手机冲垮大厂护城河",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E7%A7%B0%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E5%86%B2%E5%9E%AE%E5%A4%A7%E5%8E%82%E6%8A%A4%E5%9F%8E%E6%B2%B3%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
         },
         {
           "title": "“豆包”加持，3499元的手机，一天就卖光，闲鱼挂价最高近万元",
@@ -904,8 +962,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 20时39分]"
         }
       ]
     },
