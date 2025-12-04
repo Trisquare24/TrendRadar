@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T20:39:00.893190+08:00",
-  "total_titles_processed": 1756,
+  "generated_at": "2025-12-04T21:35:11.738425+08:00",
+  "total_titles_processed": 1834,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
@@ -32,8 +32,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时28分 ~ 20时39分]"
+          "appearance_count": 12,
+          "time_info": "[14时28分 ~ 21时35分]"
         },
         {
           "title": "理想AI眼镜Livis首发开箱",
@@ -71,17 +71,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
-        },
-        {
-          "title": "2025“人工智能+”产业生态大会在北京举办",
-          "url": "https://wallstreetcn.com/livenews/3015180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         },
         {
           "title": "民航局出台意见 推动“人工智能+民航”深度融合创新",
@@ -131,6 +120,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时15分]"
+        },
+        {
+          "title": "2025“人工智能+”产业生态大会在北京举办",
+          "url": "https://wallstreetcn.com/livenews/3015180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时35分]"
         },
         {
           "title": "买家AI合成“死蟹”骗退款被拘留8日",
@@ -227,6 +228,18 @@
           "time_info": "[06时18分 ~ 07时15分]"
         },
         {
+          "title": "Alphabet的AI芯片被誉为“独门秘籍” 或可为其创收近万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3015167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时35分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：国会山之行是为了回答关于AI的问题。",
           "url": "https://wallstreetcn.com/livenews/3014561",
           "source": "华尔街见闻-快讯",
@@ -318,6 +331,17 @@
           "time_info": "19时18分"
         },
         {
+          "title": "“人工智能教父”LeCun将离职创业 确认Meta将不投资其初创公司",
+          "url": "https://flash.jin10.com/detail/20251204210455506800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "市场消息：SK海力士为了提高全球AI内存竞争力，进行了组织结构和人事调整。",
           "url": "https://flash.jin10.com/detail/20251204135136533800",
           "source": "金十数据",
@@ -327,17 +351,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
-        },
-        {
-          "title": "Alphabet的AI芯片被誉为“独门秘籍” 或可为其创收近万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3015167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时39分"
         },
         {
           "title": "九峰山实验室发布最新成果，一年可为超大型AI算力中心省3亿度电",
@@ -368,7 +381,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -486,7 +499,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "“长”出皮肤：人形机器人量产前夜的“触觉战争”",
@@ -503,6 +516,19 @@
           "time_info": "[00时25分 ~ 11时17分]"
         },
         {
+          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
+          "url": "https://www.cls.cn/detail/2219555",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时25分 ~ 21时35分]"
+        },
+        {
           "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
           "url": "https://www.cls.cn/detail/2218940",
           "source": "财联社热门",
@@ -513,19 +539,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时19分 ~ 14时28分]"
-        },
-        {
-          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
-          "url": "https://www.cls.cn/detail/2219555",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 20时39分]"
         },
         {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
@@ -570,6 +583,19 @@
           "time_info": "[12时28分 ~ 17时22分]"
         },
         {
+          "title": "【每日收评】创业板指探底回升涨超1%，两市成交额不足1.6万亿，机器人、商业航天板块走强",
+          "url": "https://www.cls.cn/detail/2219726",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时22分 ~ 21时35分]"
+        },
+        {
           "title": "国际残疾人日·看见他们｜专访渐冻人蔡磊：我还有一个梦想，创造一个自己的“具身智能分身”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32094364",
           "source": "澎湃新闻",
@@ -582,18 +608,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时19分 ~ 15时19分]"
-        },
-        {
-          "title": "【每日收评】创业板指探底回升涨超1%，两市成交额不足1.6万亿，机器人、商业航天板块走强",
-          "url": "https://www.cls.cn/detail/2219726",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时22分 ~ 20时39分]"
         },
         {
           "title": "大摩调查：高达62%中国企业或在三年内采用人形机器人",
@@ -620,6 +634,17 @@
           "time_info": "19时18分"
         },
         {
+          "title": "智元第5000台通用具身机器人量产下线仪式定档",
+          "url": "https://wallstreetcn.com/livenews/3015207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "日本机器人与芯片股延续涨势，日经225指数涨幅扩大至1.8%。",
           "url": "https://flash.jin10.com/detail/20251204121132840800",
           "source": "金十数据",
@@ -643,6 +668,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 03时17分]"
+        },
+        {
+          "title": "宇树发布两款人形机器人实战视频",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E4%B8%A4%E6%AC%BE%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%9E%E6%88%98%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 21时35分]"
         },
         {
           "title": "美股机器人概念股走强",
@@ -705,15 +742,15 @@
           "time_info": "[12时29分 ~ 13时18分]"
         },
         {
-          "title": "宇树发布两款人形机器人实战视频",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E4%B8%A4%E6%AC%BE%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%9E%E6%88%98%E8%A7%86%E9%A2%91",
-          "source": "百度热搜",
+          "title": "北京奥林匹克中心区将建全球首个国家人形机器人赛训基地",
+          "url": "https://wallstreetcn.com/livenews/3015189",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 20时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "如何评价众擎新发布的 T800 机器人？",
@@ -749,6 +786,17 @@
           "time_info": "11时17分"
         },
         {
+          "title": "英伟达CEO黄仁勋：我对埃隆·马斯克正在研发的机器人感到无比兴奋。",
+          "url": "https://flash.jin10.com/detail/20251204204103136800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "商汤科技联合创始人、执行董事王晓刚出任大晓机器人董事长",
           "url": "https://wallstreetcn.com/livenews/3014813",
           "source": "华尔街见闻-快讯",
@@ -763,7 +811,7 @@
     },
     {
       "keyword_group": "字节 Kimi 豆包",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "豆包回应“手机助手无法使用微信”：不会代替用户进行相关授权和敏感操作，不在云端存储任何用户屏幕内容",
@@ -775,8 +823,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时28分 ~ 20时39分]"
+          "appearance_count": 15,
+          "time_info": "[12时28分 ~ 21时35分]"
+        },
+        {
+          "title": "豆包手机售罄后或26年底才有货",
+          "url": "https://www.cls.cn/detail/2219678",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            2,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时25分 ~ 21时35分]"
         },
         {
           "title": "豆包手机助手触发微信账号强制下线？豆包、微信双方回应",
@@ -807,31 +869,18 @@
           "time_info": "[00时25分 ~ 15时19分]"
         },
         {
-          "title": "豆包手机售罄后或26年底才有货",
-          "url": "https://www.cls.cn/detail/2219678",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            2,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时25分 ~ 20时39分]"
-        },
-        {
           "title": "豆包手机",
           "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5,
             1,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时22分 ~ 20时39分]"
+          "appearance_count": 8,
+          "time_info": "[17时22分 ~ 21时35分]"
         },
         {
           "title": "周鸿祎称豆包手机冲垮大厂护城河",
@@ -841,8 +890,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 20时39分]"
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 21时35分]"
         },
         {
           "title": "“豆包”加持，3499元的手机，一天就卖光，闲鱼挂价最高近万元",
@@ -866,6 +915,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时26分 ~ 17时22分]"
+        },
+        {
+          "title": "周鸿祎：豆包手机冲垮大厂护城河 美团淘宝高管可能要连夜开会了",
+          "url": "https://wallstreetcn.com/livenews/3015194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         }
       ]
     },
@@ -935,6 +995,46 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 04时21分]"
+        },
+        {
+          "title": "钎城 Gemini",
+          "url": "https://s.weibo.com/weibo?q=%E9%92%8E%E5%9F%8E%20Gemini&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "欧盟就谷歌广告技术反垄断合规提案征求行业意见",
+          "url": "https://flash.jin10.com/detail/20251204204409573800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -962,37 +1062,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时22分 ~ 20时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 04时21分]"
-        },
-        {
-          "title": "钎城 Gemini",
-          "url": "https://s.weibo.com/weibo?q=%E9%92%8E%E5%9F%8E%20Gemini&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
+          "appearance_count": 8,
+          "time_info": "[17时22分 ~ 21时35分]"
         }
       ]
     },
