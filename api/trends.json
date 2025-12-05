@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T22:19:13.369767+08:00",
-  "total_titles_processed": 1943,
+  "generated_at": "2025-12-05T23:19:44.740045+08:00",
+  "total_titles_processed": 2043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "3499 元的中兴豆包手机一天卖光，最高被炒至 9999 元，为何这么火？手机 + 大模型会是手机的新卖点吗？",
@@ -78,6 +78,21 @@
           "time_info": "[09时20分 ~ 19时17分]"
         },
         {
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时24分 ~ 23时19分]"
+        },
+        {
           "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
           "url": "https://www.zhihu.com/question/1979578572474709507",
           "source": "知乎",
@@ -90,18 +105,18 @@
           "time_info": "[00时25分 ~ 07时17分]"
         },
         {
-          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
-          "source": "澎湃新闻",
+          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
+          "url": "https://www.cls.cn/detail/2221214",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            10,
-            7,
-            9
+            8,
+            9,
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时24分 ~ 22时19分]"
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 23时19分]"
         },
         {
           "title": "如何评价 C 罗在自己投资的 AI 宣传片里表示 1000 球＞世界杯夺冠？",
@@ -189,19 +204,6 @@
           "time_info": "[01时21分 ~ 04时21分]"
         },
         {
-          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
-          "url": "https://www.cls.cn/detail/2221214",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时37分 ~ 22时19分]"
-        },
-        {
           "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
           "url": "https://www.cls.cn/detail/2220406",
           "source": "财联社热门",
@@ -259,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "任正非最新讲话：没有网络的算力是信息孤岛，AI重在应用",
+          "url": "https://wallstreetcn.com/articles/3760772",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "美国驻欧盟大使：欧盟人工智能法规造成了合作困难；美国副总统万斯非常关注欧盟针对美国公司的法律行动。",
@@ -322,7 +335,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -475,8 +488,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时19分 ~ 22时19分]"
+          "appearance_count": 11,
+          "time_info": "[15时19分 ~ 23时19分]"
         },
         {
           "title": "豆包抢入口，捅了马蜂窝",
@@ -487,8 +500,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时19分 ~ 22时19分]"
+          "appearance_count": 9,
+          "time_info": "[17时19分 ~ 23时19分]"
         },
         {
           "title": "豆包手机 微信",
@@ -497,11 +510,12 @@
           "ranks": [
             10,
             7,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时37分 ~ 22时19分]"
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 23时19分]"
         },
         {
           "title": "豆包语音识别模型2.0上线",
@@ -634,8 +648,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时28分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[12时28分 ~ 23时19分]"
         },
         {
           "title": "阿里今年申请多枚淘宝闪购相关商标",
