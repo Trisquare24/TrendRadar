@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T19:17:49.089148+08:00",
-  "total_titles_processed": 1649,
+  "generated_at": "2025-12-05T20:37:22.402336+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "3499 元的中兴豆包手机一天卖光，最高被炒至 9999 元，为何这么火？手机 + 大模型会是手机的新卖点吗？",
@@ -42,11 +42,12 @@
             10,
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时20分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[09时20分 ~ 20时37分]"
         },
         {
           "title": "任正非最新发声！涉及人工智能，信息量很大",
@@ -87,6 +88,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 07时17分]"
+        },
+        {
+          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时24分 ~ 20时37分]"
         },
         {
           "title": "美国SEC主席驳斥要求企业加强人工智能报告的提议",
@@ -139,18 +153,6 @@
           "time_info": "[01时21分 ~ 04时21分]"
         },
         {
-          "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 19时17分]"
-        },
-        {
           "title": "专访中央党校教授汪玉凯：政策稳定性将是重要考量，或强化AI与数字经济部署|中央经济工作会议前瞻",
           "url": "https://www.cls.cn/detail/2220406",
           "source": "财联社热门",
@@ -199,6 +201,17 @@
           "time_info": "[13时18分 ~ 14时29分]"
         },
         {
+          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
+          "url": "https://www.cls.cn/detail/2221214",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "美国驻欧盟大使：欧洲的净零排放目标可能会阻碍欧盟人工智能的发展。",
           "url": "https://flash.jin10.com/detail/20251205174052838800",
           "source": "金十数据",
@@ -208,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "如何评价 C 罗在自己投资的 AI 宣传片里表示 1000 球＞世界杯夺冠？",
+          "url": "https://www.zhihu.com/question/1980299505992753247",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "美国驻欧盟大使：欧盟人工智能法规造成了合作困难；美国副总统万斯非常关注欧盟针对美国公司的法律行动。",
@@ -319,11 +343,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini3%20DeepThink%20%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时37分]"
         },
         {
           "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
@@ -366,7 +391,7 @@
     },
     {
       "keyword_group": "字节 Kimi 豆包",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待周鸿祎「豆包手机助手拿捏所有 App，直击互联网大厂的护城河」的观点？",
@@ -379,19 +404,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 19时17分]"
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 20时37分]"
         },
         {
           "title": "豆包抢入口，捅了马蜂窝",
           "url": "https://wallstreetcn.com/articles/3760775",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[17时19分 ~ 20时37分]"
         },
         {
           "title": "豆包语音识别模型2.0上线",
@@ -403,6 +429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "豆包手机 微信",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%20%E5%BE%AE%E4%BF%A1&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     },
@@ -520,11 +557,12 @@
             7,
             8,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 19时17分]"
+          "appearance_count": 11,
+          "time_info": "[12时28分 ~ 20时37分]"
         },
         {
           "title": "阿里今年申请多枚淘宝闪购相关商标",
