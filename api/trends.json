@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T14:25:12.716413+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2025-12-06T15:17:02.452556+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,20 @@
           "time_info": "[00时22分 ~ 12时20分]"
         },
         {
+          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
+          "url": "https://wallstreetcn.com/articles/3760810",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时16分 ~ 15时17分]"
+        },
+        {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
           "source": "澎湃新闻",
@@ -33,20 +47,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 11时07分]"
-        },
-        {
-          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
-          "url": "https://wallstreetcn.com/articles/3760810",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 14时25分]"
         },
         {
           "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms(META.O)已收购该公司。",
@@ -68,11 +68,25 @@
             2,
             8,
             14,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时07分 ~ 14时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时07分 ~ 15时17分]"
+        },
+        {
+          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2221699",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 15时17分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
@@ -86,18 +100,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时14分]"
-        },
-        {
-          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
-          "url": "https://www.cls.cn/detail/2221699",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 14时25分]"
         },
         {
           "title": "油轮Kairos距离保加利亚海岸线仅一英里，该船上周在土耳其附近海域遭到乌克兰无人机袭击。",
@@ -176,6 +178,19 @@
           "time_info": "[04时20分 ~ 09时16分]"
         },
         {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            20,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 15时17分]"
+        },
+        {
           "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
           "url": "https://flash.jin10.com/detail/20251206034235677800",
           "source": "金十数据",
@@ -210,19 +225,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时17分 ~ 09时16分]"
-        },
-        {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
-          "source": "知乎",
-          "ranks": [
-            20,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 14时25分]"
         },
         {
           "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo自愿向美国国家公路交通安全管理局（NHTSA）申请软件召回。",
@@ -273,11 +275,12 @@
           "ranks": [
             6,
             8,
-            20
+            20,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 14时25分]"
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 15时17分]"
         },
         {
           "title": "多家APP对豆包手机禁用",
@@ -318,8 +321,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时20分 ~ 14时25分]"
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 15时17分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -403,11 +406,12 @@
             16,
             12,
             10,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 14时25分]"
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 15时17分]"
         }
       ]
     },
@@ -425,11 +429,12 @@
             7,
             18,
             17,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时16分 ~ 15时17分]"
         }
       ]
     }
