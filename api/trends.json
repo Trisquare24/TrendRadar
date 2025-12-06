@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T05:15:44.325597+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2025-12-07T06:16:59.554948+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "豆包AI手机深度体验",
@@ -26,11 +26,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "卡塔尔能源大臣：人工智能成“吃气大户” 警惕2035年供需失衡",
@@ -40,8 +41,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -51,8 +52,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时16分]"
         }
       ]
     },
@@ -69,8 +70,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -80,8 +81,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时13分 ~ 05时15分]"
+          "appearance_count": 6,
+          "time_info": "[03时13分 ~ 06时16分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -110,8 +111,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "豆包手机被微信「拒绝」后，阿里系 App 被曝也禁止其登陆，如何看待这场「博弈」？核心矛盾是什么？",
@@ -121,8 +122,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 06时16分]"
         }
       ]
     },
@@ -136,11 +137,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 06时16分]"
         }
       ]
     },
@@ -173,11 +175,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 06时16分]"
         }
       ]
     },
@@ -193,8 +196,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 06时16分]"
         }
       ]
     }
