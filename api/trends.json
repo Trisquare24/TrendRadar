@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T00:20:02.124044+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-08T01:14:47.922827+08:00",
+  "total_titles_processed": 340,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "众擎T800机器人引台媒惊呼",
           "url": "https://www.baidu.com/s?wd=%E4%BC%97%E6%93%8ET800%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%95%E5%8F%B0%E5%AA%92%E6%83%8A%E5%91%BC",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 00时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时14分]"
         }
       ]
     }
