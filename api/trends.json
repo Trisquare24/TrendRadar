@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T22:19:47.529833+08:00",
-  "total_titles_processed": 1703,
+  "generated_at": "2025-12-08T23:20:28.754848+08:00",
+  "total_titles_processed": 1810,
   "failed_sources": [],
   "trends": [
     {
@@ -67,28 +67,29 @@
           "time_info": "[12时31分 ~ 16时27分]"
         },
         {
-          "title": "市场消息：卡塔尔成立新公司QAI，旨在建设和投资人工智能。",
-          "url": "https://flash.jin10.com/detail/20251208215109691800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
           "url": "https://www.zhihu.com/question/1981321831689511959",
           "source": "知乎",
           "ranks": [
             20,
             11,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 23时20分]"
+        },
+        {
+          "title": "市场消息：卡塔尔成立新公司QAI，旨在建设和投资人工智能。",
+          "url": "https://flash.jin10.com/detail/20251208215109691800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "美国总统特朗普：如果我们要继续在人工智能领域保持领先，必须只有一套规则手册。",
@@ -157,7 +158,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -168,7 +169,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -179,7 +180,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -190,7 +191,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -201,7 +202,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -233,8 +234,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时22分 ~ 22时19分]"
+          "appearance_count": 11,
+          "time_info": "[15时22分 ~ 23时20分]"
         },
         {
           "title": "机器人租赁市场趋于理性：昔日万元“日薪”遭膝斩 年末季节性需求注入动力",
@@ -373,7 +374,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
