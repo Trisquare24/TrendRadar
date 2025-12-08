@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T16:27:51.465664+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2025-12-08T17:26:30.178352+08:00",
+  "total_titles_processed": 1289,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 16时27分]"
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 17时26分]"
         },
         {
           "title": "为什么说大模型训练很难？",
@@ -51,6 +52,19 @@
           "time_info": "[12时31分 ~ 16时27分]"
         },
         {
+          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
+          "url": "https://www.cls.cn/detail/2222429",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时26分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-08）",
           "url": "https://flash.jin10.com/detail/20251208115415348800",
           "source": "金十数据",
@@ -61,18 +75,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 13时20分]"
-        },
-        {
-          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
-          "url": "https://www.cls.cn/detail/2222429",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时27分]"
         },
         {
           "title": "外媒关注中国发布全球首款AI手机",
@@ -119,17 +121,6 @@
           "time_info": "[00时19分 ~ 07时15分]"
         },
         {
-          "title": "智元第5000台人形机器人量产下线",
-          "url": "https://wallstreetcn.com/livenews/3016851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
           "title": "山东省“十五五”规划建议：加快机器人和智能装备推广应用 打造低空经济发展集聚区、内河新能源船舶制造基地",
           "url": "https://wallstreetcn.com/livenews/3016541",
           "source": "华尔街见闻-快讯",
@@ -146,11 +137,24 @@
           "source": "知乎",
           "ranks": [
             17,
-            13
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 17时26分]"
+        },
+        {
+          "title": "智元第5000台人形机器人量产下线",
+          "url": "https://wallstreetcn.com/livenews/3016851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时27分]"
+          "time_info": "[16时27分 ~ 17时26分]"
         },
         {
           "title": "A股机器人概念股震荡拉升，五洲新春午后涨停，飞龙股份、景业智能、豪能股份、中坚科技、泰尔股份等涨幅居前。",
@@ -178,11 +182,12 @@
             11,
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时31分 ~ 16时27分]"
+          "appearance_count": 8,
+          "time_info": "[12时31分 ~ 17时26分]"
         },
         {
           "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
@@ -214,7 +219,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         }
