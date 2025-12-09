@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T04:19:03.063844+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2025-12-10T05:15:47.530929+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时15分]"
         },
         {
           "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
@@ -27,8 +27,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时15分]"
+        },
+        {
+          "title": "NMIXX翻唱UP主AI版大东北",
+          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时15分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -39,20 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时19分]"
-        },
-        {
-          "title": "NMIXX翻唱UP主AI版大东北",
-          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时15分]"
         },
         {
           "title": "马上评｜用AI写年度总结与职场人的“AI化”",
@@ -63,19 +64,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时15分]"
         },
         {
           "title": "【明日主题前瞻】一天一个价，存储芯片或迎以AI驱动的新一轮景气周期",
           "url": "https://www.cls.cn/detail/2224154",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 05时15分]"
         },
         {
           "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
@@ -275,11 +277,12 @@
             9,
             8,
             4,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时15分]"
         }
       ]
     },
@@ -293,11 +296,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时15分]"
         }
       ]
     }
