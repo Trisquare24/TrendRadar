@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T17:22:07.705321+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2025-12-09T18:21:51.309475+08:00",
+  "total_titles_processed": 1640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时26分 ~ 17时22分]"
+          "appearance_count": 10,
+          "time_info": "[12时26分 ~ 18时21分]"
         },
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -42,11 +42,12 @@
             9,
             7,
             3,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时17分 ~ 17时22分]"
+          "appearance_count": 12,
+          "time_info": "[11时17分 ~ 18时21分]"
         },
         {
           "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
@@ -83,11 +84,12 @@
           "ranks": [
             8,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 17时22分]"
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 18时21分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -97,11 +99,12 @@
             20,
             13,
             12,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时18分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 18时21分]"
         },
         {
           "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
@@ -109,11 +112,39 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时21分]"
+        },
+        {
+          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
+          "url": "https://wallstreetcn.com/articles/3760976",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时21分]"
+        },
+        {
+          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 18时21分]"
         },
         {
           "title": "摩根大通CEO戴蒙召集亚马逊创始人贝佐斯等人组建顾问超级小组，助力提高美国韧性的计划。10月，摩根大通的负责人宣布了一项1.5万亿美元的计划，旨在加强美国的稀土和人工智能等关键技术。",
@@ -152,41 +183,17 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
-          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 17时22分]"
-        },
-        {
-          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
-          "url": "https://wallstreetcn.com/articles/3760976",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时22分]"
-        },
-        {
           "title": "NMIXX翻唱UP主AI版大东北",
           "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时21分]"
         },
         {
           "title": "美批准向中国出售英伟达H200人工智能芯片，中方回应",
@@ -196,8 +203,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时21分]"
         },
         {
           "title": "奈飞(NFLX.O)首席执行官：公司计划利用人工智能提升流媒体平台的个性化推荐和广告效果。",
@@ -304,6 +311,17 @@
           "time_info": "12时27分"
         },
         {
+          "title": "Brookfield与卡塔尔携手开展200亿美元人工智能投资项目。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3017572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
           "url": "https://wallstreetcn.com/livenews/3017485",
           "source": "华尔街见闻-快讯",
@@ -337,6 +355,17 @@
           "time_info": "15时20分"
         },
         {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32137588",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "特朗普下令：裁员、关闭办公室、利用人工智能提高政府效率",
           "url": "https://flash.jin10.com/detail/20251209025903477800",
           "source": "金十数据",
@@ -351,7 +380,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -525,6 +554,17 @@
           "time_info": "[02时28分 ~ 03时15分]"
         },
         {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
           "url": "https://flash.jin10.com/detail/20251209023449862800",
           "source": "金十数据",
@@ -595,6 +635,30 @@
           "time_info": "[02时27分 ~ 07时17分]"
         },
         {
+          "title": "机构：到2030年中国具身智能机器人用户支出规模预计将飙升至770亿美元",
+          "url": "https://wallstreetcn.com/livenews/3017547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时21分]"
+        },
+        {
+          "title": "集邦咨询：2026年人形机器人将迈向商用化的关键年，全球出货量可望突破5万台",
+          "url": "https://wallstreetcn.com/livenews/3017546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时21分]"
+        },
+        {
           "title": "机器人产业链企业“排队”赴港上市",
           "url": "https://wallstreetcn.com/livenews/3017191",
           "source": "华尔街见闻-快讯",
@@ -615,28 +679,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
-        },
-        {
-          "title": "机构：到2030年中国具身智能机器人用户支出规模预计将飙升至770亿美元",
-          "url": "https://wallstreetcn.com/livenews/3017547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "集邦咨询：2026年人形机器人将迈向商用化的关键年，全球出货量可望突破5万台",
-          "url": "https://wallstreetcn.com/livenews/3017546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         }
       ]
     },
@@ -676,11 +718,12 @@
           "ranks": [
             16,
             11,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时28分 ~ 17时22分]"
+          "appearance_count": 7,
+          "time_info": "[14时28分 ~ 18时21分]"
         }
       ]
     },
@@ -747,11 +790,12 @@
           "url": "https://wallstreetcn.com/livenews/3017543",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时21分]"
         }
       ]
     }
