@@ -1,8 +1,176 @@
 {
-  "generated_at": "2025-12-09T09:19:54.017034+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2025-12-09T11:18:16.412816+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能 AI 大模型 LLM AGI",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
+          "url": "https://www.zhihu.com/question/1981321831689511959",
+          "source": "知乎",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 09时19分]"
+        },
+        {
+          "title": "蚂蚁旗下通用AI助手灵光上线网页版",
+          "url": "https://wallstreetcn.com/livenews/3017332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙召集亚马逊创始人贝佐斯等人组建顾问超级小组，助力提高美国韧性的计划。10月，摩根大通的负责人宣布了一项1.5万亿美元的计划，旨在加强美国的稀土和人工智能等关键技术。",
+          "url": "https://flash.jin10.com/detail/20251209055332882800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "美国食品药品监督管理局（FDA）：已批准首个基于人工智能的药物开发工具——基于人工智能的非酒精性脂肪性肝炎组织学测量工具（AIM-NASH）。",
+          "url": "https://flash.jin10.com/detail/20251209054059438800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
+          "url": "https://www.zhihu.com/question/1980286689260900620",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时18分]"
+        },
+        {
+          "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
+          "url": "https://www.cls.cn/detail/2223334",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时18分]"
+        },
+        {
+          "title": "奈飞(NFLX.O)首席执行官：公司计划利用人工智能提升流媒体平台的个性化推荐和广告效果。",
+          "url": "https://flash.jin10.com/detail/20251209034031634800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时16分]"
+        },
+        {
+          "title": "综合知情人士透露的消息和条款清单来看，软银和英伟达正在洽谈投资人工智能公司Skild AI。 Skild AI可能会按140亿美元估值融资10亿美元。 谈判细节仍存在变数，但该交易预计将在圣诞节前完成。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3017070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
+          "url": "https://www.zhihu.com/question/1980612606218756126",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
+        },
+        {
+          "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
+          "url": "https://wallstreetcn.com/livenews/3017099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
+        },
+        {
+          "title": "达利欧：中东正迅速成为全球最具影响力的AI中心之一",
+          "url": "https://wallstreetcn.com/livenews/3017096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
+        },
+        {
+          "title": "消息人士称，软银、英伟达拟以140亿美元估值投资Skild AI，SKILD AI本轮融资有望筹集超过10亿美元。",
+          "url": "https://flash.jin10.com/detail/20251208233633646800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "Aware 首席信息官警告人工智能融资将亮起 \"橙色 \"灯",
+          "url": "https://wallstreetcn.com/livenews/3017286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "特朗普下令：裁员、关闭办公室、利用人工智能提高政府效率",
+          "url": "https://flash.jin10.com/detail/20251209025903477800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 11,
@@ -15,11 +183,12 @@
             13,
             12,
             11,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 09时19分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 11时18分]"
         },
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -28,9 +197,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时18分]"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -43,6 +212,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时16分]"
+        },
+        {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时18分]"
         },
         {
           "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
@@ -116,17 +296,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
-          "url": "https://www.cls.cn/detail/2223387",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
           "title": "NextEra携手谷歌与埃克森，布局美国数据中心能源供应",
           "url": "https://flash.jin10.com/detail/20251209041755526800",
           "source": "金十数据",
@@ -140,142 +309,8 @@
       ]
     },
     {
-      "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
-          "url": "https://www.zhihu.com/question/1981321831689511959",
-          "source": "知乎",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 09时19分]"
-        },
-        {
-          "title": "摩根大通CEO戴蒙召集亚马逊创始人贝佐斯等人组建顾问超级小组，助力提高美国韧性的计划。10月，摩根大通的负责人宣布了一项1.5万亿美元的计划，旨在加强美国的稀土和人工智能等关键技术。",
-          "url": "https://flash.jin10.com/detail/20251209055332882800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "美国食品药品监督管理局（FDA）：已批准首个基于人工智能的药物开发工具——基于人工智能的非酒精性脂肪性肝炎组织学测量工具（AIM-NASH）。",
-          "url": "https://flash.jin10.com/detail/20251209054059438800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "奈飞(NFLX.O)首席执行官：公司计划利用人工智能提升流媒体平台的个性化推荐和广告效果。",
-          "url": "https://flash.jin10.com/detail/20251209034031634800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时16分]"
-        },
-        {
-          "title": "综合知情人士透露的消息和条款清单来看，软银和英伟达正在洽谈投资人工智能公司Skild AI。 Skild AI可能会按140亿美元估值融资10亿美元。 谈判细节仍存在变数，但该交易预计将在圣诞节前完成。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3017070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时18分]"
-        },
-        {
-          "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
-          "url": "https://wallstreetcn.com/livenews/3017099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时15分]"
-        },
-        {
-          "title": "达利欧：中东正迅速成为全球最具影响力的AI中心之一",
-          "url": "https://wallstreetcn.com/livenews/3017096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时15分]"
-        },
-        {
-          "title": "消息人士称，软银、英伟达拟以140亿美元估值投资Skild AI，SKILD AI本轮融资有望筹集超过10亿美元。",
-          "url": "https://flash.jin10.com/detail/20251208233633646800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
-          "url": "https://www.cls.cn/detail/2223334",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
-          "url": "https://www.zhihu.com/question/1980286689260900620",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "特朗普下令：裁员、关闭办公室、利用人工智能提高政府效率",
-          "url": "https://flash.jin10.com/detail/20251209025903477800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 具身智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "众擎 T800 人形机器人对战自家 CEO，一脚将其踹倒在地，机器人完成这一动作有哪些技术亮点？",
@@ -306,6 +341,18 @@
           "time_info": "[02时27分 ~ 07时17分]"
         },
         {
+          "title": "机器人产业加速量产 靠“数据飞轮”闯关真实世界",
+          "url": "https://www.cls.cn/detail/2223408",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时19分 ~ 11时18分]"
+        },
+        {
           "title": "机器人产业链企业“排队”赴港上市",
           "url": "https://wallstreetcn.com/livenews/3017191",
           "source": "华尔街见闻-快讯",
@@ -317,15 +364,15 @@
           "time_info": "07时17分"
         },
         {
-          "title": "机器人产业加速量产 靠“数据飞轮”闯关真实世界",
-          "url": "https://www.cls.cn/detail/2223408",
-          "source": "财联社热门",
+          "title": "中国证监会国际合作司发布关于关于卧安机器人（深圳）股份有限公司境外发行上市及境内未上市股份“全流通”备案通知书。",
+          "url": "https://wallstreetcn.com/livenews/3017310",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时19分"
+          "time_info": "11时18分"
         }
       ]
     },
