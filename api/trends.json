@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T22:16:22.925105+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2025-12-13T23:17:17.092644+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时17分 ~ 22时16分]"
+          "appearance_count": 16,
+          "time_info": "[09时17分 ~ 23时17分]"
         },
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时17分 ~ 22时16分]"
+          "appearance_count": 18,
+          "time_info": "[07时17分 ~ 23时17分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -58,8 +58,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时14分 ~ 22时16分]"
+          "appearance_count": 15,
+          "time_info": "[11时14分 ~ 23时17分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -173,6 +173,29 @@
           "time_info": "[07时17分 ~ 07时18分]"
         },
         {
+          "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
+          "url": "https://wallstreetcn.com/livenews/3020250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
+        },
+        {
+          "title": "我的AI员工也太能干了",
+          "url": "https://www.douyin.com/hot/2335414",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
+        },
+        {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
           "url": "https://flash.jin10.com/detail/20251213034901959800",
           "source": "金十数据",
@@ -198,17 +221,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时17分 ~ 21时25分]"
-        },
-        {
-          "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
-          "url": "https://wallstreetcn.com/livenews/3020250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
@@ -284,11 +296,12 @@
           "ranks": [
             7,
             13,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时33分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[20时33分 ~ 23时17分]"
         },
         {
           "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能，深化拓展“人工智能+”行动",
@@ -297,11 +310,35 @@
           "ranks": [
             9,
             15,
-            18
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时33分 ~ 23时17分]"
+        },
+        {
+          "title": "从AI交易、美联储新主席到铜，这是高盛列出的“2026年最重要的五大交易主题”",
+          "url": "https://wallstreetcn.com/articles/3761321",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时33分 ~ 22时16分]"
+          "time_info": "[22时16分 ~ 23时17分]"
+        },
+        {
+          "title": "媒体：“声音被偷”？滥用AI要不得",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32171273",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时17分]"
         },
         {
           "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能 深化拓展“人工智能+”行动",
@@ -316,17 +353,6 @@
           "time_info": "[20时33分 ~ 21时25分]"
         },
         {
-          "title": "从AI交易、美联储新主席到铜，这是高盛列出的“2026年最重要的五大交易主题”",
-          "url": "https://wallstreetcn.com/articles/3761321",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
           "title": "甲骨文暴跌重燃AI泡沫论，但几乎无人敢做空！",
           "url": "https://wallstreetcn.com/articles/3761300",
           "source": "华尔街见闻",
@@ -336,17 +362,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
-        },
-        {
-          "title": "媒体：“声音被偷”？滥用AI要不得",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32171273",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
         },
         {
           "title": "据日经新闻：日本与中亚国家将在首次峰会上就人工智能采矿技术展开合作。日本即将与中亚国家建立框架，日本人工智能技术将助力该地区矿业发展。",
@@ -386,11 +401,12 @@
             5,
             7,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时17分 ~ 22时16分]"
+          "appearance_count": 18,
+          "time_info": "[07时17分 ~ 23时17分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -547,6 +563,19 @@
           "time_info": "[14时26分 ~ 20时33分]"
         },
         {
+          "title": "人形机器人细分龙头年内涨超300% 梳理产业链成本占比居前A股名单",
+          "url": "https://www.cls.cn/detail/2228749",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时25分 ~ 23时17分]"
+        },
+        {
           "title": "深圳将建全国首个机器人友好示范城区",
           "url": "https://wallstreetcn.com/livenews/3020190",
           "source": "华尔街见闻-快讯",
@@ -577,6 +606,17 @@
           "time_info": "[12时23分 ~ 16时22分]"
         },
         {
+          "title": "对标智能手机生态？宇树首发人形机器人App Store，复杂动作“即下即用”",
+          "url": "https://wallstreetcn.com/articles/3761336",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时16分 ~ 23时17分]"
+        },
+        {
           "title": "宇树发布机器人AppStore",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E6%9C%BA%E5%99%A8%E4%BA%BAAppStore",
           "source": "bilibili 热搜",
@@ -586,29 +626,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时17分 ~ 15时18分]"
-        },
-        {
-          "title": "人形机器人细分龙头年内涨超300% 梳理产业链成本占比居前A股名单",
-          "url": "https://www.cls.cn/detail/2228749",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时25分 ~ 22时16分]"
-        },
-        {
-          "title": "对标智能手机生态？宇树首发人形机器人App Store，复杂动作“即下即用”",
-          "url": "https://wallstreetcn.com/articles/3761336",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
         },
         {
           "title": "中网投、蚂蚁领投人脸机器人企业，首形科技完成新一轮融资",
@@ -708,18 +725,30 @@
     },
     {
       "keyword_group": "字节 Kimi 豆包",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "豆包手机助手使用系统原生截屏接口，无法截屏银行键盘等受保护内容",
-          "url": "https://wallstreetcn.com/livenews/3020249",
+          "title": "“豆包手机”被监管机构约谈？知情人士：消息不实",
+          "url": "https://wallstreetcn.com/livenews/3020252",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时16分"
+          "time_info": "23时17分"
+        },
+        {
+          "title": "豆包手机助手使用系统原生截屏接口，无法截屏银行键盘等受保护内容",
+          "url": "https://wallstreetcn.com/livenews/3020249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时17分]"
         }
       ]
     }
