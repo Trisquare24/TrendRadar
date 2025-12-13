@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T15:18:00.904466+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2025-12-13T16:22:27.618206+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时17分 ~ 15时18分]"
+          "appearance_count": 10,
+          "time_info": "[07时17分 ~ 16时22分]"
+        },
+        {
+          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
+          "url": "https://wallstreetcn.com/articles/3761309",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时17分 ~ 16时22分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -66,21 +79,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 15时18分]"
-        },
-        {
-          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
-          "url": "https://wallstreetcn.com/articles/3761309",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时17分 ~ 15时18分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 16时22分]"
         },
         {
           "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
@@ -96,6 +96,19 @@
           "time_info": "[00时22分 ~ 09时17分]"
         },
         {
+          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
+          "url": "https://wallstreetcn.com/articles/3761315",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时14分 ~ 16时22分]"
+        },
+        {
           "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
           "url": "https://www.cls.cn/detail/2227944",
           "source": "财联社热门",
@@ -106,19 +119,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 06时18分]"
-        },
-        {
-          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
-          "url": "https://wallstreetcn.com/articles/3761315",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时14分 ~ 15时18分]"
         },
         {
           "title": "AI担忧加剧，博通引发科技股抛售潮，标普、道指跌离历史高位，美元跌破98，白银跌",
@@ -137,11 +137,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时22分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -215,11 +216,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时22分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
@@ -271,11 +273,12 @@
             9,
             5,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时17分 ~ 15时18分]"
+          "appearance_count": 10,
+          "time_info": "[07时17分 ~ 16时22分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -407,11 +410,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时22分]"
         },
         {
           "title": "硬科技投向标|摩尔线程下周发布新一代GPU架构 众擎机器人完成两轮融资",
@@ -423,8 +427,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 16时22分]"
         },
         {
           "title": "深圳将建全国首个机器人友好示范城区",
@@ -434,11 +438,12 @@
             15,
             20,
             24,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 16时22分]"
         },
         {
           "title": "上海市人形机器人中试联盟发布",
@@ -448,11 +453,12 @@
             16,
             21,
             25,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 16时22分]"
         },
         {
           "title": "宇树发布机器人AppStore",
