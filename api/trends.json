@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T13:18:52.362909+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2025-12-13T14:26:35.711216+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -53,8 +53,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 13时18分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 14时26分]"
+        },
+        {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时17分 ~ 14时26分]"
         },
         {
           "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
@@ -70,16 +82,17 @@
           "time_info": "[00时22分 ~ 09时17分]"
         },
         {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
+          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
+          "url": "https://wallstreetcn.com/articles/3761309",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            1
+            6,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时17分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时17分 ~ 14时26分]"
         },
         {
           "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
@@ -92,19 +105,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 06时18分]"
-        },
-        {
-          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
-          "url": "https://wallstreetcn.com/articles/3761309",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时17分 ~ 13时18分]"
         },
         {
           "title": "AI担忧加剧，博通引发科技股抛售潮，标普、道指跌离历史高位，美元跌破98，白银跌",
@@ -128,6 +128,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时16分 ~ 09时17分]"
+        },
+        {
+          "title": "国家发改委肖渭明：加快出台实施首发经济、赛事经济、电子商务、“人工智能+”消费等领域提振消费的政策",
+          "url": "https://wallstreetcn.com/livenews/3020213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
+          "url": "https://wallstreetcn.com/articles/3761315",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 14时26分]"
+        },
+        {
+          "title": "上海浦东：未来三年，浦东将新增人工智能企业1000家",
+          "url": "https://wallstreetcn.com/livenews/3020211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
@@ -182,19 +217,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时17分 ~ 12时23分]"
-        },
-        {
-          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
-          "url": "https://wallstreetcn.com/articles/3761315",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时14分 ~ 13时18分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
@@ -256,11 +278,12 @@
             12,
             9,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时17分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[07时17分 ~ 14时26分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -373,19 +396,31 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "宇树科技推出人形机器人App Store，用户可下载动作预设",
+          "url": "https://wallstreetcn.com/livenews/3020212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
         {
           "title": "深圳将建全国首个机器人友好示范城区",
           "url": "https://wallstreetcn.com/livenews/3020190",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 14时26分]"
         },
         {
           "title": "上海市人形机器人中试联盟发布",
@@ -393,22 +428,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时23分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时23分 ~ 14时26分]"
         },
         {
           "title": "硬科技投向标|摩尔线程下周发布新一代GPU架构 众擎机器人完成两轮融资",
           "url": "https://www.cls.cn/detail/2227945",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时26分]"
         },
         {
           "title": "中网投、蚂蚁领投人脸机器人企业，首形科技完成新一轮融资",
