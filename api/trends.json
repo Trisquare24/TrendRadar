@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:26:15.614746+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2025-12-14T15:17:45.457479+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 14时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 15时17分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -72,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 14时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 15时17分]"
         },
         {
           "title": "我的AI员工也太能干了",
@@ -137,11 +137,12 @@
           "ranks": [
             1,
             6,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 15时17分]"
         },
         {
           "title": "广东人工智能和机器人产业核心指标位列全国第一",
@@ -151,11 +152,12 @@
             6,
             13,
             19,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 14时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 15时17分]"
         },
         {
           "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
@@ -163,11 +165,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 15时17分]"
+        },
+        {
+          "title": "姚期智院士：人工智能要从模仿走向推理，从局部技能到全身协同",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32172560",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 15时17分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -180,17 +195,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时27分 ~ 12时35分]"
-        },
-        {
-          "title": "姚期智院士：人工智能要从模仿走向推理，从局部技能到全身协同",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32172560",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 13时18分]"
         },
         {
           "title": "抖音推出“AI时代前沿学科共建计划”，百门名校公开课助推知识普惠",
@@ -242,8 +246,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 14时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 15时17分]"
         },
         {
           "title": "对标智能手机生态？宇树首发人形机器人App Store，复杂动作“即下即用”",
@@ -271,8 +275,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时34分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[12时34分 ~ 15时17分]"
         },
         {
           "title": "松延动力获1000台小布米Bumi人形机器人订单",
@@ -282,11 +286,12 @@
             2,
             9,
             15,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 14时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 15时17分]"
         }
       ]
     },
@@ -329,8 +334,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 14时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 15时17分]"
         }
       ]
     },
