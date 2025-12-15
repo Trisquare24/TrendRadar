@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-15T15:22:42.491266+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2025-12-15T16:29:00.704361+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
+          "url": "https://www.cls.cn/detail/2229152",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时28分 ~ 16时29分]"
+        },
         {
           "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
           "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
@@ -20,20 +34,6 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
-          "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
-          "url": "https://www.cls.cn/detail/2229152",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 15时22分]"
-        },
-        {
           "title": "李飞飞自曝世界模型公司招聘要求：AI技能比大学文凭更重要",
           "url": "https://www.cls.cn/detail/2229051",
           "source": "财联社热门",
@@ -44,6 +44,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时28分 ~ 13时24分]"
+        },
+        {
+          "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
+          "url": "https://www.cls.cn/detail/2229441",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 16时29分]"
+        },
+        {
+          "title": "短剧女演员都快美成AI了",
+          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E9%83%BD%E5%BF%AB%E7%BE%8E%E6%88%90AI%E4%BA%86&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 16时29分]"
         },
         {
           "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
@@ -83,16 +107,15 @@
           "time_info": "[12时38分 ~ 13时24分]"
         },
         {
-          "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
-          "url": "https://www.cls.cn/detail/2229441",
-          "source": "财联社热门",
+          "title": "蚂蚁集团推出AI健康应用阿福",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E6%8E%A8%E5%87%BAAI%E5%81%A5%E5%BA%B7%E5%BA%94%E7%94%A8%E9%98%BF%E7%A6%8F%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            9
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时22分]"
+          "time_info": "[16时28分 ~ 16时29分]"
         },
         {
           "title": "年终排名将揭晓，绩优基金“角力”AI重仓股",
@@ -145,7 +168,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -159,17 +182,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
-        },
-        {
-          "title": "短剧女演员都快美成AI了",
-          "url": "https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E9%83%BD%E5%BF%AB%E7%BE%8E%E6%88%90AI%E4%BA%86&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         },
         {
           "title": "深成指午后跌超1%，沪指跌0.29%，创业板指跌1.72%，光模块、锂矿、AI手机、半导体等方向跌幅居前，沪深京三市下跌个股超2800只。",
@@ -225,6 +237,34 @@
       ]
     },
     {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【恒指低开1%，恒生科技指数跌1.3%】京东健康跌近6%，百度跌超3%，理想汽车、阿里巴巴跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3020535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "阿里通义百聆推出语音模型新版本",
+          "url": "https://wallstreetcn.com/livenews/3020832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "字节 Kimi 豆包",
       "match_count": 2,
       "titles": [
@@ -265,7 +305,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
@@ -285,23 +325,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里 Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【恒指低开1%，恒生科技指数跌1.3%】京东健康跌近6%，百度跌超3%，理想汽车、阿里巴巴跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3020535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
         }
       ]
     },
