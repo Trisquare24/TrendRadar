@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T03:18:34.230834+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2025-12-18T04:21:45.728340+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -27,20 +27,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时18分]"
-        },
-        {
-          "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构，DeSantis将率领AGI团队。 AGI团队将驱动公司在AI、量子计算方面的努力。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。 Rohit Prasad将在年底离职。",
-          "url": "https://wallstreetcn.com/livenews/3022549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "ThaiSweet樱花舞MV",
@@ -49,6 +37,18 @@
           "ranks": [
             26,
             23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 04时21分]"
+        },
+        {
+          "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构，DeSantis将率领AGI团队。 AGI团队将驱动公司在AI、量子计算方面的努力。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。 Rohit Prasad将在年底离职。",
+          "url": "https://wallstreetcn.com/livenews/3022549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -158,8 +158,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时21分]"
         }
       ]
     },
@@ -175,8 +175,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时21分]"
         }
       ]
     },
@@ -192,8 +192,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时21分]"
         }
       ]
     },
@@ -211,8 +211,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 04时21分]"
         }
       ]
     }
