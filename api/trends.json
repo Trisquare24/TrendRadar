@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T13:20:50.511238+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2025-12-17T14:29:29.720306+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -39,11 +39,23 @@
           "ranks": [
             7,
             4,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 14时29分]"
+        },
+        {
+          "title": "如何评价小米开源的 MiMo-V2-Flash 大模型，表现如何?",
+          "url": "https://www.zhihu.com/question/1984395856611394540",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 14时29分]"
         },
         {
           "title": "特朗普政府威胁欧盟：美国要在数字税问题上报复西门子、Sap、Mistral AI等欧洲公司",
@@ -71,17 +83,6 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
-          "title": "如何评价小米开源的 MiMo-V2-Flash 大模型，表现如何?",
-          "url": "https://www.zhihu.com/question/1984395856611394540",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 13时20分]"
-        },
-        {
           "title": "新加坡金管局调查：经济学家指出地缘政治和人工智能泡沫是新加坡经济的潜在风险。科技周期、全球增长和贸易紧张局势缓和可能是潜在的顺风。",
           "url": "https://flash.jin10.com/detail/20251217120220101800",
           "source": "金十数据",
@@ -106,6 +107,18 @@
           "time_info": "[11时18分 ~ 12时32分]"
         },
         {
+          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
+          "url": "https://www.cls.cn/detail/2231832",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时29分]"
+        },
+        {
           "title": "AI成电商购物退款诈骗帮凶 伪造瑕疵30秒“搞定” |聚焦",
           "url": "https://www.cls.cn/detail/2231043",
           "source": "财联社热门",
@@ -115,6 +128,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时22分]"
+        },
+        {
+          "title": "虞书欣ThaiMu",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3ThaiMu%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 14时29分]"
         },
         {
           "title": "即梦AI上新，支持声音、画面同步生成",
@@ -188,17 +213,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
-          "url": "https://www.cls.cn/detail/2231832",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-17）",
           "url": "https://flash.jin10.com/detail/20251217115517049800",
           "source": "金十数据",
@@ -210,15 +224,15 @@
           "time_info": "12时32分"
         },
         {
-          "title": "虞书欣ThaiMu",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3ThaiMu%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "何小鹏：当前没有AI泡沫，未来AI的市场有着巨大机遇",
+          "url": "https://wallstreetcn.com/livenews/3022172",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时20分"
+          "time_info": "14时29分"
         },
         {
           "title": "凯投宏观：如果AI热潮继续消退，中国股市可能比美国股市表现更好",
@@ -227,9 +241,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "千问上线国内首个AI小剧场玩法",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E4%B8%8A%E7%BA%BF%E5%9B%BD%E5%86%85%E9%A6%96%E4%B8%AAAI%E5%B0%8F%E5%89%A7%E5%9C%BA%E7%8E%A9%E6%B3%95%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "成都35所中小学试点AI批改作业",
@@ -252,6 +277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "《重庆市推动“人工智能+”行动方案》印发",
+          "url": "https://wallstreetcn.com/livenews/3022150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "韩国测试借助人工智能监测冬季危险路况",
@@ -417,6 +453,46 @@
       ]
     },
     {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "机器人年终盘点③：爆发元年！产业链核心标的全梳理",
+          "url": "https://www.cls.cn/detail/2231203",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时17分]"
+        },
+        {
+          "title": "脑机接口实现用意念控制具身机器人",
+          "url": "https://www.baidu.com/s?wd=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%AE%9E%E7%8E%B0%E7%94%A8%E6%84%8F%E5%BF%B5%E6%8E%A7%E5%88%B6%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 13时20分]"
+        },
+        {
+          "title": "何小鹏：人形机器人将是巨头的竞争，机会非常多",
+          "url": "https://wallstreetcn.com/livenews/3022170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "阿里 Qwen",
       "match_count": 2,
       "titles": [
@@ -441,35 +517,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "机器人年终盘点③：爆发元年！产业链核心标的全梳理",
-          "url": "https://www.cls.cn/detail/2231203",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时17分]"
-        },
-        {
-          "title": "脑机接口实现用意念控制具身机器人",
-          "url": "https://www.baidu.com/s?wd=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%AE%9E%E7%8E%B0%E7%94%A8%E6%84%8F%E5%BF%B5%E6%8E%A7%E5%88%B6%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 13时20分]"
         }
       ]
     },
