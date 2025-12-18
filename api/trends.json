@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T14:29:20.340414+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2025-12-18T15:21:14.483424+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时17分 ~ 14时29分]"
+          "appearance_count": 10,
+          "time_info": "[06时17分 ~ 15时21分]"
         },
         {
           "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
@@ -34,6 +34,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时24分 ~ 13时20分]"
+        },
+        {
+          "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
+          "url": "https://www.cls.cn/detail/2232914",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 15时21分]"
         },
         {
           "title": "英伟达CEO黄仁勋表态支持人工智能监管。（福克斯新闻）",
@@ -56,19 +70,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
-        },
-        {
-          "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
-          "url": "https://www.cls.cn/detail/2232914",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时18分 ~ 14时29分]"
         },
         {
           "title": "Atlas Cloud AI：初始投资约2.5亿美元。",
@@ -106,6 +107,19 @@
           "time_info": "[12时32分 ~ 13时20分]"
         },
         {
+          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
+          "url": "https://www.cls.cn/detail/2233153",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 15时21分]"
+        },
+        {
           "title": "马斯克：xAI可能会看到AGI在2026年超越人类智慧。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3022597",
           "source": "华尔街见闻-快讯",
@@ -128,18 +142,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 04时21分]"
-        },
-        {
-          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
-          "url": "https://www.cls.cn/detail/2233153",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时29分]"
         },
         {
           "title": "AI制药公司英矽智能今起招股，拟主板发行，礼来腾讯认基石",
@@ -234,6 +236,17 @@
           "time_info": "11时19分"
         },
         {
+          "title": "创业板指缩量跌超2%，AI医疗、商业航天概念逆势大涨",
+          "url": "https://wallstreetcn.com/livenews/3022932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "火山引擎正式发布豆包大模型1.8",
           "url": "https://wallstreetcn.com/livenews/3022769",
           "source": "华尔街见闻-快讯",
@@ -300,6 +313,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "南方航空接入千问打造“天盾”大模型",
+          "url": "https://wallstreetcn.com/livenews/3022903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "据Business Insider：马斯克称，xAI可能在2026年展现出超越人类智能的通用人工智能。",
           "url": "https://flash.jin10.com/detail/20251218042922594800",
           "source": "金十数据",
@@ -324,11 +348,12 @@
             11,
             9,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时18分 ~ 14时29分]"
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 15时21分]"
         },
         {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
@@ -369,6 +394,17 @@
           "time_info": "[00时24分 ~ 01时22分]"
         },
         {
+          "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
+          "url": "https://www.zhihu.com/question/1984788546771517931",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时21分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
           "url": "https://wallstreetcn.com/livenews/3022611",
           "source": "华尔街见闻-快讯",
@@ -403,17 +439,6 @@
           "time_info": "11时19分"
         },
         {
-          "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
-          "url": "https://www.zhihu.com/question/1984788546771517931",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "谷歌：推出 Gemini 3 Flash扩展Gemini 3模型系列。",
           "url": "https://flash.jin10.com/detail/20251218000152068800",
           "source": "金十数据",
@@ -428,8 +453,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1984670354627651255",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 15时21分]"
+        },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
           "url": "https://flash.jin10.com/detail/20251218063011323800",
@@ -464,6 +500,18 @@
           "time_info": "09时18分"
         },
         {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 15时21分]"
+        },
+        {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
           "url": "https://wallstreetcn.com/livenews/3022640",
           "source": "华尔街见闻-快讯",
@@ -473,17 +521,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
         },
         {
           "title": "据The Information：OpenAI已讨论以约7500亿美元的估值筹集数百亿美元。",
@@ -510,6 +547,46 @@
       ]
     },
     {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "机器人年终盘点④：是谁，迈入量产大门？",
+          "url": "https://www.cls.cn/detail/2232090",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时18分]"
+        },
+        {
+          "title": "人形机器人量产路线清晰 机构建议关注产业链投资布局机会",
+          "url": "https://www.cls.cn/detail/2232856",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 15时21分]"
+        },
+        {
+          "title": "商汤科技、大晓机器人与中科曙光正式达成战略合作，将共建国产化“算力基础设施+世界模型+具身智能 ”生态",
+          "url": "https://wallstreetcn.com/livenews/3022923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "罗永浩",
       "match_count": 3,
       "titles": [
@@ -524,11 +601,12 @@
             3,
             1,
             22,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 14时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 15时21分]"
         },
         {
           "title": "罗永浩自曝和俞敏洪恩怨",
@@ -589,34 +667,6 @@
       ]
     },
     {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "机器人年终盘点④：是谁，迈入量产大门？",
-          "url": "https://www.cls.cn/detail/2232090",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时18分]"
-        },
-        {
-          "title": "人形机器人量产路线清晰 机构建议关注产业链投资布局机会",
-          "url": "https://www.cls.cn/detail/2232856",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 14时29分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "影视飓风",
       "match_count": 2,
       "titles": [
@@ -630,11 +680,12 @@
             8,
             27,
             23,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 14时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 15时21分]"
         },
         {
           "title": "影视飓风对话阿凡达3导演",
