@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T16:25:54.606186+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2025-12-19T17:22:19.007845+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -74,6 +74,28 @@
           "time_info": "15时20分"
         },
         {
+          "title": "瑞典以“安全”为由叫停中国Qwen3大模型",
+          "url": "https://news.ifeng.com/c/8pDJCQ1EauN",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "千问App辟谣：全员大会吃豆包图是AI生成的",
+          "url": "https://wallstreetcn.com/livenews/3023808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "中欧AI与管理创新研究中心主任方跃：AI时代将解决信息化和数字化时代所未解决的问题",
           "url": "https://wallstreetcn.com/livenews/3023597",
           "source": "华尔街见闻-快讯",
@@ -128,11 +150,12 @@
           "ranks": [
             9,
             19,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时28分 ~ 16时25分]"
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 17时22分]"
         },
         {
           "title": "报道：美国民主党议员们调查商务部长卢特尼克是否从AI数据中心谋利",
@@ -204,6 +227,17 @@
           "time_info": "12时32分"
         },
         {
+          "title": "字节跳动正推进与多家厂商的AI手机合作",
+          "url": "https://www.cls.cn/detail/2234337",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "标普：将空客（Airbus）展望上调至正面，理由是其持续产生稳健的自由现金流；维持“A”级信用评级不变。",
           "url": "https://flash.jin10.com/detail/20251219005734093800",
           "source": "金十数据",
@@ -224,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "谢兴阳用AI复原了刘维妈妈",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E5%85%B4%E9%98%B3%E7%94%A8AI%E5%A4%8D%E5%8E%9F%E4%BA%86%E5%88%98%E7%BB%B4%E5%A6%88%E5%A6%88&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "字节跳动正推进与多家厂商的AI手机合作",
@@ -517,11 +562,24 @@
             9,
             30,
             24,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 16时25分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 17时22分]"
+        },
+        {
+          "title": "王力宏演唱会机器人伴舞",
+          "url": "https://www.douyin.com/hot/2340808",
+          "source": "抖音",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 17时22分]"
         },
         {
           "title": "1-11月全国网上零售额增长9.1%，智能穿戴、智能机器人分别增长22.1%和19.4%",
@@ -568,17 +626,6 @@
           "time_info": "11时22分"
         },
         {
-          "title": "王力宏演唱会机器人伴舞",
-          "url": "https://www.douyin.com/hot/2340808",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
           "title": "王力宏全球首个机器人舞台秀",
           "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%88%9E%E5%8F%B0%E7%A7%80&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -618,6 +665,19 @@
           "time_info": "02时27分"
         },
         {
+          "title": "白宫：微软、谷歌等24家公司签署协议 加入美国AI“创世纪计划”",
+          "url": "https://www.cls.cn/detail/2234237",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 17时22分]"
+        },
+        {
           "title": "大摩为谷歌相关项目发行更多垃圾债",
           "url": "https://wallstreetcn.com/livenews/3023298",
           "source": "华尔街见闻-快讯",
@@ -628,18 +688,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时18分]"
-        },
-        {
-          "title": "白宫：微软、谷歌等24家公司签署协议 加入美国AI“创世纪计划”",
-          "url": "https://www.cls.cn/detail/2234237",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 16时25分]"
         },
         {
           "title": "谷歌：扩展内容透明度工具，帮助更轻松地识别人工智能生成内容。图像和视频验证现已在Gemini应用支持的所有语言和国家/地区可用。",
@@ -691,61 +739,8 @@
       ]
     },
     {
-      "keyword_group": "字节 Kimi 豆包",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "TikTok美国方案揭晓！字节保留电商、广告业务 甲骨文等3家投资者入股成立新公司",
-          "url": "https://www.cls.cn/detail/2234147",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 16时25分]"
-        },
-        {
-          "title": "TikTok算法知识产权仍由字节跳动所有",
-          "url": "https://www.toutiao.com/trending/7585065315910979078/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "TikTok美国业务新进展：字节保留电商、广告等，引入三方组新合资公司负责数据安全",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32209543",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "字节跳动加大人才投入：2025年奖金投入提升35%",
-          "url": "https://wallstreetcn.com/livenews/3023664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "罗永浩",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "罗永浩五小时对谈大鹏",
@@ -769,11 +764,23 @@
           "source": "今日头条",
           "ranks": [
             7,
-            12
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 17时22分]"
+        },
+        {
+          "title": "罗永浩吐槽电信宽带缩水",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD%E7%94%B5%E4%BF%A1%E5%AE%BD%E5%B8%A6%E7%BC%A9%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时20分 ~ 16时25分]"
+          "time_info": "[16时25分 ~ 17时22分]"
         },
         {
           "title": "罗永浩痛批电信宽带缩水",
@@ -788,21 +795,74 @@
           "time_info": "[15时20分 ~ 16时25分]"
         },
         {
-          "title": "罗永浩吐槽电信宽带缩水",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD%E7%94%B5%E4%BF%A1%E5%AE%BD%E5%B8%A6%E7%BC%A9%E6%B0%B4",
-          "source": "百度热搜",
+          "title": "罗永浩",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时25分"
+          "time_info": "17时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "TikTok美国方案揭晓！字节保留电商、广告业务 甲骨文等3家投资者入股成立新公司",
+          "url": "https://www.cls.cn/detail/2234147",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 16时25分]"
+        },
+        {
+          "title": "TikTok美国业务新进展：字节保留电商、广告等，引入三方组新合资公司负责数据安全",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209543",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 17时22分]"
+        },
+        {
+          "title": "TikTok算法知识产权仍由字节跳动所有",
+          "url": "https://www.toutiao.com/trending/7585065315910979078/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "字节跳动加大人才投入：2025年奖金投入提升35%",
+          "url": "https://wallstreetcn.com/livenews/3023664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨0.9%。 热门中概股里，小鹏涨2.7%，美团、腾讯、文远知行、蔚来、网易、百胜中国至多涨1.7%，拼多多涨0.8%，新东方、理想、阿里至少涨约0.2%。",
@@ -814,6 +874,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "美股盘前，科技股多数走高，甲骨文涨近6%，美光科技涨2%，英伟达、AMD均涨超1%；阿里巴巴涨超1%。耐克大跌逾10%，此前公司表示第二季度毛利下滑。",
+          "url": "https://wallstreetcn.com/livenews/3023800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.97%，报7574.16点。 热门中概股里，小鹏涨2.7%，美团、腾讯、文远知行、蔚来、网易、百胜中国至多涨1.7%，拼多多涨0.8%，新东方、理想、阿里至少涨约0.2%。 ETF中，中概互联网指数ETF（KWEB）收涨0.95%，中国科技指数ETF（CQQQ）收涨0.57%。 XtrackersHarvest中证50（ASHS）收涨0.25%，德银嘉实沪深300指数ETF（ASHR）收涨0.18%。",
