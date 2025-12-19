@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T11:22:19.152670+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2025-12-19T12:32:43.808392+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -133,6 +133,17 @@
           "time_info": "09时22分"
         },
         {
+          "title": "正与字节开展AI手机合作？联想内部人士：一直保持密切沟通",
+          "url": "https://wallstreetcn.com/livenews/3023553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "标普：将空客（Airbus）展望上调至正面，理由是其持续产生稳健的自由现金流；维持“A”级信用评级不变。",
           "url": "https://flash.jin10.com/detail/20251219005734093800",
           "source": "金十数据",
@@ -150,7 +161,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -161,9 +172,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-19）",
+          "url": "https://flash.jin10.com/detail/20251219114005861800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "美民主党议员要求调查商务部长卢特尼克 其家族或从AI数据中心不当获利",
@@ -287,6 +309,18 @@
           "time_info": "[04时18分 ~ 05时16分]"
         },
         {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时32分]"
+        },
+        {
           "title": "美国密歇根州监管机构批准了公用事业公司DTE能源的一项申请，为甲骨文(ORCL.N)和OpenAI计划建设的大型数据中心项目供电。",
           "url": "https://flash.jin10.com/detail/20251219032029402800",
           "source": "金十数据",
@@ -307,17 +341,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        },
-        {
-          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
-          "url": "https://www.cls.cn/detail/2234101",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
         },
         {
           "title": "OpenAI可能会在本轮融资中获得高达8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
@@ -399,6 +422,90 @@
       ]
     },
     {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "机器人年终盘点⑤：欢迎来到“机器人”纪元 一图看懂产业星图",
+          "url": "https://www.cls.cn/detail/2233723",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 07时17分]"
+        },
+        {
+          "title": "1-11月全国网上零售额增长9.1%，智能穿戴、智能机器人分别增长22.1%和19.4%",
+          "url": "https://wallstreetcn.com/livenews/3023518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "据商务部商务大数据，11月份，重点监测平台运动相机、具身智能机器人、一级能效电视销量增长均超20%。",
+          "url": "https://wallstreetcn.com/livenews/3023552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
+          "title": "深成指、创业板指双双涨超1%，沪指涨0.53%，可控核聚变、商业航天、智能驾驶、机器人等方向领涨，沪深京三市超4600股飘红。",
+          "url": "https://wallstreetcn.com/livenews/3023493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "恒生科技指数涨幅扩大至1%。地平线机器人涨近7%，小鹏汽车涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3023489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "王力宏全球首个机器人舞台秀",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%88%9E%E5%8F%B0%E7%A7%80&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "银河通用机器人完成3亿美元新一轮融资，中国移动链长基金领投",
+          "url": "https://wallstreetcn.com/livenews/3023475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -475,79 +582,6 @@
       ]
     },
     {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "机器人年终盘点⑤：欢迎来到“机器人”纪元 一图看懂产业星图",
-          "url": "https://www.cls.cn/detail/2233723",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时17分]"
-        },
-        {
-          "title": "1-11月全国网上零售额增长9.1%，智能穿戴、智能机器人分别增长22.1%和19.4%",
-          "url": "https://wallstreetcn.com/livenews/3023518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "深成指、创业板指双双涨超1%，沪指涨0.53%，可控核聚变、商业航天、智能驾驶、机器人等方向领涨，沪深京三市超4600股飘红。",
-          "url": "https://wallstreetcn.com/livenews/3023493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "恒生科技指数涨幅扩大至1%。地平线机器人涨近7%，小鹏汽车涨近5%。",
-          "url": "https://wallstreetcn.com/livenews/3023489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "王力宏全球首个机器人舞台秀",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%88%9E%E5%8F%B0%E7%A7%80&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "银河通用机器人完成3亿美元新一轮融资，中国移动链长基金领投",
-          "url": "https://wallstreetcn.com/livenews/3023475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "阿里 Qwen",
       "match_count": 2,
       "titles": [
@@ -588,8 +622,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 11时22分]"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 12时32分]"
         },
         {
           "title": "TikTok算法知识产权仍由字节跳动所有",
@@ -615,7 +649,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         }
