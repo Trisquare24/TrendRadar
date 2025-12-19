@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T15:20:25.220867+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2025-12-19T16:25:54.606186+08:00",
+  "total_titles_processed": 1566,
   "failed_sources": [],
   "trends": [
     {
@@ -69,7 +69,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -127,11 +127,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时20分]"
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 16时25分]"
         },
         {
           "title": "报道：美国民主党议员们调查商务部长卢特尼克是否从AI数据中心谋利",
@@ -144,6 +145,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时16分]"
+        },
+        {
+          "title": "蚂蚁阿福下载量猛增引爆市场 AI医疗领域有望迎需求爆发",
+          "url": "https://www.cls.cn/detail/2234132",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时25分]"
         },
         {
           "title": "豆包AI视频能说方言了",
@@ -211,17 +224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
-        },
-        {
-          "title": "蚂蚁阿福下载量猛增引爆市场 AI医疗领域有望迎需求爆发",
-          "url": "https://www.cls.cn/detail/2234132",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
         },
         {
           "title": "字节跳动正推进与多家厂商的AI手机合作",
@@ -493,7 +495,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "机器人年终盘点⑤：欢迎来到“机器人”纪元 一图看懂产业星图",
@@ -514,11 +516,12 @@
           "ranks": [
             9,
             30,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 16时25分]"
         },
         {
           "title": "1-11月全国网上零售额增长9.1%，智能穿戴、智能机器人分别增长22.1%和19.4%",
@@ -563,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "王力宏演唱会机器人伴舞",
+          "url": "https://www.douyin.com/hot/2340808",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "王力宏全球首个机器人舞台秀",
@@ -616,6 +630,18 @@
           "time_info": "[03时16分 ~ 04时18分]"
         },
         {
+          "title": "白宫：微软、谷歌等24家公司签署协议 加入美国AI“创世纪计划”",
+          "url": "https://www.cls.cn/detail/2234237",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时25分]"
+        },
+        {
           "title": "谷歌：扩展内容透明度工具，帮助更轻松地识别人工智能生成内容。图像和视频验证现已在Gemini应用支持的所有语言和国家/地区可用。",
           "url": "https://wallstreetcn.com/livenews/3023285",
           "source": "华尔街见闻-快讯",
@@ -652,17 +678,6 @@
           "time_info": "[02时27分 ~ 03时16分]"
         },
         {
-          "title": "白宫：微软、谷歌等24家公司签署协议 加入美国AI“创世纪计划”",
-          "url": "https://www.cls.cn/detail/2234237",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
           "title": "网络安全公司Mandiant的创始人Kevin Mandia（该公司谷歌以54 亿美元收购）成立了一家名为Armadin的新公司，旨在应对人工智能黑客攻击带来的迫在眉睫的威胁。Armadin正寻求在A轮融资中筹集1亿美元或更多，融资轮估值可能高达6亿美元或更高。",
           "url": "https://flash.jin10.com/detail/20251219022756138800",
           "source": "金十数据",
@@ -677,7 +692,7 @@
     },
     {
       "keyword_group": "字节 Kimi 豆包",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "TikTok美国方案揭晓！字节保留电商、广告业务 甲骨文等3家投资者入股成立新公司",
@@ -690,8 +705,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时22分 ~ 15时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 16时25分]"
         },
         {
           "title": "TikTok算法知识产权仍由字节跳动所有",
@@ -705,13 +720,24 @@
           "time_info": "09时22分"
         },
         {
+          "title": "TikTok美国业务新进展：字节保留电商、广告等，引入三方组新合资公司负责数据安全",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209543",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "字节跳动加大人才投入：2025年奖金投入提升35%",
           "url": "https://wallstreetcn.com/livenews/3023664",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         }
@@ -719,7 +745,7 @@
     },
     {
       "keyword_group": "罗永浩",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "罗永浩五小时对谈大鹏",
@@ -742,22 +768,35 @@
           "url": "https://www.toutiao.com/trending/7585077668908974122/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时25分]"
         },
         {
           "title": "罗永浩痛批电信宽带缩水",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%97%9B%E6%89%B9%E7%94%B5%E4%BF%A1%E5%AE%BD%E5%B8%A6%E7%BC%A9%E6%B0%B4%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时25分]"
+        },
+        {
+          "title": "罗永浩吐槽电信宽带缩水",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD%E7%94%B5%E4%BF%A1%E5%AE%BD%E5%B8%A6%E7%BC%A9%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时20分"
+          "time_info": "16时25分"
         }
       ]
     },
