@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T05:15:34.818708+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2025-12-21T06:16:46.666545+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "中信建投：继续看好AI算力板块",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
@@ -51,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
@@ -63,8 +64,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
@@ -75,8 +76,23 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
+        },
+        {
+          "title": "英语兔的年报DNA里有AI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%AF%AD%E5%85%94%E7%9A%84%E5%B9%B4%E6%8A%A5DNA%E9%87%8C%E6%9C%89AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            30,
+            9,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时22分 ~ 06时16分]"
         },
         {
           "title": "浙江：加快推动人工智能创新发展高地建设，全面实施“人工智能+”行动",
@@ -91,20 +107,6 @@
           "time_info": "[00时21分 ~ 05时15分]"
         },
         {
-          "title": "英语兔的年报DNA里有AI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%AF%AD%E5%85%94%E7%9A%84%E5%B9%B4%E6%8A%A5DNA%E9%87%8C%E6%9C%89AI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            30,
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时22分 ~ 05时15分]"
-        },
-        {
           "title": "国家一级演奏员赏析AI歌曲",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%A5%8F%E5%91%98%E8%B5%8F%E6%9E%90AI%E6%AD%8C%E6%9B%B2",
           "source": "bilibili 热搜",
@@ -114,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
+          "url": "https://wallstreetcn.com/livenews/3024329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
@@ -141,8 +154,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -153,8 +166,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -166,8 +179,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -178,8 +191,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         }
       ]
     },
@@ -195,8 +208,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "如何看待字节跳动发布涨薪内部邮件，2025 年奖金投入提升 35%？这在业内是什么水平？",
@@ -208,8 +221,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         }
       ]
     },
@@ -225,8 +238,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "马斯克点赞王力宏伴舞机器人",
