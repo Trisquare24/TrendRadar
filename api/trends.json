@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T12:36:02.511520+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2025-12-21T13:18:54.749296+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 12时36分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "中信建投：继续看好AI算力板块",
@@ -69,8 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 12时36分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "“全球大模型第一股”来了？智谱“家底”曝光 营收3.12亿估值243 亿",
@@ -81,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 12时36分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "英语兔的年报DNA里有AI",
@@ -97,11 +97,46 @@
             22,
             19,
             20,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时22分 ~ 12时36分]"
+          "appearance_count": 13,
+          "time_info": "[02时22分 ~ 13时18分]"
+        },
+        {
+          "title": "日本将启动耗资190亿美元的国家人工智能项目",
+          "url": "https://flash.jin10.com/detail/20251221125612562800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
+          "url": "https://www.toutiao.com/trending/7585558853728190474/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 13时18分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2025年12月20日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32221062",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时27分 ~ 13时18分]"
         },
         {
           "title": "浙江：加快推动人工智能创新发展高地建设，全面实施“人工智能+”行动",
@@ -116,27 +151,54 @@
           "time_info": "[00时21分 ~ 05时15分]"
         },
         {
-          "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
-          "url": "https://www.toutiao.com/trending/7585558853728190474/",
-          "source": "今日头条",
+          "title": "付鹏：AI生产力能否改变生产关系？前瞻2026年大类资产波动背后深层逻辑【付鹏说14】",
+          "url": "https://wallstreetcn.com/premium/articles/3761780?layout=wscn-layout",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时27分 ~ 12时36分]"
+          "time_info": "[11时27分 ~ 13时18分]"
         },
         {
-          "title": "澎湃AI晚新闻丨2025年12月20日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32221062",
-          "source": "澎湃新闻",
+          "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761783",
+          "source": "华尔街见闻",
           "ranks": [
-            20,
-            19
+            10,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时27分 ~ 12时36分]"
+          "time_info": "[11时27分 ~ 13时18分]"
+        },
+        {
+          "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
+          "url": "https://flash.jin10.com/detail/20251221082842209800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 13时18分]"
+        },
+        {
+          "title": "哈尔滨网红大雪人穿雨衣系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%AA%E4%BA%BA%E7%A9%BF%E9%9B%A8%E8%A1%A3%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 13时18分]"
         },
         {
           "title": "为什么我们一边害怕被 AI 取代，一边又抱怨工作太累？若 AI 真承担大部分工作，是该恐惧还是庆祝？",
@@ -155,23 +217,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 12时36分]"
-        },
-        {
-          "title": "付鹏：AI生产力能否改变生产关系？前瞻2026年大类资产波动背后深层逻辑【付鹏说14】",
-          "url": "https://wallstreetcn.com/premium/articles/3761780?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时18分]"
         },
         {
           "title": "国家人工智能应用中试基地（医疗）浙江开园",
@@ -179,47 +230,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 12时36分]"
-        },
-        {
-          "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
-          "url": "https://flash.jin10.com/detail/20251221082842209800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15,
-            21
+            10,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时36分]"
-        },
-        {
-          "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761783",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 12时36分]"
-        },
-        {
-          "title": "哈尔滨网红大雪人穿雨衣系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%AA%E4%BA%BA%E7%A9%BF%E9%9B%A8%E8%A1%A3%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 12时36分]"
+          "time_info": "[11时28分 ~ 13时18分]"
         },
         {
           "title": "AI热潮掩盖了华尔街“老登交易”的大年：多元化策略回报创多年新高",
@@ -247,6 +263,17 @@
           "time_info": "[09时27分 ~ 12时36分]"
         },
         {
+          "title": "Andrej Karpathy年度复盘：AI大模型正在演变成一种新型智能，今年出现6个关键拐点",
+          "url": "https://wallstreetcn.com/articles/3761768",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时18分]"
+        },
+        {
           "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
           "url": "https://wallstreetcn.com/livenews/3024329",
           "source": "华尔街见闻-快讯",
@@ -257,17 +284,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时16分 ~ 09时27分]"
-        },
-        {
-          "title": "Andrej Karpathy年度复盘：AI大模型正在演变成一种新型智能，今年出现6个关键拐点",
-          "url": "https://wallstreetcn.com/articles/3761768",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
         },
         {
           "title": "豆包狂飙，字节AI再亮剑",
@@ -317,7 +333,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
@@ -327,8 +343,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 12时36分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "宇树六台人形机器人伴舞王力宏演唱会，集体完成韦伯斯特空翻，如何做到的？从春晚转手绢到现在，有哪些突破？",
@@ -339,8 +355,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 13时18分]"
         },
         {
           "title": "中国机器人获机器人格斗冠军",
@@ -359,11 +375,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时18分]"
         },
         {
           "title": "中国机器人在格斗机器人大赛中夺冠",
@@ -371,11 +388,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时18分]"
+        },
+        {
+          "title": "宇树人形机器人“火力全开”助演王力宏演唱会，马斯克点赞称印象深刻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32220528",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时18分]"
         },
         {
           "title": "马斯克点赞王力宏伴舞机器人",
@@ -390,17 +419,6 @@
           "time_info": "[00时20分 ~ 01时15分]"
         },
         {
-          "title": "宇树人形机器人“火力全开”助演王力宏演唱会，马斯克点赞称印象深刻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32220528",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 12时36分]"
-        },
-        {
           "title": "宇树科技首发人形机器人 AppStore，用户可自行下载各项动作和预设，此举有哪些意义？",
           "url": "https://www.zhihu.com/question/1983175858765128621",
           "source": "知乎",
@@ -410,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "中国机器人在格斗机器人大赛中夺冠",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E6%A0%BC%E6%96%97%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E8%B5%9B%E4%B8%AD%E5%A4%BA%E5%86%A0",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         }
       ]
     },
@@ -428,8 +457,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 12时36分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -456,8 +485,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 12时36分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 13时18分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -512,8 +541,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 13时18分]"
         }
       ]
     },
@@ -521,6 +550,19 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
+        {
+          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
+          "url": "https://wallstreetcn.com/articles/3761778",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 13时18分]"
+        },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
           "url": "https://wallstreetcn.com/livenews/3024274",
@@ -531,18 +573,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 04时18分]"
-        },
-        {
-          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
-          "url": "https://wallstreetcn.com/articles/3761778",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 12时36分]"
         }
       ]
     }
