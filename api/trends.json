@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T20:37:56.685489+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2025-12-22T21:33:16.885016+08:00",
+  "total_titles_processed": 1735,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -101,6 +101,21 @@
           "time_info": "[01时15分 ~ 18时20分]"
         },
         {
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时22分 ~ 21时33分]"
+        },
+        {
           "title": "最快IPO AI公司诞生！MiniMax通过港交所聆讯 不足4年用户突破2亿",
           "url": "https://www.cls.cn/detail/2235733",
           "source": "财联社热门",
@@ -115,18 +130,41 @@
           "time_info": "[09时25分 ~ 14时31分]"
         },
         {
-          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
-          "url": "https://www.cls.cn/detail/2236150",
-          "source": "财联社热门",
+          "title": "MiniMax首次披露业绩！将与智谱争夺大模型“第一股”",
+          "url": "https://wallstreetcn.com/articles/3761813",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
+            9,
             7,
-            6,
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时22分 ~ 20时37分]"
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 21时33分]"
+        },
+        {
+          "title": "AI定格|2025·强国脉动",
+          "url": "https://www.toutiao.com/trending/7586532944194502707/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
+        },
+        {
+          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
+          "url": "https://wallstreetcn.com/articles/3761823",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 21时33分]"
         },
         {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
@@ -168,17 +206,6 @@
           "time_info": "[12时38分 ~ 20时37分]"
         },
         {
-          "title": "亿纬锂能投资10亿建设钠电总部，同步布局机器人AI中心",
-          "url": "https://wallstreetcn.com/livenews/3024959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
           "title": "比尔·阿克曼：我持有SpaceX和xAI，但并不持有特斯拉股份。",
           "url": "https://wallstreetcn.com/livenews/3024551",
           "source": "华尔街见闻-快讯",
@@ -190,29 +217,28 @@
           "time_info": "09时25分"
         },
         {
-          "title": "MiniMax首次披露业绩！将与智谱争夺大模型“第一股”",
-          "url": "https://wallstreetcn.com/articles/3761813",
-          "source": "华尔街见闻",
+          "title": "面对无法规避的交通事故，AI 的决策原则应优先「对驾驶者负责」还是「社会利益最大化」？",
+          "url": "https://www.zhihu.com/question/1972372550760784385",
+          "source": "知乎",
           "ranks": [
-            9,
-            7
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时27分 ~ 20时37分]"
+          "time_info": "[18时20分 ~ 21时33分]"
         },
         {
-          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
-          "url": "https://wallstreetcn.com/articles/3761823",
-          "source": "华尔街见闻",
+          "title": "亿纬锂能投资10亿建设钠电总部，同步布局机器人AI中心",
+          "url": "https://wallstreetcn.com/livenews/3024959",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            8,
-            5
+            3,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时37分]"
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时33分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-22）",
@@ -263,18 +289,6 @@
           "time_info": "[15时22分 ~ 16时27分]"
         },
         {
-          "title": "面对无法规避的交通事故，AI 的决策原则应优先「对驾驶者负责」还是「社会利益最大化」？",
-          "url": "https://www.zhihu.com/question/1972372550760784385",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时37分]"
-        },
-        {
           "title": "东方港湾董事长但斌：“AI泡沫论”是噪音，远离融资炒股",
           "url": "https://wallstreetcn.com/livenews/3024907",
           "source": "华尔街见闻-快讯",
@@ -297,6 +311,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时26分 ~ 18时20分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2025年12月21日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225231",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
         },
         {
           "title": "如何适当提醒过度迷信 AI 的老板？",
@@ -443,11 +468,25 @@
             7,
             8,
             10,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时20分 ~ 20时37分]"
+          "appearance_count": 25,
+          "time_info": "[00时20分 ~ 21时33分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
+          "url": "https://www.cls.cn/detail/2236551",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 21时33分]"
         },
         {
           "title": "特斯拉人形机器人“上岗”卖爆米花",
@@ -476,16 +515,16 @@
           "time_info": "[13时22分 ~ 14时31分]"
         },
         {
-          "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
-          "url": "https://www.cls.cn/detail/2236551",
-          "source": "财联社热门",
+          "title": "银河通用拿下1000台机器人订单",
+          "url": "https://wallstreetcn.com/livenews/3024929",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            10
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时37分]"
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时33分]"
         },
         {
           "title": "智元机器人邓泰华：今年销售收入有望超10亿元",
@@ -531,17 +570,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
-        },
-        {
-          "title": "银河通用拿下1000台机器人订单",
-          "url": "https://wallstreetcn.com/livenews/3024929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
         }
       ]
     },
