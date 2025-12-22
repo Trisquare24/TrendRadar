@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T22:19:10.988542+08:00",
-  "total_titles_processed": 1818,
+  "generated_at": "2025-12-22T23:20:26.657182+08:00",
+  "total_titles_processed": 1903,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时20分 ~ 09时25分]"
+        },
+        {
+          "title": "MiniMax首次披露业绩！将与智谱争夺大模型“第一股”",
+          "url": "https://wallstreetcn.com/articles/3761813",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时27分 ~ 23时20分]"
         },
         {
           "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
@@ -116,19 +129,6 @@
           "time_info": "[01时15分 ~ 18时20分]"
         },
         {
-          "title": "MiniMax首次披露业绩！将与智谱争夺大模型“第一股”",
-          "url": "https://wallstreetcn.com/articles/3761813",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时27分 ~ 22时19分]"
-        },
-        {
           "title": "AI定格|2025·强国脉动",
           "url": "https://www.toutiao.com/trending/7586532944194502707/",
           "source": "今日头条",
@@ -136,8 +136,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时32分 ~ 22时19分]"
+          "appearance_count": 5,
+          "time_info": "[21时32分 ~ 23时20分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -146,11 +146,12 @@
           "ranks": [
             10,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 22时19分]"
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 23时20分]"
         },
         {
           "title": "最快IPO AI公司诞生！MiniMax通过港交所聆讯 不足4年用户突破2亿",
@@ -212,7 +213,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -484,8 +485,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时20分 ~ 22时19分]"
+          "appearance_count": 28,
+          "time_info": "[00时20分 ~ 23时20分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
@@ -498,8 +499,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 22时19分]"
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 23时20分]"
         },
         {
           "title": "特斯拉人形机器人“上岗”卖爆米花",
@@ -723,6 +724,34 @@
       ]
     },
     {
+      "keyword_group": "罗永浩",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "罗永浩再回应“痛批电信宽带缩水”",
+          "url": "https://www.toutiao.com/trending/7585593219321397291/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 03时14分]"
+        },
+        {
+          "title": "罗永浩“科技春晚”时隔七年回归",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E2%80%9C%E7%A7%91%E6%8A%80%E6%98%A5%E6%99%9A%E2%80%9D%E6%97%B6%E9%9A%94%E4%B8%83%E5%B9%B4%E5%9B%9E%E5%BD%92",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -736,23 +765,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 07时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "罗永浩",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "罗永浩再回应“痛批电信宽带缩水”",
-          "url": "https://www.toutiao.com/trending/7585593219321397291/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 03时14分]"
         }
       ]
     }
