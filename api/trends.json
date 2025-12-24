@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T06:18:19.910278+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2025-12-25T07:17:33.347465+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "英伟达正以约200亿美元的价格收购AI芯片初创公司Groq，这是其有史以来规模最大的收购案。",
@@ -37,11 +37,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时18分]"
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时17分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：未来12到18个月内（美国）将实现两位数（百分比）的GDP增长。若将人工智能的落地应用视为经济增长的替代指标（这理应成立），那么约五年内实现三位数增长是可能实现的。",
@@ -61,22 +62,35 @@
           "url": "https://flash.jin10.com/detail/20251225053135051800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
         },
         {
           "title": "英伟达以约200亿美元现金收购AI芯片初创公司Groq",
           "url": "https://flash.jin10.com/detail/20251225051502192800",
           "source": "金十数据",
           "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "马斯克：xAI五年内的AI算力将超过其他人的总和。",
+          "url": "https://wallstreetcn.com/livenews/3026368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时18分"
+          "time_info": "07时17分"
         },
         {
           "title": "报道：英伟达历史上最大规模收购案，拟按200亿美元现金收购AI芯片初创公司Groq",
@@ -85,7 +99,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         }
@@ -104,8 +118,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
@@ -119,6 +133,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时16分 ~ 03时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
+          "url": "https://wallstreetcn.com/livenews/3026375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     },
