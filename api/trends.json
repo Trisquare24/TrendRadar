@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T22:18:03.821134+08:00",
-  "total_titles_processed": 1888,
+  "generated_at": "2025-12-24T23:19:22.026255+08:00",
+  "total_titles_processed": 1973,
   "failed_sources": [],
   "trends": [
     {
@@ -232,7 +232,7 @@
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "传阿里巴巴将采购五万颗MI308芯片",
@@ -258,6 +258,17 @@
           "time_info": "[17时22分 ~ 18时19分]"
         },
         {
+          "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
+          "url": "https://wallstreetcn.com/livenews/3026260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.58%，报7638.99点。 热门中概股里，小马智行初步收跌2.9%，蔚来跌2.5%，腾讯、理想、小鹏、小米、文远知行跌超1%，阿里巴巴、拼多多、新东方涨超0.1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.52%，中国科技指数ETF（CQQQ）收跌0.50%。 XtrackersHarvest中证50（ASHS）收涨0.24%，德银嘉实沪深300指数ETF（ASHR）收涨0.34%。",
           "url": "https://wallstreetcn.com/livenews/3025766",
           "source": "华尔街见闻-快讯",
@@ -267,6 +278,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI考虑在ChatGPT内植入广告。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3026250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "OpenAI、Anthropic、xAI 遭作家起诉版权侵权",
+          "url": "https://wallstreetcn.com/livenews/3025735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时17分]"
+        },
+        {
+          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3026250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     },
@@ -322,6 +374,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
+          "url": "https://www.cls.cn/detail/2239208",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时31分 ~ 23时19分]"
+        },
+        {
           "title": "北京市机器人产业协会将成立",
           "url": "https://wallstreetcn.com/livenews/3026032",
           "source": "华尔街见闻-快讯",
@@ -334,17 +398,6 @@
           "time_info": "[14时30分 ~ 15时21分]"
         },
         {
-          "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
-          "url": "https://www.cls.cn/detail/2239208",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时18分]"
-        },
-        {
           "title": "“杭州六小龙”云深处启动IPO 四足机器人紧追宇树科技",
           "url": "https://www.cls.cn/detail/2238530",
           "source": "财联社热门",
@@ -355,36 +408,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时22分 ~ 19时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI考虑在ChatGPT内植入广告。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3026250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "OpenAI、Anthropic、xAI 遭作家起诉版权侵权",
-          "url": "https://wallstreetcn.com/livenews/3025735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时17分]"
         }
       ]
     },
