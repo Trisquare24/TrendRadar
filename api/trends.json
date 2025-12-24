@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T02:26:44.392899+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2025-12-25T03:14:46.398696+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
         },
         {
           "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时14分]"
         }
       ]
     },
