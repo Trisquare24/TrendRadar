@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T15:20:42.742583+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2025-12-25T16:25:16.934999+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI中场时刻①｜摩擦白热化：搅动版权、入口与伦理之争",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 15时20分]"
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 16时25分]"
         },
         {
           "title": "AI中场时刻①：摩擦白热化，搅动版权、入口与伦理之争",
@@ -39,6 +39,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
+          "url": "https://www.cls.cn/detail/2239492",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 16时25分]"
         },
         {
           "title": "特朗普前政府效率部DOGE顾问马斯克：AI可帮助美国GDP五年实现三位数增长",
@@ -80,16 +93,15 @@
           "time_info": "[04时19分 ~ 06时18分]"
         },
         {
-          "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
-          "url": "https://www.cls.cn/detail/2239492",
-          "source": "财联社热门",
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
           "ranks": [
-            13,
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时20分]"
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
         },
         {
           "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
@@ -126,6 +138,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时29分 ~ 15时20分]"
+        },
+        {
+          "title": "北京将实现100个行业大模型落地应用",
+          "url": "https://wallstreetcn.com/livenews/3026644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "马斯克：xAI五年内的AI算力将超过其他人的总和。",
@@ -230,7 +253,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
@@ -270,6 +293,29 @@
           "time_info": "[13时22分 ~ 15时20分]"
         },
         {
+          "title": "哥大博士预言人会爱上机器人",
+          "url": "https://www.douyin.com/hot/2346977",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 16时25分]"
+        },
+        {
+          "title": "A股收盘：沪指涨0.47%录得7连阳，商业航天、机器人概念集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3026615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时25分]"
+        },
+        {
           "title": "王力宏演唱会机器人彩排纯享",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%A9%E6%8E%92%E7%BA%AF%E4%BA%AB",
           "source": "bilibili 热搜",
@@ -282,6 +328,17 @@
           "time_info": "[13时22分 ~ 14时29分]"
         },
         {
+          "title": "【午报】三大指数震荡分化涨跌不一，商业航天板块延续强势，机器人概念股再度活跃",
+          "url": "https://www.cls.cn/detail/2239726",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 16时25分]"
+        },
+        {
           "title": "A股机器人概念股涨势扩大，香山股份、浙江荣泰午后涨停，昊志机电、锋龙股份、方正电机、万向钱潮、巨轮智能等十余股此前封板，力星股份、埃夫特、三协电机、拓斯达涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3026564",
           "source": "华尔街见闻-快讯",
@@ -292,28 +349,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时29分 ~ 15时20分]"
-        },
-        {
-          "title": "A股收盘：沪指涨0.47%录得7连阳，商业航天、机器人概念集体爆发",
-          "url": "https://wallstreetcn.com/livenews/3026615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "哥大博士预言人会爱上机器人",
-          "url": "https://www.douyin.com/hot/2346977",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
         },
         {
           "title": "A股机器人概念股集体走强，巨轮智能直线涨停，泰尔股份、锋龙股份、天奇股份、万向钱潮此前封板，拓斯达大涨超18%，昊志机电涨超12%。",
@@ -388,6 +423,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "字节跳动通报三季度内部违规：共120名员工被辞退",
+          "url": "https://wallstreetcn.com/livenews/3026655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         }
       ]
     }
