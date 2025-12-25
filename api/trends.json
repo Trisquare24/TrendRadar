@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T19:16:44.205466+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2025-12-25T20:36:46.461104+08:00",
+  "total_titles_processed": 1677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI中场时刻①｜摩擦白热化：搅动版权、入口与伦理之争",
@@ -32,6 +32,19 @@
           "time_info": "[13时22分 ~ 17时21分]"
         },
         {
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时24分 ~ 20时36分]"
+        },
+        {
           "title": "AI中场时刻①：摩擦白热化，搅动版权、入口与伦理之争",
           "url": "https://m.thepaper.cn/newsDetail_forward_32154249",
           "source": "澎湃新闻",
@@ -43,17 +56,15 @@
           "time_info": "09时22分"
         },
         {
-          "title": "画师全跑光,马斯克AI贴脸盗图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
-          "source": "贴吧",
+          "title": "报道：三星电子计划在2027年前自主研发用于端侧AI产品的GPU",
+          "url": "https://wallstreetcn.com/livenews/3026750",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            10,
-            13
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时24分 ~ 19时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "英伟达正以约200亿美元的价格收购AI芯片初创公司Groq，这是其有史以来规模最大的收购案。",
@@ -154,6 +165,28 @@
           "time_info": "[14时29分 ~ 15时20分]"
         },
         {
+          "title": "上海市新增9款已完成备案的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/3026746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "AI 的出现会导致人类的思考能力退化吗？",
+          "url": "https://www.zhihu.com/question/1943569117631185654",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "马斯克：xAI五年内的AI算力将超过其他人的总和。",
           "url": "https://wallstreetcn.com/livenews/3026368",
           "source": "华尔街见闻-快讯",
@@ -220,6 +253,17 @@
           "time_info": "12时36分"
         },
         {
+          "title": "当希林娜依高遇见AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B8%8C%E6%9E%97%E5%A8%9C%E4%BE%9D%E9%AB%98%E9%81%87%E8%A7%81AI%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "英伟达与AI芯片初创公司Groq达成非独家推理技术授权协议",
           "url": "https://flash.jin10.com/detail/20251225072450997800",
           "source": "金十数据",
@@ -256,7 +300,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
@@ -283,17 +327,6 @@
           "time_info": "[15时20分 ~ 18时20分]"
         },
         {
-          "title": "超捷股份：截至2025年9月30日，公司航空航天零部件业务和人形机器人业务营收占公司营收比重较小。",
-          "url": "https://wallstreetcn.com/livenews/3026719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
           "title": "【午报】三大指数震荡分化涨跌不一，商业航天板块延续强势，机器人概念股再度活跃",
           "url": "https://www.cls.cn/detail/2239726",
           "source": "财联社热门",
@@ -310,11 +343,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时36分]"
         },
         {
           "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
@@ -330,6 +364,18 @@
           "time_info": "[01时16分 ~ 03时14分]"
         },
         {
+          "title": "超捷股份：截至2025年9月30日，公司航空航天零部件业务和人形机器人业务营收占公司营收比重较小。",
+          "url": "https://wallstreetcn.com/livenews/3026719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时36分]"
+        },
+        {
           "title": "优必选拟16.65亿元入主锋龙股份 机器人产业链迎全新强催化",
           "url": "https://www.cls.cn/detail/2239437",
           "source": "财联社热门",
@@ -342,6 +388,18 @@
           "time_info": "[13时22分 ~ 15时20分]"
         },
         {
+          "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
+          "url": "https://www.cls.cn/detail/2240066",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时36分]"
+        },
+        {
           "title": "A股收盘：沪指涨0.47%录得7连阳，商业航天、机器人概念集体爆发",
           "url": "https://wallstreetcn.com/livenews/3026615",
           "source": "华尔街见闻-快讯",
@@ -352,18 +410,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时20分 ~ 16时25分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
-          "url": "https://www.cls.cn/detail/2240066",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
         },
         {
           "title": "王力宏演唱会机器人彩排纯享",
@@ -401,6 +447,17 @@
           "time_info": "[17时20分 ~ 17时21分]"
         },
         {
+          "title": "年终巨献：机器人述职报告",
+          "url": "https://www.cls.cn/detail/2240212",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "A股机器人概念股集体走强，巨轮智能直线涨停，泰尔股份、锋龙股份、天奇股份、万向钱潮此前封板，拓斯达大涨超18%，昊志机电涨超12%。",
           "url": "https://wallstreetcn.com/livenews/3026457",
           "source": "华尔街见闻-快讯",
@@ -425,6 +482,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI的“广告模式”已初具雏形",
+          "url": "https://wallstreetcn.com/articles/3762036",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3026250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -438,23 +523,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3026250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
         }
       ]
     },
@@ -492,6 +560,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时25分 ~ 18时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "影视飓风",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "影视飓风Tim追极光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8ETim%E8%BF%BD%E6%9E%81%E5%85%89%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     },
