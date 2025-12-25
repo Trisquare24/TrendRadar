@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T21:31:22.203566+08:00",
-  "total_titles_processed": 1761,
+  "generated_at": "2025-12-25T22:18:06.457712+08:00",
+  "total_titles_processed": 1816,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI中场时刻①｜摩擦白热化：搅动版权、入口与伦理之争",
@@ -28,8 +28,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 21时31分]"
+          "appearance_count": 10,
+          "time_info": "[16时24分 ~ 22时18分]"
         },
         {
           "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
@@ -72,11 +72,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 22时18分]"
         },
         {
           "title": "特朗普前政府效率部DOGE顾问马斯克：AI可帮助美国GDP五年实现三位数增长",
@@ -105,6 +106,19 @@
           "time_info": "[05时16分 ~ 07时17分]"
         },
         {
+          "title": "上海市新增9款已完成备案的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/3026746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 22时18分]"
+        },
+        {
           "title": "特斯拉CEO埃隆·马斯克：未来12到18个月内（美国）将实现两位数（百分比）的GDP增长。若将人工智能的落地应用视为经济增长的替代指标（这理应成立），那么约五年内实现三位数增长是可能实现的。",
           "url": "https://flash.jin10.com/detail/20251225030848051800",
           "source": "金十数据",
@@ -118,18 +132,6 @@
           "time_info": "[04时19分 ~ 06时18分]"
         },
         {
-          "title": "上海市新增9款已完成备案的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/3026746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 21时31分]"
-        },
-        {
           "title": "北京将实现100个行业大模型落地应用",
           "url": "https://wallstreetcn.com/livenews/3026644",
           "source": "华尔街见闻-快讯",
@@ -140,6 +142,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时25分 ~ 17时21分]"
+        },
+        {
+          "title": "马斯克预测美国经济18个月内实现两位数增长，AI成关键驱动力",
+          "url": "https://wallstreetcn.com/articles/3762031",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
         },
         {
           "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
@@ -272,7 +285,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
@@ -313,7 +326,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
@@ -328,6 +341,31 @@
           "time_info": "[00时22分 ~ 09时22分]"
         },
         {
+          "title": "年终巨献：机器人述职报告",
+          "url": "https://www.cls.cn/detail/2240212",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 22时18分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
+          "url": "https://www.cls.cn/detail/2240066",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 22时18分]"
+        },
+        {
           "title": "哥大博士预言人会爱上机器人",
           "url": "https://www.douyin.com/hot/2346977",
           "source": "抖音",
@@ -338,6 +376,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时20分 ~ 18时20分]"
+        },
+        {
+          "title": "联手金马游乐，星尘智能开启“机器人MART”千台级批量交付",
+          "url": "https://wallstreetcn.com/livenews/3026773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "“2026人形机器人半马”敲定明年4月半：取消人员跟随，机器人将配备智能计时穿戴设备",
@@ -378,18 +427,6 @@
           "time_info": "[19时16分 ~ 21时31分]"
         },
         {
-          "title": "年终巨献：机器人述职报告",
-          "url": "https://www.cls.cn/detail/2240212",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 21时31分]"
-        },
-        {
           "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
           "url": "https://wallstreetcn.com/livenews/3026294",
           "source": "华尔街见闻-快讯",
@@ -401,19 +438,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时16分 ~ 03时14分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
-          "url": "https://www.cls.cn/detail/2240066",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 21时31分]"
         },
         {
           "title": "优必选拟16.65亿元入主锋龙股份 机器人产业链迎全新强催化",
@@ -503,9 +527,37 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
+          "url": "https://wallstreetcn.com/livenews/3026375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "微软谷歌开启“抢芯”模式，派员工常驻韩国，拿不到三星、SK海力士芯片就会被解雇",
+          "url": "https://wallstreetcn.com/livenews/3026771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     },
@@ -518,11 +570,12 @@
           "url": "https://wallstreetcn.com/articles/3762036",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 21时31分]"
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 22时18分]"
         },
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
@@ -538,19 +591,32 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 2,
       "titles": [
         {
-          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
-          "url": "https://wallstreetcn.com/livenews/3026375",
+          "title": "字节跳动通报三季度内部违规：共120名员工被辞退",
+          "url": "https://wallstreetcn.com/livenews/3026655",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2,
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
+        },
+        {
+          "title": "字节120名员工因触犯红线被辞",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82120%E5%90%8D%E5%91%98%E5%B7%A5%E5%9B%A0%E8%A7%A6%E7%8A%AF%E7%BA%A2%E7%BA%BF%E8%A2%AB%E8%BE%9E%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
         }
       ]
     },
@@ -569,25 +635,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "字节 Kimi 豆包",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "字节跳动通报三季度内部违规：共120名员工被辞退",
-          "url": "https://wallstreetcn.com/livenews/3026655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 18时20分]"
         }
       ]
     },
