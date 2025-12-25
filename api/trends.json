@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T22:18:06.457712+08:00",
-  "total_titles_processed": 1816,
+  "generated_at": "2025-12-25T23:18:40.613480+08:00",
+  "total_titles_processed": 1887,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时24分 ~ 22时18分]"
+          "appearance_count": 11,
+          "time_info": "[16时24分 ~ 23时18分]"
         },
         {
           "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
@@ -119,6 +119,17 @@
           "time_info": "[20时36分 ~ 22时18分]"
         },
         {
+          "title": "马斯克预测美国经济18个月内实现两位数增长，AI成关键驱动力",
+          "url": "https://wallstreetcn.com/articles/3762031",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时18分]"
+        },
+        {
           "title": "特斯拉CEO埃隆·马斯克：未来12到18个月内（美国）将实现两位数（百分比）的GDP增长。若将人工智能的落地应用视为经济增长的替代指标（这理应成立），那么约五年内实现三位数增长是可能实现的。",
           "url": "https://flash.jin10.com/detail/20251225030848051800",
           "source": "金十数据",
@@ -142,17 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时25分 ~ 17时21分]"
-        },
-        {
-          "title": "马斯克预测美国经济18个月内实现两位数增长，AI成关键驱动力",
-          "url": "https://wallstreetcn.com/articles/3762031",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时18分]"
         },
         {
           "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
@@ -326,7 +326,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
@@ -346,11 +346,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时36分 ~ 22时18分]"
+          "appearance_count": 5,
+          "time_info": "[20时36分 ~ 23时18分]"
         },
         {
           "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
@@ -359,11 +360,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 22时18分]"
+          "appearance_count": 7,
+          "time_info": "[18时20分 ~ 23时18分]"
         },
         {
           "title": "哥大博士预言人会爱上机器人",
@@ -376,17 +378,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时20分 ~ 18时20分]"
-        },
-        {
-          "title": "联手金马游乐，星尘智能开启“机器人MART”千台级批量交付",
-          "url": "https://wallstreetcn.com/livenews/3026773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
         },
         {
           "title": "“2026人形机器人半马”敲定明年4月半：取消人员跟随，机器人将配备智能计时穿戴设备",
@@ -425,6 +416,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时16分 ~ 21时31分]"
+        },
+        {
+          "title": "联手金马游乐，星尘智能开启“机器人MART”千台级批量交付",
+          "url": "https://wallstreetcn.com/livenews/3026773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时18分]"
         },
         {
           "title": "A股迎来“人形机器人第一股”：16.65亿元并购，优必选成为锋龙股份控股股东",
@@ -499,6 +502,28 @@
           "time_info": "[17时20分 ~ 17时21分]"
         },
         {
+          "title": "汽车零部件巨头变机器人新势力？中鼎股份子公司出资3000万元，与逐际动力等共同经营人形机器人代工",
+          "url": "https://wallstreetcn.com/livenews/3026785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "北京人形机器人整机单位超过30家，位居国内前列",
+          "url": "https://wallstreetcn.com/livenews/3026783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "A股机器人概念股集体走强，巨轮智能直线涨停，泰尔股份、锋龙股份、天奇股份、万向钱潮此前封板，拓斯达大涨超18%，昊志机电涨超12%。",
           "url": "https://wallstreetcn.com/livenews/3026457",
           "source": "华尔街见闻-快讯",
@@ -555,7 +580,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         }
@@ -574,8 +599,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时36分 ~ 22时18分]"
+          "appearance_count": 5,
+          "time_info": "[20时36分 ~ 23时18分]"
         },
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
@@ -612,11 +637,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82120%E5%90%8D%E5%91%98%E5%B7%A5%E5%9B%A0%E8%A7%A6%E7%8A%AF%E7%BA%A2%E7%BA%BF%E8%A2%AB%E8%BE%9E%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            30,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时18分]"
         }
       ]
     },
