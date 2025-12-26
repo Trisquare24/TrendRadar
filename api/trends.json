@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T07:17:47.941879+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2025-12-26T09:22:31.207361+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "年终巨献：机器人述职报告",
@@ -16,8 +16,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 09时22分]"
+        },
+        {
+          "title": "200元一天就能带个机器人回家",
+          "url": "https://www.baidu.com/s?wd=200%E5%85%83%E4%B8%80%E5%A4%A9%E5%B0%B1%E8%83%BD%E5%B8%A6%E4%B8%AA%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9B%9E%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            28,
+            19,
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时26分 ~ 09时22分]"
         },
         {
           "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
@@ -30,20 +45,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "200元一天就能带个机器人回家",
-          "url": "https://www.baidu.com/s?wd=200%E5%85%83%E4%B8%80%E5%A4%A9%E5%B0%B1%E8%83%BD%E5%B8%A6%E4%B8%AA%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9B%9E%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            28,
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时26分 ~ 07时17分]"
         },
         {
           "title": "汽车零部件巨头变机器人新势力？中鼎股份子公司出资3000万元，与逐际动力等共同经营人形机器人代工",
@@ -96,12 +97,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时16分]"
+        },
+        {
+          "title": "哥大博士预言人会爱上机器人",
+          "url": "https://www.douyin.com/hot/2346977",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "画师全跑光,马斯克AI贴脸盗图",
@@ -112,8 +124,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 09时22分]"
+        },
+        {
+          "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
+          "url": "https://www.cls.cn/detail/2240453",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "据日经新闻：富士通加入由软银牵头的下一代人工智能内存项目。",
@@ -129,13 +152,24 @@
           "time_info": "[05时17分 ~ 07时17分]"
         },
         {
+          "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
+          "url": "https://www.cls.cn/detail/2240534",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
           "url": "https://flash.jin10.com/detail/20251226064520664800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         }
@@ -150,11 +184,12 @@
           "url": "https://wallstreetcn.com/articles/3762068",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 07时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 09时22分]"
         }
       ]
     },
