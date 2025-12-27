@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T12:31:33.393166+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2025-12-27T13:19:44.413857+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 12时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 13时19分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -30,11 +30,12 @@
             17,
             28,
             23,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 12时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 13时19分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -105,6 +106,19 @@
           "time_info": "[07时17分 ~ 09时20分]"
         },
         {
+          "title": "华为终端宣布华为Mate 70 Air 16GB版本正式开售，搭载麒麟9020A芯片，配备6500mAh大容量电池。",
+          "url": "https://wallstreetcn.com/livenews/3027520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 13时19分]"
+        },
+        {
           "title": "国家数据局：拓展适应人工智能发展的高质量数据集流通交易方式",
           "url": "https://wallstreetcn.com/livenews/3027404",
           "source": "华尔街见闻-快讯",
@@ -116,18 +130,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 02时27分]"
-        },
-        {
-          "title": "华为终端宣布华为Mate 70 Air 16GB版本正式开售，搭载麒麟9020A芯片，配备6500mAh大容量电池。",
-          "url": "https://wallstreetcn.com/livenews/3027520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 12时31分]"
         },
         {
           "title": "人工智能专家历经波折回到中国",
