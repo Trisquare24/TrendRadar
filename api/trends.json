@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T02:24:50.264815+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2025-12-28T03:14:02.730130+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时14分]"
         },
         {
           "title": "2025江苏省人工智能产业发展大会召开",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时14分]"
         },
         {
           "title": "中国研发人工智能地震实时监测系统 将助力全球地震监测",
@@ -38,8 +38,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时14分]"
         },
         {
           "title": "2025江苏省人工智能产业发展大会召开",
@@ -49,8 +49,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时14分]"
         },
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -61,8 +61,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时14分]"
         }
       ]
     },
@@ -79,8 +79,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时14分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -90,8 +90,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时14分]"
         }
       ]
     },
@@ -105,11 +105,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 02时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时14分]"
         }
       ]
     }
