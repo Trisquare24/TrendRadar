@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T01:16:13.343539+08:00",
-  "total_titles_processed": 350,
+  "generated_at": "2025-12-29T02:25:53.176905+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "用一个字证明自己不是AI",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "广州在全国率先设立区级人工智能发展局",
@@ -48,8 +48,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "广州在全国率先设立区级人工智能发展局",
+          "url": "https://flash.jin10.com/detail/20251228194152132800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         }
       ]
     },
@@ -76,8 +87,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
@@ -88,8 +99,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -99,8 +110,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         }
       ]
     },
@@ -133,8 +144,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时25分]"
         }
       ]
     }
