@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T03:14:36.951205+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2025-12-29T04:20:17.139576+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "广州在全国率先设立区级人工智能发展局",
@@ -47,11 +47,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "广州在全国率先设立区级人工智能发展局",
@@ -89,8 +90,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
@@ -99,11 +100,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -114,8 +116,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 04时20分]"
         }
       ]
     },
@@ -145,11 +147,12 @@
           "url": "https://www.zhihu.com/question/1988276520553316977",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 03时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 04时20分]"
         }
       ]
     }
