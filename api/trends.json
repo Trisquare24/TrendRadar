@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T06:17:54.489118+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2025-12-29T07:17:46.778842+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 07时17分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -28,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 07时17分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -39,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 07时17分]"
         },
         {
           "title": "广州在全国率先设立区级人工智能发展局",
@@ -91,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 07时17分]"
         },
         {
           "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
@@ -105,8 +106,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 07时17分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -117,8 +118,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 07时17分]"
         }
       ]
     },
@@ -154,8 +155,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 07时17分]"
         }
       ]
     }
