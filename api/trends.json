@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T00:21:47.586607+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-29T01:16:13.343539+08:00",
+  "total_titles_processed": 350,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时16分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时16分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -37,19 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
-          "url": "https://www.cls.cn/detail/2241811",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时16分]"
         },
         {
           "title": "广州在全国率先设立区级人工智能发展局",
@@ -57,6 +46,17 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时16分]"
+        },
+        {
+          "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
+          "url": "https://www.cls.cn/detail/2241811",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -76,19 +76,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时16分]"
         },
         {
           "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
           "url": "https://www.zhihu.com/question/1988539129605091831",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时16分]"
         },
         {
           "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
@@ -98,8 +99,25 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "当豆包教我打扮",
+          "url": "https://www.douyin.com/hot/2349059",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 01时16分]"
         }
       ]
     },
@@ -115,8 +133,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时16分]"
         }
       ]
     }
