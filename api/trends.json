@@ -1,8 +1,214 @@
 {
-  "generated_at": "2025-12-29T19:17:35.069716+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2025-12-29T20:39:17.387820+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2241788",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 09时28分]"
+        },
+        {
+          "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/1988539129605091831",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 09时28分]"
+        },
+        {
+          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
+          "url": "https://www.cls.cn/detail/2241816",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "【焦点复盘】沪指创年内连阳纪录剑指4000点，机器人概念持续火热，锂电池产业链现深幅回调",
+          "url": "https://www.cls.cn/detail/2242927",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 20时39分]"
+        },
+        {
+          "title": "华为增资人形机器人赛道",
+          "url": "https://wallstreetcn.com/livenews/3028148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "12月29日午间收评：沪指半日涨0.31%，机器人、商业航天概念延续强势",
+          "url": "https://wallstreetcn.com/livenews/3027871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时26分]"
+        },
+        {
+          "title": "比亚迪入股机器人减速器生产商智同科技",
+          "url": "https://www.cls.cn/detail/2242576",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时27分 ~ 19时17分]"
+        },
+        {
+          "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
+          "url": "https://wallstreetcn.com/articles/3762226",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 20时39分]"
+        },
+        {
+          "title": "A股收盘：沪指冲高回落录得9连阳，机器人、商业航天概念持续爆发",
+          "url": "https://wallstreetcn.com/livenews/3027971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 16时28分]"
+        },
+        {
+          "title": "英伟达Jim Fan：机器人领域还处于混乱状态，连发展方向都有可能是错的",
+          "url": "https://wallstreetcn.com/articles/3762227",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
+        },
+        {
+          "title": "宏微科技：与某公司签署了《战略合作协议》，未来将聚焦电控系统、液压控制系统、伺服系统、机器人核心零部件（执行器、电动缸、控制器）中所用到的功率半导体器件，并重点围绕氮化镓（GaN）功率半导体器件开展联合共研。",
+          "url": "https://wallstreetcn.com/livenews/3028089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时39分]"
+        },
+        {
+          "title": "天奇股份：拟定增募资不超过9.77亿元，用于汽车装备智能制造基地建设项目、面向汽车行业应用的机器人具身智能系统研发中心建设项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3028087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 20时39分]"
+        },
+        {
+          "title": "扫地机器人巨头宣布：给全员发黄金",
+          "url": "https://www.baidu.com/s?wd=%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A8%E5%A4%B4%E5%AE%A3%E5%B8%83%EF%BC%9A%E7%BB%99%E5%85%A8%E5%91%98%E5%8F%91%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
+        },
+        {
+          "title": "上纬新材：公司具身智能机器人业务仍处产品开发阶段 未实现量产及规模化销售",
+          "url": "https://wallstreetcn.com/livenews/3028131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "深圳“十五五”规划建议：推动第六代移动通信、生物制造、具身智能等成为新的经济增长点",
+          "url": "https://wallstreetcn.com/livenews/3027765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "豆神教育推出学伴机器人 首批500台1小时内售罄",
+          "url": "https://wallstreetcn.com/livenews/3027762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "A股机器人概念涨势扩大，上纬新材、步科股份20cm涨停，双双创历史新高，天奇股份、五洲新春、征和工业等多股此前涨停，斯菱智驱、大鹏工业涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3027920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
       "match_count": 15,
@@ -36,11 +242,12 @@
             20,
             25,
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时21分 ~ 19时17分]"
+          "appearance_count": 25,
+          "time_info": "[00时21分 ~ 20时39分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -177,7 +384,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -195,160 +402,31 @@
       ]
     },
     {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 13,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
       "titles": [
         {
-          "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2241788",
+          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2242969",
           "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 09时28分]"
-        },
-        {
-          "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/1988539129605091831",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 09时28分]"
-        },
-        {
-          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
-          "url": "https://www.cls.cn/detail/2241816",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "12月29日午间收评：沪指半日涨0.31%，机器人、商业航天概念延续强势",
-          "url": "https://wallstreetcn.com/livenews/3027871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时47分 ~ 13时26分]"
-        },
-        {
-          "title": "比亚迪入股机器人减速器生产商智同科技",
-          "url": "https://www.cls.cn/detail/2242576",
-          "source": "财联社热门",
-          "ranks": [
-            8,
+            10,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时17分]"
+          "time_info": "[19时17分 ~ 20时39分]"
         },
         {
-          "title": "【焦点复盘】沪指创年内连阳纪录剑指4000点，机器人概念持续火热，锂电池产业链现深幅回调",
-          "url": "https://www.cls.cn/detail/2242927",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时17分]"
-        },
-        {
-          "title": "A股收盘：沪指冲高回落录得9连阳，机器人、商业航天概念持续爆发",
-          "url": "https://wallstreetcn.com/livenews/3027971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 16时28分]"
-        },
-        {
-          "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
-          "url": "https://wallstreetcn.com/articles/3762226",
+          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
+          "url": "https://wallstreetcn.com/articles/3762071",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "深圳“十五五”规划建议：推动第六代移动通信、生物制造、具身智能等成为新的经济增长点",
-          "url": "https://wallstreetcn.com/livenews/3027765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "豆神教育推出学伴机器人 首批500台1小时内售罄",
-          "url": "https://wallstreetcn.com/livenews/3027762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "A股机器人概念涨势扩大，上纬新材、步科股份20cm涨停，双双创历史新高，天奇股份、五洲新春、征和工业等多股此前涨停，斯菱智驱、大鹏工业涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3027920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "宏微科技：与某公司签署了《战略合作协议》，未来将聚焦电控系统、液压控制系统、伺服系统、机器人核心零部件（执行器、电动缸、控制器）中所用到的功率半导体器件，并重点围绕氮化镓（GaN）功率半导体器件开展联合共研。",
-          "url": "https://wallstreetcn.com/livenews/3028089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "天奇股份：拟定增募资不超过9.77亿元，用于汽车装备智能制造基地建设项目、面向汽车行业应用的机器人具身智能系统研发中心建设项目、补充流动资金。",
-          "url": "https://wallstreetcn.com/livenews/3028087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
         }
       ]
     },
@@ -412,23 +490,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时32分 ~ 15时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
-          "url": "https://www.cls.cn/detail/2242969",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
         }
       ]
     },
