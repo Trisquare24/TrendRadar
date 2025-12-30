@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T22:19:20.274717+08:00",
-  "total_titles_processed": 1854,
+  "generated_at": "2025-12-30T23:19:56.390235+08:00",
+  "total_titles_processed": 1952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -19,8 +19,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时22分 ~ 22时19分]"
+          "appearance_count": 12,
+          "time_info": "[13时22分 ~ 23时19分]"
+        },
+        {
+          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
+          "url": "https://www.cls.cn/detail/2244074",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时22分 ~ 23时19分]"
         },
         {
           "title": "盘点2025年度AI大事件",
@@ -33,11 +46,12 @@
             11,
             8,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时25分 ~ 22时19分]"
+          "appearance_count": 14,
+          "time_info": "[11时25分 ~ 23时19分]"
         },
         {
           "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
@@ -54,19 +68,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[11时25分 ~ 19时17分]"
-        },
-        {
-          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
-          "url": "https://www.cls.cn/detail/2244074",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时22分 ~ 22时19分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -93,8 +94,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时22分 ~ 22时19分]"
+          "appearance_count": 12,
+          "time_info": "[13时22分 ~ 23时19分]"
         },
         {
           "title": "AI应用2026前瞻：豆包千问元宝加速“跑马圈地” AI原生硬件聚焦“真需求”商业化提速",
@@ -157,6 +158,19 @@
           "time_info": "[09时22分 ~ 13时22分]"
         },
         {
+          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
+          "url": "https://www.cls.cn/detail/2244203",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 23时19分]"
+        },
+        {
           "title": "法拉第未来计划更名为法拉第未来人工智能电动汽车公司， 法拉第未来将于明年2月13日召开特别会议。",
           "url": "https://flash.jin10.com/detail/20251230065611933800",
           "source": "金十数据",
@@ -180,19 +194,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时37分 ~ 16时25分]"
-        },
-        {
-          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
-          "url": "https://www.cls.cn/detail/2244203",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 22时19分]"
         },
         {
           "title": "“AI教父”拉响警报",
@@ -361,6 +362,28 @@
           "time_info": "07时17分"
         },
         {
+          "title": "顶级投资人段永平看好AI医疗",
+          "url": "https://wallstreetcn.com/livenews/3028830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "Meta Platforms(META.O)上涨1.1%，公司将收购人工智能初创公司Manus以提升先进人工智能能力。",
+          "url": "https://flash.jin10.com/detail/20251230224214902800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "独居女生深夜肠胃炎靠AI自救脱险",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9F%E6%B7%B1%E5%A4%9C%E8%82%A0%E8%83%83%E7%82%8E%E9%9D%A0AI%E8%87%AA%E6%95%91%E8%84%B1%E9%99%A9%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -443,8 +466,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时22分 ~ 22时19分]"
+          "appearance_count": 8,
+          "time_info": "[17时22分 ~ 23时19分]"
         },
         {
           "title": "【焦点复盘】沪指创年内连阳纪录剑指4000点，机器人概念持续火热，锂电池产业链现深幅回调",
@@ -458,6 +481,20 @@
           "time_info": "[00时22分 ~ 01时18分]"
         },
         {
+          "title": "多路游资联袂入场！机器人龙头剑指新高，相关ETF持续“吸金”，四成份额达历史峰值",
+          "url": "https://www.cls.cn/detail/2244256",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时20分 ~ 23时19分]"
+        },
+        {
           "title": "机器人单挑舞蹈区",
           "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%95%E6%8C%91%E8%88%9E%E8%B9%88%E5%8C%BA",
           "source": "bilibili 热搜",
@@ -467,19 +504,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
-        },
-        {
-          "title": "多路游资联袂入场！机器人龙头剑指新高，相关ETF持续“吸金”，四成份额达历史峰值",
-          "url": "https://www.cls.cn/detail/2244256",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 22时19分]"
         },
         {
           "title": "手术机器人制造商精锋医疗寻求通过香港IPO融资12亿港元",
@@ -621,7 +645,7 @@
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "阿里巴巴和阿布扎比投资局等势将投资MiniMax的6亿美元IPO。（彭博）",
@@ -701,12 +725,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "美股热门中概股多数高开，百度(BIDU.O)涨5.6%，蔚来汽车(NIO.N)、小鹏汽车(XPEV.N)涨超3%，网易(NTES.O)涨超2%，台积电(TSM.N)、哔哩哔哩(BILI.O)、阿里巴巴(BABA.N)涨超0.3%。",
+          "url": "https://flash.jin10.com/detail/20251230223250434800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     },
     {
       "keyword_group": "罗永浩",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "罗永浩科技春晚",
@@ -765,9 +800,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
+        },
+        {
+          "title": "罗永浩宣布科技春晚门票全退",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%AE%A3%E5%B8%83%E7%A7%91%E6%8A%80%E6%98%A5%E6%99%9A%E9%97%A8%E7%A5%A8%E5%85%A8%E9%80%80%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "罗永浩大疆新品视频播放失误",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%A4%A7%E7%96%86%E6%96%B0%E5%93%81%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%A4%B1%E8%AF%AF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "罗永浩：门票收入166.84万元全额退款",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%EF%BC%9A%E9%97%A8%E7%A5%A8%E6%94%B6%E5%85%A5166.84%E4%B8%87%E5%85%83%E5%85%A8%E9%A2%9D%E9%80%80%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     },
@@ -799,6 +867,34 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时22分 ~ 16时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：软银已完成对OpenAI的400亿美元投资承诺",
+          "url": "https://wallstreetcn.com/livenews/3028826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "消息人士：软银已完成对OpenAI 400亿美元的投资承诺",
+          "url": "https://flash.jin10.com/detail/20251230222113988800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     },
