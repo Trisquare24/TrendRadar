@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T14:29:33.529696+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2025-12-30T15:21:52.948511+08:00",
+  "total_titles_processed": 1273,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -76,8 +76,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 15时21分]"
         },
         {
           "title": "泰柬与AI如何影响全球经济",
@@ -100,11 +100,23 @@
           "ranks": [
             9,
             4,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 15时21分]"
+        },
+        {
+          "title": "教育部：计划明年出台人工智能赋能教育相关政策文件 系统部署推进人工智能教育和应用",
+          "url": "https://wallstreetcn.com/livenews/3028621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "法拉第未来计划更名为法拉第未来人工智能电动汽车公司， 法拉第未来将于明年2月13日召开特别会议。",
@@ -132,6 +144,19 @@
           "time_info": "[00时22分 ~ 05时17分]"
         },
         {
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 15时21分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-30）",
           "url": "https://flash.jin10.com/detail/20251230114658750800",
           "source": "金十数据",
@@ -156,6 +181,19 @@
           "time_info": "[12时37分 ~ 13时22分]"
         },
         {
+          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
+          "url": "https://www.cls.cn/detail/2243572",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 15时21分]"
+        },
+        {
           "title": "员工因岗位被 AI 替代遭解雇，法院认定构成违法解除劳动合同，怎样解读这一判罚？",
           "url": "https://www.zhihu.com/question/1987934900884637667",
           "source": "知乎",
@@ -167,6 +205,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时22分 ~ 12时37分]"
+        },
+        {
+          "title": "AI造假当庭露馅,法官严斥伪造者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 15时21分]"
         },
         {
           "title": "成立不到3年，被Meta数十亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -181,43 +232,6 @@
           "time_info": "[11时25分 ~ 12时37分]"
         },
         {
-          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
-          "url": "https://www.cls.cn/detail/2243572",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 14时29分]"
-        },
-        {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时29分]"
-        },
-        {
-          "title": "AI造假当庭露馅,法官严斥伪造者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时29分]"
-        },
-        {
           "title": "东部战区发布的AI视频意味深长",
           "url": "https://www.toutiao.com/trending/7589159411391217700/",
           "source": "今日头条",
@@ -230,6 +244,17 @@
           "time_info": "[07时17分 ~ 09时22分]"
         },
         {
+          "title": "Meta宣布收购AI智能体公司Manus AI智能体商业价值愈发显著",
+          "url": "https://www.cls.cn/detail/2243427",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时21分]"
+        },
+        {
           "title": "据华尔街日报：Meta即将完成对人工智能初创公司Manus的收购，交易金额超过20亿美元。",
           "url": "https://flash.jin10.com/detail/20251230123238264800",
           "source": "金十数据",
@@ -239,17 +264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
-        },
-        {
-          "title": "Meta宣布收购AI智能体公司Manus AI智能体商业价值愈发显著",
-          "url": "https://www.cls.cn/detail/2243427",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
         },
         {
           "title": "Meta公司首席人工智能官ALEXANDR WANG：很高兴宣布，Manus AI已加入Meta公司，助力我们打造人工智能产品。",
@@ -332,7 +346,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【焦点复盘】沪指创年内连阳纪录剑指4000点，机器人概念持续火热，锂电池产业链现深幅回调",
@@ -379,6 +393,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时37分 ~ 13时22分]"
+        },
+        {
+          "title": "A股收盘：沪指日线走出10连阳，机器人概念股集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3028611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
@@ -459,7 +484,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -470,7 +495,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -513,8 +538,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 14时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 15时21分]"
         }
       ]
     }
