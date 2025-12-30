@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T13:22:26.270985+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2025-12-30T14:29:33.529696+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -67,6 +67,19 @@
           "time_info": "[01时17分 ~ 09时22分]"
         },
         {
+          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
+          "url": "https://www.zhihu.com/question/1988511175416239504",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 14时29分]"
+        },
+        {
           "title": "泰柬与AI如何影响全球经济",
           "url": "https://search.bilibili.com/all?keyword=%E6%B3%B0%E6%9F%AC%E4%B8%8EAI%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E",
           "source": "bilibili 热搜",
@@ -81,29 +94,17 @@
           "time_info": "[09时22分 ~ 13时22分]"
         },
         {
-          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
-          "url": "https://www.zhihu.com/question/1988511175416239504",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 13时22分]"
-        },
-        {
           "title": "盘点2025年度AI大事件",
           "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 14时29分]"
         },
         {
           "title": "法拉第未来计划更名为法拉第未来人工智能电动汽车公司， 法拉第未来将于明年2月13日召开特别会议。",
@@ -180,6 +181,43 @@
           "time_info": "[11时25分 ~ 12时37分]"
         },
         {
+          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
+          "url": "https://www.cls.cn/detail/2243572",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 14时29分]"
+        },
+        {
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时29分]"
+        },
+        {
+          "title": "AI造假当庭露馅,法官严斥伪造者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时29分]"
+        },
+        {
           "title": "东部战区发布的AI视频意味深长",
           "url": "https://www.toutiao.com/trending/7589159411391217700/",
           "source": "今日头条",
@@ -192,49 +230,26 @@
           "time_info": "[07时17分 ~ 09时22分]"
         },
         {
-          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
-          "url": "https://www.cls.cn/detail/2243572",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 13时22分]"
-        },
-        {
           "title": "据华尔街日报：Meta即将完成对人工智能初创公司Manus的收购，交易金额超过20亿美元。",
           "url": "https://flash.jin10.com/detail/20251230123238264800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
         {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
+          "title": "Meta宣布收购AI智能体公司Manus AI智能体商业价值愈发显著",
+          "url": "https://www.cls.cn/detail/2243427",
+          "source": "财联社热门",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "AI造假当庭露馅,法官严斥伪造者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "14时29分"
         },
         {
           "title": "Meta公司首席人工智能官ALEXANDR WANG：很高兴宣布，Manus AI已加入Meta公司，助力我们打造人工智能产品。",
@@ -331,17 +346,6 @@
           "time_info": "[00时22分 ~ 01时18分]"
         },
         {
-          "title": "A股人形机器人概念股午后再度拉升，步科股份涨超18%再创新高，昊志机电涨超10%，万向钱潮直线涨停，鸣志电器、方正电机纷纷拉升。",
-          "url": "https://wallstreetcn.com/livenews/3028550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
           "title": "手术机器人制造商精锋医疗寻求通过香港IPO融资12亿港元",
           "url": "https://wallstreetcn.com/livenews/3028367",
           "source": "华尔街见闻-快讯",
@@ -351,6 +355,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "A股人形机器人概念股午后再度拉升，步科股份涨超18%再创新高，昊志机电涨超10%，万向钱潮直线涨停，鸣志电器、方正电机纷纷拉升。",
+          "url": "https://wallstreetcn.com/livenews/3028550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时29分]"
         },
         {
           "title": "机器人板块集体拉升 可能与两大重磅传闻有关",
@@ -404,7 +420,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -429,6 +445,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "也门总统委员会主席阿里米：取消与阿联酋的联合防御协议。",
+          "url": "https://flash.jin10.com/detail/20251230140452495800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "也门总统委员会主席阿里米：在也门实施为期72小时的禁飞区、海上封锁和地面封锁。所有豁免封锁的情况必须经过沙特领导的联军授权。",
+          "url": "https://flash.jin10.com/detail/20251230140037794800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.67%，报7636.97点，跳空低开过后，逐步收复失地。 热门中概股里，小米初步收跌3.7%，阿里巴巴跌2.4%，理想、腾讯、小鹏、百胜中国跌超1%，网易涨0.8%，百度涨1.6%，蔚来涨4.8%。 ETF中，中概互联网指数ETF（KWEB）收跌1.03%，中国科技指数ETF（CQQQ）收跌0.69%。 XtrackersHarvest中证50（ASHS）收跌1.22%，德银嘉实沪深300指数ETF（ASHR）收跌1.03%。",
+          "url": "https://wallstreetcn.com/livenews/3028329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
@@ -458,25 +513,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 13时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里 Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数收跌0.67%，报7636.97点，跳空低开过后，逐步收复失地。 热门中概股里，小米初步收跌3.7%，阿里巴巴跌2.4%，理想、腾讯、小鹏、百胜中国跌超1%，网易涨0.8%，百度涨1.6%，蔚来涨4.8%。 ETF中，中概互联网指数ETF（KWEB）收跌1.03%，中国科技指数ETF（CQQQ）收跌0.69%。 XtrackersHarvest中证50（ASHS）收跌1.22%，德银嘉实沪深300指数ETF（ASHR）收跌1.03%。",
-          "url": "https://wallstreetcn.com/livenews/3028329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 14时29分]"
         }
       ]
     }
