@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T12:36:53.921276+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2025-12-31T13:24:04.795209+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -32,8 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时15分 ~ 12时36分]"
+          "appearance_count": 14,
+          "time_info": "[03时15分 ~ 13时24分]"
         },
         {
           "title": "盘点2025年度AI大事件",
@@ -61,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 12时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 13时24分]"
         },
         {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
@@ -86,8 +86,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 12时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 13时24分]"
         },
         {
           "title": "据灯塔专业版AI票房预测，影片《疯狂动物城2》预测总票房达42.60亿，有望超过《复仇者联盟4：终局之战》累计票房42.50亿。",
@@ -110,6 +110,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 13时24分]"
         },
         {
           "title": "AI耳机销量涨超600%，智能穿戴设备功能持续提升",
@@ -137,6 +149,17 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "2026年“国补”首次纳入智能眼镜 AI眼镜行业有望迎高速增长",
+          "url": "https://www.cls.cn/detail/2244751",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 13时24分]"
+        },
+        {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
           "url": "https://wallstreetcn.com/livenews/3028878",
           "source": "华尔街见闻-快讯",
@@ -150,15 +173,16 @@
           "time_info": "[02时27分 ~ 04时21分]"
         },
         {
-          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
-          "source": "澎湃新闻",
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-31）",
+          "url": "https://flash.jin10.com/detail/20251231120016489800",
+          "source": "金十数据",
           "ranks": [
-            20
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 12时36分]"
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时24分]"
         },
         {
           "title": "报道：马斯克旗下xAI将扩建“巨人”数据中心",
@@ -171,6 +195,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时18分 ~ 06时17分]"
+        },
+        {
+          "title": "12月31日午间收评：创业板指半日跌超1%，AI应用端逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3029072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时24分]"
         },
         {
           "title": "马斯克证实xAI购入第三栋建筑，训练算力将接近2吉瓦",
@@ -220,28 +256,6 @@
           "time_info": "02时27分"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-31）",
-          "url": "https://flash.jin10.com/detail/20251231120016489800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "12月31日午间收评：创业板指半日跌超1%，AI应用端逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3029072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
           "title": "财联社、《科创板日报》年度评选推出“2025中国十大AI风云人物”",
           "url": "https://www.cls.cn/detail/2244555",
           "source": "财联社热门",
@@ -251,17 +265,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
-        },
-        {
-          "title": "2026年“国补”首次纳入智能眼镜 AI眼镜行业有望迎高速增长",
-          "url": "https://www.cls.cn/detail/2244751",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
         },
         {
           "title": "产值冲刺8000亿元，全球市场占比近54%，新型显示从“链式生态” 迈向“AI+显示”新纪元",
@@ -284,6 +287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "创业板指半日跌超1%，AI应用端逆势走强。 恒指今日收跌0.87%，恒生科技指数跌1.12%。 芝商所再次提高交易保证金，贵金属集体重挫，白银跌超5%。 国家发改委：国产算力水平有望不断提升，为AI产业提供有力支撑。 国家发改委：2026年提前批“两重”项目安排约2200亿元，支持城市地下管网等281个项目。 荷兰经济大臣称对安世半导体采取强硬措施确有必要，商务部回应：荷方切勿一意孤行。 重回扩张区间！中国12月官方制造业PMI 50.1，非制造业PMI 50.2。 中国12月RatingDog制造业PMI 50.1，新出口订单在近3个月来第二次下降。",
+          "url": "https://wallstreetcn.com/livenews/3029088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
@@ -366,7 +380,7 @@
     },
     {
       "keyword_group": "罗永浩",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "罗永浩科技春晚迟到超 40 分钟，现场有观众大喊退票，后宣布全场退票，如何看待？",
@@ -385,6 +399,18 @@
           "time_info": "[02时27分 ~ 07时17分]"
         },
         {
+          "title": "罗永浩迟到后深夜自曝患病十几年：吃药也不管用",
+          "url": "https://news.ifeng.com/c/8pWcP75tSbd",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 13时24分]"
+        },
+        {
           "title": "罗永浩宣布科技春晚门票全退",
           "url": "https://www.toutiao.com/trending/7589786868154207794/",
           "source": "今日头条",
@@ -396,16 +422,15 @@
           "time_info": "09时23分"
         },
         {
-          "title": "罗永浩迟到后深夜自曝患病十几年：吃药也不管用",
-          "url": "https://news.ifeng.com/c/8pWcP75tSbd",
-          "source": "凤凰网",
+          "title": "罗永浩科技春晚回归，此前称将介绍一批未走进大众视野的创新型科技产品，达到预期了吗？哪些内容值得一聊？",
+          "url": "https://www.zhihu.com/question/1989470814232339598",
+          "source": "知乎",
           "ranks": [
-            10,
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 12时36分]"
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "罗永浩科技春晚",
@@ -510,6 +535,58 @@
       ]
     },
     {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数高开低走，初步收跌0.2%。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3028919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "阿里千问Qwen Code更新至v0.5.0版本，推出VSCode插件，发布TypeScript SDK",
+          "url": "https://wallstreetcn.com/livenews/3028853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时27分]"
+        },
+        {
+          "title": "拟募资295亿！长鑫科技IPO获受理：首单“预先审阅”落地 阿里腾讯现身股东榜",
+          "url": "https://www.cls.cn/detail/2245101",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.27%，报7616.03点，全天呈现出高开低走状态。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.08%，德银嘉实沪深300指数ETF（ASHR）收涨0.58%。 中国科技指数ETF（CQQQ）收涨0.89%，中概互联网指数ETF（KWEB）收跌0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3028919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -545,47 +622,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里 Qwen",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数高开低走，初步收跌0.2%。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3028919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "阿里千问Qwen Code更新至v0.5.0版本，推出VSCode插件，发布TypeScript SDK",
-          "url": "https://wallstreetcn.com/livenews/3028853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时27分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.27%，报7616.03点，全天呈现出高开低走状态。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.08%，德银嘉实沪深300指数ETF（ASHR）收涨0.58%。 中国科技指数ETF（CQQQ）收涨0.89%，中概互联网指数ETF（KWEB）收跌0.23%。",
-          "url": "https://wallstreetcn.com/livenews/3028919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
         }
       ]
     },
@@ -659,6 +695,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "字节引入 Rust 是否代表 Java 的缺点 Go 也没解决？",
+          "url": "https://www.zhihu.com/question/602938627",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
         }
       ]
     }
