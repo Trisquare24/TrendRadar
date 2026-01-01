@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T11:48:24.674253+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2026-01-01T12:45:26.781248+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%21%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时45分]"
         },
         {
           "title": "大语言模型 (LLM) 为什么不和谓词逻辑结合来提升逻辑思考能力?",
@@ -63,6 +64,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时19分 ~ 06时18分]"
+        },
+        {
+          "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
+          "url": "https://wallstreetcn.com/articles/3762372",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 12时45分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
@@ -78,6 +91,29 @@
           "time_info": "[04时20分 ~ 06时18分]"
         },
         {
+          "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
+          "url": "https://www.cls.cn/detail/2245960",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 12时45分]"
+        },
+        {
+          "title": "给AI内容“卸妆” 一眼辨真伪",
+          "url": "https://www.toutiao.com/trending/7589768798652514310/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 12时45分]"
+        },
+        {
           "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
           "url": "https://m.thepaper.cn/newsDetail_forward_32282883",
           "source": "澎湃新闻",
@@ -88,18 +124,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时18分 ~ 09时41分]"
-        },
-        {
-          "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
-          "url": "https://wallstreetcn.com/articles/3762372",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时48分]"
         },
         {
           "title": "法国总统马克龙马呼吁欧洲在人工智能和量子技术领域保持独立。",
@@ -114,38 +138,15 @@
           "time_info": "[04时20分 ~ 05时17分]"
         },
         {
-          "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
-          "url": "https://www.cls.cn/detail/2245960",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时48分]"
-        },
-        {
-          "title": "给AI内容“卸妆” 一眼辨真伪",
-          "url": "https://www.toutiao.com/trending/7589768798652514310/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时48分]"
-        },
-        {
           "title": "给AI内容“卸妆” 一眼辨真伪",
           "url": "https://www.baidu.com/s?wd=%E7%BB%99AI%E5%86%85%E5%AE%B9%E2%80%9C%E5%8D%B8%E5%A6%86%E2%80%9D+%E4%B8%80%E7%9C%BC%E8%BE%A8%E7%9C%9F%E4%BC%AA",
           "source": "百度热搜",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时45分]"
         },
         {
           "title": "宇树人形机器人回应AI是否存在泡沫",
@@ -154,7 +155,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -229,8 +230,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 11时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 12时45分]"
         },
         {
           "title": "纳斯达克金龙中国指数跌幅扩大至1.1%。 热门中概股蔚来跌7.7%，小鹏跌5.5%，理想跌4.6%，网易跌2.1%，百度跌1.4%，阿里跌1%。",
@@ -276,6 +277,18 @@
           "time_info": "[00时22分 ~ 11时48分]"
         },
         {
+          "title": "跨年晚会最忙的“人”是机器人",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%9C%80%E5%BF%99%E7%9A%84%E2%80%9C%E4%BA%BA%E2%80%9D%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时45分]"
+        },
+        {
           "title": "稚晖君发布个人机器人启元Q1",
           "url": "https://search.bilibili.com/all?keyword=%E7%A8%9A%E6%99%96%E5%90%9B%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%AF%E5%85%83Q1",
           "source": "bilibili 热搜",
@@ -285,17 +298,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "跨年晚会最忙的“人”是机器人",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%9C%80%E5%BF%99%E7%9A%84%E2%80%9C%E4%BA%BA%E2%80%9D%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
         }
       ]
     },
@@ -312,8 +314,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[09时41分 ~ 12时45分]"
         }
       ]
     }
