@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T16:26:28.931972+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2026-01-02T17:22:45.430979+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时24分 ~ 16时26分]"
+          "appearance_count": 11,
+          "time_info": "[09时24分 ~ 17时22分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -30,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 16时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 17时22分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -43,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时24分 ~ 16时26分]"
+          "appearance_count": 11,
+          "time_info": "[09时24分 ~ 17时22分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -57,8 +58,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 16时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 17时22分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -135,6 +136,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 11时28分]"
+        },
+        {
+          "title": "三星旗下的IT服务与云服务子公司SDS：将投入4270亿韩元在韩国建设AI数据中心。",
+          "url": "https://flash.jin10.com/detail/20260102161552396800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     },
@@ -161,11 +173,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时28分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[11时28分 ~ 17时22分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -174,11 +187,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时28分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[11时28分 ~ 17时22分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -193,8 +207,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 16时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 17时22分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -215,70 +229,8 @@
       ]
     },
     {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "全球首个“个人机器人”来了",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E2%80%9C%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9D%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时23分 ~ 16时26分]"
-        },
-        {
-          "title": "你最想让人形机器人干什么",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%9C%80%E6%83%B3%E8%AE%A9%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B9%B2%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 15时22分]"
-        },
-        {
-          "title": "2026人形机器人能迎来“奇点时刻”吗",
-          "url": "https://www.toutiao.com/trending/7590546795705404954/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "稚晖君发布个人机器人启元Q1",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A8%9A%E6%99%96%E5%90%9B%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%AF%E5%85%83Q1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "你认为机器人一定要做成人形吗",
-          "url": "https://www.toutiao.com/trending/7589921178010697778/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -329,11 +281,86 @@
           "url": "https://wallstreetcn.com/articles/3762439",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时22分]"
+        },
+        {
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "17时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "全球首个“个人机器人”来了",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E2%80%9C%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9D%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时23分 ~ 17时22分]"
+        },
+        {
+          "title": "你最想让人形机器人干什么",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%9C%80%E6%83%B3%E8%AE%A9%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B9%B2%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
+          "title": "2026人形机器人能迎来“奇点时刻”吗",
+          "url": "https://www.toutiao.com/trending/7590546795705404954/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "稚晖君发布个人机器人启元Q1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A8%9A%E6%99%96%E5%90%9B%E5%8F%91%E5%B8%83%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%AF%E5%85%83Q1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "你认为机器人一定要做成人形吗",
+          "url": "https://www.toutiao.com/trending/7589921178010697778/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     },
