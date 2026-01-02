@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-02T14:30:00.156083+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2026-01-02T15:22:13.715565+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
       "match_count": 10,
       "titles": [
+        {
+          "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
+          "url": "https://wallstreetcn.com/articles/3762433",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时24分 ~ 15时22分]"
+        },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
           "url": "https://www.cls.cn/detail/2245258",
@@ -16,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 14时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 15时22分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -26,11 +39,12 @@
           "ranks": [
             11,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 14时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 15时22分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -44,19 +58,6 @@
           "time_info": "[00时23分 ~ 09时24分]"
         },
         {
-          "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
-          "url": "https://wallstreetcn.com/articles/3762433",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时24分 ~ 14时30分]"
-        },
-        {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
           "url": "https://www.cls.cn/detail/2246252",
           "source": "财联社热门",
@@ -66,8 +67,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时24分 ~ 14时30分]"
+          "appearance_count": 9,
+          "time_info": "[09时24分 ~ 15时22分]"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -149,8 +150,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 14时30分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 15时22分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -162,8 +163,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 14时30分]"
+          "appearance_count": 8,
+          "time_info": "[11时28分 ~ 15时22分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -175,8 +176,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 14时30分]"
+          "appearance_count": 8,
+          "time_info": "[11时28分 ~ 15时22分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -186,11 +187,12 @@
             12,
             9,
             11,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 14时30分]"
+          "appearance_count": 17,
+          "time_info": "[00时23分 ~ 15时22分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -212,7 +214,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "全球首个“个人机器人”来了",
@@ -222,8 +224,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 14时30分]"
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 15时22分]"
+        },
+        {
+          "title": "你最想让人形机器人干什么",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%9C%80%E6%83%B3%E8%AE%A9%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B9%B2%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         },
         {
           "title": "2026人形机器人能迎来“奇点时刻”吗",
@@ -307,6 +320,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 03时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌AI的逆风翻盘史",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%9A%84%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         }
       ]
     }
