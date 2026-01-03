@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T22:17:14.568180+08:00",
-  "total_titles_processed": 1482,
+  "generated_at": "2026-01-03T23:17:32.870341+08:00",
+  "total_titles_processed": 1580,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时27分 ~ 22时17分]"
+          "appearance_count": 12,
+          "time_info": "[14时27分 ~ 23时17分]"
+        },
+        {
+          "title": "美食博主手搓对抗AI的一年",
+          "url": "https://www.douyin.com/hot/2356059",
+          "source": "抖音",
+          "ranks": [
+            11,
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时18分 ~ 23时17分]"
         },
         {
           "title": "AI如何让闪迪成为股王",
@@ -32,11 +46,25 @@
             19,
             17,
             20,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时16分 ~ 16时23分]"
+          "appearance_count": 15,
+          "time_info": "[01时16分 ~ 23时17分]"
+        },
+        {
+          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
+          "url": "https://wallstreetcn.com/articles/3762467",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时23分 ~ 23时17分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -71,33 +99,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时17分 ~ 17时18分]"
-        },
-        {
-          "title": "美食博主手搓对抗AI的一年",
-          "url": "https://www.douyin.com/hot/2356059",
-          "source": "抖音",
-          "ranks": [
-            11,
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时18分 ~ 22时17分]"
-        },
-        {
-          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
-          "url": "https://wallstreetcn.com/articles/3762467",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时23分 ~ 22时17分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
