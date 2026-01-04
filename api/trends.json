@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T01:16:22.176501+08:00",
-  "total_titles_processed": 342,
+  "generated_at": "2026-01-05T02:25:45.311059+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "宇树机器人空翻踢爆西瓜",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "农业机器人迎政策暖风，多地布局差异化路径，企业探索技术、标准出海",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
@@ -38,8 +38,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
+        },
+        {
+          "title": "宇树机器人H2腾空侧踢吓退王兴兴",
+          "url": "https://www.toutiao.com/trending/7591130254992261139/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         }
       ]
     },
@@ -55,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "腾讯回应用户被元宝AI辱骂",
@@ -67,8 +78,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时25分]"
         }
       ]
     }
