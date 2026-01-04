@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T04:20:56.733165+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-01-05T05:17:06.980518+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时17分]"
         },
         {
           "title": "农业机器人迎政策暖风，多地布局差异化路径，企业探索技术、标准出海",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时17分]"
         },
         {
           "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
@@ -38,8 +38,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时17分]"
         },
         {
           "title": "宇树机器人H2腾空侧踢吓退王兴兴",
@@ -47,11 +47,12 @@
           "source": "今日头条",
           "ranks": [
             28,
-            30
+            30,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 05时17分]"
         }
       ]
     },
@@ -67,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时17分]"
         },
         {
           "title": "腾讯回应用户被元宝AI辱骂",
@@ -80,8 +81,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时17分]"
         },
         {
           "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
@@ -91,8 +92,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时20分]"
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 05时17分]"
         }
       ]
     }
