@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T06:18:03.386242+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-01-05T07:17:48.346976+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时17分]"
         },
         {
           "title": "腾讯回应用户被元宝AI辱骂",
@@ -29,8 +29,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时17分]"
         },
         {
           "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时14分 ~ 06时18分]"
+          "appearance_count": 7,
+          "time_info": "[03时14分 ~ 07时17分]"
         },
         {
           "title": "央视点名AI魔改乱象",
@@ -69,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时17分]"
         },
         {
           "title": "农业机器人迎政策暖风，多地布局差异化路径，企业探索技术、标准出海",
@@ -80,8 +80,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时17分]"
         },
         {
           "title": "宇树机器人H2腾空侧踢吓退王兴兴",
@@ -90,11 +90,12 @@
           "ranks": [
             28,
             30,
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时25分 ~ 06时18分]"
+          "appearance_count": 7,
+          "time_info": "[02时25分 ~ 07时17分]"
         },
         {
           "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
