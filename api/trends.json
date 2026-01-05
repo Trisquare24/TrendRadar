@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T22:23:03.263210+08:00",
-  "total_titles_processed": 1857,
+  "generated_at": "2026-01-05T23:21:39.111951+08:00",
+  "total_titles_processed": 1947,
   "failed_sources": [],
   "trends": [
     {
@@ -139,6 +139,19 @@
           "time_info": "21时39分"
         },
         {
+          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
+          "url": "https://wallstreetcn.com/articles/3762568",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时40分 ~ 23时21分]"
+        },
+        {
           "title": "腾讯启动AI小程序成长计划",
           "url": "https://wallstreetcn.com/livenews/3030544",
           "source": "华尔街见闻-快讯",
@@ -177,19 +190,6 @@
           "time_info": "[13时34分 ~ 14时35分]"
         },
         {
-          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
-          "url": "https://wallstreetcn.com/articles/3762568",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 22时23分]"
-        },
-        {
           "title": "鸿海：2025年12月销售额8,628.6亿元台币，环比增长2.20%，同比增长31.77％。 2025年第四季度营收同比增长22.07%。 2026年第一季ICT产品进入传统淡季，而AI机柜出货持续放量。",
           "url": "https://wallstreetcn.com/livenews/3030711",
           "source": "华尔街见闻-快讯",
@@ -226,6 +226,18 @@
           "time_info": "[19时18分 ~ 20时40分]"
         },
         {
+          "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
+          "url": "https://www.cls.cn/detail/2248455",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时22分 ~ 23时21分]"
+        },
+        {
           "title": "B站AI大赛开始了",
           "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E5%BC%80%E5%A7%8B%E4%BA%86",
           "source": "bilibili 热搜",
@@ -247,17 +259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时55分 ~ 13时34分]"
-        },
-        {
-          "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
-          "url": "https://www.cls.cn/detail/2248455",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时23分]"
         },
         {
           "title": "韩国总统李在明：韩国与中国需要在人工智能领域扩大经济合作。呼吁在美容产品、食品以及电影和音乐领域与中国开展合作。（韩联社）",
@@ -325,7 +326,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -380,7 +381,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -410,7 +411,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "宇树人形机器人H2训练视频曝光：腾空侧踢吓退王兴兴",
@@ -423,8 +424,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时26分 ~ 22时23分]"
+          "appearance_count": 13,
+          "time_info": "[15时26分 ~ 23时21分]"
         },
         {
           "title": "宇树机器人空翻踢爆西瓜",
@@ -479,13 +480,24 @@
           "time_info": "[00时21分 ~ 06时18分]"
         },
         {
+          "title": "2nm、黄仁勋、中国机器人抱团出海，这是即将发生在CES上的故事",
+          "url": "https://wallstreetcn.com/articles/3762576",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "CES明日开幕：黄仁勋、苏姿丰轮番登场，中国具身智能集体亮相",
           "url": "https://wallstreetcn.com/livenews/3030928",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -496,7 +508,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -510,6 +522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "前苹果工程师推出“视觉大脑”助力机器人感知世界",
+          "url": "https://wallstreetcn.com/livenews/3030940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     },
