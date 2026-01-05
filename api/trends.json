@@ -1,600 +1,94 @@
 {
-  "generated_at": "2026-01-05T23:21:39.111951+08:00",
-  "total_titles_processed": 1947,
+  "generated_at": "2026-01-06T00:24:57.762599+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 33,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
-          "url": "https://www.zhihu.com/question/1991228705045968330",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时41分 ~ 20时40分]"
-        },
-        {
-          "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
-          "url": "https://wallstreetcn.com/articles/3762500",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时14分 ~ 13时34分]"
-        },
-        {
-          "title": "年度抽象AI作品Top10",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E5%BA%A6%E6%8A%BD%E8%B1%A1AI%E4%BD%9C%E5%93%81Top10",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            10,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 13时34分]"
-        },
-        {
-          "title": "2026年AI主线已清晰：算力打底、手机破局，四大爆点就位",
-          "url": "https://wallstreetcn.com/articles/3762504",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时53分 ~ 16时31分]"
-        },
-        {
-          "title": "腾讯回应用户被元宝AI辱骂",
-          "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E7%94%A8%E6%88%B7%E8%A2%AB%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            18,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "AI说啥我穿啥",
-          "url": "https://www.douyin.com/hot/2357791",
-          "source": "抖音",
-          "ranks": [
-            5,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时26分 ~ 19时18分]"
-        },
-        {
-          "title": "从AI新能源与游戏看中国式现代化",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8EAI%E6%96%B0%E8%83%BD%E6%BA%90%E4%B8%8E%E6%B8%B8%E6%88%8F%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            23,
-            19,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时54分 ~ 18时22分]"
-        },
-        {
-          "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
-          "url": "https://wallstreetcn.com/articles/3762525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 19时18分]"
-        },
-        {
-          "title": "AI应用风向标来了？CES+通义硬件展即将举行 这些品牌有望吸睛",
-          "url": "https://www.cls.cn/detail/2247232",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时41分 ~ 13时34分]"
-        },
-        {
-          "title": "美国明尼阿波利斯联储主席Kashkari：不知道鲍威尔在主席任期结束后是否会继续留任。 不担心美联储地区银行行长被解雇的风险。 不同意美国财长贝森特关于银行行长不能很好代表其辖区的看法。 据我了解，人工智能主要是大公司的故事，对小公司不是问题。 中低收入群体的焦虑主要源于通胀。 我们在关税方面正逐步接近某种均衡。",
-          "url": "https://wallstreetcn.com/livenews/3030904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
           "url": "https://wallstreetcn.com/articles/3762568",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时40分 ~ 23时21分]"
-        },
-        {
-          "title": "腾讯启动AI小程序成长计划",
-          "url": "https://wallstreetcn.com/livenews/3030544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 13时34分]"
-        },
-        {
-          "title": "受人工智能相关上涨和日元疲软影响，日经225指数上涨3%。",
-          "url": "https://wallstreetcn.com/livenews/3030574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 14时35分]"
-        },
-        {
-          "title": "智元机器人与MiniMax达成合作，全模态AI加速落地机器人应用",
-          "url": "https://wallstreetcn.com/livenews/3030589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 14时35分]"
-        },
-        {
-          "title": "鸿海：2025年12月销售额8,628.6亿元台币，环比增长2.20%，同比增长31.77％。 2025年第四季度营收同比增长22.07%。 2026年第一季ICT产品进入传统淡季，而AI机柜出货持续放量。",
-          "url": "https://wallstreetcn.com/livenews/3030711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时29分]"
-        },
-        {
-          "title": "A股AI应用方向午后拉升，蓝色光标涨超15%，风语筑、博瑞传播、科德教育、昆仑万维等纷纷跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3030584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时34分 ~ 14时35分]"
-        },
-        {
-          "title": "广汽集团与华为终端签约，深化鸿蒙生态与AI技术合作",
-          "url": "https://wallstreetcn.com/livenews/3030823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时40分]"
+          "appearance_count": 1,
+          "time_info": "00时24分"
         },
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
           "url": "https://www.cls.cn/detail/2248455",
           "source": "财联社热门",
           "ranks": [
-            11,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时22分 ~ 23时21分]"
-        },
-        {
-          "title": "B站AI大赛开始了",
-          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E5%BC%80%E5%A7%8B%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "韩国总统李在明：韩国与中国需要在人工智能领域扩大经济合作。",
-          "url": "https://flash.jin10.com/detail/20260105121148666800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 13时34分]"
-        },
-        {
-          "title": "韩国总统李在明：韩国与中国需要在人工智能领域扩大经济合作。呼吁在美容产品、食品以及电影和音乐领域与中国开展合作。（韩联社）",
-          "url": "https://wallstreetcn.com/livenews/3030564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 13时34分]"
-        },
-        {
-          "title": "当AI遇上3D泰坦尼克号动画",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93AI%E9%81%87%E4%B8%8A3D%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E5%8A%A8%E7%94%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时22分]"
-        },
-        {
-          "title": "美联储卡什卡利：据我所知，人工智能是大公司的问题，而不是小公司的问题。",
-          "url": "https://flash.jin10.com/detail/20260105211011276800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时23分]"
-        },
-        {
-          "title": "荣耀回应“安卓做不出比苹果更好的Air”",
-          "url": "https://wallstreetcn.com/livenews/3030728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时22分]"
-        },
-        {
-          "title": "央视点名AI魔改乱象",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86%E7%82%B9%E5%90%8DAI%E9%AD%94%E6%94%B9%E4%B9%B1%E8%B1%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 06时18分]"
-        },
-        {
-          "title": "北京发布人工智能创新高地建设行动计划",
-          "url": "https://wallstreetcn.com/livenews/3030930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时23分"
+          "time_info": "00时24分"
         },
         {
-          "title": "阿里巴巴将视觉AI技术应用于餐饮赛道 与美团展开竞争",
-          "url": "https://wallstreetcn.com/livenews/3030815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "豆包相关负责人否认“豆包AI眼镜”即将出货",
-          "url": "https://wallstreetcn.com/livenews/3030851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "人工智能投资助推亚洲新兴股市创2021年初以来新高",
-          "url": "https://flash.jin10.com/detail/20260105133147761800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "字节“豆包”AI眼镜即将进入出货阶段，起步价预计控制在2000元以内",
-          "url": "https://wallstreetcn.com/livenews/3030637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "B站开启AI创作大赛，首次开放《三体》改编权",
-          "url": "https://wallstreetcn.com/livenews/3030920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "四川：加快关键核心数智技术攻关，实施人工智能等重大科技专项",
-          "url": "https://wallstreetcn.com/livenews/3030631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-05）",
-          "url": "https://flash.jin10.com/detail/20260105115209696800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "宇树人形机器人H2训练视频曝光：腾空侧踢吓退王兴兴",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32316977",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时26分 ~ 23时21分]"
-        },
-        {
-          "title": "宇树机器人空翻踢爆西瓜",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BA%E7%BF%BB%E8%B8%A2%E7%88%86%E8%A5%BF%E7%93%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            6,
-            8,
-            9,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时21分 ~ 18时22分]"
-        },
-        {
-          "title": "农业机器人迎政策暖风，多地布局差异化路径，企业探索技术、标准出海",
-          "url": "https://www.cls.cn/detail/2246888",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "宇树机器人H2腾空侧踢吓退王兴兴",
-          "url": "https://www.toutiao.com/trending/7591130254992261139/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            30,
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时25分 ~ 07时17分]"
-        },
-        {
-          "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
-          "url": "https://wallstreetcn.com/livenews/3030322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时18分]"
-        },
-        {
-          "title": "2nm、黄仁勋、中国机器人抱团出海，这是即将发生在CES上的故事",
-          "url": "https://wallstreetcn.com/articles/3762576",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "CES明日开幕：黄仁勋、苏姿丰轮番登场，中国具身智能集体亮相",
-          "url": "https://wallstreetcn.com/livenews/3030928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "高通推出全套机器人技术组合，助力从家用机器人到全尺寸人型机器人的具身智能",
-          "url": "https://wallstreetcn.com/livenews/3030926",
+          "title": "三星推出以AI为核心的电视和家电",
+          "url": "https://wallstreetcn.com/livenews/3030980",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时23分"
+          "time_info": "00时24分"
         },
         {
-          "title": "智元机器人2025年出货量超过5100台，2026年出货量预计“可达数万台”",
-          "url": "https://wallstreetcn.com/livenews/3030809",
-          "source": "华尔街见闻-快讯",
+          "title": "B站AI大赛开始了",
+          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E5%BC%80%E5%A7%8B%E4%BA%86",
+          "source": "bilibili 热搜",
           "ranks": [
-            13
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "00时24分"
         },
         {
-          "title": "前苹果工程师推出“视觉大脑”助力机器人感知世界",
-          "url": "https://wallstreetcn.com/livenews/3030940",
-          "source": "华尔街见闻-快讯",
+          "title": "AI说啥我穿啥",
+          "url": "https://www.douyin.com/hot/2357791",
+          "source": "抖音",
           "ranks": [
-            28
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时21分"
+          "time_info": "00时24分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "机器人 具身智能",
       "match_count": 2,
       "titles": [
         {
-          "title": "尽管有OpenAI融资利好 分析师仍警告CoreWeave股票价值或将清零",
-          "url": "https://flash.jin10.com/detail/20260105200457445800",
-          "source": "金十数据",
+          "title": "宇树人形机器人H2训练视频曝光：腾空侧踢吓退王兴兴",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32316977",
+          "source": "澎湃新闻",
           "ranks": [
-            17
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时40分"
+          "time_info": "00时24分"
         },
         {
-          "title": "OpenAI巨额融资预期利好CoreWeave 分析师大幅上调目标价至68美元",
-          "url": "https://flash.jin10.com/detail/20260105200103118800",
-          "source": "金十数据",
+          "title": "2nm、黄仁勋、中国机器人抱团出海，这是即将发生在CES上的故事",
+          "url": "https://wallstreetcn.com/articles/3762576",
+          "source": "华尔街见闻",
           "ranks": [
-            25
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里 Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "恒指高开0.09%，报26361.44点；恒生科技指数涨0.33%。快手涨5.9%，阿里巴巴涨1.4%，中芯国际涨、哔哩哔哩涨0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3030441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "罗永浩",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "罗永浩称受 ADHD 影响，每场发布会全凭即兴发挥硬讲，ADHD 要背锅吗？它能对工作生活带来多大影响？",
-          "url": "https://www.zhihu.com/question/1989609244299847494",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时41分 ~ 13时34分]"
+          "time_info": "00时24分"
         }
       ]
     }
