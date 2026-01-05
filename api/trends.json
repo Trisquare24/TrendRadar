@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T00:24:57.762599+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-06T01:21:08.811753+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3762568",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时21分]"
         },
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
           "url": "https://www.cls.cn/detail/2248455",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "三星推出以AI为核心的电视和家电",
-          "url": "https://wallstreetcn.com/livenews/3030980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时21分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -46,6 +37,17 @@
           "source": "bilibili 热搜",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "三星推出以AI为核心的电视和家电",
+          "url": "https://wallstreetcn.com/livenews/3030980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -73,22 +75,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32316977",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时21分]"
         },
         {
           "title": "2nm、黄仁勋、中国机器人抱团出海，这是即将发生在CES上的故事",
           "url": "https://wallstreetcn.com/articles/3762576",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时21分]"
         }
       ]
     }
