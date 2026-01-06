@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T09:24:21.944810+08:00",
-  "total_titles_processed": 856,
+  "generated_at": "2026-01-06T11:27:33.208205+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 11时27分]"
         },
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
@@ -27,11 +27,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 11时27分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -46,8 +47,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 11时27分]"
         },
         {
           "title": "AI说啥我穿啥",
@@ -59,11 +60,12 @@
             17,
             24,
             19,
-            29
+            29,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 09时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 11时27分]"
         },
         {
           "title": "黄仁勋发布新一代AI芯片",
@@ -72,9 +74,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
+          "url": "https://www.cls.cn/detail/2248593",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时18分 ~ 11时27分]"
         },
         {
           "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
@@ -101,16 +116,16 @@
           "time_info": "[06时20分 ~ 07时18分]"
         },
         {
-          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
-          "url": "https://www.cls.cn/detail/2248593",
-          "source": "财联社热门",
+          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            6
+            19,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时18分 ~ 09时24分]"
+          "time_info": "[09时24分 ~ 11时27分]"
         },
         {
           "title": "惠普新3K笔记本比Macbook Air更薄",
@@ -219,7 +234,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -257,24 +272,13 @@
           "time_info": "07时18分"
         },
         {
-          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
           "title": "英伟达发布Alpamayo汽车大模型平台",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83Alpamayo%E6%B1%BD%E8%BD%A6%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B9%B3%E5%8F%B0",
           "source": "百度热搜",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -318,7 +322,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         },
@@ -329,7 +333,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         }
@@ -350,8 +354,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 11时27分]"
         },
         {
           "title": "2nm、黄仁勋、中国机器人抱团出海，这是即将发生在CES上的故事",
@@ -365,8 +369,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 11时27分]"
         },
         {
           "title": "现代汽车2028年将在美国佐治亚州Savannah工厂部署人形机器人。",
@@ -411,7 +415,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         }
@@ -419,7 +423,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -433,6 +437,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时19分 ~ 05时18分]"
+        },
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         },
         {
           "title": "OpenAI支持的公司推家务机器人 售价2万美元",
@@ -536,9 +551,26 @@
           "ranks": [
             16
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时24分 ~ 11时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "影视飓风",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价影视飓风 2025 相机颁奖？你认同吗？",
+          "url": "https://www.zhihu.com/question/1990942673520059441",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "11时27分"
         }
       ]
     }
