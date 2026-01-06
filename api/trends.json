@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T13:23:26.568820+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-01-06T14:31:32.801050+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 13时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 14时31分]"
         },
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
@@ -67,8 +67,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 13时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 14时31分]"
         },
         {
           "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
@@ -81,8 +81,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时18分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[07时18分 ~ 14时31分]"
+        },
+        {
+          "title": "为何说AI抢走了你的内存",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
+        },
+        {
+          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时24分 ~ 14时31分]"
         },
         {
           "title": "黄仁勋发布新一代AI芯片",
@@ -132,16 +155,16 @@
           "time_info": "[12时38分 ~ 13时23分]"
         },
         {
-          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
-          "source": "百度热搜",
+          "title": "2026 年，JetBrains 的 IDE 要被 Cursor 一类的 AI IDE 革命了吗？",
+          "url": "https://www.zhihu.com/question/1991590957200716340",
+          "source": "知乎",
           "ranks": [
-            19,
-            26
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时24分 ~ 13时23分]"
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 14时31分]"
         },
         {
           "title": "抖音：2025年AI兴趣用户增长翻倍",
@@ -218,7 +241,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -298,17 +321,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
-        },
-        {
-          "title": "2026 年，JetBrains 的 IDE 要被 Cursor 一类的 AI IDE 革命了吗？",
-          "url": "https://www.zhihu.com/question/1991590957200716340",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
         },
         {
           "title": "英伟达(NVDA.O)：微软的“Fairwater”人工智能超级工厂将扩展至配备数十万块英伟达Vera Rubin超级芯片。",
@@ -452,8 +464,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时24分 ~ 13时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时24分 ~ 14时31分]"
         },
         {
           "title": "现代汽车2028年将在美国佐治亚州Savannah工厂部署人形机器人。",
@@ -517,8 +529,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 13时23分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 14时31分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
