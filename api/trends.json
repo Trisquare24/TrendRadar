@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T18:22:07.040542+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-01-07T19:18:29.234473+08:00",
+  "total_titles_processed": 1805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时38分 ~ 18时22分]"
+          "appearance_count": 11,
+          "time_info": "[12时38分 ~ 19时18分]"
         },
         {
           "title": "中国人工智能技术正这样走向世界",
@@ -38,11 +38,12 @@
             2,
             4,
             12,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时27分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[11时27分 ~ 19时18分]"
         },
         {
           "title": "苏姿丰CES演讲全文来了！尧字节时代来临，Helios登场，“未来四年，要实现AI性能1000倍的提升”！",
@@ -113,6 +114,34 @@
           "time_info": "[11时27分 ~ 17时26分]"
         },
         {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 19时18分]"
+        },
+        {
+          "title": "AI热潮掀开新篇章：“内存超级周期”将至，重点关注这三家公司！",
+          "url": "https://www.cls.cn/detail/2250185",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 19时18分]"
+        },
+        {
           "title": "联想携手英伟达推出吉瓦级AI工厂计划，加速企业级AI发展。",
           "url": "https://wallstreetcn.com/livenews/3032008",
           "source": "华尔街见闻-快讯",
@@ -130,7 +159,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -190,19 +219,6 @@
           "time_info": "16时27分"
         },
         {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 18时22分]"
-        },
-        {
           "title": "AMD的CEO苏姿丰：AI并非取代人类，而是改变招聘标准",
           "url": "https://wallstreetcn.com/livenews/3031938",
           "source": "华尔街见闻-快讯",
@@ -212,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "八部门联合发文，事关“人工智能+制造”",
+          "url": "https://www.cls.cn/detail/2250761",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "恩智浦半导体(NXPI.O)与通用电气医疗集团宣布合作，旨在引领边缘人工智能创新的新突破。",
@@ -225,19 +252,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "AI热潮掀开新篇章：“内存超级周期”将至，重点关注这三家公司！",
-          "url": "https://www.cls.cn/detail/2250185",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 18时22分]"
-        },
-        {
           "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
           "url": "https://flash.jin10.com/detail/20260107040236649800",
           "source": "金十数据",
@@ -248,6 +262,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时19分]"
+        },
+        {
+          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
+          "url": "https://wallstreetcn.com/articles/3762702",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时18分]"
         },
         {
           "title": "XAI：完成200亿美元的E轮融资。",
@@ -286,16 +312,16 @@
           "time_info": "[12时39分 ~ 13时23分]"
         },
         {
-          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
-          "url": "https://wallstreetcn.com/articles/3762702",
-          "source": "华尔街见闻",
+          "title": "荣耀高管再度回应Air手机争议",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E9%AB%98%E7%AE%A1%E5%86%8D%E5%BA%A6%E5%9B%9E%E5%BA%94Air%E6%89%8B%E6%9C%BA%E4%BA%89%E8%AE%AE%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            7
+            18,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时26分 ~ 18时22分]"
+          "time_info": "[18时21分 ~ 19时18分]"
         },
         {
           "title": "苏姿丰：人工智能不会取代人类，但会改变招聘对象",
@@ -308,17 +334,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时19分]"
-        },
-        {
-          "title": "荣耀高管再度回应Air手机争议",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%E9%AB%98%E7%AE%A1%E5%86%8D%E5%BA%A6%E5%9B%9E%E5%BA%94Air%E6%89%8B%E6%9C%BA%E4%BA%89%E8%AE%AE%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "环球音乐与英伟达合作开展人工智能音乐创作与研究。",
@@ -338,7 +353,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -363,6 +378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "波动率之王的险胜：从资产缩水90%到单月飙升 Haidar再演戏剧性翻盘",
+          "url": "https://flash.jin10.com/detail/20260107190038751800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "如何看待田渊栋年终总结中对离职 Meta 经历的回顾及对 AI 的思考？",
@@ -393,7 +419,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -440,6 +466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "“AI疲劳症”席卷华尔街 资金加速流向标普493成分股",
+          "url": "https://flash.jin10.com/detail/20260107184946321800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "微创机器人完成全球首例“大模型自主手术”动物实验",
@@ -618,6 +655,18 @@
           "time_info": "07时18分"
         },
         {
+          "title": "李在明与中国机器人握手，满脸笑容",
+          "url": "https://v.ifeng.com/c/8piZoYkD8e5",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 19时18分]"
+        },
+        {
           "title": "港股精锋医疗暗盘涨超45%，报63港元。精锋医疗成立于2017年，是医疗机械行业先进的手术机器人企业。",
           "url": "https://wallstreetcn.com/livenews/3032271",
           "source": "华尔街见闻-快讯",
@@ -652,17 +701,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时18分]"
-        },
-        {
-          "title": "李在明与中国机器人握手，满脸笑容",
-          "url": "https://v.ifeng.com/c/8piZoYkD8e5",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 18时22分]"
         },
         {
           "title": "中国具身智能持续加速",
