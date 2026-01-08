@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T15:22:52.542886+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-01-08T16:27:29.432546+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "八部门联合发文，事关“人工智能+制造”",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时24分 ~ 15时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时24分 ~ 16时27分]"
         },
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
@@ -103,6 +103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "大模型独角兽MiniMax港股暗盘涨超17%，最高报200.20港元。",
+          "url": "https://wallstreetcn.com/livenews/3033115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "阿里云推出面向AI硬件的多模态交互开发套件",
@@ -252,7 +263,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -327,9 +338,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时27分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
@@ -352,6 +363,114 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.5%。 热门中概股里，新东方初步收涨0.4%，百度涨0.3%，蔚来涨0.1%，拼多多、小米、腾讯音乐、京东、美团跌超1%，阿里巴巴跌2.6%，网易跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3032690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌1.17%，恒生科技指数收跌1.05%。科网股多数下跌，美团跌超3%，阿里巴巴跌超2%，智谱上市首日收涨约13%。",
+          "url": "https://wallstreetcn.com/livenews/3033109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "恒生指数跌幅扩大至1.74%，跌破26000点。恒生科技指数跌超2%，阿里巴巴-W、蓝思科技跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3032990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "阿里业绩前瞻：淘宝闪购会继续加大投入达到市场份额绝对第一",
+          "url": "https://wallstreetcn.com/livenews/3032937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "波士顿动力宣布 Atlas 人形机器人进入量产阶段，并将和 DeepMind 合作，哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/1991833974222315669",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            12,
+            7,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 07时18分]"
+        },
+        {
+          "title": "人形机器人量产提速，背后有哪些联动支撑？｜出发，2026",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32300324",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时27分 ~ 16时27分]"
+        },
+        {
+          "title": "FF：未来5年累计产销目标为40万辆至50万辆；推出具身智能机器人战略",
+          "url": "https://wallstreetcn.com/livenews/3032917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 13时23分]"
+        },
+        {
+          "title": "小鹏开年发布四款新车，今年将规模量产人形机器人和飞行汽车",
+          "url": "https://wallstreetcn.com/livenews/3033081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     },
@@ -397,92 +516,6 @@
       ]
     },
     {
-      "keyword_group": "阿里 Qwen",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.5%。 热门中概股里，新东方初步收涨0.4%，百度涨0.3%，蔚来涨0.1%，拼多多、小米、腾讯音乐、京东、美团跌超1%，阿里巴巴跌2.6%，网易跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3032690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "恒生指数跌幅扩大至1.74%，跌破26000点。恒生科技指数跌超2%，阿里巴巴-W、蓝思科技跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3032990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "阿里业绩前瞻：淘宝闪购会继续加大投入达到市场份额绝对第一",
-          "url": "https://wallstreetcn.com/livenews/3032937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "波士顿动力宣布 Atlas 人形机器人进入量产阶段，并将和 DeepMind 合作，哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/1991833974222315669",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            12,
-            7,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时18分]"
-        },
-        {
-          "title": "人形机器人量产提速，背后有哪些联动支撑？｜出发，2026",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32300324",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时27分 ~ 15时22分]"
-        },
-        {
-          "title": "FF：未来5年累计产销目标为40万辆至50万辆；推出具身智能机器人战略",
-          "url": "https://wallstreetcn.com/livenews/3032917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时23分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "影视飓风",
       "match_count": 2,
       "titles": [
@@ -511,9 +544,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时27分]"
         }
       ]
     },
@@ -528,9 +561,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "消息称字节实习生全面涨薪，最高涨幅达 150%，这释放了什么信号？是否代表人才争夺战的升级？",
+          "url": "https://www.zhihu.com/question/1991544477639262811",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     }
