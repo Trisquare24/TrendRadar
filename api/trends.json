@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T09:25:14.708689+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-01-09T11:29:07.073164+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
@@ -48,11 +48,23 @@
           "url": "https://www.baidu.com/s?wd=%E4%BE%BF%E5%88%A9%E5%BA%97%E5%8D%96%E2%80%9C%E9%9E%8B%E5%BA%95%E8%B1%86%E5%B9%B2%E2%80%9D+%E7%BD%91%E5%8F%8B%EF%BC%9A%E4%BB%A5%E4%B8%BA%E6%98%AFAI",
           "source": "百度热搜",
           "ranks": [
-            23
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 11时29分]"
+        },
+        {
+          "title": "算力如何影响大模型",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AE%97%E5%8A%9B%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%A4%A7%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
+          "time_info": "[11时28分 ~ 11时29分]"
         },
         {
           "title": "小鹏汽车成功注册图灵AI座舱商标",
@@ -61,7 +73,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -72,7 +84,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -99,6 +111,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "深成指涨超1%，沪指涨0.7%，创业板指涨0.24%，北证50指数涨超2%，AI应用、商业航天、军工等方向涨幅居前，沪深京三市上涨个股近3700只。",
+          "url": "https://wallstreetcn.com/livenews/3033706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
           "title": "Eleveight AI在亚美尼亚部署英伟达B300 Blackwell GPUs。",
           "url": "https://wallstreetcn.com/livenews/3033430",
           "source": "华尔街见闻-快讯",
@@ -116,9 +139,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "上海：到2028年广告业营收超过4500亿元 加强“AI+数字广告”融合赋能",
+          "url": "https://wallstreetcn.com/livenews/3033699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         },
         {
           "title": "市场消息：马斯克旗下的xAI在2025年前9个月共耗费了80亿美元现金。",
@@ -127,9 +161,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "AI应用方向反复活跃，引力传媒5天4板，易点天下、科德教育涨超10%，博瑞传播、蓝色光标、省广集团涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3033681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         }
       ]
     },
@@ -208,8 +253,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 09时25分]"
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 11时29分]"
         },
         {
           "title": "恒指高开0.47%，MiniMax港股上市首日涨超42%。阿里巴巴、京东集团涨超3%，哔哩哔哩、腾讯音乐涨超2%。",
@@ -218,7 +263,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -282,7 +327,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -293,7 +338,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -312,7 +357,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "人形机器人量产提速，背后有哪些联动支撑？｜出发，2026",
@@ -326,6 +371,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时26分 ~ 07时17分]"
+        },
+        {
+          "title": "用一个字证明你不是机器人",
+          "url": "https://www.baidu.com/s?wd=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E4%BD%A0%E4%B8%8D%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 11时29分]"
         },
         {
           "title": "欧盟责令X平台保存聊天机器人数据至年底",
@@ -399,11 +455,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 09时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 11时29分]"
         }
       ]
     }
