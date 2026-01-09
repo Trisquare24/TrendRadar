@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T06:19:24.565808+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-01-10T07:18:45.409621+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -36,23 +36,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
-          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
-          "url": "https://www.cls.cn/detail/2253101",
+          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
+          "url": "https://www.cls.cn/detail/2253184",
           "source": "财联社热门",
           "ranks": [
-            9,
-            10
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "如何分辨AI音乐骗局",
@@ -68,19 +69,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
-        },
-        {
-          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
-          "url": "https://www.cls.cn/detail/2253184",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
@@ -88,7 +78,20 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            18
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
+        },
+        {
+          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
+          "url": "https://www.cls.cn/detail/2253101",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -106,6 +109,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 06时19分]"
+        },
+        {
+          "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3034456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "马斯克旗下初创公司xAI限制Grok图像生成功能。 此前，Grok生成与儿童相关的性化图片，招致欧洲强烈反感。",
@@ -209,7 +223,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         }
@@ -290,8 +304,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌约1.3%，本周累跌约2.1%。 热门中概股里，小鹏初步收跌2.6%，阿里跌2.3%，蔚来跌2%，百度涨1.5%。",
@@ -311,7 +325,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         }
@@ -329,8 +343,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "宇树人形机器人空翻踢爆西瓜",
@@ -341,11 +355,12 @@
             18,
             15,
             22,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
         },
         {
           "title": "英首相府指责聊天机器人“格罗克”整改具“侮辱性”",
@@ -363,7 +378,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
@@ -371,11 +386,23 @@
           "source": "知乎",
           "ranks": [
             13,
-            12
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时21分 ~ 06时19分]"
+          "appearance_count": 4,
+          "time_info": "[04时21分 ~ 07时18分]"
+        },
+        {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         }
       ]
     },
