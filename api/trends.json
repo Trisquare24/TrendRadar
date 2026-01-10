@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T17:18:33.063463+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-01-10T18:18:46.859962+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -161,6 +161,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "中国大模型进入上市分水岭",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E5%85%A5%E4%B8%8A%E5%B8%82%E5%88%86%E6%B0%B4%E5%B2%AD",
           "source": "百度热搜",
@@ -178,7 +189,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
         },
@@ -226,6 +237,22 @@
           "time_info": "[04时21分 ~ 15时18分]"
         },
         {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[07时18分 ~ 18时18分]"
+        },
+        {
           "title": "Deepseek或将发布新AI模型",
           "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
@@ -236,23 +263,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时22分 ~ 17时18分]"
-        },
-        {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[07时18分 ~ 17时18分]"
+          "time_info": "[09时22分 ~ 18时18分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -264,8 +276,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时26分 ~ 17时18分]"
+          "appearance_count": 7,
+          "time_info": "[14时26分 ~ 18时18分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -278,8 +290,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时26分 ~ 17时18分]"
+          "appearance_count": 7,
+          "time_info": "[14时26分 ~ 18时18分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -288,11 +300,12 @@
           "ranks": [
             15,
             16,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 17时18分]"
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 18时18分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -385,6 +398,88 @@
       ]
     },
     {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "上海：加速商业火箭、人形机器人等创新产品突破产业规模化发展瓶颈",
+          "url": "https://www.cls.cn/detail/2253306",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 13时19分]"
+        },
+        {
+          "title": "宇树人形机器人空翻踢爆西瓜",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BA%E7%BF%BB%E8%B8%A2%E7%88%86%E8%A5%BF%E7%93%9C",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            18,
+            15,
+            22,
+            26,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时22分]"
+        },
+        {
+          "title": "人形机器人T链一级供应商新剑传动冲刺IPO",
+          "url": "https://wallstreetcn.com/livenews/3034529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "瑞声科技宣布推出人形机器人解决方案",
+          "url": "https://flash.jin10.com/detail/20260110165903191800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时18分]"
+        },
+        {
+          "title": "瑞声科技推出人形机器人解决方案",
+          "url": "https://wallstreetcn.com/livenews/3034523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时18分 ~ 18时18分]"
+        },
+        {
+          "title": "英首相府指责聊天机器人“格罗克”整改具“侮辱性”",
+          "url": "https://wallstreetcn.com/livenews/3034295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
@@ -442,75 +537,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "上海：加速商业火箭、人形机器人等创新产品突破产业规模化发展瓶颈",
-          "url": "https://www.cls.cn/detail/2253306",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 13时19分]"
-        },
-        {
-          "title": "宇树人形机器人空翻踢爆西瓜",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A9%BA%E7%BF%BB%E8%B8%A2%E7%88%86%E8%A5%BF%E7%93%9C",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            18,
-            15,
-            22,
-            26,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时22分]"
-        },
-        {
-          "title": "瑞声科技宣布推出人形机器人解决方案",
-          "url": "https://flash.jin10.com/detail/20260110165903191800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "瑞声科技推出人形机器人解决方案",
-          "url": "https://wallstreetcn.com/livenews/3034523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时18分"
-        },
-        {
-          "title": "英首相府指责聊天机器人“格罗克”整改具“侮辱性”",
-          "url": "https://wallstreetcn.com/livenews/3034295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
         }
       ]
     },
