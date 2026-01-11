@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T21:28:53.606348+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-01-11T22:17:14.023413+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时23分 ~ 21时28分]"
+          "appearance_count": 13,
+          "time_info": "[13时23分 ~ 22时17分]"
         },
         {
           "title": "AI照片竟然拿了摄影比赛第一名",
@@ -54,8 +54,26 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时15分 ~ 21时28分]"
+          "appearance_count": 24,
+          "time_info": "[01时15分 ~ 22时17分]"
+        },
+        {
+          "title": "AI每回答一个问题要消耗多少水",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            9,
+            8,
+            18,
+            25,
+            26,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时19分 ~ 22时17分]"
         },
         {
           "title": "南大人工智能学科排名全球第一",
@@ -87,25 +105,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时21分 ~ 21时28分]"
-        },
-        {
-          "title": "AI每回答一个问题要消耗多少水",
-          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            9,
-            8,
-            18,
-            25,
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时19分 ~ 21时28分]"
+          "appearance_count": 25,
+          "time_info": "[00时21分 ~ 22时17分]"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
@@ -120,6 +121,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时18分 ~ 22时17分]"
         },
         {
           "title": "AI登顶LOL韩服",
@@ -185,16 +198,17 @@
           "time_info": "[13时23分 ~ 18时18分]"
         },
         {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
+          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            9
+            17,
+            19,
+            16
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时18分 ~ 21时28分]"
+          "time_info": "[19时15分 ~ 22时17分]"
         },
         {
           "title": "全球首次！印尼暂时封禁马斯克旗下AI",
@@ -249,18 +263,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时45分 ~ 15时20分]"
-        },
-        {
-          "title": "中国大模型分化成趋势？智能体如何突破？唐杰、姚顺雨、杨植麟等AI顶流齐聚探讨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32360244",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 21时28分]"
         },
         {
           "title": "市场消息：马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
@@ -410,8 +412,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时21分 ~ 21时28分]"
+          "appearance_count": 25,
+          "time_info": "[00时21分 ~ 22时17分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
