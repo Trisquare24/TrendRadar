@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T15:25:33.130680+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2026-01-12T16:29:16.454886+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -43,8 +43,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 15时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 16时29分]"
         },
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -56,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 15时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 16时29分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -121,6 +121,19 @@
           "time_info": "[00时21分 ~ 09时28分]"
         },
         {
+          "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
+          "url": "https://www.cls.cn/detail/2254504",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时28分 ~ 16时29分]"
+        },
+        {
           "title": "万字解析中国AI产业",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -135,16 +148,15 @@
           "time_info": "[09时27分 ~ 13时28分]"
         },
         {
-          "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
-          "url": "https://www.cls.cn/detail/2254504",
-          "source": "财联社热门",
+          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时28分 ~ 15时25分]"
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时29分]"
         },
         {
           "title": "AI21 Labs声明称，任何有关公司与英伟达已经开始洽谈收购事宜的报道都是假的。",
@@ -234,6 +246,28 @@
           "time_info": "[12时47分 ~ 14时33分]"
         },
         {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 16时29分]"
+        },
+        {
+          "title": "Meta投资核电厂为AI提供电力 核聚变产业链有望迎订单放量",
+          "url": "https://www.cls.cn/detail/2254251",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 16时29分]"
+        },
+        {
           "title": "目前围绕 AI 的软件工程领域主要有 mlops，mlsys，AI infra，他们三者的区别是什么呢？",
           "url": "https://www.zhihu.com/question/650309846",
           "source": "知乎",
@@ -244,6 +278,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时47分 ~ 12时48分]"
+        },
+        {
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 16时29分]"
+        },
+        {
+          "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
+          "url": "https://www.cls.cn/detail/2254695",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时29分]"
         },
         {
           "title": "工信部部长李乐成：深入实施“人工智能+制造”专项行动 培育一批重点行业智能体、智能原生企业",
@@ -282,24 +338,46 @@
           "time_info": "[13时28分 ~ 14时33分]"
         },
         {
+          "title": "超7成三甲医生推荐AI医生",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%857%E6%88%90%E4%B8%89%E7%94%B2%E5%8C%BB%E7%94%9F%E6%8E%A8%E8%8D%90AI%E5%8C%BB%E7%94%9F%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时29分]"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服",
+          "url": "https://www.douyin.com/hot/2364470",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时29分]"
+        },
+        {
+          "title": "荣耀Magic8 Pro Air真机曝光",
+          "url": "https://www.toutiao.com/trending/7593289511980843051/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 16时29分]"
+        },
+        {
           "title": "A股成交额破3.5万亿创新纪录！商业航天涨停潮，恒科指涨2%，智谱大涨30%领涨AI应用，金属再爆发、沪银飙升13%",
           "url": "https://wallstreetcn.com/articles/3763068",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -315,35 +393,13 @@
           "time_info": "07时17分"
         },
         {
-          "title": "Meta投资核电厂为AI提供电力 核聚变产业链有望迎订单放量",
-          "url": "https://www.cls.cn/detail/2254251",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "机构扎堆盯上7只AI零售概念股",
           "url": "https://www.toutiao.com/trending/7593448756495024178/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "UP主复盘疑似马斯克AI操作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
@@ -383,6 +439,17 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 16时29分]"
+        },
+        {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
           "url": "https://flash.jin10.com/detail/20260112123727337800",
           "source": "金十数据",
@@ -393,23 +460,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 14时33分]"
-        },
-        {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         }
       ]
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "恒生指数午后涨1%，阿里健康涨超8%，恒生科技指数现涨2.17%。",
@@ -422,6 +478,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时33分 ~ 15时25分]"
+        },
+        {
+          "title": "恒生科技指数涨幅扩大至3%。金蝶国际涨超12%，阿里健康涨超10%，快手涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3035078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "字节、美团、阿里同时押注，自变量完成10亿元A++轮融资",
