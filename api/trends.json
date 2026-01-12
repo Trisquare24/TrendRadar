@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T16:29:16.454886+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-01-12T17:30:53.301058+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -33,6 +33,20 @@
           "time_info": "[09时27分 ~ 15时25分]"
         },
         {
+          "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
+          "url": "https://www.cls.cn/detail/2254504",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时28分 ~ 17时30分]"
+        },
+        {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
           "source": "贴吧",
@@ -40,11 +54,12 @@
             3,
             10,
             11,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 16时29分]"
+          "appearance_count": 23,
+          "time_info": "[00时21分 ~ 17时30分]"
         },
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -53,11 +68,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 16时29分]"
+          "appearance_count": 23,
+          "time_info": "[00时21分 ~ 17时30分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -121,17 +137,15 @@
           "time_info": "[00时21分 ~ 09时28分]"
         },
         {
-          "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
-          "url": "https://www.cls.cn/detail/2254504",
-          "source": "财联社热门",
+          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            4,
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时28分 ~ 16时29分]"
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 17时30分]"
         },
         {
           "title": "万字解析中国AI产业",
@@ -148,15 +162,30 @@
           "time_info": "[09时27分 ~ 13时28分]"
         },
         {
-          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
-          "url": "https://wallstreetcn.com/articles/3763068",
-          "source": "华尔街见闻",
+          "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
+          "url": "https://www.cls.cn/detail/2254695",
+          "source": "财联社热门",
           "ranks": [
-            5
+            8,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 17时30分]"
+        },
+        {
+          "title": "AI会取代演员吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%8F%96%E4%BB%A3%E6%BC%94%E5%91%98%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 17时30分]"
         },
         {
           "title": "AI21 Labs声明称，任何有关公司与英伟达已经开始洽谈收购事宜的报道都是假的。",
@@ -183,6 +212,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时47分 ~ 13时28分]"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 17时30分]"
+        },
+        {
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 17时30分]"
         },
         {
           "title": "港股AI应用板块午后持续走强，智谱涨超60%，上市三天累计涨幅超110%；MINIMAX-WP涨近30%。",
@@ -234,27 +286,15 @@
           "time_info": "[14时33分 ~ 15时25分]"
         },
         {
-          "title": "AI会取代演员吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%8F%96%E4%BB%A3%E6%BC%94%E5%91%98%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "超7成三甲医生推荐AI医生",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%857%E6%88%90%E4%B8%89%E7%94%B2%E5%8C%BB%E7%94%9F%E6%8E%A8%E8%8D%90AI%E5%8C%BB%E7%94%9F%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
             19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时47分 ~ 14时33分]"
-        },
-        {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 16时29分]"
+          "time_info": "[16时28分 ~ 17时30分]"
         },
         {
           "title": "Meta投资核电厂为AI提供电力 核聚变产业链有望迎订单放量",
@@ -280,26 +320,26 @@
           "time_info": "[11时47分 ~ 12时48分]"
         },
         {
-          "title": "UP主复盘疑似马斯克AI操作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
-          "source": "bilibili 热搜",
+          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
+          "url": "https://wallstreetcn.com/articles/3763085",
+          "source": "华尔街见闻",
           "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 16时29分]"
-        },
-        {
-          "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
-          "url": "https://www.cls.cn/detail/2254695",
-          "source": "财联社热门",
-          "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
+          "time_info": "[17时29分 ~ 17时30分]"
+        },
+        {
+          "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
+          "url": "https://www.cls.cn/detail/2254903",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
         },
         {
           "title": "工信部部长李乐成：深入实施“人工智能+制造”专项行动 培育一批重点行业智能体、智能原生企业",
@@ -312,6 +352,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时47分 ~ 12时48分]"
+        },
+        {
+          "title": "市场强势冲高，商业航天再迎利好，AI 应用有望打开新空间",
+          "url": "https://www.cls.cn/detail/2254355",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
         },
         {
           "title": "深成指涨超1%，北证50涨近4%，沪指涨0.52%，创业板指涨0.63%，商业航天、AI应用两大方向领涨市场，沪深京三市上涨个股超3400只。",
@@ -336,17 +387,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 14时33分]"
-        },
-        {
-          "title": "超7成三甲医生推荐AI医生",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%857%E6%88%90%E4%B8%89%E7%94%B2%E5%8C%BB%E7%94%9F%E6%8E%A8%E8%8D%90AI%E5%8C%BB%E7%94%9F%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
         },
         {
           "title": "疑似马斯克AI登顶LOL韩服",
@@ -382,6 +422,17 @@
           "time_info": "15时25分"
         },
         {
+          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
+          "url": "https://www.cls.cn/detail/2254949",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
+        },
+        {
           "title": "以“AI+制造”为抓手，上海寻找下一个十年增长动力",
           "url": "https://wallstreetcn.com/livenews/3034780",
           "source": "华尔街见闻-快讯",
@@ -402,12 +453,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "港股收盘：恒生科技收涨3.10%，科技股、AI应用概念股表现强势",
+          "url": "https://wallstreetcn.com/livenews/3035115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -446,8 +508,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 16时29分]"
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 17时30分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
@@ -460,13 +522,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 14时33分]"
+        },
+        {
+          "title": "美股盘前，明星科技股普跌，英伟达(NVDA.O)跌1.2%、谷歌C(GOOG.O)跌0.95%、甲骨文(ORCL.N)跌1.7%、英特尔(INTC.O)跌2%。",
+          "url": "https://flash.jin10.com/detail/20260112170114771800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
         }
       ]
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
+          "url": "https://wallstreetcn.com/livenews/3035153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
+        },
         {
           "title": "恒生指数午后涨1%，阿里健康涨超8%，恒生科技指数现涨2.17%。",
           "url": "https://wallstreetcn.com/livenews/3034999",
@@ -480,13 +564,24 @@
           "time_info": "[14时33分 ~ 15时25分]"
         },
         {
+          "title": "美股盘前，热门中概股走强，金山云(KC.O)涨13%、阿里巴巴(BABA.N)涨4.4%、百度(BIDU.O)涨3%。",
+          "url": "https://flash.jin10.com/detail/20260112170224589800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
+        },
+        {
           "title": "恒生科技指数涨幅扩大至3%。金蝶国际涨超12%，阿里健康涨超10%，快手涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3035078",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
