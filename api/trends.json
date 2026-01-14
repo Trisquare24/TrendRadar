@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T19:19:25.042413+08:00",
-  "total_titles_processed": 1788,
+  "generated_at": "2026-01-14T20:40:27.358980+08:00",
+  "total_titles_processed": 1900,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -48,6 +48,22 @@
           "time_info": "[00时28分 ~ 12时45分]"
         },
         {
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时45分 ~ 20时40分]"
+        },
+        {
           "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
           "url": "https://www.zhihu.com/question/1994009798958657948",
           "source": "知乎",
@@ -59,21 +75,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[09时27分 ~ 17时27分]"
-        },
-        {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时45分 ~ 19时19分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -104,8 +105,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时45分 ~ 19时19分]"
+          "appearance_count": 13,
+          "time_info": "[11时45分 ~ 20时40分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -146,8 +147,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时28分 ~ 18时22分]"
+          "appearance_count": 22,
+          "time_info": "[00时28分 ~ 20时40分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -164,6 +165,18 @@
           "time_info": "[00时28分 ~ 06时20分]"
         },
         {
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 20时40分]"
+        },
+        {
           "title": "韩服登顶账号是AI操作的吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
           "source": "bilibili 热搜",
@@ -178,18 +191,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时22分 ~ 19时19分]"
-        },
-        {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时19分]"
         },
         {
           "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
@@ -226,8 +227,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时19分]"
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 20时40分]"
         },
         {
           "title": "国产大模型新年动作频频：智谱联手华为开源新模型，MiniMax开源评测集",
@@ -247,7 +248,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -296,8 +297,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 19时19分]"
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 20时40分]"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
@@ -444,6 +445,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "王自如说荣耀Air补齐iPhoneAir短板",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%87%AA%E5%A6%82%E8%AF%B4%E8%8D%A3%E8%80%80Air%E8%A1%A5%E9%BD%90iPhoneAir%E7%9F%AD%E6%9D%BF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "阿里云2026年目标：拿下中国AI云市场增量的80%",
           "url": "https://wallstreetcn.com/livenews/3036634",
           "source": "华尔街见闻-快讯",
@@ -461,7 +473,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -549,7 +561,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         }
@@ -717,7 +729,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -811,8 +823,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时19分]"
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 20时40分]"
         },
         {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
@@ -829,7 +841,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -863,6 +875,17 @@
           "time_info": "[00时28分 ~ 11时45分]"
         },
         {
+          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1994233409871050526",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
           "url": "https://wallstreetcn.com/livenews/3036793",
           "source": "华尔街见闻-快讯",
@@ -872,6 +895,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "豆包到底是陪我吃饭还是给我添堵",
+          "url": "https://www.douyin.com/hot/2367676",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     }
