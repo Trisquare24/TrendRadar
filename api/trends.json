@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T15:23:58.919575+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2026-01-15T16:27:49.296961+08:00",
+  "total_titles_processed": 1559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -19,6 +19,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时26分 ~ 07时17分]"
+        },
+        {
+          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
+          "url": "https://www.cls.cn/detail/2258255",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 16时27分]"
         },
         {
           "title": "巴菲特再发警示：AI的危险不亚于核武器",
@@ -53,6 +67,19 @@
           "time_info": "[01时25分 ~ 09时23分]"
         },
         {
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时38分 ~ 16时27分]"
+        },
+        {
           "title": "浙江用AI抓出贪官",
           "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98",
           "source": "百度热搜",
@@ -64,19 +91,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时26分 ~ 11时29分]"
-        },
-        {
-          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
-          "url": "https://www.cls.cn/detail/2258255",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时23分 ~ 15时23分]"
         },
         {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
@@ -91,18 +105,6 @@
           "time_info": "[00时26分 ~ 15时23分]"
         },
         {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时38分 ~ 15时23分]"
-        },
-        {
           "title": "92胜率屠榜,老马AI杀穿韩服",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
           "source": "贴吧",
@@ -111,11 +113,12 @@
             15,
             17,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 15时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 16时27分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -150,8 +153,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 15时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时26分 ~ 16时27分]"
         },
         {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
@@ -164,6 +167,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时25分 ~ 07时17分]"
+        },
+        {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时38分 ~ 16时27分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -180,17 +197,17 @@
           "time_info": "[01时25分 ~ 07时17分]"
         },
         {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
           "source": "财联社热门",
           "ranks": [
-            8,
+            13,
             7,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时38分 ~ 15时23分]"
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 16时27分]"
         },
         {
           "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
@@ -202,18 +219,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时38分 ~ 14时31分]"
-        },
-        {
-          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
-          "url": "https://www.cls.cn/detail/2258599",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 15时23分]"
         },
         {
           "title": "于正秀腹肌被判定AI",
@@ -328,9 +333,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "美国政府将批准向中国出售H200人工智能芯片 外交部回应",
+          "url": "https://www.cls.cn/detail/2258750",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "美联储卡什卡利：目前大多数企业的AI应用仍处于实验阶段，尚未导致裁员。",
@@ -564,7 +580,7 @@
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "直击阿里千问APP发布会：全面接入淘宝、支付宝、淘宝闪购等阿里生态业务",
@@ -576,8 +592,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 15时23分]"
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 16时27分]"
         },
         {
           "title": "大华继显：阿里第三财季业绩或表现平淡",
@@ -600,6 +616,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌0.28%，恒生科技指数收跌1.35%，携程跌超19%，阿里巴巴跌超2%；半导体板块尾盘拉升，华虹半导体收涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3037786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.23%，报7856.78点。 热门中概股里，美团初步收跌约4%，拼多多跌3.9%，网易、理想、蔚来、小鹏跌超2%，百度涨0.8%，腾讯涨1%，文远知行涨1.3%，小马智行涨1.8%，阿里巴巴涨1.9%。 ETF中，中概互联网指数ETF（KWEB）收跌0.27%，中国科技指数ETF（CQQQ）收涨0.81%。 德银嘉实沪深300指数ETF（ASHR）收跌0.53%，XtrackersHarvest中证50（ASHS）收涨0.71%。",
@@ -672,6 +699,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "宇树人形机器人 H2 空中回旋踢将西瓜踢爆，这样高难度的动作完成有多难？有哪些技术值得关注？",
+          "url": "https://www.zhihu.com/question/1993035109318796739",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 16时27分]"
+        },
+        {
           "title": "蚂蚁数科与杭州具身智能中试基地达成合作意向 推动具身智能商业化落地",
           "url": "https://wallstreetcn.com/livenews/3037578",
           "source": "华尔街见闻-快讯",
@@ -681,17 +719,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
-        },
-        {
-          "title": "宇树人形机器人 H2 空中回旋踢将西瓜踢爆，这样高难度的动作完成有多难？有哪些技术值得关注？",
-          "url": "https://www.zhihu.com/question/1993035109318796739",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
         },
         {
           "title": "全球首个机器人租赁平台“擎天租”完成种子轮融资",
@@ -718,11 +745,12 @@
             12,
             15,
             14,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时38分 ~ 15时23分]"
+          "appearance_count": 7,
+          "time_info": "[12时38分 ~ 16时27分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
@@ -753,11 +781,12 @@
             27,
             17,
             21,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 15时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 16时27分]"
         }
       ]
     }
