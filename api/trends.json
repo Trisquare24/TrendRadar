@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T20:39:17.597019+08:00",
-  "total_titles_processed": 1861,
+  "generated_at": "2026-01-16T21:37:05.759784+08:00",
+  "total_titles_processed": 1967,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -152,6 +152,30 @@
           "time_info": "[07时19分 ~ 13时23分]"
         },
         {
+          "title": "259看magixx回归绿龙首秀",
+          "url": "https://search.bilibili.com/all?keyword=259%E7%9C%8Bmagixx%E5%9B%9E%E5%BD%92%E7%BB%BF%E9%BE%99%E9%A6%96%E7%A7%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
+        },
+        {
+          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
+          "url": "https://www.cls.cn/detail/2260348",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 21时37分]"
+        },
+        {
           "title": "美联储巴尔金：当今经济有两个引擎，人工智能和富人。",
           "url": "https://flash.jin10.com/detail/20260116015614451800",
           "source": "金十数据",
@@ -169,7 +193,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -186,6 +210,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时28分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 21时37分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
+          "url": "https://www.cls.cn/detail/2260421",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 21时37分]"
         },
         {
           "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
@@ -212,18 +261,6 @@
           "time_info": "[00时32分 ~ 01时29分]"
         },
         {
-          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
-          "url": "https://www.cls.cn/detail/2260348",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 20时39分]"
-        },
-        {
           "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
           "url": "https://www.cls.cn/detail/2259623",
           "source": "财联社热门",
@@ -234,18 +271,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时25分 ~ 12时38分]"
-        },
-        {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 20时39分]"
         },
         {
           "title": "美国里士满联储主席Barkin：当前经济有两个引擎，人工智能（AI）和富人。 难以判断过去三个月的数据。",
@@ -271,18 +296,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 02时33分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
-          "url": "https://www.cls.cn/detail/2260421",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 20时39分]"
         },
         {
           "title": "美国政府批准向中国出口英伟达 H200 芯片，这对中国 AI 算力市场和国产芯片发展意味着什么？",
@@ -320,6 +333,17 @@
           "time_info": "[17时25分 ~ 18时21分]"
         },
         {
+          "title": "天理会不会是旅行者兄妹飞船的 ai？",
+          "url": "https://www.zhihu.com/question/1994797924039800329",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
+        },
+        {
           "title": "AI编程初创公司Replit接近按90亿美元估值融资。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3038201",
           "source": "华尔街见闻-快讯",
@@ -344,6 +368,17 @@
           "time_info": "[12时38分 ~ 13时23分]"
         },
         {
+          "title": "博主：AI应用将成2026年投资新风口",
+          "url": "https://www.toutiao.com/trending/7595899025040084543/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
+        },
+        {
           "title": "马斯克儿子的妈妈起诉马斯克AI公司",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%84%BF%E5%AD%90%E7%9A%84%E5%A6%88%E5%A6%88%E8%B5%B7%E8%AF%89%E9%A9%AC%E6%96%AF%E5%85%8BAI%E5%85%AC%E5%8F%B8",
           "source": "百度热搜",
@@ -361,7 +396,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -394,7 +429,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -460,7 +495,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -542,6 +577,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "交通运输部部长刘伟：抓住卫星互联网发展机遇，推动人工智能在交通运输领域规模化创新应用",
+          "url": "https://wallstreetcn.com/livenews/3038808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "消息人士：人工智能编程初创公司Replit接近完成融资，估值达90亿美元。",
           "url": "https://flash.jin10.com/detail/20260116043600126800",
           "source": "金十数据",
@@ -556,7 +602,7 @@
     },
     {
       "keyword_group": "罗永浩",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "贾国龙称「将就罗永浩的重大污蔑诽谤一一回应」，并要求其对西贝、宝妈、餐饮行业道歉，如何看待这一发声？",
@@ -579,6 +625,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "罗永浩回应西贝贾国龙言论：没见过一个企业仅因为被黑就能倒闭的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32399922",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 21时37分]"
         },
         {
           "title": "西贝餐饮创始人贾国龙预告：今晚10点就罗永浩对西贝的重大污蔑诽谤一一全面回应。",
@@ -605,6 +663,17 @@
           "time_info": "[18时21分 ~ 19时18分]"
         },
         {
+          "title": "贾国龙让罗永浩千万别忍",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E8%AE%A9%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%8D%83%E4%B8%87%E5%88%AB%E5%BF%8D%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时38分 ~ 21时37分]"
+        },
+        {
           "title": "贾国龙：请罗永浩给西贝认真道歉",
           "url": "https://www.douyin.com/hot/2369889",
           "source": "抖音",
@@ -627,17 +696,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时24分 ~ 17时25分]"
-        },
-        {
-          "title": "罗永浩回应西贝贾国龙言论：没见过一个企业仅因为被黑就能倒闭的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32399922",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 20时39分]"
         },
         {
           "title": "罗永浩回应西贝闭店",
@@ -663,15 +721,15 @@
           "time_info": "[20时38分 ~ 20时39分]"
         },
         {
-          "title": "贾国龙让罗永浩千万别忍",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E8%AE%A9%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%8D%83%E4%B8%87%E5%88%AB%E5%BF%8D%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "贾国龙最新发声：“将就罗永浩对西贝的重大污蔑诽谤一一全面回应”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32400231",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时38分 ~ 20时39分]"
+          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "真的是罗永浩毁了西贝吗",
@@ -739,8 +797,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时38分 ~ 20时39分]"
+          "appearance_count": 13,
+          "time_info": "[12时38分 ~ 21时37分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
