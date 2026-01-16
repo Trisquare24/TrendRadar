@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T16:27:19.407600+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2026-01-16T17:25:13.816038+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -72,11 +72,12 @@
             26,
             27,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 16时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 17时25分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
@@ -132,8 +133,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 16时27分]"
+          "appearance_count": 7,
+          "time_info": "[12时38分 ~ 17时25分]"
         },
         {
           "title": "美联储巴尔金：当今经济有两个引擎，人工智能和富人。",
@@ -171,6 +172,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时29分]"
+        },
+        {
+          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
+          "url": "https://www.cls.cn/detail/2259986",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 17时25分]"
+        },
+        {
+          "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
+          "url": "https://www.cls.cn/detail/2259812",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 17时25分]"
         },
         {
           "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
@@ -231,30 +256,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 09时25分]"
-        },
-        {
-          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
-          "url": "https://www.cls.cn/detail/2259986",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时27分]"
-        },
-        {
-          "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
-          "url": "https://www.cls.cn/detail/2259812",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时27分]"
         },
         {
           "title": "AI编程初创公司Replit接近按90亿美元估值融资。（彭博）",
@@ -323,6 +324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "理想万里晖建成面向太空的超薄柔性HJT电池AI示范线",
+          "url": "https://wallstreetcn.com/livenews/3038644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "华尔街六大行裁员创十年新高 AI转型与效率至上成主旋律",
@@ -463,11 +475,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 16时27分]"
+          "appearance_count": 7,
+          "time_info": "[12时38分 ~ 17时25分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -528,6 +541,68 @@
       ]
     },
     {
+      "keyword_group": "罗永浩",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "西贝餐饮创始人贾国龙预告：今晚10点就罗永浩对西贝的重大污蔑诽谤一一全面回应。",
+          "url": "https://wallstreetcn.com/livenews/3038658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "罗永浩发文回应西贝关店",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E8%A5%BF%E8%B4%9D%E5%85%B3%E5%BA%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "罗永浩回应西贝闭店",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%9B%9E%E5%BA%94%E8%A5%BF%E8%B4%9D%E9%97%AD%E5%BA%97%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 16时27分]"
+        },
+        {
+          "title": "贾国龙：请罗永浩给西贝认真道歉",
+          "url": "https://www.douyin.com/hot/2369889",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "罗永浩再谈西贝：除了冷冻西兰花其他基本都不冤",
+          "url": "https://wallstreetcn.com/livenews/3038612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 具身智能",
       "match_count": 4,
       "titles": [
@@ -579,9 +654,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 17时25分]"
         }
       ]
     },
@@ -659,8 +734,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 16时27分]"
+          "appearance_count": 8,
+          "time_info": "[11时28分 ~ 17时25分]"
         },
         {
           "title": "恒指高开0.64%，报27094.85点；恒生科技指数涨0.94%。商汤、阿里巴巴涨2%，比亚迪股份、中芯国际、华虹半导体等涨超1%。",
@@ -672,35 +747,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "罗永浩",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "罗永浩回应西贝闭店",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%9B%9E%E5%BA%94%E8%A5%BF%E8%B4%9D%E9%97%AD%E5%BA%97%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 16时27分]"
-        },
-        {
-          "title": "罗永浩再谈西贝：除了冷冻西兰花其他基本都不冤",
-          "url": "https://wallstreetcn.com/livenews/3038612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
         }
       ]
     },
