@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T14:31:37.684717+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-01-16T15:22:58.015311+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -58,11 +58,25 @@
             25,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 14时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 15时22分]"
+        },
+        {
+          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
+          "url": "https://www.cls.cn/detail/2259727",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 15时22分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
@@ -96,19 +110,6 @@
           "time_info": "[00时32分 ~ 09时25分]"
         },
         {
-          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
-          "url": "https://www.cls.cn/detail/2259727",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时25分 ~ 14时31分]"
-        },
-        {
           "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2259656",
           "source": "财联社热门",
@@ -132,6 +133,20 @@
           "time_info": "02时33分"
         },
         {
+          "title": "AI基建+能源转型+电网阻塞三重驱动 储能行业开启增长新周期",
+          "url": "https://www.cls.cn/detail/2259692",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 15时22分]"
+        },
+        {
           "title": "台积电三季度业绩报告要点总结：AI巨头需求引爆，Q4利润激增35%再破纪录",
           "url": "https://wallstreetcn.com/livenews/3038126",
           "source": "华尔街见闻-快讯",
@@ -144,17 +159,18 @@
           "time_info": "[00时32分 ~ 01时29分]"
         },
         {
-          "title": "AI基建+能源转型+电网阻塞三重驱动 储能行业开启增长新周期",
-          "url": "https://www.cls.cn/detail/2259692",
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
           "source": "财联社热门",
           "ranks": [
+            12,
+            9,
             8,
-            10,
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时28分 ~ 14时31分]"
+          "time_info": "[12时38分 ~ 15时22分]"
         },
         {
           "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
@@ -167,19 +183,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时25分 ~ 12时38分]"
-        },
-        {
-          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
-          "url": "https://www.cls.cn/detail/2259861",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时38分 ~ 14时31分]"
         },
         {
           "title": "美国里士满联储主席Barkin：当前经济有两个引擎，人工智能（AI）和富人。 难以判断过去三个月的数据。",
@@ -271,7 +274,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -285,6 +288,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
+          "url": "https://www.cls.cn/detail/2259986",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
+          "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
+          "url": "https://www.cls.cn/detail/2259812",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "Cloudflare(NET.N)收购AI数据市场Human Native，以扩大在人工智能开发者和内容创作者之间开展交易的步伐。",
@@ -309,6 +334,17 @@
           "time_info": "01时29分"
         },
         {
+          "title": "三菱公司高管：到2030年，美国天然气需求预计将比2025年水平增长18%，主要受人工智能、数据中心和液化天然气出口的推动。",
+          "url": "https://flash.jin10.com/detail/20260116144322115800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "玩鹅鸭杀让AI辨忠奸",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%A9%E9%B9%85%E9%B8%AD%E6%9D%80%E8%AE%A9AI%E8%BE%A8%E5%BF%A0%E5%A5%B8%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -318,6 +354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "韩国财长：将聚焦于在人工智能、芯片、生物和食品等领域提升经济基本面，以应对外汇市场动荡。",
+          "url": "https://flash.jin10.com/detail/20260116143750836800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "据华尔街日报：与马斯克生子的网红Ashley St. Clair因Grok聊天机器人照片起诉xAI，寻求禁令防止Grok利用人工智能创造深度伪像。",
@@ -351,6 +398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "从能源到育种 我国人工智能企业数量已超6200家",
+          "url": "https://wallstreetcn.com/livenews/3038541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "报告：AI推动半导体行业营收在2026年首次突破1万亿美元",
@@ -418,8 +476,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时38分 ~ 14时31分]"
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 15时22分]"
         },
         {
           "title": "OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。",
@@ -547,11 +605,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 15时22分]"
         }
       ]
     },
@@ -618,6 +677,23 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 09时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "罗永浩",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "罗永浩回应西贝闭店",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%9B%9E%E5%BA%94%E8%A5%BF%E8%B4%9D%E9%97%AD%E5%BA%97%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         }
       ]
     }
