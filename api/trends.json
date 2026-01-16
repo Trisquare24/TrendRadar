@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T18:21:25.912879+08:00",
-  "total_titles_processed": 1641,
+  "generated_at": "2026-01-16T19:18:20.244421+08:00",
+  "total_titles_processed": 1733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -137,6 +137,20 @@
           "time_info": "[07时19分 ~ 13时23分]"
         },
         {
+          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
+          "url": "https://www.cls.cn/detail/2259986",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时22分 ~ 19时18分]"
+        },
+        {
           "title": "美联储巴尔金：当今经济有两个引擎，人工智能和富人。",
           "url": "https://flash.jin10.com/detail/20260116015614451800",
           "source": "金十数据",
@@ -160,19 +174,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时28分 ~ 15时22分]"
-        },
-        {
-          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
-          "url": "https://www.cls.cn/detail/2259986",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时22分 ~ 18时21分]"
         },
         {
           "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
@@ -259,6 +260,18 @@
           "time_info": "[07时19分 ~ 09时25分]"
         },
         {
+          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
+          "url": "https://www.cls.cn/detail/2260348",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时18分]"
+        },
+        {
           "title": "理想万里晖建成面向太空的超薄柔性HJT电池AI示范线",
           "url": "https://wallstreetcn.com/livenews/3038644",
           "source": "华尔街见闻-快讯",
@@ -295,6 +308,17 @@
           "time_info": "[12时38分 ~ 13时23分]"
         },
         {
+          "title": "马斯克儿子的妈妈起诉马斯克AI公司",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%84%BF%E5%AD%90%E7%9A%84%E5%A6%88%E5%A6%88%E8%B5%B7%E8%AF%89%E9%A9%AC%E6%96%AF%E5%85%8BAI%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时18分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-16）",
           "url": "https://flash.jin10.com/detail/20260116114820528800",
           "source": "金十数据",
@@ -317,6 +341,17 @@
           "time_info": "14时31分"
         },
         {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "AI芯片需求持续火热，台积电Q4净利润大幅增长35%，2025年全年资本支出达409亿美元 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3763354",
           "source": "华尔街见闻",
@@ -328,15 +363,15 @@
           "time_info": "09时25分"
         },
         {
-          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
-          "url": "https://www.cls.cn/detail/2260348",
+          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
+          "url": "https://www.cls.cn/detail/2260421",
           "source": "财联社热门",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "19时18分"
         },
         {
           "title": "Cloudflare(NET.N)收购AI数据市场Human Native，以扩大在人工智能开发者和内容创作者之间开展交易的步伐。",
@@ -348,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "中国—东盟人工智能产业创新中心将在2026年成立",
+          "url": "https://wallstreetcn.com/livenews/3038722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "华尔街六大行裁员创十年新高 AI转型与效率至上成主旋律",
@@ -427,17 +473,6 @@
           "time_info": "11时28分"
         },
         {
-          "title": "马斯克儿子的妈妈起诉马斯克AI公司",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%84%BF%E5%AD%90%E7%9A%84%E5%A6%88%E5%A6%88%E8%B5%B7%E8%AF%89%E9%A9%AC%E6%96%AF%E5%85%8BAI%E5%85%AC%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
           "title": "从能源到育种 我国人工智能企业数量已超6200家",
           "url": "https://wallstreetcn.com/livenews/3038541",
           "source": "华尔街见闻-快讯",
@@ -474,7 +509,7 @@
     },
     {
       "keyword_group": "罗永浩",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "贾国龙称「将就罗永浩的重大污蔑诽谤一一回应」，并要求其对西贝、宝妈、餐饮行业道歉，如何看待这一发声？",
@@ -483,9 +518,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时18分]"
         },
         {
           "title": "贾国龙：请罗永浩给西贝认真道歉",
@@ -494,18 +529,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "贾国龙让罗永浩道歉赔偿",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E8%AE%A9%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%81%93%E6%AD%89%E8%B5%94%E5%81%BF%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -522,16 +546,29 @@
           "time_info": "[17时25分 ~ 18时21分]"
         },
         {
+          "title": "贾国龙让罗永浩道歉赔偿",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%9B%BD%E9%BE%99%E8%AE%A9%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%81%93%E6%AD%89%E8%B5%94%E5%81%BF%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时18分]"
+        },
+        {
           "title": "贾国龙：请罗永浩给西贝认真道歉",
           "url": "https://www.douyin.com/hot/2369889",
           "source": "抖音",
           "ranks": [
             17,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 19时18分]"
         },
         {
           "title": "罗永浩发文回应西贝关店",
@@ -566,6 +603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "罗永浩回应贾国龙喊话",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%9B%9E%E5%BA%94%E8%B4%BE%E5%9B%BD%E9%BE%99%E5%96%8A%E8%AF%9D%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     },
@@ -600,8 +648,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时38分 ~ 18时21分]"
+          "appearance_count": 9,
+          "time_info": "[12时38分 ~ 19时18分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -711,11 +759,12 @@
           "url": "https://www.cls.cn/detail/2260010",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 17时25分]"
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 19时18分]"
         },
         {
           "title": "巨星传奇：公司与巨星文创娱乐成立合资公司，将独家负责消费级IP机器人及艺人IP机器人的销售、营运及推广。",
@@ -724,7 +773,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -735,7 +784,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
