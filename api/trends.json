@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-01-18T22:16:47.752964+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-01-18T23:18:07.502011+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
       "match_count": 13,
       "titles": [
+        {
+          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
+          "url": "https://wallstreetcn.com/articles/3763530",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时18分 ~ 23时18分]"
+        },
         {
           "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
           "url": "https://www.zhihu.com/question/659369541",
@@ -35,23 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时40分 ~ 22时16分]"
-        },
-        {
-          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
-          "url": "https://wallstreetcn.com/articles/3763530",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时18分 ~ 22时16分]"
+          "appearance_count": 17,
+          "time_info": "[12时40分 ~ 23时18分]"
         },
         {
           "title": "「数字泔水」正浸泡孩子，AI 滥用生成的无脑魔改与错误信息，会影响这代小孩的逻辑与辨别真实的能力吗？",
@@ -126,11 +126,12 @@
           "ranks": [
             4,
             12,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 22时16分]"
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 23时18分]"
         },
         {
           "title": "尹同跃宣告奇瑞AI进入2.0时代，要快速追赶特斯拉FSD",
@@ -195,8 +196,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时27分 ~ 22时16分]"
+          "appearance_count": 14,
+          "time_info": "[14时27分 ~ 23时18分]"
         },
         {
           "title": "解读ChatGPT加入广告背后",
@@ -363,8 +364,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 22时16分]"
+          "appearance_count": 7,
+          "time_info": "[19时15分 ~ 23时18分]"
         }
       ]
     },
@@ -404,11 +405,12 @@
           "ranks": [
             23,
             17,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时34分 ~ 22时16分]"
+          "appearance_count": 6,
+          "time_info": "[20时34分 ~ 23时18分]"
         }
       ]
     }
