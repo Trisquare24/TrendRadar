@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T15:25:55.249517+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-01-20T16:28:49.979749+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "年入1400亿！奥特曼印钞机转疯了，AGI尽头是卖广告",
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时18分 ~ 15时25分]"
+          "appearance_count": 11,
+          "time_info": "[07时18分 ~ 16时28分]"
         },
         {
           "title": "人均95后的大模型公司上了新闻联播",
@@ -54,7 +54,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -192,6 +192,17 @@
           "time_info": "[00时26分 ~ 01时22分]"
         },
         {
+          "title": "外媒谈AI竞争：中国会笑到最后",
+          "url": "https://www.douyin.com/hot/2373802",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时28分]"
+        },
+        {
           "title": "贺峻霖力证不是AI",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%8A%9B%E8%AF%81%E4%B8%8D%E6%98%AFAI%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -237,6 +248,17 @@
           "time_info": "14时32分"
         },
         {
+          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
+          "url": "https://www.cls.cn/detail/2263371",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "人均95后的大模型公司上了新闻联播",
           "url": "https://www.toutiao.com/trending/7597040422938099762/",
           "source": "今日头条",
@@ -268,17 +290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "外媒谈AI竞争：中国会笑到最后",
-          "url": "https://www.douyin.com/hot/2373802",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         },
         {
           "title": "中国中车旗下八维通与宇树科技战略合作 深度布局“机器人+AI+行业场景”",
@@ -347,11 +358,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 16时28分]"
         },
         {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
