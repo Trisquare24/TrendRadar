@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T17:31:41.871809+08:00",
-  "total_titles_processed": 1613,
+  "generated_at": "2026-01-21T18:26:14.161798+08:00",
+  "total_titles_processed": 1694,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "疑似AI玩家确认是Roamer",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             1,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 17时31分]"
+          "appearance_count": 10,
+          "time_info": "[12时42分 ~ 18时26分]"
         },
         {
           "title": "【数读2025上海经济年报】GDP增长5.4%，集成电路、人工智能产业表现亮眼",
@@ -44,11 +45,12 @@
             7,
             8,
             10,
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 17时31分]"
+          "appearance_count": 10,
+          "time_info": "[12时42分 ~ 18时26分]"
         },
         {
           "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
@@ -58,8 +60,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 17时31分]"
+          "appearance_count": 10,
+          "time_info": "[12时42分 ~ 18时26分]"
+        },
+        {
+          "title": "图灵的猫回应预测韩服AI疑云",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 18时26分]"
         },
         {
           "title": "疑似AI玩家已确认是BRO Roamer",
@@ -71,18 +86,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 11时42分]"
-        },
-        {
-          "title": "图灵的猫回应预测韩服AI疑云",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时31分]"
         },
         {
           "title": "上海中小学开设AI课程",
@@ -169,6 +172,17 @@
           "time_info": "[11时42分 ~ 12时42分]"
         },
         {
+          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
+          "url": "https://www.cls.cn/detail/2265232",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
           "title": "上海国际学校的孩子都在使用AI",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%AD%A9%E5%AD%90%E9%83%BD%E5%9C%A8%E4%BD%BF%E7%94%A8AI%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -208,7 +222,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -230,7 +244,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -244,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "Meta首席技术官：超智能实验室已于1月在内部交付了首批关键人工智能模型，新AI模型表现“非常出色”。",
+          "url": "https://wallstreetcn.com/livenews/3041173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "AnthropicCEO：AI发展未来可能导致10%失业率 政府必须有所作为",
@@ -279,6 +304,17 @@
           "time_info": "02时32分"
         },
         {
+          "title": "沙特初创公司Humain：与Infra宣布达成人工智能和数字融资框架协议，同意探讨设立人工智能数据中心投资平台。",
+          "url": "https://flash.jin10.com/detail/20260121175829190800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "学科带头人称老师要把AI当成对手",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%A7%91%E5%B8%A6%E5%A4%B4%E4%BA%BA%E7%A7%B0%E8%80%81%E5%B8%88%E8%A6%81%E6%8A%8AAI%E5%BD%93%E6%88%90%E5%AF%B9%E6%89%8B%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -288,6 +324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "马斯克：人工智能是一场超音速海啸。",
+          "url": "https://flash.jin10.com/detail/20260121175218510800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "泰国央行行长Vitai：泰国央行近期出手干预以平抑泰铢汇率波动。 泰国央行认为泰铢应随着基本面因素而贬值。 泰国银行未发现异常资本流入。",
@@ -315,7 +362,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
@@ -351,6 +398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
+          "url": "https://wallstreetcn.com/livenews/3041189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
@@ -395,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
+          "url": "https://flash.jin10.com/detail/20260121175350755800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "马斯克建议：不要让你的亲人使用ChatGPT",
@@ -463,6 +532,34 @@
       ]
     },
     {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "原Oladance创始人李浩乾或将从字节离职",
+          "url": "https://wallstreetcn.com/livenews/3041193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "豆包与浦东美术馆达成合作",
+          "url": "https://wallstreetcn.com/livenews/3040961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -475,11 +572,12 @@
             6,
             8,
             9,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时41分 ~ 17时31分]"
+          "appearance_count": 12,
+          "time_info": "[11时41分 ~ 18时26分]"
         }
       ]
     },
@@ -517,23 +615,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "字节 Kimi 豆包",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "豆包与浦东美术馆达成合作",
-          "url": "https://wallstreetcn.com/livenews/3040961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
         }
       ]
     }
