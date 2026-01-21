@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T21:43:51.743269+08:00",
-  "total_titles_processed": 1997,
+  "generated_at": "2026-01-21T22:28:48.190438+08:00",
+  "total_titles_processed": 2087,
   "failed_sources": [],
   "trends": [
     {
@@ -49,22 +49,12 @@
             16,
             9,
             12,
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时42分 ~ 21时43分]"
-        },
-        {
-          "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
-          "url": "https://news.ifeng.com/c/8q5mosOf4dU",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时42分 ~ 19时22分]"
+          "appearance_count": 14,
+          "time_info": "[12时42分 ~ 22时28分]"
         },
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -77,8 +67,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 21时43分]"
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 22时28分]"
+        },
+        {
+          "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
+          "url": "https://news.ifeng.com/c/8q5mosOf4dU",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 19时22分]"
         },
         {
           "title": "疑似AI玩家已确认是BRO Roamer",
@@ -101,8 +102,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 21时43分]"
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 22时28分]"
         },
         {
           "title": "上海中小学开设AI课程",
@@ -135,11 +136,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时43分]"
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时28分]"
         },
         {
           "title": "摩根大通CEO戴蒙：人工智能发展速度对社会来说可能太快了。 我认为我们需要一个更强大的北约。 世界也需要一个更强大的欧洲。 这并非跨大西洋联盟首次出现危机。",
@@ -234,6 +236,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
+          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时28分]"
         },
         {
           "title": "瑞银CEO：人工智能行业不会破产，但一些投资者会遭受损失，尤其是那些进行个股精选的投资者。",
@@ -363,7 +376,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -399,17 +412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
-        },
-        {
-          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         },
         {
           "title": "据华尔街日报：Anthropic首席执行官表示，政府应帮助确保人工智能的经济红利得到共享。",
@@ -506,7 +508,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -624,7 +626,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -754,7 +756,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         }
@@ -804,11 +806,12 @@
             13,
             10,
             7,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时41分 ~ 21时43分]"
+          "appearance_count": 16,
+          "time_info": "[11时41分 ~ 22时28分]"
         }
       ]
     },
