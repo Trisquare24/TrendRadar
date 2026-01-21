@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T18:26:14.161798+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2026-01-21T19:22:34.497071+08:00",
+  "total_titles_processed": 1801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 30,
+      "match_count": 41,
       "titles": [
         {
           "title": "疑似AI玩家确认是Roamer",
@@ -15,11 +15,12 @@
             3,
             1,
             5,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时42分 ~ 18时26分]"
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 19时22分]"
         },
         {
           "title": "【数读2025上海经济年报】GDP增长5.4%，集成电路、人工智能产业表现亮眼",
@@ -46,11 +47,12 @@
             8,
             10,
             16,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时42分 ~ 18时26分]"
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 19时22分]"
         },
         {
           "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
@@ -60,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时42分 ~ 18时26分]"
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 19时22分]"
         },
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -70,11 +72,12 @@
           "ranks": [
             5,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 18时26分]"
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 19时22分]"
         },
         {
           "title": "疑似AI玩家已确认是BRO Roamer",
@@ -99,6 +102,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时32分 ~ 07时20分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
+          "url": "https://www.cls.cn/detail/2265232",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 19时22分]"
         },
         {
           "title": "马斯克高调“复活”特斯拉Dojo3芯片项目，再度剑指“太空AI”！",
@@ -172,17 +187,6 @@
           "time_info": "[11时42分 ~ 12时42分]"
         },
         {
-          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
-          "url": "https://www.cls.cn/detail/2265232",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
           "title": "上海国际学校的孩子都在使用AI",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%AD%A9%E5%AD%90%E9%83%BD%E5%9C%A8%E4%BD%BF%E7%94%A8AI%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -192,6 +196,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
+          "title": "瑞银CEO：人工智能行业不会破产，但一些投资者会遭受损失，尤其是那些进行个股精选的投资者。",
+          "url": "https://flash.jin10.com/detail/20260121185931475800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "可灵AI MAU突破1200万，日均收入较12月提升约30%",
@@ -205,6 +220,17 @@
           "time_info": "14时33分"
         },
         {
+          "title": "英伟达CEO黄仁勋：人工智能将有助于缩小发达经济体与新兴经济体之间的技术鸿沟。",
+          "url": "https://flash.jin10.com/detail/20260121185920177800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "惠誉评级：美国良性信贷背景面临人工智能、消费者和贸易风险。",
           "url": "https://flash.jin10.com/detail/20260121005712780800",
           "source": "金十数据",
@@ -214,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能正在提高生产力，促使各行各业的企业加大招聘力度。",
+          "url": "https://flash.jin10.com/detail/20260121185405679800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "欧洲央行管委帕内塔：各国在人工智能投资方面的差距太大，难以弥补。",
@@ -260,13 +297,24 @@
           "time_info": "00时32分"
         },
         {
+          "title": "志特新材：截至目前，公司业务不涉及AI应用、人工智能、量子科技、机器人及商业航天领域，亦未形成相关收入。自上市以来，公司主营业务为铝模、防护平台、装配式预制件等产品的研发、生产与销售，未发生任何变化。",
+          "url": "https://wallstreetcn.com/livenews/3041233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "Meta首席技术官：超智能实验室已于1月在内部交付了首批关键人工智能模型，新AI模型表现“非常出色”。",
           "url": "https://wallstreetcn.com/livenews/3041173",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -304,15 +352,59 @@
           "time_info": "02时32分"
         },
         {
+          "title": "英伟达CEO黄仁勋：人工智能是人类历史上规模最大的基础设施建设。",
+          "url": "https://flash.jin10.com/detail/20260121184937992800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能是一场“平台变革”。 需要建设数万亿美元规模的基础设施项目。 人工智能产业正在创造就业机会。 GPU租赁服务的现货价格正在上涨。",
+          "url": "https://wallstreetcn.com/livenews/3041219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "沙特初创公司Humain：与Infra宣布达成人工智能和数字融资框架协议，同意探讨设立人工智能数据中心投资平台。",
           "url": "https://flash.jin10.com/detail/20260121175829190800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能产业正在创造就业机会。",
+          "url": "https://flash.jin10.com/detail/20260121184841870800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：能源、半导体及其他人工智能应用领域已在经济上受益。",
+          "url": "https://flash.jin10.com/detail/20260121184659056800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "学科带头人称老师要把AI当成对手",
@@ -326,15 +418,48 @@
           "time_info": "13时27分"
         },
         {
+          "title": "英伟达CEO黄仁勋：人工智能本质上是一个由“五层蛋糕”组成的架构，能够带动经济增长。人工智能的层级包括能源、芯片、基础设施、模型以及人工智能应用。由于跨行业经济效益，人工智能应用是最重要的一层。",
+          "url": "https://flash.jin10.com/detail/20260121184448101800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "马斯克：人工智能是一场超音速海啸。",
           "url": "https://flash.jin10.com/detail/20260121175218510800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：与以往的技术进步相比，人工智能更容易理解。",
+          "url": "https://flash.jin10.com/detail/20260121184354050800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "中国的AI+经济",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%9A%84AI%2B%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "泰国央行行长Vitai：泰国央行近期出手干预以平抑泰铢汇率波动。 泰国央行认为泰铢应随着基本面因素而贬值。 泰国银行未发现异常资本流入。",
@@ -406,7 +531,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -461,7 +586,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -542,7 +667,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -576,8 +701,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时41分 ~ 18时26分]"
+          "appearance_count": 13,
+          "time_info": "[11时41分 ~ 19时22分]"
         }
       ]
     },
