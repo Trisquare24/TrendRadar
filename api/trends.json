@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T01:26:47.820241+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-01-23T02:29:04.993748+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时29分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时29分]"
         },
         {
           "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
@@ -107,11 +108,12 @@
           "url": "https://www.cls.cn/detail/2266790",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时29分]"
         },
         {
           "title": "马斯克：Optimus机器人今年将执行更复杂的任务。",
@@ -200,7 +202,7 @@
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "街霸6阿里克斯角色宣传片",
@@ -208,11 +210,40 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            18
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时29分]"
+        },
+        {
+          "title": "曝阿里旗下芯片公司平头哥拟独立上市",
+          "url": "https://www.toutiao.com/trending/7598116374967225892/",
+          "source": "今日头条",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时26分]"
+          "time_info": "[02时28分 ~ 02时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek Model 1悄然现身",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 02时29分]"
         }
       ]
     },
@@ -228,8 +259,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时29分]"
         }
       ]
     }
