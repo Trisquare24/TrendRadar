@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T09:27:25.241753+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-01-22T11:46:09.326265+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -14,11 +14,27 @@
           "ranks": [
             4,
             5,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 09时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 11时46分]"
+        },
+        {
+          "title": "UP主带你玩转全球顶级AI现场",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            29,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 11时46分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
@@ -33,20 +49,6 @@
           "time_info": "[00时41分 ~ 07时23分]"
         },
         {
-          "title": "UP主带你玩转全球顶级AI现场",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8,
-            29,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 09时27分]"
-        },
-        {
           "title": "咻咻满COS翻唱icantwait",
           "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
           "source": "bilibili 热搜",
@@ -59,8 +61,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 09时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 11时46分]"
         },
         {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
@@ -87,6 +89,40 @@
           "time_info": "[02时38分 ~ 07时23分]"
         },
         {
+          "title": "黄仁勋谈AI如何改变经济",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 11时46分]"
+        },
+        {
+          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
+          "url": "https://www.cls.cn/detail/2265732",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 11时46分]"
+        },
+        {
+          "title": "xAI工程师因泄密被马斯克解雇",
+          "url": "https://search.bilibili.com/all?keyword=xAI%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A7%A3%E9%9B%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 11时46分]"
+        },
+        {
           "title": "白宫披露对AI的研究情况，以及对美国经济影响的研究。",
           "url": "https://wallstreetcn.com/livenews/3041411",
           "source": "华尔街见闻-快讯",
@@ -109,16 +145,39 @@
           "time_info": "04时28分"
         },
         {
-          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
-          "url": "https://www.cls.cn/detail/2265732",
+          "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
+          "url": "https://www.cls.cn/detail/2265674",
           "source": "财联社热门",
           "ranks": [
-            9,
-            3
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 09时27分]"
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 11时46分]"
+        },
+        {
+          "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
+          "url": "https://wallstreetcn.com/articles/3763828",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 11时46分]"
+        },
+        {
+          "title": "黄仁勋：AI机器人是欧洲“一代人难得一遇”的重大机遇",
+          "url": "https://www.cls.cn/detail/2265632",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 11时46分]"
         },
         {
           "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
@@ -179,39 +238,6 @@
           "time_info": "00时41分"
         },
         {
-          "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
-          "url": "https://www.cls.cn/detail/2265674",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
-          "url": "https://wallstreetcn.com/articles/3763828",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "黄仁勋：AI机器人是欧洲“一代人难得一遇”的重大机遇",
-          "url": "https://www.cls.cn/detail/2265632",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
           "title": "美国白宫AI主管David Sacks：美国（各州凳面）“拼凑的”AI制度威胁到创新。 儿童（数据隐私）安全必须是监管框架的一部分。",
           "url": "https://wallstreetcn.com/livenews/3041401",
           "source": "华尔街见闻-快讯",
@@ -221,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "农业农村部：将持续推动人工智能等在农业领域应用",
+          "url": "https://wallstreetcn.com/livenews/3041702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
         },
         {
           "title": "白宫人工智能报告：研究估计人工智能可使GDP增长1%至45%以上。",
@@ -345,6 +382,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "街霸6阿里克斯角色宣传片",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A1%97%E9%9C%B86%E9%98%BF%E9%87%8C%E5%85%8B%E6%96%AF%E8%A7%92%E8%89%B2%E5%AE%A3%E4%BC%A0%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时27分 ~ 11时46分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨约2.2%。 热门中概股里，百度初步收涨8%，世纪互联涨7.4%，万国数据涨6.1%，金山云涨4.6%，文远知行涨4.3%，阿里巴巴涨3.9%，百胜中国涨2.7%，拼多多涨1.4%。 ETF中，CQQQ涨3.4%，ASHS涨2.3%，KWEB涨1.7%。",
           "url": "https://wallstreetcn.com/livenews/3041515",
           "source": "华尔街见闻-快讯",
@@ -354,17 +403,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
-        },
-        {
-          "title": "街霸6阿里克斯角色宣传片",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A1%97%E9%9C%B86%E9%98%BF%E9%87%8C%E5%85%8B%E6%96%AF%E8%A7%92%E8%89%B2%E5%AE%A3%E4%BC%A0%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨2.21%，报7776.15点。 热门中概股里，百度初步收涨8%，世纪互联涨7.4%，万国数据涨6.1%，金山云涨4.6%，文远知行涨4.3%，阿里巴巴涨3.9%，百胜中国涨2.7%，拼多多涨1.4%。 ETF中，中国科技指数ETF（CQQQ）收涨3.40%，中概互联网指数ETF（KWEB）收涨1.74%。 XtrackersHarvest中证50（ASHS）收涨2.06%，德银嘉实沪深300指数ETF（ASHR）收涨0.75%。",
@@ -381,7 +419,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "苹果计划将Siri重塑为内置聊天机器人 或在6月官宣",
@@ -393,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "追觅科技40亿成立两家新公司，含机器人研发业务",
+          "url": "https://wallstreetcn.com/livenews/3041699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时46分"
         },
         {
           "title": "苹果计划下半年将SIRI改造为其首款聊天机器人",
