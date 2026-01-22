@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T07:23:37.149173+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-01-22T09:27:25.241753+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "图灵的猫回应预测韩服AI疑云",
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 09时27分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
@@ -33,6 +33,20 @@
           "time_info": "[00时41分 ~ 07时23分]"
         },
         {
+          "title": "UP主带你玩转全球顶级AI现场",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            29,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 09时27分]"
+        },
+        {
           "title": "咻咻满COS翻唱icantwait",
           "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
           "source": "bilibili 热搜",
@@ -41,11 +55,12 @@
             16,
             13,
             15,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 09时27分]"
         },
         {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
@@ -58,19 +73,6 @@
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时23分]"
-        },
-        {
-          "title": "UP主带你玩转全球顶级AI现场",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
           "time_info": "[00时41分 ~ 07时23分]"
         },
         {
@@ -105,6 +107,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
+          "url": "https://www.cls.cn/detail/2265732",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时27分]"
         },
         {
           "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
@@ -165,15 +179,37 @@
           "time_info": "00时41分"
         },
         {
-          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
-          "url": "https://www.cls.cn/detail/2265732",
+          "title": "黄仁勋放话：AI基建将会让电工、水管工拿六位数年薪",
+          "url": "https://www.cls.cn/detail/2265674",
           "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "09时27分"
+        },
+        {
+          "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
+          "url": "https://wallstreetcn.com/articles/3763828",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "黄仁勋：AI机器人是欧洲“一代人难得一遇”的重大机遇",
+          "url": "https://www.cls.cn/detail/2265632",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "美国白宫AI主管David Sacks：美国（各州凳面）“拼凑的”AI制度威胁到创新。 儿童（数据隐私）安全必须是监管框架的一部分。",
@@ -254,7 +290,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -265,7 +301,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -287,7 +323,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -306,7 +342,7 @@
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨约2.2%。 热门中概股里，百度初步收涨8%，世纪互联涨7.4%，万国数据涨6.1%，金山云涨4.6%，文远知行涨4.3%，阿里巴巴涨3.9%，百胜中国涨2.7%，拼多多涨1.4%。 ETF中，CQQQ涨3.4%，ASHS涨2.3%，KWEB涨1.7%。",
@@ -318,6 +354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "街霸6阿里克斯角色宣传片",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A1%97%E9%9C%B86%E9%98%BF%E9%87%8C%E5%85%8B%E6%96%AF%E8%A7%92%E8%89%B2%E5%AE%A3%E4%BC%A0%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨2.21%，报7776.15点。 热门中概股里，百度初步收涨8%，世纪互联涨7.4%，万国数据涨6.1%，金山云涨4.6%，文远知行涨4.3%，阿里巴巴涨3.9%，百胜中国涨2.7%，拼多多涨1.4%。 ETF中，中国科技指数ETF（CQQQ）收涨3.40%，中概互联网指数ETF（KWEB）收涨1.74%。 XtrackersHarvest中证50（ASHS）收涨2.06%，德银嘉实沪深300指数ETF（ASHR）收涨0.75%。",
@@ -373,11 +420,12 @@
             3,
             12,
             9,
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 09时27分]"
         }
       ]
     }
