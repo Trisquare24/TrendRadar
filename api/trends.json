@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T18:25:13.858027+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2026-01-22T19:21:48.515323+08:00",
+  "total_titles_processed": 1779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
@@ -111,6 +111,20 @@
           "time_info": "[00时41分 ~ 07时23分]"
         },
         {
+          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
+          "url": "https://www.cls.cn/detail/2266084",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时31分 ~ 19时21分]"
+        },
+        {
           "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
           "url": "https://www.cls.cn/detail/2265956",
           "source": "财联社热门",
@@ -137,20 +151,6 @@
           "time_info": "[09时27分 ~ 15时25分]"
         },
         {
-          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
-          "url": "https://www.cls.cn/detail/2266084",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 18时25分]"
-        },
-        {
           "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
           "url": "https://wallstreetcn.com/articles/3763773",
           "source": "华尔街见闻",
@@ -172,6 +172,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时45分 ~ 13时27分]"
+        },
+        {
+          "title": "美光科技(MU.O)盘前股价上涨2.5%，此前William Blair首次给予“跑赢大盘”评级。",
+          "url": "https://flash.jin10.com/detail/20260122191404959800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "黄仁勋：AI机器人是欧洲“一代人难得一遇”的重大机遇",
@@ -231,6 +242,29 @@
           "time_info": "04时28分"
         },
         {
+          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
+          "url": "https://www.cls.cn/detail/2266641",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
+          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
+          "url": "https://wallstreetcn.com/articles/3763860",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 19时21分]"
+        },
+        {
           "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
           "url": "https://www.cls.cn/detail/2265088",
           "source": "财联社热门",
@@ -282,17 +316,6 @@
           "source": "财联社热门",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 17时31分]"
-        },
-        {
-          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
-          "url": "https://wallstreetcn.com/articles/3763860",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -516,7 +539,7 @@
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "街霸6阿里克斯角色宣传片",
@@ -529,11 +552,12 @@
             16,
             13,
             21,
-            30
+            30,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时27分 ~ 18时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时27分 ~ 19时21分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨约2.2%。 热门中概股里，百度初步收涨8%，世纪互联涨7.4%，万国数据涨6.1%，金山云涨4.6%，文远知行涨4.3%，阿里巴巴涨3.9%，百胜中国涨2.7%，拼多多涨1.4%。 ETF中，CQQQ涨3.4%，ASHS涨2.3%，KWEB涨1.7%。",
@@ -589,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
+        },
+        {
+          "title": "巴勒斯坦技术官僚委员会领导人阿里·沙阿斯表示，加沙与埃及的拉法口岸将于下周开放。",
+          "url": "https://flash.jin10.com/detail/20260122185134908800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨2.21%，报7776.15点。 热门中概股里，百度初步收涨8%，世纪互联涨7.4%，万国数据涨6.1%，金山云涨4.6%，文远知行涨4.3%，阿里巴巴涨3.9%，百胜中国涨2.7%，拼多多涨1.4%。 ETF中，中国科技指数ETF（CQQQ）收涨3.40%，中概互联网指数ETF（KWEB）收涨1.74%。 XtrackersHarvest中证50（ASHS）收涨2.06%，德银嘉实沪深300指数ETF（ASHR）收涨0.75%。",
@@ -659,7 +694,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
