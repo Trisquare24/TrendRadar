@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T16:27:10.745334+08:00",
-  "total_titles_processed": 1577,
+  "generated_at": "2026-01-23T17:28:27.328868+08:00",
+  "total_titles_processed": 1676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时24分 ~ 16时27分]"
+          "appearance_count": 13,
+          "time_info": "[09时24分 ~ 17时28分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 16时27分]"
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 17时28分]"
         },
         {
           "title": "英特尔四季度数据中心和AI营收47.4亿美元，预期44.2亿美元。预计一季度营收117亿-127亿美元，分析师预期125.6亿美元。",
@@ -69,6 +69,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "我国人工智能专利有效量全球前列",
+          "url": "https://www.douyin.com/hot/2377329",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-23）",
           "url": "https://flash.jin10.com/detail/20260123120008152800",
           "source": "金十数据",
@@ -78,6 +89,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "AI发展会降低创作者存在意义吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%91%E5%B1%95%E4%BC%9A%E9%99%8D%E4%BD%8E%E5%88%9B%E4%BD%9C%E8%80%85%E5%AD%98%E5%9C%A8%E6%84%8F%E4%B9%89%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 17时28分]"
         },
         {
           "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
@@ -106,15 +129,28 @@
           "time_info": "[11时41分 ~ 13时26分]"
         },
         {
-          "title": "AI发展会降低创作者存在意义吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%91%E5%B1%95%E4%BC%9A%E9%99%8D%E4%BD%8E%E5%88%9B%E4%BD%9C%E8%80%85%E5%AD%98%E5%9C%A8%E6%84%8F%E4%B9%89%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "AI需求爆棚但英特尔产能告急？CEO财报会坦言：我很失望！（附会议实录）",
+          "url": "https://www.cls.cn/detail/2267399",
+          "source": "财联社热门",
           "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时28分]"
+        },
+        {
+          "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
+          "url": "https://www.zhihu.com/question/1997844624513975566",
+          "source": "知乎",
+          "ranks": [
+            14,
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 16时27分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时28分]"
         },
         {
           "title": "AI 将答案、解题思路全喂到孩子嘴边，孩子还会去思考吗？长期用 AI 孩子会变笨吗？",
@@ -129,17 +165,6 @@
           "time_info": "[13时25分 ~ 14时31分]"
         },
         {
-          "title": "AI需求爆棚但英特尔产能告急？CEO财报会坦言：我很失望！（附会议实录）",
-          "url": "https://www.cls.cn/detail/2267399",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
-        },
-        {
           "title": "马斯克声称人工智能到2030-2031年将超越人类",
           "url": "https://flash.jin10.com/detail/20260123023731211800",
           "source": "金十数据",
@@ -150,17 +175,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 04时24分]"
-        },
-        {
-          "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
-          "url": "https://www.zhihu.com/question/1997844624513975566",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "中国变压器掐住全球AI命门",
@@ -262,6 +276,28 @@
           "time_info": "07时19分"
         },
         {
+          "title": "美股盘前，英特尔跌约13%，AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色。",
+          "url": "https://wallstreetcn.com/livenews/3042776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "智谱 AI 因算力告急「限购」GLM 编程计划，暴露出 AI 行业哪些问题？",
+          "url": "https://www.zhihu.com/question/1997433388664131775",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "IMF总裁格奥尔基耶娃：目前尚未看到人工智能存在“类似互联网泡沫的问题”。",
           "url": "https://flash.jin10.com/detail/20260122235753852800",
           "source": "金十数据",
@@ -320,8 +356,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时40分 ~ 16时27分]"
+          "appearance_count": 11,
+          "time_info": "[11时40分 ~ 17时28分]"
         },
         {
           "title": "马斯克突袭达沃斯放预告：人形机器人或于明年年底前开卖",
@@ -463,7 +499,7 @@
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
@@ -495,6 +531,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时32分 ~ 13时26分]"
+        },
+        {
+          "title": "文件显示：1月19日，摩根大通在阿里巴巴(09988.HK)的空头头寸从2.83%增至3.88%。",
+          "url": "https://flash.jin10.com/detail/20260123172403649800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "消息称阿里旗下芯片公司平头哥拟独立上市，可能性有多大？如何解读阿里这一战略部署？",
@@ -556,98 +603,8 @@
       ]
     },
     {
-      "keyword_group": "字节 Kimi 豆包",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "网传腾讯某工区楼下健身房不向员工免费，却对隔壁楼字节员工免费，引发腾讯员工不满，这是怎么回事？",
-          "url": "https://www.zhihu.com/question/1997421644105347588",
-          "source": "知乎",
-          "ranks": [
-            2,
-            5,
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 09时25分]"
-        },
-        {
-          "title": "为什么字节跳动喜欢不安排任务让员工自己探索，然后每周都问一次这周有什么产出？",
-          "url": "https://www.zhihu.com/question/1995860411854123334",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时40分 ~ 16时27分]"
-        },
-        {
-          "title": "TikTok官宣美国方案：两公司共同运营 字节保留算法知识产权",
-          "url": "https://www.cls.cn/detail/2267490",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 16时27分]"
-        },
-        {
-          "title": "TikTok美国方案落地：字节保留算法知识产权，为合资公司最大单一股东",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32447563",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 13时26分]"
-        },
-        {
-          "title": "字节漫剧赛道日耗峰值达到3000万 行业高景气度有望延续",
-          "url": "https://www.cls.cn/detail/2267173",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
-        },
-        {
-          "title": "TikTok官宣美国方案，两公司共同运营，字节保留算法知识产权",
-          "url": "https://flash.jin10.com/detail/20260123084728856800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "TikTok官宣美国方案，两公司共同运营，字节保留算法知识产权",
-          "url": "https://wallstreetcn.com/livenews/3042418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -706,6 +663,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "市场消息：谷歌投资Sakana AI，旨在提升Gemini在日本的业务。",
           "url": "https://flash.jin10.com/detail/20260123150451290800",
           "source": "金十数据",
@@ -715,6 +683,97 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "网传腾讯某工区楼下健身房不向员工免费，却对隔壁楼字节员工免费，引发腾讯员工不满，这是怎么回事？",
+          "url": "https://www.zhihu.com/question/1997421644105347588",
+          "source": "知乎",
+          "ranks": [
+            2,
+            5,
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 09时25分]"
+        },
+        {
+          "title": "为什么字节跳动喜欢不安排任务让员工自己探索，然后每周都问一次这周有什么产出？",
+          "url": "https://www.zhihu.com/question/1995860411854123334",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时40分 ~ 17时28分]"
+        },
+        {
+          "title": "TikTok官宣美国方案：两公司共同运营 字节保留算法知识产权",
+          "url": "https://www.cls.cn/detail/2267490",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 17时28分]"
+        },
+        {
+          "title": "TikTok美国方案落地：字节保留算法知识产权，为合资公司最大单一股东",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32447563",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 13时26分]"
+        },
+        {
+          "title": "字节漫剧赛道日耗峰值达到3000万 行业高景气度有望延续",
+          "url": "https://www.cls.cn/detail/2267173",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
+          "title": "TikTok官宣美国方案，两公司共同运营，字节保留算法知识产权",
+          "url": "https://flash.jin10.com/detail/20260123084728856800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "TikTok官宣美国方案，两公司共同运营，字节保留算法知识产权",
+          "url": "https://wallstreetcn.com/livenews/3042418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         }
       ]
     },
@@ -795,7 +854,7 @@
     },
     {
       "keyword_group": "影视飓风",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "影视飓风Tim挑战雪地生存100小时",
@@ -805,8 +864,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时28分]"
         },
         {
           "title": "影视飓风无尽冬日生存挑战",
@@ -819,6 +878,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时40分 ~ 14时31分]"
+        },
+        {
+          "title": "影视飓风Tim挑战雪地生存100小时",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8ETim%E6%8C%91%E6%88%98%E9%9B%AA%E5%9C%B0%E7%94%9F%E5%AD%98100%E5%B0%8F%E6%97%B6",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     },
