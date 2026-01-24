@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T19:16:16.823272+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-01-24T20:35:58.617500+08:00",
+  "total_titles_processed": 1418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时34分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[12时34分 ~ 20时35分]"
         },
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -58,11 +58,12 @@
             17,
             14,
             13,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时28分 ~ 19时16分]"
+          "appearance_count": 9,
+          "time_info": "[14时28分 ~ 20时35分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -72,11 +73,26 @@
             29,
             4,
             13,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时23分 ~ 19时16分]"
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 20时35分]"
+        },
+        {
+          "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
+          "url": "https://www.cls.cn/detail/2268603",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时23分 ~ 20时35分]"
         },
         {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
@@ -122,18 +138,26 @@
           "time_info": "[14时28分 ~ 17时18分]"
         },
         {
-          "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
-          "url": "https://www.cls.cn/detail/2268603",
-          "source": "财联社热门",
+          "title": "新加坡斥资10亿新元强化AI研究 力推主权AI战略",
+          "url": "https://flash.jin10.com/detail/20260124201216318800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            9,
-            10,
-            11
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时23分 ~ 19时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
+          "title": "荣耀Magic8 RSR销售额刷新纪录",
+          "url": "https://wallstreetcn.com/livenews/3043282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
@@ -144,8 +168,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时23分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[16时23分 ~ 20时35分]"
         },
         {
           "title": "IMF总裁警示AI裁员潮 入门级岗位首当其冲",
@@ -153,11 +177,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时16分]"
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时35分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -198,6 +223,44 @@
           "time_info": "[15时18分 ~ 17时18分]"
         },
         {
+          "title": "最高优惠2500元！上市仅三个月iPhone Air开启苹果史上最大促销",
+          "url": "https://wallstreetcn.com/livenews/3043263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时35分]"
+        },
+        {
+          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
+          "url": "https://wallstreetcn.com/articles/3764072",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时35分]"
+        },
+        {
+          "title": "嘉实基金方晗：2026年权益市场理性偏乐观，聚焦AI应用与内需板块",
+          "url": "https://wallstreetcn.com/livenews/3043261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时35分]"
+        },
+        {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
           "url": "https://wallstreetcn.com/livenews/3043204",
           "source": "华尔街见闻-快讯",
@@ -209,6 +272,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时25分 ~ 13时20分]"
+        },
+        {
+          "title": "EXO退场像AI一样诡异的消失了",
+          "url": "https://s.weibo.com/weibo?q=%23EXO%E9%80%80%E5%9C%BA%E5%83%8FAI%E4%B8%80%E6%A0%B7%E8%AF%A1%E5%BC%82%E7%9A%84%E6%B6%88%E5%A4%B1%E4%BA%86%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时35分]"
         },
         {
           "title": "U23亚洲杯决赛各家AI如何预测",
@@ -233,52 +308,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时34分 ~ 14时28分]"
-        },
-        {
-          "title": "最高优惠2500元！上市仅三个月iPhone Air开启苹果史上最大促销",
-          "url": "https://wallstreetcn.com/livenews/3043263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时16分]"
-        },
-        {
-          "title": "嘉实基金方晗：2026年权益市场理性偏乐观，聚焦AI应用与内需板块",
-          "url": "https://wallstreetcn.com/livenews/3043261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时16分]"
-        },
-        {
-          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
-          "url": "https://wallstreetcn.com/articles/3764072",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
-        },
-        {
-          "title": "EXO退场像AI一样诡异的消失了",
-          "url": "https://s.weibo.com/weibo?q=%23EXO%E9%80%80%E5%9C%BA%E5%83%8FAI%E4%B8%80%E6%A0%B7%E8%AF%A1%E5%BC%82%E7%9A%84%E6%B6%88%E5%A4%B1%E4%BA%86%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
         },
         {
           "title": "Meta暂停青少年群体访问其AI角色。（TechCrunch）",
@@ -340,7 +369,7 @@
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "百度之后又一巨头！阿里据称计划平头哥独立上市，股价盘中大涨超7%",
@@ -388,6 +417,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 09时23分]"
+        },
+        {
+          "title": "“平头哥”单独上市？摩根大通：对“报道时机”惊讶，估值或占阿里市值6-14%",
+          "url": "https://wallstreetcn.com/articles/3764070",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.26%，报7878.38点，本周累计上涨2.05%。 热门中概股里，小鹏初步收跌3.3%，蔚来、文远知行、阿里跌超2%，理想、拼多多、腾讯至多涨0.5%，美团、小麦、新东方至多涨2%。 ETF中，XtrackersHarvest中证50（ASHS）收跌0.24%，中国ETF-iShares MSCI（MCHI）收涨2.58%。 中概互联网指数ETF（KWEB）收涨0.03%，中国科技指数ETF（CQQQ）收涨0.73%。",
@@ -524,8 +564,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时22分 ~ 19时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时22分 ~ 20时35分]"
         },
         {
           "title": "特斯拉计划在德州工厂启动Optimus（擎天柱）人形机器人的训练工作。（Business Insider）",
@@ -533,11 +573,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时16分]"
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时35分]"
         }
       ]
     },
