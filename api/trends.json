@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T05:16:59.597834+08:00",
-  "total_titles_processed": 433,
+  "generated_at": "2026-01-25T06:18:20.860154+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
@@ -38,19 +38,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
           "url": "https://wallstreetcn.com/articles/3764072",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -62,8 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -74,11 +75,12 @@
             14,
             25,
             16,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "荣耀Magic8 RSR销售额刷新纪录",
@@ -88,8 +90,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时18分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -115,8 +117,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 06时18分]"
         }
       ]
     },
@@ -132,8 +134,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时18分]"
         }
       ]
     },
@@ -146,11 +148,12 @@
           "url": "https://wallstreetcn.com/articles/3764070",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时18分]"
         }
       ]
     }
