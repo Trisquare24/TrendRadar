@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T07:17:59.747263+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-01-25T09:43:05.325207+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时43分]"
+        },
+        {
+          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
+          "url": "https://wallstreetcn.com/articles/3764072",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时43分]"
         },
         {
           "title": "中国和东盟专家探讨人工智能发展与治理",
@@ -36,23 +49,12 @@
           "url": "https://flash.jin10.com/detail/20260124215336107800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
-          "url": "https://wallstreetcn.com/articles/3764072",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 09时43分]"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -152,11 +154,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时43分]"
         }
       ]
     }
