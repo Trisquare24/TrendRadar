@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T14:28:49.459337+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-01-25T15:20:26.435979+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 14时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 15时20分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -57,6 +57,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 09时43分]"
+        },
+        {
+          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
+          "url": "https://www.zhihu.com/question/1998457273891120214",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时52分 ~ 15时20分]"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -100,19 +114,6 @@
           "time_info": "[00时21分 ~ 06时18分]"
         },
         {
-          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
-          "url": "https://www.zhihu.com/question/1998457273891120214",
-          "source": "知乎",
-          "ranks": [
-            16,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时52分 ~ 14时28分]"
-        },
-        {
           "title": "iPhone Air官方价格暴跌2000元",
           "url": "https://www.toutiao.com/trending/7598387695761588278/",
           "source": "今日头条",
@@ -136,8 +137,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时50分 ~ 15时20分]"
         },
         {
           "title": "北京市将加强全学段人工智能赋能教育",
@@ -146,11 +147,12 @@
           "ranks": [
             6,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 15时20分]"
         },
         {
           "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
@@ -159,11 +161,12 @@
           "ranks": [
             7,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 15时20分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -178,35 +181,37 @@
           "time_info": "[02时26分 ~ 06时18分]"
         },
         {
-          "title": "AI为何会一本正经“胡说八道”",
-          "url": "https://www.toutiao.com/trending/7599102960605954086/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
           "url": "https://wallstreetcn.com/articles/3764092",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时20分]"
         },
         {
           "title": "如何看待开源项目 vLLM 和 SGLang 团队纷纷创立公司？商业化将给项目和 Infra 行业带来哪些影响？",
           "url": "https://www.zhihu.com/question/1997984039219454411",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            15
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时20分]"
+        },
+        {
+          "title": "AI为何会一本正经“胡说八道”",
+          "url": "https://www.toutiao.com/trending/7599102960605954086/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         }
@@ -271,11 +276,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 14时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 15时20分]"
         }
       ]
     }
