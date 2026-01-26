@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T17:32:23.459699+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-01-26T18:23:58.490219+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
@@ -98,11 +98,12 @@
             5,
             4,
             12,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 17时32分]"
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 18时23分]"
         },
         {
           "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
@@ -118,29 +119,6 @@
           "time_info": "[00时22分 ~ 06时18分]"
         },
         {
-          "title": "银河通用成为2026春晚指定具身大模型机器人",
-          "url": "https://wallstreetcn.com/livenews/3043383",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 05时17分]"
-        },
-        {
-          "title": "【智谱港股飙升13%，冲刺A股IPO】1月26日港股智谱股价再度走强，截至收盘报217港元/股，股价飙升13%。继H股上市后，智谱还将继续在A股“吸金”。近日，中国证监会官网更新了智谱公司的IPO辅导进展信息。根据公告，其辅导机构中金公司已递交了智谱的第三期IPO辅导工作进展情况报告，落款日期为2026年1月15日。这意味着，“大模型第一股”智谱在2026年1月8日完成港股上市后，仍在继续推进其A股上市计划。（21财经）",
-          "url": "https://wallstreetcn.com/livenews/3043872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
           "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
           "url": "https://www.cls.cn/detail/2269386",
           "source": "财联社热门",
@@ -151,8 +129,34 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 17时32分]"
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 18时23分]"
+        },
+        {
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时33分 ~ 18时23分]"
+        },
+        {
+          "title": "银河通用成为2026春晚指定具身大模型机器人",
+          "url": "https://wallstreetcn.com/livenews/3043383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "银河通用成为2026春晚指定具身大模型机器人",
@@ -167,19 +171,6 @@
           "time_info": "[09时43分 ~ 13时31分]"
         },
         {
-          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 17时32分]"
-        },
-        {
           "title": "摩根士丹利称英国受人工智能裁员冲击最重 岗位净流失超过德、日等国",
           "url": "https://wallstreetcn.com/livenews/3043726",
           "source": "华尔街见闻-快讯",
@@ -190,6 +181,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时33分 ~ 15时26分]"
+        },
+        {
+          "title": "【智谱港股飙升13%，冲刺A股IPO】1月26日港股智谱股价再度走强，截至收盘报217港元/股，股价飙升13%。继H股上市后，智谱还将继续在A股“吸金”。近日，中国证监会官网更新了智谱公司的IPO辅导进展信息。根据公告，其辅导机构中金公司已递交了智谱的第三期IPO辅导工作进展情况报告，落款日期为2026年1月15日。这意味着，“大模型第一股”智谱在2026年1月8日完成港股上市后，仍在继续推进其A股上市计划。（21财经）",
+          "url": "https://wallstreetcn.com/livenews/3043872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 18时23分]"
         },
         {
           "title": "人工智能引发的内存短缺迫使汽车制造商重新设计半导体",
@@ -341,11 +344,12 @@
           "url": "https://wallstreetcn.com/livenews/3043875",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 18时23分]"
         },
         {
           "title": "首届特种机器人科产融合大会举办",
@@ -410,7 +414,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         }
