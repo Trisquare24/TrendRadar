@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T12:44:52.395523+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-01-27T13:25:16.218117+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 12时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 13时25分]"
         },
         {
           "title": "阶跃星辰印奇谈AI商业化",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 12时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 13时25分]"
         },
         {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
@@ -43,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 12时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 13时25分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -72,6 +72,17 @@
           "time_info": "[00时31分 ~ 07时20分]"
         },
         {
+          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 13时25分]"
+        },
+        {
           "title": "EDA巨头：AI基建吞噬世界产能 存储芯片紧缺或持续到明年",
           "url": "https://www.cls.cn/detail/2270449",
           "source": "财联社热门",
@@ -84,17 +95,6 @@
           "time_info": "[09时40分 ~ 12时44分]"
         },
         {
-          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 12时44分]"
-        },
-        {
           "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
           "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
           "source": "澎湃新闻",
@@ -103,8 +103,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 12时44分]"
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 13时25分]"
         },
         {
           "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
@@ -115,8 +115,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 12时44分]"
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 13时25分]"
+        },
+        {
+          "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
+          "url": "https://www.zhihu.com/question/1998804557132690728",
+          "source": "知乎",
+          "ranks": [
+            20,
+            12,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 13时25分]"
         },
         {
           "title": "巨额红包“助燃”，机构看好AI应用方向投资机遇",
@@ -128,6 +142,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
+          "url": "https://www.cls.cn/detail/2270597",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 13时25分]"
         },
         {
           "title": "微软发布第二代AI芯片Maia 200 ，希望降低对英伟达的依赖",
@@ -154,29 +181,15 @@
           "time_info": "[02时31分 ~ 03时22分]"
         },
         {
-          "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
-          "url": "https://www.zhihu.com/question/1998804557132690728",
+          "title": "开源 AI 助理 Clawdbot 获 Karpathy 点赞，它究竟是什么，有何亮点？",
+          "url": "https://www.zhihu.com/question/1998931277835941056",
           "source": "知乎",
           "ranks": [
-            20,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 12时44分]"
-        },
-        {
-          "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
-          "url": "https://www.cls.cn/detail/2270597",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时45分 ~ 12时44分]"
+          "time_info": "[12时44分 ~ 13时25分]"
         },
         {
           "title": "马年春联已进入AI时代",
@@ -188,6 +201,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 11时46分]"
+        },
+        {
+          "title": "外网AI视频假如中国替代了美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%BD%91AI%E8%A7%86%E9%A2%91%E5%81%87%E5%A6%82%E4%B8%AD%E5%9B%BD%E6%9B%BF%E4%BB%A3%E4%BA%86%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
         },
         {
           "title": "微软推出最新人工智能芯片，以减少对英伟达的依赖",
@@ -207,18 +231,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "开源 AI 助理 Clawdbot 获 Karpathy 点赞，它究竟是什么，有何亮点？",
-          "url": "https://www.zhihu.com/question/1998931277835941056",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -251,7 +264,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -332,6 +345,45 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "报道称，OpenAI首席信息安全官奈特即将离职。",
+          "url": "https://wallstreetcn.com/livenews/3044468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "全世界用户都在被 ChatGPT「稳稳接住」，为什么它执着于这样讲话？怎么平衡这种人文关怀和用户体验？",
+          "url": "https://www.zhihu.com/question/1997009213193413444",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 13时25分]"
+        },
+        {
+          "title": "微软(MSFT.O)：推出MAIA 200芯片，这是一款基于台积电3纳米工艺打造的AI推理加速器。MAIA 200 将服务于多种人工智能模型，包括来自OpenAI的最新 GPT-5.2 模型。",
+          "url": "https://flash.jin10.com/detail/20260127000150023800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 具身智能",
       "match_count": 2,
       "titles": [
@@ -352,23 +404,6 @@
           "source": "知乎",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "微软(MSFT.O)：推出MAIA 200芯片，这是一款基于台积电3纳米工艺打造的AI推理加速器。MAIA 200 将服务于多种人工智能模型，包括来自OpenAI的最新 GPT-5.2 模型。",
-          "url": "https://flash.jin10.com/detail/20260127000150023800",
-          "source": "金十数据",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
