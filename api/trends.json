@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T19:22:07.483178+08:00",
-  "total_titles_processed": 1778,
+  "generated_at": "2026-01-28T20:43:25.669477+08:00",
+  "total_titles_processed": 1907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -29,11 +29,12 @@
             11,
             6,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时42分 ~ 19时22分]"
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 20时43分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -60,6 +61,21 @@
           "time_info": "[00时28分 ~ 07时20分]"
         },
         {
+          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
+          "url": "https://www.cls.cn/detail/2272163",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时32分 ~ 20时43分]"
+        },
+        {
           "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
           "url": "https://www.cls.cn/detail/2271840",
           "source": "财联社热门",
@@ -71,18 +87,18 @@
           "time_info": "[09时27分 ~ 13时26分]"
         },
         {
-          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
-          "url": "https://www.cls.cn/detail/2272163",
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
           "source": "财联社热门",
           "ranks": [
-            13,
+            11,
             10,
             7,
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时32分 ~ 19时22分]"
+          "appearance_count": 7,
+          "time_info": "[16时28分 ~ 20时43分]"
         },
         {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
@@ -97,20 +113,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时19分 ~ 14时32分]"
-        },
-        {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时28分 ~ 19时22分]"
         },
         {
           "title": "据The Information：Anthropic预计其2025年营收将达550亿美元。到2029年，Anthropic的人工智能模型训练成本将超过1000亿美元。",
@@ -147,6 +149,19 @@
           "time_info": "[17时32分 ~ 18时26分]"
         },
         {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 20时43分]"
+        },
+        {
           "title": "马云：孩子不应和AI比拼计算和记忆",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
           "source": "百度热搜",
@@ -158,27 +173,16 @@
           "time_info": "[12时42分 ~ 15时24分]"
         },
         {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 19时22分]"
-        },
-        {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
           "url": "https://www.cls.cn/detail/2272560",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 20时43分]"
         },
         {
           "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
@@ -245,9 +249,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
+          "url": "https://www.zhihu.com/question/1999415789258826467",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "阿斯麦(ASML.O)首席执行官：这主要基于对人工智能相关需求可持续性的更稳健预期。",
@@ -278,7 +304,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -440,8 +466,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时27分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[09时27分 ~ 20时43分]"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
@@ -671,6 +697,71 @@
       ]
     },
     {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "宇树等机器人企业扎堆上春晚，谁是去年全球出货量第一？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32475040",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时28分 ~ 20时43分]"
+        },
+        {
+          "title": "深圳人形机器人公司众擎机器人完成股改",
+          "url": "https://wallstreetcn.com/livenews/3045488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 18时26分]"
+        },
+        {
+          "title": "刘强东老家“村晚”现机器人舞王",
+          "url": "https://www.toutiao.com/trending/7600286412567674890/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "宇树科技将联名宸境科技发两款机器人，搭载地瓜旭日5芯片方案",
+          "url": "https://wallstreetcn.com/livenews/3045518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "创业板指跌超1%，沪指涨0.17%，深成指跌0.44%，光伏设备、机器人、军工、医疗器械等方向跌幅居前，沪深京三市下跌个股超3600只。",
+          "url": "https://wallstreetcn.com/livenews/3045196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "阿里 Qwen",
       "match_count": 4,
       "titles": [
@@ -719,59 +810,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "宇树等机器人企业扎堆上春晚，谁是去年全球出货量第一？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32475040",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时28分 ~ 19时22分]"
-        },
-        {
-          "title": "深圳人形机器人公司众擎机器人完成股改",
-          "url": "https://wallstreetcn.com/livenews/3045488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时26分]"
-        },
-        {
-          "title": "宇树科技将联名宸境科技发两款机器人，搭载地瓜旭日5芯片方案",
-          "url": "https://wallstreetcn.com/livenews/3045518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "创业板指跌超1%，沪指涨0.17%，深成指跌0.44%，光伏设备、机器人、军工、医疗器械等方向跌幅居前，沪深京三市下跌个股超3600只。",
-          "url": "https://wallstreetcn.com/livenews/3045196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
         }
       ]
     },
