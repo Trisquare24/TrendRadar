@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T16:28:53.879848+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2026-01-28T17:32:25.389048+08:00",
+  "total_titles_processed": 1590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 16时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 17时32分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -57,6 +57,20 @@
           "time_info": "[09时27分 ~ 13时26分]"
         },
         {
+          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
+          "url": "https://www.cls.cn/detail/2272264",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 17时32分]"
+        },
+        {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
           "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
           "source": "澎湃新闻",
@@ -71,20 +85,6 @@
           "time_info": "[07时19分 ~ 14时32分]"
         },
         {
-          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
-          "url": "https://www.cls.cn/detail/2272264",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 16时28分]"
-        },
-        {
           "title": "据The Information：Anthropic预计其2025年营收将达550亿美元。到2029年，Anthropic的人工智能模型训练成本将超过1000亿美元。",
           "url": "https://flash.jin10.com/detail/20260128091951342800",
           "source": "金十数据",
@@ -94,6 +94,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "刘强东在家乡打造了一个AI教室",
+          "url": "https://www.toutiao.com/trending/7600224231955988531/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
+          "url": "https://www.cls.cn/detail/2272163",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 17时32分]"
         },
         {
           "title": "马云：孩子不应和AI比拼计算和记忆",
@@ -107,16 +131,16 @@
           "time_info": "[12时42分 ~ 15时24分]"
         },
         {
-          "title": "马云最新发声：AI时代不要再犹豫用不用AI 而是怎么教孩子用好AI",
-          "url": "https://www.cls.cn/detail/2272163",
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
           "source": "财联社热门",
           "ranks": [
-            13,
+            11,
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 16时28分]"
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时32分]"
         },
         {
           "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
@@ -165,17 +189,6 @@
           "time_info": "00时28分"
         },
         {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
           "title": "阿斯麦(ASML.O)首席执行官：这主要基于对人工智能相关需求可持续性的更稳健预期。",
           "url": "https://flash.jin10.com/detail/20260128140952427800",
           "source": "金十数据",
@@ -204,7 +217,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -218,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "SK海力士：将向人工智能公司投资100亿美元。",
+          "url": "https://flash.jin10.com/detail/20260128165729471800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "北京：2026年拟制定民营经济促进条例、人工智能产业发展条例等",
@@ -253,6 +277,28 @@
           "time_info": "11时43分"
         },
         {
+          "title": "SK海力士：公司正考虑通过AI公司投资美国的创新型企业并与之合作，以与SK集团的关联公司产生协同效应。",
+          "url": "https://flash.jin10.com/detail/20260128165607288800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "SK海力士将以资本投入的方式向人工智能部门投入100亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3045461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "探展CES的50个AI项目",
           "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E5%B1%95CES%E7%9A%8450%E4%B8%AAAI%E9%A1%B9%E7%9B%AE",
           "source": "bilibili 热搜",
@@ -273,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "SK海力士将成立专注于人工智能解决方案的美国子公司。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3045454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "曝iPhone Air 2定制超薄Face ID",
@@ -314,8 +371,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 16时28分]"
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 17时32分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -410,8 +467,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时27分 ~ 16时28分]"
+          "appearance_count": 8,
+          "time_info": "[09时27分 ~ 17时32分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -424,6 +481,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 03时25分]"
+        },
+        {
+          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
+          "url": "https://www.cls.cn/detail/2272037",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 17时32分]"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
@@ -460,17 +528,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 02时35分]"
-        },
-        {
-          "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
-          "url": "https://www.cls.cn/detail/2272037",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 16时28分]"
         },
         {
           "title": "【但斌91亿元的美股持仓出炉 谷歌取代英伟达成第一重仓股】据私募排排网，美国证券交易委员会(SEC)官网披露了但斌掌舵的东方港湾旗下海外基金2025年四季度的美股持仓数据。数据显示，2025年末东方港湾共持有10只美股标的，持股市值合计13.16亿美元，折合人民币超91亿元，相比2025年三季度末约12.92亿美元的持股市值略有增长。四季度，东方港湾清仓了Coinbase、奈飞、AsteraLabs、BitMineImmersionTechnologies、博通、台积电等美股标的。此外，变化较大的是，谷歌取代英伟达，跃升为东方港湾的第一大重仓股。",
@@ -586,6 +643,45 @@
       ]
     },
     {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "深圳人形机器人公司众擎机器人完成股改",
+          "url": "https://wallstreetcn.com/livenews/3045488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "宇树等机器人企业扎堆上春晚，谁是去年全球出货量第一？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32475040",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时32分]"
+        },
+        {
+          "title": "创业板指跌超1%，沪指涨0.17%，深成指跌0.44%，光伏设备、机器人、军工、医疗器械等方向跌幅居前，沪深京三市下跌个股超3600只。",
+          "url": "https://wallstreetcn.com/livenews/3045196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "字节 Kimi 豆包",
       "match_count": 2,
       "titles": [
@@ -614,34 +710,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "宇树等机器人企业扎堆上春晚，谁是去年全球出货量第一？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32475040",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "创业板指跌超1%，沪指涨0.17%，深成指跌0.44%，光伏设备、机器人、军工、医疗器械等方向跌幅居前，沪深京三市下跌个股超3600只。",
-          "url": "https://wallstreetcn.com/livenews/3045196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
         }
       ]
     }
