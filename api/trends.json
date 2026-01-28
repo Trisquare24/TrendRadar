@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T21:46:25.287354+08:00",
-  "total_titles_processed": 2006,
+  "generated_at": "2026-01-28T22:27:48.458336+08:00",
+  "total_titles_processed": 2077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时42分 ~ 21时46分]"
+          "appearance_count": 13,
+          "time_info": "[12时42分 ~ 22时27分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -76,6 +76,20 @@
           "time_info": "[14时32分 ~ 20时43分]"
         },
         {
+          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
+          "url": "https://www.cls.cn/detail/2272316",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 22时27分]"
+        },
+        {
           "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
           "url": "https://www.cls.cn/detail/2271840",
           "source": "财联社热门",
@@ -87,18 +101,18 @@
           "time_info": "[09时27分 ~ 13时26分]"
         },
         {
-          "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
-          "url": "https://www.cls.cn/detail/2272316",
-          "source": "财联社热门",
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            10,
-            7,
-            8
+            27,
+            23,
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 21时46分]"
+          "appearance_count": 7,
+          "time_info": "[18时25分 ~ 22时27分]"
         },
         {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
@@ -113,19 +127,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时19分 ~ 14时32分]"
-        },
-        {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            23,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时25分 ~ 21时46分]"
         },
         {
           "title": "据The Information：Anthropic预计其2025年营收将达550亿美元。到2029年，Anthropic的人工智能模型训练成本将超过1000亿美元。",
@@ -167,11 +168,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 21时46分]"
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 22时27分]"
         },
         {
           "title": "马云：孩子不应和AI比拼计算和记忆",
@@ -192,19 +194,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时46分]"
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时27分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764353",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时27分]"
+        },
+        {
+          "title": "昆仑万维发布Mureka V8音乐大模型",
+          "url": "https://wallstreetcn.com/livenews/3045617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时46分]"
+          "time_info": "[21时46分 ~ 22时27分]"
         },
         {
           "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
@@ -254,17 +269,6 @@
           "time_info": "00时28分"
         },
         {
-          "title": "昆仑万维发布Mureka V8音乐大模型",
-          "url": "https://wallstreetcn.com/livenews/3045617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
-        },
-        {
           "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
           "url": "https://www.zhihu.com/question/1999166962421429182",
           "source": "知乎",
@@ -285,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "刘强东给老家建了间AI教室",
+          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "阿斯麦(ASML.O)首席执行官：这主要基于对人工智能相关需求可持续性的更稳健预期。",
@@ -466,7 +481,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
@@ -478,8 +493,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时27分 ~ 21时46分]"
+          "appearance_count": 15,
+          "time_info": "[09时27分 ~ 22时27分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将推出Ads Decoded播客，旨在让广告主直接与打造 Google Ads 的团队成员建立联系。",
+          "url": "https://flash.jin10.com/detail/20260128220815725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
@@ -724,8 +750,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 21时46分]"
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 22时27分]"
         },
         {
           "title": "深圳人形机器人公司众擎机器人完成股改",
