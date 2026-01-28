@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T07:20:00.991606+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-01-28T09:27:40.722048+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 09时27分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -44,15 +45,38 @@
           "time_info": "[00时28分 ~ 07时20分]"
         },
         {
+          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
+          "url": "https://www.cls.cn/detail/2271840",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "据The Information：Anthropic预计其2025年营收将达550亿美元。到2029年，Anthropic的人工智能模型训练成本将超过1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260128091951342800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
           "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "appearance_count": 3,
+          "time_info": "[07时19分 ~ 09时27分]"
         },
         {
           "title": "荷兰提出银行奖金制度松绑建议的国会议员娜塔莉·范·贝尔克尔（Nathalie van Berkel）：特定IT知识、AI 专家和数据专家的需求日益增长。 如果你想让荷兰保持竞争力，那么银行就需要有能力留住并吸引合适的人才。（彭博）",
@@ -75,12 +99,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "探展CES的50个AI项目",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E5%B1%95CES%E7%9A%8450%E4%B8%AAAI%E9%A1%B9%E7%9B%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "曝iPhone Air 2定制超薄Face ID",
+          "url": "https://www.toutiao.com/trending/7599959760277864511/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -128,6 +174,28 @@
           "time_info": "03时25分"
         },
         {
+          "title": "软银拟向OpenAI追投至多300亿美元",
+          "url": "https://flash.jin10.com/detail/20260128085403401800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "软银正商谈向OpenAI追加投资高达300亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3045072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
           "title": "OpenAI推出面向科学家的全新工具Prism",
           "url": "https://flash.jin10.com/detail/20260128043059691800",
           "source": "金十数据",
@@ -142,7 +210,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -191,6 +259,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 02时35分]"
+        },
+        {
+          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
+          "url": "https://wallstreetcn.com/articles/3764292",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         }
       ]
     },
@@ -204,11 +283,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 09时27分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -216,11 +296,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 09时27分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -233,6 +314,38 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时28分 ~ 07时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Kimi 发布并开源 K2.5 模型，哪些信息值得关注？Agent 集群能力能做哪些任务？",
+          "url": "https://www.zhihu.com/question/1999487395494588876",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            6,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 05时16分]"
+        },
+        {
+          "title": "被马化腾说“极其不安全”，豆包团队回应手机助手遵循了隐私准则",
+          "url": "https://wallstreetcn.com/livenews/3045079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         }
       ]
     },
@@ -250,27 +363,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "字节 Kimi 豆包",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Kimi 发布并开源 K2.5 模型，哪些信息值得关注？Agent 集群能力能做哪些任务？",
-          "url": "https://www.zhihu.com/question/1999487395494588876",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            6,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 05时16分]"
         }
       ]
     }
