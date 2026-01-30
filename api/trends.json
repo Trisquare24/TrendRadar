@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T06:22:41.437303+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-01-31T07:23:07.460766+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时23分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -27,8 +27,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时23分]"
+        },
+        {
+          "title": "市场消息：苹果公司近期又有多名人工智能研究人员和Siri团队高管离职。",
+          "url": "https://flash.jin10.com/detail/20260131025804033800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时30分 ~ 07时23分]"
         },
         {
           "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
@@ -42,18 +54,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时30分 ~ 05时26分]"
-        },
-        {
-          "title": "市场消息：苹果公司近期又有多名人工智能研究人员和Siri团队高管离职。",
-          "url": "https://flash.jin10.com/detail/20260131025804033800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时30分 ~ 06时22分]"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
@@ -74,7 +74,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         }
@@ -93,8 +93,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时30分 ~ 06时22分]"
+          "appearance_count": 5,
+          "time_info": "[03时30分 ~ 07时23分]"
         },
         {
           "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
