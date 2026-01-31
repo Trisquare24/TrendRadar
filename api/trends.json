@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T14:35:48.443819+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-01-31T15:27:02.414969+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,26 @@
           "ranks": [
             23,
             27,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 14时35分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 15时27分]"
+        },
+        {
+          "title": "叫兽易小星报名B站AI大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%AB%E5%85%BD%E6%98%93%E5%B0%8F%E6%98%9F%E6%8A%A5%E5%90%8DB%E7%AB%99AI%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            1,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时03分 ~ 15时27分]"
         },
         {
           "title": "市场消息：苹果公司近期又有多名人工智能研究人员和Siri团队高管离职。",
@@ -44,19 +59,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时30分 ~ 09时44分]"
-        },
-        {
-          "title": "叫兽易小星报名B站AI大赛",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%AB%E5%85%BD%E6%98%93%E5%B0%8F%E6%98%9F%E6%8A%A5%E5%90%8DB%E7%AB%99AI%E5%A4%A7%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 14时35分]"
         },
         {
           "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
@@ -77,11 +79,24 @@
           "source": "金十数据",
           "ranks": [
             6,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 15时27分]"
+        },
+        {
+          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
+          "url": "https://www.cls.cn/detail/2275533",
+          "source": "财联社热门",
+          "ranks": [
+            11,
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 15时27分]"
         },
         {
           "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
@@ -94,17 +109,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时31分]"
-        },
-        {
-          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
-          "url": "https://www.cls.cn/detail/2275533",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         },
         {
           "title": "豪掷百亿押宝AI 特斯拉没心思造车了",
@@ -189,11 +193,12 @@
             9,
             16,
             21,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 14时35分]"
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 15时27分]"
         }
       ]
     },
