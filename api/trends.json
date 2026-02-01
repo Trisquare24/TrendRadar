@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T05:21:45.325031+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-02-02T06:21:46.903371+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
@@ -28,30 +28,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "优必选开源具身智能大模型Thinker，为工业人形机器人提供下一代“大脑”",
           "url": "https://wallstreetcn.com/livenews/3047809",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
           "url": "https://wallstreetcn.com/livenews/3047799",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时21分]"
         }
       ]
     },
@@ -67,19 +69,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
           "url": "https://wallstreetcn.com/livenews/3047808",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时21分]"
         }
       ]
     },
@@ -95,8 +98,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时21分]"
         }
       ]
     },
@@ -113,8 +116,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时21分]"
         }
       ]
     },
@@ -133,8 +136,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时21分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时21分]"
         }
       ]
     }
