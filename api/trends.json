@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T20:54:12.595482+08:00",
-  "total_titles_processed": 1751,
+  "generated_at": "2026-02-03T22:03:38.664523+08:00",
+  "total_titles_processed": 1869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
@@ -34,8 +34,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时54分 ~ 20时54分]"
+          "appearance_count": 16,
+          "time_info": "[09时54分 ~ 22时03分]"
         },
         {
           "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
@@ -60,8 +60,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时13分 ~ 20时54分]"
+          "appearance_count": 15,
+          "time_info": "[12时13分 ~ 22时03分]"
         },
         {
           "title": "SpaceX官宣收购xAI",
@@ -109,6 +109,19 @@
           "time_info": "[09时54分 ~ 16时34分]"
         },
         {
+          "title": "春节为何成为AI红包主战场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时37分 ~ 22时03分]"
+        },
+        {
           "title": "王楚然工作室AI剧宣",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%B7%A5%E4%BD%9C%E5%AE%A4AI%E5%89%A7%E5%AE%A3%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -120,19 +133,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时33分 ~ 18时37分]"
-        },
-        {
-          "title": "春节为何成为AI红包主战场",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时37分 ~ 20时54分]"
         },
         {
           "title": "韩国股市强劲反弹 AI芯片需求推动科技巨头领涨",
@@ -152,7 +152,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -166,6 +166,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
+          "url": "https://www.cls.cn/detail/2279188",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时37分 ~ 22时03分]"
         },
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
@@ -227,16 +240,15 @@
           "time_info": "[13时48分 ~ 14时46分]"
         },
         {
-          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
-          "url": "https://www.cls.cn/detail/2279188",
-          "source": "财联社热门",
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            8
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时37分 ~ 20时54分]"
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 22时03分]"
         },
         {
           "title": "中央一号文件：促进人工智能与农业发展相结合，拓展无人机、物联网、机器人等应用场景，加快农业生物制造关键技术创新",
@@ -263,17 +275,6 @@
           "time_info": "[13时48分 ~ 14时46分]"
         },
         {
-          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
-        },
-        {
           "title": "汇丰：AI投资收益更利好股票而非信贷",
           "url": "https://flash.jin10.com/detail/20260203181313892800",
           "source": "金十数据",
@@ -296,6 +297,28 @@
           "time_info": "13时48分"
         },
         {
+          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
+          "url": "https://www.cls.cn/detail/2279363",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "腾讯元宝澄清：不存在“静默监控”、“默认开启AI”、“自动举报”情况",
+          "url": "https://wallstreetcn.com/livenews/3049154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "AI 社交平台 Moltbook 火了，多张截图疑有猫腻，有多少炒作成分？对行业的实际影响有多大？",
           "url": "https://www.zhihu.com/question/2001346637126136295",
           "source": "知乎",
@@ -305,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
+        },
+        {
+          "title": "腾讯推出社交 AI 「元宝派」，它的用处有哪些？会重塑线上社交习惯吗？",
+          "url": "https://www.zhihu.com/question/1999077818584228918",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美股太空公司股价盘前上涨，此前SpaceX确认与xAI合并。维珍银河上涨1.7%，行星实验室上涨3.1%，直觉机器上涨2.4%，旅行者科技上涨2.7%。",
@@ -329,6 +363,17 @@
           "time_info": "12时14分"
         },
         {
+          "title": "美联储理事米兰：美联储应适应人工智能驱动的劳动力市场转型。 美联储货币政策过于紧缩。 没有监管改革，就无法缩减资产负债表。",
+          "url": "https://wallstreetcn.com/livenews/3049136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "SpaceX与xAI关于合并的声明并不包含财务条款。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3048556",
           "source": "华尔街见闻-快讯",
@@ -338,6 +383,144 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "红包老奶大战机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E5%8C%85%E8%80%81%E5%A5%B6%E5%A4%A7%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            10,
+            8,
+            25,
+            19,
+            23,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 22时03分]"
+        },
+        {
+          "title": "北京人形机器人创新中心完成首轮市场化融资 超7亿元",
+          "url": "https://wallstreetcn.com/livenews/3049001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
+          "title": "智元机器人等在上海成立觅蜂具身智能科技公司，注册资本500万",
+          "url": "https://wallstreetcn.com/livenews/3048917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 16时34分]"
+        },
+        {
+          "title": "能生长能上天的中国机器人来了",
+          "url": "https://www.baidu.com/s?wd=%E8%83%BD%E7%94%9F%E9%95%BF%E8%83%BD%E4%B8%8A%E5%A4%A9%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时37分]"
+        },
+        {
+          "title": "A股机器人概念股震荡走强，晋拓股份午后涨停，思看科技、科达制造、丰立智能、长盈精密、联得装备等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3048828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 14时46分]"
+        },
+        {
+          "title": "智元机器人：不参加春晚，研发优先",
+          "url": "https://wallstreetcn.com/livenews/3048468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 02时39分]"
+        },
+        {
+          "title": "工信部：推动6G、量子科技、生物制造、氢能、脑机接口、具身智能等领域攻关突破",
+          "url": "https://wallstreetcn.com/livenews/3049163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "北京人形机器人创新中心完成首轮超7亿元市场化融资",
+          "url": "https://wallstreetcn.com/livenews/3048792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
+          "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
+          "url": "https://www.zhihu.com/question/2001257534565150999",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "中科慧灵携手光大同创、迪洛斯智能推进人形机器人规模化量产",
+          "url": "https://wallstreetcn.com/livenews/3048802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "智元机器人放弃春晚，宣布自筹“机器人奇妙夜”晚会",
+          "url": "https://wallstreetcn.com/livenews/3048967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         }
       ]
     },
@@ -443,122 +626,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "红包老奶大战机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E5%8C%85%E8%80%81%E5%A5%B6%E5%A4%A7%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            10,
-            8,
-            25,
-            19,
-            23,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时36分 ~ 20时54分]"
-        },
-        {
-          "title": "北京人形机器人创新中心完成首轮市场化融资 超7亿元",
-          "url": "https://wallstreetcn.com/livenews/3049001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        },
-        {
-          "title": "智元机器人等在上海成立觅蜂具身智能科技公司，注册资本500万",
-          "url": "https://wallstreetcn.com/livenews/3048917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 16时34分]"
-        },
-        {
-          "title": "能生长能上天的中国机器人来了",
-          "url": "https://www.baidu.com/s?wd=%E8%83%BD%E7%94%9F%E9%95%BF%E8%83%BD%E4%B8%8A%E5%A4%A9%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时37分]"
-        },
-        {
-          "title": "A股机器人概念股震荡走强，晋拓股份午后涨停，思看科技、科达制造、丰立智能、长盈精密、联得装备等涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3048828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时48分 ~ 14时46分]"
-        },
-        {
-          "title": "智元机器人：不参加春晚，研发优先",
-          "url": "https://wallstreetcn.com/livenews/3048468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时39分]"
-        },
-        {
-          "title": "北京人形机器人创新中心完成首轮超7亿元市场化融资",
-          "url": "https://wallstreetcn.com/livenews/3048792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "中科慧灵携手光大同创、迪洛斯智能推进人形机器人规模化量产",
-          "url": "https://wallstreetcn.com/livenews/3048802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "智元机器人放弃春晚，宣布自筹“机器人奇妙夜”晚会",
-          "url": "https://wallstreetcn.com/livenews/3048967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
         }
       ]
     },
