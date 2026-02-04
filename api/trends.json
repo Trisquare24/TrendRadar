@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T02:44:33.615564+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-02-05T03:37:44.522076+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时37分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时37分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -37,11 +37,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时37分]"
         },
         {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
@@ -53,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时37分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -64,8 +65,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时37分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -75,8 +76,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 02时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 03时37分]"
         },
         {
           "title": "市场消息：人工智能芯片制造商Cerebras Systems以230亿美元的估值完成10亿美元的H轮融资。",
@@ -122,11 +123,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%A8%E6%BC%94%E7%A2%B0%E5%80%92%E8%80%81%E4%BA%BA+%E5%8F%8C%E5%8F%8C%E5%80%92%E5%9C%B0%E4%B8%8D%E8%B5%B7",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时37分]"
         },
         {
           "title": "人形机器人表演碰到老人 双双倒地",
@@ -170,7 +172,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
         }
