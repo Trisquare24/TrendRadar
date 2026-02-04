@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T13:46:02.972998+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-02-04T14:46:35.780479+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 07时26分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 14时46分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -80,17 +91,6 @@
           "time_info": "[00时50分 ~ 07时26分]"
         },
         {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 13时46分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
           "url": "https://www.cls.cn/detail/2279710",
           "source": "财联社热门",
@@ -99,8 +99,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时26分 ~ 13时46分]"
+          "appearance_count": 7,
+          "time_info": "[07时26分 ~ 14时46分]"
         },
         {
           "title": "一号文件提人工智能与农业发展结合",
@@ -167,6 +167,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 14时46分]"
         },
         {
           "title": "创业板指跌超1%，沪指跌0.07%，深成指跌0.45%，半导体芯片、白酒、AI应用等方向跌幅居前，沪深京三市下跌个股近2800只。",
@@ -240,6 +252,18 @@
           "time_info": "[12时09分 ~ 13时46分]"
         },
         {
+          "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
+          "url": "https://www.cls.cn/detail/2279757",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 14时46分]"
+        },
+        {
           "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
           "url": "https://wallstreetcn.com/livenews/3049304",
           "source": "华尔街见闻-快讯",
@@ -250,28 +274,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时32分]"
-        },
-        {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
-        },
-        {
-          "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
-          "url": "https://www.cls.cn/detail/2279757",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
         },
         {
           "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
@@ -306,6 +308,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "AI自动化浪潮席卷软件行业 亚洲软件股巨头遭遇估值重创",
@@ -501,6 +514,18 @@
       "match_count": 23,
       "titles": [
         {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 14时46分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
           "url": "https://flash.jin10.com/detail/20260204013101107800",
           "source": "金十数据",
@@ -534,18 +559,6 @@
           "time_info": "01时51分"
         },
         {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 13时46分]"
-        },
-        {
           "title": "OpenAI：ChatGPT部分用户在加载或开始对话时可能会遇到问题。",
           "url": "https://flash.jin10.com/detail/20260204115113569800",
           "source": "金十数据",
@@ -557,24 +570,13 @@
           "time_info": "12时10分"
         },
         {
-          "title": "OpenAI：GPT-5.2/Codex模型的速度现已提升40%",
-          "url": "https://wallstreetcn.com/livenews/3049580",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
           "title": "OpenAI：GPT-5.2/Codex模型的速度已提升40%",
           "url": "https://flash.jin10.com/detail/20260204131636619800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
@@ -589,6 +591,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 04时33分]"
+        },
+        {
+          "title": "OpenAI：GPT-5.2/Codex模型的速度现已提升40%",
+          "url": "https://wallstreetcn.com/livenews/3049580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 14时46分]"
         },
         {
           "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
@@ -847,6 +861,92 @@
       ]
     },
     {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
+          "url": "https://www.zhihu.com/question/2001257534565150999",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            7,
+            6,
+            11,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 13时46分]"
+        },
+        {
+          "title": "红包老奶大战机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E5%8C%85%E8%80%81%E5%A5%B6%E5%A4%A7%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            25,
+            23,
+            26,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 07时26分]"
+        },
+        {
+          "title": "半导体设备&机器人明星股绩后再创新高 财报全面碾压预期",
+          "url": "https://www.cls.cn/detail/2279679",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 14时46分]"
+        },
+        {
+          "title": "无人机和机器人首次写入中央一号文件",
+          "url": "https://www.toutiao.com/trending/7602599138480111652/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 04时33分]"
+        },
+        {
+          "title": "越疆第三批全尺寸工业人形机器人量产交付",
+          "url": "https://wallstreetcn.com/livenews/3049576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 14时46分]"
+        },
+        {
+          "title": "原力无限发布首款消费级具身智能新品",
+          "url": "https://wallstreetcn.com/livenews/3049588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
@@ -860,8 +960,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时50分 ~ 13时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时50分 ~ 14时46分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -907,80 +1007,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
-          "url": "https://www.zhihu.com/question/2001257534565150999",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            7,
-            6,
-            11,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时50分 ~ 13时46分]"
-        },
-        {
-          "title": "红包老奶大战机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E5%8C%85%E8%80%81%E5%A5%B6%E5%A4%A7%E6%88%98%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            25,
-            23,
-            26,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 07时26分]"
-        },
-        {
-          "title": "半导体设备&机器人明星股绩后再创新高 财报全面碾压预期",
-          "url": "https://www.cls.cn/detail/2279679",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 13时46分]"
-        },
-        {
-          "title": "无人机和机器人首次写入中央一号文件",
-          "url": "https://www.toutiao.com/trending/7602599138480111652/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 04时33分]"
-        },
-        {
-          "title": "越疆第三批全尺寸工业人形机器人量产交付",
-          "url": "https://wallstreetcn.com/livenews/3049576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
         }
       ]
     }
