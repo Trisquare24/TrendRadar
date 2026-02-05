@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T17:41:22.939545+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2026-02-05T18:38:20.417722+08:00",
+  "total_titles_processed": 1646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时24分 ~ 17时41分]"
+          "appearance_count": 12,
+          "time_info": "[07时24分 ~ 18时38分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时43分 ~ 17时41分]"
+          "appearance_count": 20,
+          "time_info": "[00时43分 ~ 18时38分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -121,8 +121,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时48分 ~ 17时41分]"
+          "appearance_count": 5,
+          "time_info": "[15时48分 ~ 18时38分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-05）",
@@ -136,17 +136,6 @@
           "time_info": "12时12分"
         },
         {
-          "title": "腾讯游戏发布寒假限玩日历，推出3款AI工具降低家长管控门槛",
-          "url": "https://wallstreetcn.com/livenews/3050550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
           "title": "Arm控股CEO：AI软件抛售是一个“微观的歇斯底里”（Micro hysteria）。",
           "url": "https://wallstreetcn.com/livenews/3050122",
           "source": "华尔街见闻-快讯",
@@ -157,6 +146,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时25分]"
+        },
+        {
+          "title": "腾讯游戏发布寒假限玩日历，推出3款AI工具降低家长管控门槛",
+          "url": "https://wallstreetcn.com/livenews/3050550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 18时38分]"
         },
         {
           "title": "Alphabet(GOOG.O)CEO皮查伊：自AI模式推出以来，观察到每位用户的每日AI模式查询量翻倍。",
@@ -239,6 +240,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "如何评价李开复「AI 领域里手机是绝对错误的设备」的观点？为何他不看好 AI 手机？",
+          "url": "https://www.zhihu.com/question/2002683972233159732",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "特斯拉AI总监：自动驾驶只需摄像头",
           "url": "https://www.toutiao.com/trending/7602861709359087667/",
           "source": "今日头条",
@@ -256,7 +268,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -322,7 +334,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -374,8 +386,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时50分 ~ 17时41分]"
+          "appearance_count": 10,
+          "time_info": "[09时50分 ~ 18时38分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -400,8 +412,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时54分 ~ 17时41分]"
+          "appearance_count": 8,
+          "time_info": "[13时54分 ~ 18时38分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -424,6 +436,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时48分 ~ 18时38分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -500,17 +523,6 @@
           "time_info": "[05时31分 ~ 06时24分]"
         },
         {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时48分 ~ 17时41分]"
-        },
-        {
           "title": "谷歌营收业绩超预期，2026年资本开支超预期",
           "url": "https://wallstreetcn.com/livenews/3050103",
           "source": "华尔街见闻-快讯",
@@ -560,6 +572,18 @@
           "time_info": "[01时43分 ~ 02时44分]"
         },
         {
+          "title": "明星科技股美股盘前涨跌不一，英伟达涨超1%；谷歌跌超1%，Q4云收入猛增48%，今年支出指引接近翻倍大超预期；存储板块反弹，闪迪涨超3%，美光科技涨近2%，博通涨超5%；高通跌超11%，公司二季度营收指引不及市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3050540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 18时38分]"
+        },
+        {
           "title": "谷歌(GOOG.O)美股盘后跌超6%。",
           "url": "https://flash.jin10.com/detail/20260205050408864800",
           "source": "金十数据",
@@ -607,17 +631,6 @@
           "time_info": "07时25分"
         },
         {
-          "title": "明星科技股美股盘前涨跌不一，英伟达涨超1%；谷歌跌超1%，Q4云收入猛增48%，今年支出指引接近翻倍大超预期；存储板块反弹，闪迪涨超3%，美光科技涨近2%，博通涨超5%；高通跌超11%，公司二季度营收指引不及市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3050540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
-        },
-        {
           "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
           "url": "https://wallstreetcn.com/livenews/3050124",
           "source": "华尔街见闻-快讯",
@@ -643,7 +656,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "机器人表演碰倒老人 双双倒地不起",
@@ -662,6 +675,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时43分 ~ 14时56分]"
+        },
+        {
+          "title": "凯龙高科：公司布局具身智能赛道，目前推出的“惠灵嘉”系列机器人和灵巧手操作力智能检测设备等产品仍处于市场开拓阶段，截至目前尚未有收入确认，不会对公司经营业绩产生重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3050584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "19990美元起！贾跃亭发布人形机器人",
@@ -734,6 +758,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "机器人在舞台上晕倒 撒贝宁：它碰瓷",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E8%88%9E%E5%8F%B0%E4%B8%8A%E6%99%95%E5%80%92+%E6%92%92%E8%B4%9D%E5%AE%81%EF%BC%9A%E5%AE%83%E7%A2%B0%E7%93%B7",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "贾跃亭发布人形机器人 19990美元起",
           "url": "https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%8F%91%E5%B8%83%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA+19990%E7%BE%8E%E5%85%83%E8%B5%B7",
           "source": "百度热搜",
@@ -780,11 +815,12 @@
             26,
             17,
             18,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时55分 ~ 17时41分]"
+          "appearance_count": 7,
+          "time_info": "[14时55分 ~ 18时38分]"
         },
         {
           "title": "马云深夜现身阿里总部",
@@ -812,8 +848,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时48分 ~ 17时41分]"
+          "appearance_count": 5,
+          "time_info": "[15时48分 ~ 18时38分]"
         }
       ]
     },
