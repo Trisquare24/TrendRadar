@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T15:44:47.731019+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-02-06T16:38:44.217629+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时44分 ~ 15时44分]"
+          "appearance_count": 19,
+          "time_info": "[00时44分 ~ 16时38分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -77,11 +77,12 @@
           "url": "https://www.cls.cn/detail/2282565",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 15时44分]"
+          "appearance_count": 5,
+          "time_info": "[13时51分 ~ 16时38分]"
         },
         {
           "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
@@ -372,8 +373,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 15时44分]"
+          "appearance_count": 5,
+          "time_info": "[13时51分 ~ 16时38分]"
+        },
+        {
+          "title": "阿里千问奶茶红包分享链接被微信屏蔽，如何评价千问、元宝营销模式的异同？",
+          "url": "https://www.zhihu.com/question/2003039884005302416",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 16时38分]"
         },
         {
           "title": "阿里千问红包分享链接被微信屏蔽",
@@ -396,17 +409,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
-        },
-        {
-          "title": "阿里千问奶茶红包分享链接被微信屏蔽，如何评价千问、元宝营销模式的异同？",
-          "url": "https://www.zhihu.com/question/2003039884005302416",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
         },
         {
           "title": "阿里千问红包分享链接被微信屏蔽",
@@ -550,8 +552,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时12分 ~ 15时44分]"
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 16时38分]"
         },
         {
           "title": "2月6日午间收评：创业板指低开高走涨0.65%，化工、机器人概念股集体走强",
@@ -637,8 +639,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 15时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 16时38分]"
         }
       ]
     }
