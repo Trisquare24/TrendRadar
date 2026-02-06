@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T13:52:10.385656+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-02-06T14:51:41.119881+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -29,8 +29,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 13时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时44分 ~ 14时51分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -68,8 +68,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 13时52分]"
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 14时51分]"
+        },
+        {
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 14时51分]"
         },
         {
           "title": "唐宫奇案剧宣闯入ai赛道",
@@ -86,15 +97,16 @@
           "time_info": "[06时24分 ~ 13时52分]"
         },
         {
-          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
-          "url": "https://www.cls.cn/detail/2282565",
+          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
+          "url": "https://www.cls.cn/detail/2282228",
           "source": "财联社热门",
           "ranks": [
-            3
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 14时51分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -106,18 +118,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
-          "url": "https://www.cls.cn/detail/2282228",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 13时52分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-06）",
@@ -268,6 +268,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "十大奶咖品牌求AI翻牌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%A4%A7%E5%A5%B6%E5%92%96%E5%93%81%E7%89%8C%E6%B1%82AI%E7%BF%BB%E7%89%8C%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "加拿大央行行长麦克勒姆：人工智能带来的生产率提升意味着加拿大经济可以在不增加通胀压力的情况下实现更强劲的增长。",
           "url": "https://flash.jin10.com/detail/20260206021740650800",
           "source": "金十数据",
@@ -290,15 +301,37 @@
           "time_info": "07时24分"
         },
         {
+          "title": "市场监管总局公布五起人工智能领域不正当竞争典型案例",
+          "url": "https://wallstreetcn.com/livenews/3051158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "中方代表：军事领域人工智能应用事关全人类共同未来",
           "url": "https://wallstreetcn.com/livenews/3051103",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        },
+        {
+          "title": "黑石敲定五十亿澳元贷款协议 支持澳大利亚初创公司扩建AI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3051140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         }
       ]
     },
@@ -306,17 +339,6 @@
       "keyword_group": "阿里 Qwen",
       "match_count": 8,
       "titles": [
-        {
-          "title": "阿里千问回应免费奶茶活动",
-          "url": "https://www.toutiao.com/trending/7603236497952706102/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
-        },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，叮咚买菜初步收跌15%，阿特斯太阳能跌8.4%，阿里、新东方跌1%，小米、理想、美团则涨超2%，文远知行涨3.6%，百胜中国涨4.6%，蔚来涨6%。 ETF中，ASHS跌1.7%，ASHR跌0.8%，CQQQ跌0.8%，KWEB跌0.1%。",
           "url": "https://wallstreetcn.com/livenews/3050883",
@@ -329,15 +351,28 @@
           "time_info": "05时25分"
         },
         {
+          "title": "阿里千问回应免费奶茶活动",
+          "url": "https://www.toutiao.com/trending/7603236497952706102/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 14时51分]"
+        },
+        {
           "title": "2 月 6 日阿里千问上线「春节 30 亿免单」活动，你体验了么？如何评价？",
           "url": "https://www.zhihu.com/question/2003050695138439235",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 14时51分]"
         },
         {
           "title": "阿里千问红包分享链接被微信屏蔽",
@@ -475,6 +510,72 @@
       ]
     },
     {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "宇树机器人在 -47.4°C 阿勒泰自主行走 13 万步，实现了哪些突破？极寒环境对人形机器人有哪些挑战？",
+          "url": "https://www.zhihu.com/question/2002420086112217076",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            8,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 07时24分]"
+        },
+        {
+          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 14时51分]"
+        },
+        {
+          "title": "2月6日午间收评：创业板指低开高走涨0.65%，化工、机器人概念股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3051085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "智元机器人放弃春晚，自筹\"机器人奇妙夜\"晚会发布节目单",
+          "url": "https://wallstreetcn.com/livenews/3051160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "理想新L9 Livis亮相，定位具身智能机器人",
+          "url": "https://wallstreetcn.com/livenews/3051061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -523,62 +624,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 13时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "宇树机器人在 -47.4°C 阿勒泰自主行走 13 万步，实现了哪些突破？极寒环境对人形机器人有哪些挑战？",
-          "url": "https://www.zhihu.com/question/2002420086112217076",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            8,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 07时24分]"
-        },
-        {
-          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 13时52分]"
-        },
-        {
-          "title": "2月6日午间收评：创业板指低开高走涨0.65%，化工、机器人概念股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3051085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "理想新L9 Livis亮相，定位具身智能机器人",
-          "url": "https://wallstreetcn.com/livenews/3051061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 14时51分]"
         }
       ]
     }
