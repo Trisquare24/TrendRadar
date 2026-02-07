@@ -1,23 +1,39 @@
 {
-  "generated_at": "2026-02-07T09:46:44.528601+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-02-07T12:06:49.485406+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
+          "url": "https://wallstreetcn.com/articles/3765130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 12时06分]"
+        },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
           "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
           "source": "澎湃新闻",
           "ranks": [
             17,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时06分]"
         },
         {
           "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
@@ -54,20 +70,6 @@
           "time_info": "[04时31分 ~ 07时22分]"
         },
         {
-          "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
-          "url": "https://wallstreetcn.com/articles/3765130",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 09时46分]"
-        },
-        {
           "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
           "url": "https://www.cls.cn/detail/2283020",
           "source": "财联社热门",
@@ -91,6 +93,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "全球首个南海海-气双向耦合智能大模型发布，台风预报更精准",
+          "url": "https://wallstreetcn.com/livenews/3051682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
           "url": "https://www.cls.cn/detail/2282989",
           "source": "财联社热门",
@@ -100,28 +113,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时40分 ~ 03时36分]"
-        },
-        {
-          "title": "存储芯片概念股指数收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
-          "url": "https://wallstreetcn.com/livenews/3051663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "我国首次明确培育三类数据流通服务机构，助力“人工智能+”行动",
-          "url": "https://wallstreetcn.com/livenews/3051662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
         },
         {
           "title": "UP主们用AI办了场春晚",
@@ -136,6 +127,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时40分 ~ 03时36分]"
+        },
+        {
+          "title": "存储芯片概念股指数收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
+          "url": "https://wallstreetcn.com/livenews/3051663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 12时06分]"
+        },
+        {
+          "title": "我国首次明确培育三类数据流通服务机构，助力“人工智能+”行动",
+          "url": "https://wallstreetcn.com/livenews/3051662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 12时06分]"
         },
         {
           "title": "AI 能救得了 SaaS 么？",
@@ -185,6 +200,17 @@
           "time_info": "[00时41分 ~ 01时39分]"
         },
         {
+          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
+          "url": "https://www.cls.cn/detail/2283577",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 12时06分]"
+        },
+        {
           "title": "报道：苹果车载迎来战略转变，计划开放第三方语音AI助手",
           "url": "https://wallstreetcn.com/livenews/3051609",
           "source": "华尔街见闻-快讯",
@@ -209,15 +235,37 @@
           "time_info": "[06时20分 ~ 07时22分]"
         },
         {
-          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
-          "url": "https://www.cls.cn/detail/2283577",
-          "source": "财联社热门",
+          "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
+          "url": "https://wallstreetcn.com/livenews/3051672",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "12时06分"
+        },
+        {
+          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
+          "url": "https://www.cls.cn/detail/2283350",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
+          "url": "https://www.cls.cn/detail/2283603",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "Gen Digital首席执行官：在人工智能威胁之下，消费者既需要网络安全工具，也需要个人理财工具。",
@@ -240,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "全新QQ用AI重塑小车之王",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0QQ%E7%94%A8AI%E9%87%8D%E5%A1%91%E5%B0%8F%E8%BD%A6%E4%B9%8B%E7%8E%8B%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "美联储副主席杰斐逊：无法说明当前生产率中有多少可归因于人工智能。",
@@ -292,6 +351,18 @@
           "time_info": "01时39分"
         },
         {
+          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
+          "url": "https://wallstreetcn.com/articles/3765171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 12时06分]"
+        },
+        {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3051561",
           "source": "华尔街见闻-快讯",
@@ -302,17 +373,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 02时44分]"
-        },
-        {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
         },
         {
           "title": "英伟达CEO黄仁勋：与OpenAI并无矛盾。他们需要我公司的新一代芯片。",
@@ -436,11 +496,12 @@
           "url": "https://wallstreetcn.com/livenews/3051649",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 12时06分]"
         },
         {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
@@ -506,6 +567,18 @@
           "time_info": "[02时44分 ~ 04时31分]"
         },
         {
+          "title": "腾讯阿里市值蒸发千亿 谁是背锅侠",
+          "url": "https://www.toutiao.com/trending/7603571697958486035/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 12时06分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨3.71%，报7808.54点，本周累计上涨0.99%。 热门中概股里，小马智行初步收涨9.4%，蔚来涨7.4%，理想涨6.6%，百度涨5%，小鹏涨4.9%，小米、比亚迪涨4.3%，拼多多涨3.6%，阿里巴巴中行那个3%，腾讯涨2.2%。 ETF中，中国科技指数ETF（CQQQ）收涨3.16%，本周累跌3.58%，延续上周跌3.39%的表现； 中概互联网指数ETF（KWEB）收涨2.82%，本周累跌3.02%，延续上周跌1.45%的表现； XtrackersHarvest中证50（ASHS）收涨1.93%，本周累跌0.49%，延续上周回撤3.30%的表现； 德银嘉实沪深300指数ETF（ASHR）收涨1.45%，本周累涨0.72%。",
           "url": "https://wallstreetcn.com/livenews/3051620",
           "source": "华尔街见闻-快讯",
@@ -516,17 +589,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时22分]"
-        },
-        {
-          "title": "腾讯阿里市值蒸发千亿 谁是背锅侠",
-          "url": "https://www.toutiao.com/trending/7603571697958486035/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
         }
       ]
     },
@@ -539,11 +601,12 @@
           "url": "https://www.zhihu.com/question/2002708004215154139",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 12时06分]"
         }
       ]
     }
