@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T06:24:15.294471+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-02-09T07:28:54.871125+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 07时28分]"
         },
         {
           "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 07时28分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -37,19 +37,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 07时28分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
           "url": "https://www.cls.cn/detail/2283350",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 07时28分]"
         },
         {
           "title": "人民日报：孩子用AI写作业，你怎么看？",
@@ -72,8 +73,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 07时28分]"
         },
         {
           "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
@@ -87,8 +88,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 07时28分]"
         },
         {
           "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
@@ -102,8 +103,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 07时28分]"
         },
         {
           "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
@@ -113,8 +114,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 07时28分]"
         },
         {
           "title": "UP主用AI做影游融合沉浸式科普",
@@ -127,8 +128,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 07时28分]"
         },
         {
           "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
@@ -179,8 +180,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 07时28分]"
         }
       ]
     },
@@ -196,8 +197,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 07时28分]"
         }
       ]
     }
