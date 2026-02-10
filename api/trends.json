@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T01:59:18.810163+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-02-11T03:15:00.780857+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 03时15分]"
         },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -26,19 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时59分]"
-        },
-        {
-          "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
-          "url": "https://wallstreetcn.com/livenews/3053191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 03时15分]"
         },
         {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
@@ -47,18 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "美国国会议员们质询国防部使用马斯克旗下xAI开发的大模型Grok一事。",
-          "url": "https://wallstreetcn.com/livenews/3053187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         },
@@ -79,11 +57,12 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 03时15分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -94,8 +73,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 03时15分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -105,8 +84,56 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 03时15分]"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
+          "url": "https://wallstreetcn.com/livenews/3053191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 03时15分]"
+        },
+        {
+          "title": "美国国会议员们质询国防部使用马斯克旗下xAI开发的大模型Grok一事。",
+          "url": "https://wallstreetcn.com/livenews/3053187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 03时15分]"
+        },
+        {
+          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
+          "url": "https://www.zhihu.com/question/2004239051759312966",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 03时15分]"
+        },
+        {
+          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
+          "url": "https://www.zhihu.com/question/2004524090598323141",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时59分]"
+          "time_info": "[01时59分 ~ 03时15分]"
         },
         {
           "title": "AI应用成为最强主线引爆传媒链",
@@ -120,24 +147,13 @@
           "time_info": "[00时05分 ~ 00时06分]"
         },
         {
-          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
-          "url": "https://www.zhihu.com/question/2004239051759312966",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
-        },
-        {
           "title": "AI税务工具冲击财富管理板块 相关股票集体大跌",
           "url": "https://flash.jin10.com/detail/20260211013915640800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         },
@@ -175,21 +191,54 @@
           "time_info": "00时06分"
         },
         {
-          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
-          "url": "https://www.zhihu.com/question/2004524090598323141",
-          "source": "知乎",
+          "title": "美联储洛根：如果人工智能带来的生产率提升来得较晚，经济可能比提前提升时更加过热。",
+          "url": "https://flash.jin10.com/detail/20260211024215900800",
+          "source": "金十数据",
           "ranks": [
-            16
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美联储洛根：人工智能数据中心建设对电力的需求很大，但并没有想象中那么大。",
+          "url": "https://flash.jin10.com/detail/20260211024100542800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "AI制图骗局",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%88%B6%E5%9B%BE%E9%AA%97%E5%B1%80&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
+          "url": "https://wallstreetcn.com/livenews/3053195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌以320亿美元收购Wiz的交易获得欧盟反垄断无条件批准。",
@@ -220,9 +269,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "据Business Insider：谷歌业务部门正在向部分员工提供自愿离职方案。",
+          "url": "https://flash.jin10.com/detail/20260211023723066800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "谷歌母公司Alphabet发行创历史纪录的瑞郎债券，融资超过30亿瑞郎。 谷歌A跌幅扩大至2.7%，刷新日低。",
@@ -242,7 +302,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         }
@@ -261,19 +321,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时59分]"
-        },
-        {
-          "title": "春晚上豆包领红包赢科技好礼",
-          "url": "https://www.douyin.com/hot/2395858",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 03时15分]"
         },
         {
           "title": "2025 胡润中国 500 强发布，台积电、腾讯、字节位列前三，小米新进前十，如何评价上榜企业表现？",
@@ -281,6 +330,17 @@
           "source": "知乎",
           "ranks": [
             13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 03时15分]"
+        },
+        {
+          "title": "春晚上豆包领红包赢科技好礼",
+          "url": "https://www.douyin.com/hot/2395858",
+          "source": "抖音",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -298,11 +358,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 03时15分]"
         },
         {
           "title": "中国机器人首次走进联合国庆新春",
