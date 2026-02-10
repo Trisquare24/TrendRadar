@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T05:40:19.015538+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-02-11T06:37:42.145344+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2286121",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 06时37分]"
         },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -26,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 06时37分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -41,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 06时37分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -53,19 +54,33 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 06时37分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32567447",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 06时37分]"
+        },
+        {
+          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
+          "url": "https://www.zhihu.com/question/2004524090598323141",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 06时37分]"
         },
         {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
@@ -79,19 +94,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时05分 ~ 05时40分]"
-        },
-        {
-          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
-          "url": "https://www.zhihu.com/question/2004524090598323141",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 05时40分]"
         },
         {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
@@ -153,6 +155,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时15分 ~ 05时40分]"
+        },
+        {
+          "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
+          "url": "https://flash.jin10.com/detail/20260211042006504800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时37分]"
         },
         {
           "title": "AI应用成为最强主线引爆传媒链",
@@ -232,17 +246,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
-        },
-        {
-          "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
-          "url": "https://flash.jin10.com/detail/20260211042006504800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时40分"
         },
         {
           "title": "美联储洛根：人工智能数据中心建设对电力的需求很大，但并没有想象中那么大。",
@@ -330,48 +333,8 @@
       ]
     },
     {
-      "keyword_group": "字节 Kimi 豆包",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "字节又一新模型！Seedream 5.0 Preview上线，对标Nano Banana Pro",
-          "url": "https://wallstreetcn.com/articles/3765374",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 05时40分]"
-        },
-        {
-          "title": "2025 胡润中国 500 强发布，台积电、腾讯、字节位列前三，小米新进前十，如何评价上榜企业表现？",
-          "url": "https://www.zhihu.com/question/2002714528765457419",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 05时40分]"
-        },
-        {
-          "title": "春晚上豆包领红包赢科技好礼",
-          "url": "https://www.douyin.com/hot/2395858",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 01时59分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "阿里 Qwen",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "阿里Qwen-Image-2.0实测",
@@ -391,9 +354,61 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.87%，报7885.55点。 热门中概股里，理想初步收涨2.9%，比亚迪、阿里巴巴涨超2%，蔚来、小鹏、新东方、京东涨超1%，腾讯跌1.4%，美团跌2.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.09%，中国科技指数ETF（CQQQ）收跌0.13%。 德银嘉实沪深300指数ETF（ASHR）收跌0.21%，XtrackersHarvest中证50（ASHS）收跌0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3053240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "字节又一新模型！Seedream 5.0 Preview上线，对标Nano Banana Pro",
+          "url": "https://wallstreetcn.com/articles/3765374",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 06时37分]"
+        },
+        {
+          "title": "2025 胡润中国 500 强发布，台积电、腾讯、字节位列前三，小米新进前十，如何评价上榜企业表现？",
+          "url": "https://www.zhihu.com/question/2002714528765457419",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 06时37分]"
+        },
+        {
+          "title": "春晚上豆包领红包赢科技好礼",
+          "url": "https://www.douyin.com/hot/2395858",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 01时59分]"
         }
       ]
     },
@@ -411,8 +426,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时05分 ~ 05时40分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 06时37分]"
         },
         {
           "title": "中国机器人首次走进联合国庆新春",
@@ -424,8 +439,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 05时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 06时37分]"
         }
       ]
     }
