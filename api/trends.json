@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T06:37:42.145344+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-02-11T07:36:12.006952+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 07时36分]"
         },
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
           "url": "https://wallstreetcn.com/articles/3765363",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 07时36分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -42,8 +43,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 07时36分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -54,8 +55,22 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 07时36分]"
+        },
+        {
+          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
+          "url": "https://www.zhihu.com/question/2004524090598323141",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14,
+            17,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时37分]"
+          "time_info": "[01时59分 ~ 07时36分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -68,19 +83,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时05分 ~ 06时37分]"
-        },
-        {
-          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
-          "url": "https://www.zhihu.com/question/2004524090598323141",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时59分 ~ 06时37分]"
         },
         {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
@@ -365,7 +367,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         }
@@ -384,8 +386,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 07时36分]"
         },
         {
           "title": "2025 胡润中国 500 强发布，台积电、腾讯、字节位列前三，小米新进前十，如何评价上榜企业表现？",
@@ -396,8 +398,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 07时36分]"
         },
         {
           "title": "春晚上豆包领红包赢科技好礼",
@@ -439,8 +441,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时05分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 07时36分]"
         }
       ]
     }
