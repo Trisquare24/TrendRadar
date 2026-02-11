@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T06:27:13.898737+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-02-12T07:29:39.226962+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
@@ -15,8 +15,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 07时29分]"
+        },
+        {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 07时29分]"
         },
         {
           "title": "最癫的AI赛博榨菜",
@@ -24,11 +37,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 07时29分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -42,18 +56,6 @@
           "time_info": "[01时08分 ~ 05时31分]"
         },
         {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 06时27分]"
-        },
-        {
           "title": "国产AI降维打击,老外酸了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
           "source": "贴吧",
@@ -62,8 +64,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 07时29分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -73,8 +75,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 07时29分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -84,8 +86,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 07时29分]"
+        },
+        {
+          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
@@ -198,7 +211,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -271,8 +284,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 07时29分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -282,8 +295,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 07时29分]"
         },
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -293,8 +306,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 07时29分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -304,8 +317,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 07时29分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -313,22 +326,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 07时29分]"
         },
         {
           "title": "DeepSeek新模型来了？",
           "url": "https://wallstreetcn.com/articles/3765514",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 06时27分]"
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 07时29分]"
         }
       ]
     },
