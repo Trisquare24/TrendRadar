@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T17:52:13.728565+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2026-02-11T18:47:06.306655+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
@@ -40,19 +40,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 17时52分]"
+          "appearance_count": 9,
+          "time_info": "[10时03分 ~ 18时47分]"
+        },
+        {
+          "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
+          "url": "https://www.cls.cn/detail/2286740",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时01分 ~ 18时47分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 17时52分]"
+          "appearance_count": 8,
+          "time_info": "[13时01分 ~ 18时47分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -95,24 +109,27 @@
             22,
             23,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时05分 ~ 17时52分]"
+          "appearance_count": 20,
+          "time_info": "[00时05分 ~ 18时47分]"
         },
         {
-          "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
-          "url": "https://www.cls.cn/detail/2286740",
-          "source": "财联社热门",
+          "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
+          "url": "https://www.zhihu.com/question/2004629058894389561",
+          "source": "知乎",
           "ranks": [
-            8,
+            6,
+            7,
             5,
-            3
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 17时52分]"
+          "appearance_count": 8,
+          "time_info": "[13时01分 ~ 18时47分]"
         },
         {
           "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
@@ -142,18 +159,31 @@
           "time_info": "[00时05分 ~ 06时37分]"
         },
         {
-          "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
-          "url": "https://www.zhihu.com/question/2004629058894389561",
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时01分 ~ 18时47分]"
+        },
+        {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
           "source": "知乎",
           "ranks": [
-            6,
-            7,
-            5,
-            10
+            14,
+            13,
+            11,
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时01分 ~ 17时52分]"
+          "time_info": "[15时54分 ~ 18时47分]"
         },
         {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
@@ -181,17 +211,17 @@
           "time_info": "[10时03分 ~ 15时54分]"
         },
         {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
+          "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
+          "url": "https://www.zhihu.com/question/2004509950915868142",
+          "source": "知乎",
           "ranks": [
-            10,
-            7,
-            6
+            15,
+            16,
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时01分 ~ 17时52分]"
+          "time_info": "[15时54分 ~ 18时47分]"
         },
         {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
@@ -253,31 +283,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时15分 ~ 05时40分]"
-        },
-        {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 17时52分]"
-        },
-        {
-          "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
-          "url": "https://www.zhihu.com/question/2004509950915868142",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 17时52分]"
         },
         {
           "title": "阿里千问、飞猪宣布与全球超40家旅行品牌达成AI合作",
@@ -603,6 +608,97 @@
       ]
     },
     {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "中国机器人首次走进联合国庆新春",
+          "url": "https://www.toutiao.com/trending/7605078076875116086/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            9,
+            27,
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 13时01分]"
+        },
+        {
+          "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
+          "url": "https://www.cls.cn/detail/2285961",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时05分 ~ 06时37分]"
+        },
+        {
+          "title": "中国机器人亮相 外交官们举手机拍照",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8+%E5%A4%96%E4%BA%A4%E5%AE%98%E4%BB%AC%E4%B8%BE%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 18时47分]"
+        },
+        {
+          "title": "雷军：小米汽车工厂有六七百台机器人",
+          "url": "https://www.toutiao.com/trending/7605427131748765210/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 15时54分]"
+        },
+        {
+          "title": "首个人形机器人格斗联赛来了",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E8%81%94%E8%B5%9B%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        },
+        {
+          "title": "上纬新材：公司具身智能机器人业务目前仍处于产品开发阶段",
+          "url": "https://wallstreetcn.com/livenews/3053645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
+        },
+        {
+          "title": "人形机器人创业者的未来狂想",
+          "url": "https://www.douyin.com/hot/2396123",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "字节 Kimi 豆包",
       "match_count": 6,
       "titles": [
@@ -639,8 +735,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 17时52分]"
+          "appearance_count": 6,
+          "time_info": "[15时54分 ~ 18时47分]"
         },
         {
           "title": "春晚上豆包领红包赢科技好礼",
@@ -675,85 +771,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "中国机器人首次走进联合国庆新春",
-          "url": "https://www.toutiao.com/trending/7605078076875116086/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            9,
-            27,
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 13时01分]"
-        },
-        {
-          "title": "【每日收评】三大指数缩量震荡涨跌不一，影视、传媒概念股批量涨停，机器人板块午后异动",
-          "url": "https://www.cls.cn/detail/2285961",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时37分]"
-        },
-        {
-          "title": "雷军：小米汽车工厂有六七百台机器人",
-          "url": "https://www.toutiao.com/trending/7605427131748765210/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 15时54分]"
-        },
-        {
-          "title": "中国机器人亮相 外交官们举手机拍照",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8+%E5%A4%96%E4%BA%A4%E5%AE%98%E4%BB%AC%E4%B8%BE%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
-        },
-        {
-          "title": "首个人形机器人格斗联赛来了",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E8%81%94%E8%B5%9B%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时01分"
-        },
-        {
-          "title": "人形机器人创业者的未来狂想",
-          "url": "https://www.douyin.com/hot/2396123",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
         }
       ]
     },
