@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T18:42:36.260560+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2026-02-12T19:38:29.614391+08:00",
+  "total_titles_processed": 1604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 63,
+      "match_count": 72,
       "titles": [
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时29分 ~ 18时42分]"
+          "appearance_count": 9,
+          "time_info": "[07时29分 ~ 19时38分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -66,8 +66,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时08分 ~ 18时42分]"
+          "appearance_count": 18,
+          "time_info": "[01时08分 ~ 19时38分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -94,11 +94,12 @@
             25,
             27,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时08分 ~ 18时42分]"
+          "appearance_count": 18,
+          "time_info": "[01时08分 ~ 19时38分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -121,8 +122,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 18时42分]"
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 19时38分]"
         },
         {
           "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
@@ -190,15 +191,60 @@
           "time_info": "04时37分"
         },
         {
+          "title": "严厉打击无AI标识虚假不实信息",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E5%8E%89%E6%89%93%E5%87%BB%E6%97%A0AI%E6%A0%87%E8%AF%86%E8%99%9A%E5%81%87%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "Infosys：与埃克森美孚石油(XOM.N)合作，推进浸没式冷却技术以构建可持续的人工智能基础设施。",
           "url": "https://flash.jin10.com/detail/20260212180447330800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
+        },
+        {
+          "title": "严厉打击无AI标识的虚假不实信息",
+          "url": "https://www.douyin.com/hot/2398522",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "小米开源首代机器人VLA大模型",
+          "url": "https://www.cls.cn/detail/2288118",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时50分 ~ 19时38分]"
+        },
+        {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时50分 ~ 19时38分]"
         },
         {
           "title": "美食博主手搓对抗AI",
@@ -227,6 +273,19 @@
           "time_info": "[02时59分 ~ 04时37分]"
         },
         {
+          "title": "韩国投资者再度扫货中国股票，大举买入大模型龙头Minimax-WP",
+          "url": "https://www.cls.cn/detail/2288312",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时42分 ~ 19时38分]"
+        },
+        {
           "title": "美团升级“问小团”加入AI大战，春节前上线吃喝玩乐“AI管家”",
           "url": "https://wallstreetcn.com/livenews/3054185",
           "source": "华尔街见闻-快讯",
@@ -237,6 +296,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 14时02分]"
+        },
+        {
+          "title": "全球首颗！“港中大一号”卫星把大模型搬上太空",
+          "url": "https://www.cls.cn/detail/2288596",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时38分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-12）",
@@ -273,41 +344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 14时02分]"
-        },
-        {
-          "title": "小米开源首代机器人VLA大模型",
-          "url": "https://www.cls.cn/detail/2288118",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时50分 ~ 18时42分]"
-        },
-        {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时50分 ~ 18时42分]"
-        },
-        {
-          "title": "韩国投资者再度扫货中国股票，大举买入大模型龙头Minimax-WP",
-          "url": "https://www.cls.cn/detail/2288312",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时42分 ~ 18时42分]"
         },
         {
           "title": "依视路陆逊梯卡：AI眼镜价格将上涨。",
@@ -347,6 +383,18 @@
           "time_info": "[12时23分 ~ 14时02分]"
         },
         {
+          "title": "哈尔滨小哥为早回家过年找AI替班",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时38分]"
+        },
+        {
           "title": "马斯克xAI全员大会宣布裁员",
           "url": "https://www.toutiao.com/trending/7605774882411908671/",
           "source": "今日头条",
@@ -369,6 +417,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时50分 ~ 18时42分]"
+        },
+        {
+          "title": "用AI解锁吴克群将军令",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E8%A7%A3%E9%94%81%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B0%86%E5%86%9B%E4%BB%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时38分]"
         },
         {
           "title": "德国总理默茨：由于规则复杂，欧盟企业在人工智能领域落后。",
@@ -415,15 +475,26 @@
           "time_info": "12时23分"
         },
         {
-          "title": "全球首颗！“港中大一号”卫星把大模型搬上太空",
-          "url": "https://www.cls.cn/detail/2288596",
-          "source": "财联社热门",
+          "title": "深圳：开展智能网联汽车“车路云一体化”应用试点 加大“智造+智驾”汽车全产业链AI赋能力度",
+          "url": "https://wallstreetcn.com/livenews/3054473",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时42分"
+          "time_info": "19时38分"
+        },
+        {
+          "title": "深圳：以AI芯片为突破口做强半导体产业",
+          "url": "https://wallstreetcn.com/livenews/3054472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "大摩“暴力”上调美光目标价至450美元：只要AI需求强劲，中国产能冲击、资本开支过热统统不是问题！",
@@ -448,6 +519,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "深圳：到2027年在“人工智能+”先进制造业领域建成国家人工智能应用中试基地",
+          "url": "https://wallstreetcn.com/livenews/3054471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "全球人工智能应用场景中心落户深圳华强北",
           "url": "https://wallstreetcn.com/livenews/3054195",
           "source": "华尔街见闻-快讯",
@@ -465,7 +547,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -503,15 +585,15 @@
           "time_info": "17时45分"
         },
         {
-          "title": "哈尔滨小哥为早回家过年找AI替班",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
-          "source": "百度热搜",
+          "title": "上海市委网信办、市公安局网安总队联合开展“整治AI涉企虚假不实信息”专项行动",
+          "url": "https://wallstreetcn.com/livenews/3054467",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时42分"
+          "time_info": "19时38分"
         },
         {
           "title": "AI基础设施需求爆发 思科上调业绩预期",
@@ -553,7 +635,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -613,15 +695,15 @@
           "time_info": "12时23分"
         },
         {
-          "title": "用AI解锁吴克群将军令",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E8%A7%A3%E9%94%81%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B0%86%E5%86%9B%E4%BB%A4",
-          "source": "bilibili 热搜",
+          "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
+          "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时42分"
+          "time_info": "19时38分"
         },
         {
           "title": "思科(CSCO.O)：来自超大规模厂商的人工智能基础设施订单总额达21亿美元，反映出增长显著加速。",
@@ -646,6 +728,17 @@
           "time_info": "16时42分"
         },
         {
+          "title": "掌阅科技：公司2025年度AI短剧业务收入预计不超过2025年度主营业务收入的1%。",
+          "url": "https://wallstreetcn.com/livenews/3054455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "AI预测中国米兰冬奥首金",
           "url": "https://s.weibo.com/weibo?q=%23AI%E9%A2%84%E6%B5%8B%E4%B8%AD%E5%9B%BD%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E9%A6%96%E9%87%91%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -655,6 +748,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
+          "url": "https://www.zhihu.com/question/2004603319558042744",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "千问6天AI订单量破1.2亿单",
@@ -674,7 +778,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -782,11 +886,12 @@
             5,
             14,
             8,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时08分 ~ 18时42分]"
+          "appearance_count": 18,
+          "time_info": "[01时08分 ~ 19时38分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -813,8 +918,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时08分 ~ 18时42分]"
+          "appearance_count": 18,
+          "time_info": "[01时08分 ~ 19时38分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -846,7 +951,7 @@
     },
     {
       "keyword_group": "字节 Kimi 豆包",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "豆包即梦上线视频模型Seedance2.0",
@@ -857,8 +962,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时50分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[15时50分 ~ 19时38分]"
         },
         {
           "title": "豆包视频生成模型Seedance2.0上线",
@@ -870,6 +975,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
+          "url": "https://wallstreetcn.com/articles/3765571",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "豆包视频生成模型Seedance 2.0 上线",
@@ -892,6 +1008,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中证指数有限公司发布中证港股通机器人主题指数等2条指数",
+          "url": "https://wallstreetcn.com/livenews/3054387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时42分]"
+        },
+        {
+          "title": "起猛了 机器人舞剑拜年了",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86+%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%88%9E%E5%89%91%E6%8B%9C%E5%B9%B4%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时42分]"
+        },
+        {
+          "title": "玄创机器人完成Pre-A+轮融资",
+          "url": "https://wallstreetcn.com/livenews/3054205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "深圳：建立无人机自主能力演进体系，逐步培育空中具身智能",
+          "url": "https://wallstreetcn.com/livenews/3054475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         }
       ]
     },
@@ -927,46 +1094,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中证指数有限公司发布中证港股通机器人主题指数等2条指数",
-          "url": "https://wallstreetcn.com/livenews/3054387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 18时42分]"
-        },
-        {
-          "title": "起猛了 机器人舞剑拜年了",
-          "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86+%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%88%9E%E5%89%91%E6%8B%9C%E5%B9%B4%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 18时42分]"
-        },
-        {
-          "title": "玄创机器人完成Pre-A+轮融资",
-          "url": "https://wallstreetcn.com/livenews/3054205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
           ],
           "is_new": false,
           "appearance_count": 1,
