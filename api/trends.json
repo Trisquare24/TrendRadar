@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T17:45:17.281116+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-02-12T18:42:36.260560+08:00",
+  "total_titles_processed": 1505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 56,
+      "match_count": 63,
       "titles": [
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时29分 ~ 17时45分]"
+          "appearance_count": 8,
+          "time_info": "[07时29分 ~ 18时42分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -66,8 +66,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时08分 ~ 17时45分]"
+          "appearance_count": 17,
+          "time_info": "[01时08分 ~ 18时42分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -97,8 +97,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时08分 ~ 17时45分]"
+          "appearance_count": 17,
+          "time_info": "[01时08分 ~ 18时42分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -121,8 +121,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 17时45分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 18时42分]"
         },
         {
           "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
@@ -188,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "Infosys：与埃克森美孚石油(XOM.N)合作，推进浸没式冷却技术以构建可持续的人工智能基础设施。",
+          "url": "https://flash.jin10.com/detail/20260212180447330800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "美食博主手搓对抗AI",
@@ -264,6 +275,41 @@
           "time_info": "[12时23分 ~ 14时02分]"
         },
         {
+          "title": "小米开源首代机器人VLA大模型",
+          "url": "https://www.cls.cn/detail/2288118",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 18时42分]"
+        },
+        {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 18时42分]"
+        },
+        {
+          "title": "韩国投资者再度扫货中国股票，大举买入大模型龙头Minimax-WP",
+          "url": "https://www.cls.cn/detail/2288312",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 18时42分]"
+        },
+        {
           "title": "依视路陆逊梯卡：AI眼镜价格将上涨。",
           "url": "https://wallstreetcn.com/livenews/3053910",
           "source": "华尔街见闻-快讯",
@@ -275,41 +321,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 04时37分]"
-        },
-        {
-          "title": "小米开源首代机器人VLA大模型",
-          "url": "https://www.cls.cn/detail/2288118",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 17时45分]"
-        },
-        {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 17时45分]"
-        },
-        {
-          "title": "韩国投资者再度扫货中国股票，大举买入大模型龙头Minimax-WP",
-          "url": "https://www.cls.cn/detail/2288312",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 17时45分]"
         },
         {
           "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
@@ -346,6 +357,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 14时02分]"
+        },
+        {
+          "title": "韩国股民疯抢中国大模型龙头",
+          "url": "https://www.toutiao.com/trending/7605788361160556586/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 18时42分]"
         },
         {
           "title": "德国总理默茨：由于规则复杂，欧盟企业在人工智能领域落后。",
@@ -392,13 +415,24 @@
           "time_info": "12时23分"
         },
         {
+          "title": "全球首颗！“港中大一号”卫星把大模型搬上太空",
+          "url": "https://www.cls.cn/detail/2288596",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "大摩“暴力”上调美光目标价至450美元：只要AI需求强劲，中国产能冲击、资本开支过热统统不是问题！",
           "url": "https://wallstreetcn.com/articles/3765518",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -423,6 +457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
+          "url": "https://wallstreetcn.com/livenews/3054425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
@@ -453,9 +498,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
+        },
+        {
+          "title": "哈尔滨小哥为早回家过年找AI替班",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "AI基础设施需求爆发 思科上调业绩预期",
@@ -489,6 +545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "全国首单“AI+人形机器人”研发领域科创债发行",
+          "url": "https://wallstreetcn.com/livenews/3054410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "消息人士：五角大楼正推动将人工智能聊天机器人引入机密网络。",
@@ -546,6 +613,17 @@
           "time_info": "12时23分"
         },
         {
+          "title": "用AI解锁吴克群将军令",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E8%A7%A3%E9%94%81%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B0%86%E5%86%9B%E4%BB%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "思科(CSCO.O)：来自超大规模厂商的人工智能基础设施订单总额达21亿美元，反映出增长显著加速。",
           "url": "https://flash.jin10.com/detail/20260212051118010800",
           "source": "金十数据",
@@ -590,6 +668,17 @@
           "time_info": "12时23分"
         },
         {
+          "title": "全球首颗 “港中大一号”卫星把大模型搬上太空",
+          "url": "https://wallstreetcn.com/livenews/3054403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "新加坡公布2026年预算案 将加码扶持本地企业、押注AI与国际贸易",
           "url": "https://flash.jin10.com/detail/20260212161832075800",
           "source": "金十数据",
@@ -599,17 +688,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
-        },
-        {
-          "title": "韩国股民疯抢中国大模型龙头",
-          "url": "https://www.toutiao.com/trending/7605788361160556586/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
         },
         {
           "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
@@ -707,33 +785,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时08分 ~ 17时45分]"
-        },
-        {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时08分 ~ 17时45分]"
-        },
-        {
-          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
-          "url": "https://wallstreetcn.com/articles/3765457",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 09时56分]"
+          "appearance_count": 17,
+          "time_info": "[01时08分 ~ 18时42分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -747,8 +800,34 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时26分 ~ 17时45分]"
+          "appearance_count": 10,
+          "time_info": "[06时26分 ~ 18时42分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[01时08分 ~ 18时42分]"
+        },
+        {
+          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
+          "url": "https://wallstreetcn.com/articles/3765457",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时08分 ~ 09时56分]"
         },
         {
           "title": "从Deepseek到Seedance中国AI成了",
@@ -778,8 +857,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时50分 ~ 17时45分]"
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 18时42分]"
         },
         {
           "title": "豆包视频生成模型Seedance2.0上线",
@@ -860,6 +939,29 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "中证指数有限公司发布中证港股通机器人主题指数等2条指数",
+          "url": "https://wallstreetcn.com/livenews/3054387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时42分]"
+        },
+        {
+          "title": "起猛了 机器人舞剑拜年了",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86+%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%88%9E%E5%89%91%E6%8B%9C%E5%B9%B4%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时42分]"
+        },
+        {
           "title": "玄创机器人完成Pre-A+轮融资",
           "url": "https://wallstreetcn.com/livenews/3054205",
           "source": "华尔街见闻-快讯",
@@ -869,28 +971,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
-        },
-        {
-          "title": "中证指数有限公司发布中证港股通机器人主题指数等2条指数",
-          "url": "https://wallstreetcn.com/livenews/3054387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "起猛了 机器人舞剑拜年了",
-          "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86+%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%88%9E%E5%89%91%E6%8B%9C%E5%B9%B4%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         }
       ]
     },
