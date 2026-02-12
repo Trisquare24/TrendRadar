@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T12:23:37.841426+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2026-02-12T14:02:59.955986+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
@@ -54,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时08分 ~ 12时23分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 14时02分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -64,11 +64,12 @@
           "ranks": [
             16,
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时08分 ~ 12时23分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 14时02分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -77,11 +78,12 @@
           "ranks": [
             14,
             15,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时08分 ~ 12时23分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 14时02分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -102,8 +104,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时29分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[07时29分 ~ 14时02分]"
         },
         {
           "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
@@ -111,11 +113,23 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 12时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 14时02分]"
+        },
+        {
+          "title": "智谱午后涨幅扩大至40%，公司上调AI编程订阅套餐价格并将推出新模型。",
+          "url": "https://wallstreetcn.com/livenews/3054213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
@@ -129,37 +143,16 @@
           "time_info": "04时37分"
         },
         {
-          "title": "美团升级“问小团”加入AI大战，春节前上线吃喝玩乐“AI管家”",
-          "url": "https://wallstreetcn.com/livenews/3054185",
-          "source": "华尔街见闻-快讯",
+          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3765544",
+          "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-02-12）",
-          "url": "https://flash.jin10.com/detail/20260212120054964800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "小米发布并开源机器人VLA大模型Xiaomi-Robotics-0。该VLA模型规模为47亿参数，支持视觉语言理解，可进行实时动作执行。",
-          "url": "https://wallstreetcn.com/livenews/3054181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            8,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 14时02分]"
         },
         {
           "title": "让AI集体翻车的洗车难题",
@@ -167,11 +160,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 12时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 14时02分]"
         },
         {
           "title": "巴西Flavio Bolsonaro：在我竞选总统一事上，Minas Gerais的Zema会是一个不错的副总统人选，但我们还没有谈及此事。",
@@ -187,16 +181,28 @@
           "time_info": "[02时59分 ~ 04时37分]"
         },
         {
-          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3765544",
-          "source": "华尔街见闻",
+          "title": "美团升级“问小团”加入AI大战，春节前上线吃喝玩乐“AI管家”",
+          "url": "https://wallstreetcn.com/livenews/3054185",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            5
+            3,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时56分 ~ 12时23分]"
+          "time_info": "[12时23分 ~ 14时02分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-12）",
+          "url": "https://flash.jin10.com/detail/20260212120054964800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 14时02分]"
         },
         {
           "title": "马斯克旗下xAI披露全体会议的视频。",
@@ -209,6 +215,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时31分]"
+        },
+        {
+          "title": "小米发布并开源机器人VLA大模型Xiaomi-Robotics-0。该VLA模型规模为47亿参数，支持视觉语言理解，可进行实时动作执行。",
+          "url": "https://wallstreetcn.com/livenews/3054181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 14时02分]"
         },
         {
           "title": "依视路陆逊梯卡：AI眼镜价格将上涨。",
@@ -224,6 +242,19 @@
           "time_info": "[02时59分 ~ 04时37分]"
         },
         {
+          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 14时02分]"
+        },
+        {
           "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
           "url": "https://wallstreetcn.com/articles/3765478",
           "source": "华尔街见闻",
@@ -236,16 +267,28 @@
           "time_info": "[09时56分 ~ 12时23分]"
         },
         {
-          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
-          "source": "澎湃新闻",
+          "title": "支付宝AI付笔数超1.2亿",
+          "url": "https://wallstreetcn.com/livenews/3054179",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            13
+            7,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时56分 ~ 12时23分]"
+          "time_info": "[12时23分 ~ 14时02分]"
+        },
+        {
+          "title": "马斯克xAI全员大会宣布裁员",
+          "url": "https://www.toutiao.com/trending/7605774882411908671/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 14时02分]"
         },
         {
           "title": "德国总理默茨：由于规则复杂，欧盟企业在人工智能领域落后。",
@@ -281,26 +324,37 @@
           "time_info": "02时59分"
         },
         {
-          "title": "支付宝AI付笔数超1.2亿",
-          "url": "https://wallstreetcn.com/livenews/3054179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
           "title": "男子用AI一夜赚够一线房首付",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E4%B8%80%E5%A4%9C%E8%B5%9A%E5%A4%9F%E4%B8%80%E7%BA%BF%E6%88%BF%E9%A6%96%E4%BB%98%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "即梦AI正式接入最新视频生成模型Seedance 2.0与图片生成模型Seedream 5.0 Lite。",
+          "url": "https://wallstreetcn.com/livenews/3054196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "全球人工智能应用场景中心落户深圳华强北",
+          "url": "https://wallstreetcn.com/livenews/3054195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
@@ -375,9 +429,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "机械开发设计岗会不会被 ai 取代?",
+          "url": "https://www.zhihu.com/question/1892919652683850639",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "中美AI“隔空开打”",
@@ -397,18 +462,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "马斯克xAI全员大会宣布裁员",
-          "url": "https://www.toutiao.com/trending/7605774882411908671/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -430,7 +484,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -441,7 +495,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -463,7 +517,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -493,7 +547,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -505,19 +559,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时08分 ~ 09时56分]"
-        },
-        {
-          "title": "UP主实测DeepSeek新模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时08分 ~ 12时23分]"
         },
         {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
@@ -532,6 +573,20 @@
           "time_info": "[01时08分 ~ 09时56分]"
         },
         {
+          "title": "UP主实测DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 14时02分]"
+        },
+        {
           "title": "DeepSeek低调升级新模型",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
@@ -540,8 +595,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时08分 ~ 12时23分]"
+          "appearance_count": 13,
+          "time_info": "[01时08分 ~ 14时02分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -567,14 +622,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时26分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[06时26分 ~ 14时02分]"
+        },
+        {
+          "title": "从Deepseek到Seedance中国AI成了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌的母公司 Alphabet 拟发行百年期债券，科技圈 30 年来首次，如何解读？",
@@ -597,6 +663,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "韩国IT巨头Kakao宣布将与谷歌合作，共同开发基于Android XR和Android移动体验的AI眼镜用户体验，并将最新AI技术融入其中。",
+          "url": "https://wallstreetcn.com/livenews/3054194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "豆包视频生成模型Seedance2.0上线",
+          "url": "https://www.toutiao.com/trending/7605832337091218963/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "豆包视频生成模型Seedance 2.0 上线",
+          "url": "https://wallstreetcn.com/livenews/3054190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "豆包视频生成模型Seedance2.0上线",
+          "url": "https://www.douyin.com/hot/2398024",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         }
       ]
     },
@@ -626,6 +742,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "玄创机器人完成Pre-A+轮融资",
+          "url": "https://wallstreetcn.com/livenews/3054205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         }
       ]
     }
