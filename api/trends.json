@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T09:59:11.433759+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-02-13T12:24:54.730307+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "全球首颗！“港中大一号”卫星把大模型搬上太空",
@@ -123,6 +123,18 @@
           "time_info": "[00时55分 ~ 09时59分]"
         },
         {
+          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2289051",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 12时24分]"
+        },
+        {
           "title": "2026春节：中国AI的“两弹一星”时刻",
           "url": "https://www.baidu.com/s?wd=2026%E6%98%A5%E8%8A%82%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E7%9A%84%E2%80%9C%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E2%80%9D%E6%97%B6%E5%88%BB",
           "source": "百度热搜",
@@ -135,16 +147,27 @@
           "time_info": "[00时55分 ~ 05时31分]"
         },
         {
-          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2289051",
-          "source": "财联社热门",
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 09时59分]"
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时24分]"
+        },
+        {
+          "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
+          "url": "https://www.cls.cn/detail/2289007",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时24分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
@@ -156,17 +179,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 07时26分]"
-        },
-        {
-          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "中国AI视频双雄并起",
@@ -181,17 +193,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时55分 ~ 05时31分]"
-        },
-        {
-          "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
-          "url": "https://www.cls.cn/detail/2289007",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
@@ -214,6 +215,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时24分]"
+        },
+        {
+          "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
+          "url": "https://www.cls.cn/detail/2288921",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 12时24分]"
         },
         {
           "title": "AI初创公司助力企业预测财报电话会议提问",
@@ -265,18 +291,6 @@
           "time_info": "[06时29分 ~ 07时26分]"
         },
         {
-          "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
-          "url": "https://www.cls.cn/detail/2288921",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 09时59分]"
-        },
-        {
           "title": "哈尔滨小哥为早回家过年找AI替班",
           "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
           "source": "百度热搜",
@@ -289,15 +303,15 @@
           "time_info": "[00时55分 ~ 02时59分]"
         },
         {
-          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
-          "source": "澎湃新闻",
+          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
+          "url": "https://wallstreetcn.com/articles/3765622",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时24分]"
         },
         {
           "title": "摩根大通提拔Halamish，让其负责加速推进AI。",
@@ -310,17 +324,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 02时59分]"
-        },
-        {
-          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
-          "url": "https://wallstreetcn.com/articles/3765622",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
@@ -381,6 +384,39 @@
           "time_info": "07时26分"
         },
         {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-13）",
+          "url": "https://flash.jin10.com/detail/20260213113926677800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "微软喊话要实现AI“自给自足” 预言白领工作18个月内实现自动化",
+          "url": "https://www.cls.cn/detail/2288970",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "人工智能（AI）公司Algorhythm Holdings Inc.表示，其SemiCab平台能帮助客户在没有相应增加运营人员的情况下，将货运量规模扩大300%-400%。 该公司股价随后飙升了26%。",
           "url": "https://wallstreetcn.com/livenews/3054662",
           "source": "华尔街见闻-快讯",
@@ -409,7 +445,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -442,7 +478,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -456,6 +492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "港股AI应用概念股局部强势，海致科技集团上市首日一度涨超260%，智谱涨超20%，MINIMAX-WP涨超13%。",
+          "url": "https://wallstreetcn.com/livenews/3054861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     },
@@ -631,6 +678,70 @@
       ]
     },
     {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "雷军公布小米机器人最新进展：兼具视觉语言理解与实时执行能力",
+          "url": "https://www.cls.cn/detail/2288733",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 09时59分]"
+        },
+        {
+          "title": "红杉中国领投数亿元融资，觅蜂科技打造具身智能数据基础设施",
+          "url": "https://wallstreetcn.com/livenews/3054840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "机器人租赁平台擎天租宣布启动全国城市合伙人战略，春节订单预计超5000",
+          "url": "https://wallstreetcn.com/livenews/3054838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "王兴兴谈具身智能赛道：未来热度或是现在的1000倍，远超移动互联网",
+          "url": "https://wallstreetcn.com/livenews/3054818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "全球首家机器人9S店长沙开业",
+          "url": "https://wallstreetcn.com/livenews/3054875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
@@ -661,8 +772,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 09时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 12时24分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -675,75 +786,24 @@
             17,
             25,
             15,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 09时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 12时24分]"
         },
         {
           "title": "DeepSeek变冷淡了",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "雷军公布小米机器人最新进展：兼具视觉语言理解与实时执行能力",
-          "url": "https://www.cls.cn/detail/2288733",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 09时59分]"
-        },
-        {
-          "title": "红杉中国领投数亿元融资，觅蜂科技打造具身智能数据基础设施",
-          "url": "https://wallstreetcn.com/livenews/3054840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "机器人租赁平台擎天租宣布启动全国城市合伙人战略，春节订单预计超5000",
-          "url": "https://wallstreetcn.com/livenews/3054838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "王兴兴谈具身智能赛道：未来热度或是现在的1000倍，远超移动互联网",
-          "url": "https://wallstreetcn.com/livenews/3054818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时24分]"
         }
       ]
     },
@@ -760,11 +820,12 @@
             4,
             6,
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 09时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 12时24分]"
         },
         {
           "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
@@ -776,19 +837,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 09时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 12时24分]"
         },
         {
           "title": "字节跳动是否已经具备抗衡国内所有大厂总和的能力?",
           "url": "https://www.zhihu.com/question/2004904783031580122",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时24分]"
         }
       ]
     },
