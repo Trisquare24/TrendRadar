@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T17:41:25.277264+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-02-13T18:37:12.550724+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "全球首颗！“港中大一号”卫星把大模型搬上太空",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时55分 ~ 07时26分]"
+        },
+        {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时58分 ~ 18时37分]"
         },
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -53,15 +64,19 @@
           "time_info": "[00时55分 ~ 07时26分]"
         },
         {
-          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
+          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
+          "source": "澎湃新闻",
           "ranks": [
+            6,
+            4,
+            3,
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时58分 ~ 17时41分]"
+          "appearance_count": 10,
+          "time_info": "[09时58分 ~ 18时37分]"
         },
         {
           "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
@@ -74,21 +89,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时55分 ~ 09时59分]"
-        },
-        {
-          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时58分 ~ 17时41分]"
         },
         {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
@@ -161,6 +161,29 @@
           "time_info": "[00时55分 ~ 09时59分]"
         },
         {
+          "title": "老码农裁员理由+1:被AI优化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 18时37分]"
+        },
+        {
+          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
+          "url": "https://wallstreetcn.com/articles/3765622",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时58分 ~ 18时37分]"
+        },
+        {
           "title": "2026春节：中国AI的“两弹一星”时刻",
           "url": "https://www.baidu.com/s?wd=2026%E6%98%A5%E8%8A%82%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E7%9A%84%E2%80%9C%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E2%80%9D%E6%97%B6%E5%88%BB",
           "source": "百度热搜",
@@ -171,6 +194,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 05时31分]"
+        },
+        {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时24分 ~ 18时37分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -186,26 +222,28 @@
           "time_info": "[09时58分 ~ 15时01分]"
         },
         {
-          "title": "老码农裁员理由+1:被AI优化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
-          "source": "贴吧",
+          "title": "杭州大哥开1人公司靠AI月入200万",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时39分 ~ 17时41分]"
+          "time_info": "[17时41分 ~ 18时37分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 17时41分]"
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 18时37分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
@@ -233,31 +271,6 @@
           "time_info": "[00时55分 ~ 05时31分]"
         },
         {
-          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
-          "url": "https://wallstreetcn.com/articles/3765622",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时58分 ~ 17时41分]"
-        },
-        {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 17时41分]"
-        },
-        {
           "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
           "url": "https://www.cls.cn/detail/2288921",
           "source": "财联社热门",
@@ -270,6 +283,32 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时25分 ~ 13时58分]"
+        },
+        {
+          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593042",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时01分 ~ 18时37分]"
+        },
+        {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            26,
+            21,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时01分 ~ 18时37分]"
         },
         {
           "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
@@ -306,14 +345,51 @@
         },
         {
           "title": "杭州大哥开1人公司靠AI月入200万",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87",
+          "source": "百度热搜",
           "ranks": [
-            2
+            24,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 18时37分]"
+        },
+        {
+          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
+          "url": "https://wallstreetcn.com/articles/3765637",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 18时37分]"
+        },
+        {
+          "title": "一个2.6万亿AI独角兽诞生",
+          "url": "https://www.toutiao.com/trending/7606174592784158251/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 18时37分]"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年2月12日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32595090",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 18时37分]"
         },
         {
           "title": "AI初创公司助力企业预测财报电话会议提问",
@@ -365,32 +441,6 @@
           "time_info": "[06时29分 ~ 07时26分]"
         },
         {
-          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32593042",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 17时41分]"
-        },
-        {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
-          "ranks": [
-            26,
-            21,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 17时41分]"
-        },
-        {
           "title": "哈尔滨小哥为早回家过年找AI替班",
           "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
           "source": "百度热搜",
@@ -401,41 +451,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时55分 ~ 02时59分]"
-        },
-        {
-          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
-          "url": "https://wallstreetcn.com/articles/3765637",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 17时41分]"
-        },
-        {
-          "title": "一个2.6万亿AI独角兽诞生",
-          "url": "https://www.toutiao.com/trending/7606174592784158251/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 17时41分]"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2026年2月12日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32595090",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 17时41分]"
         },
         {
           "title": "摩根大通提拔Halamish，让其负责加速推进AI。",
@@ -530,6 +545,17 @@
           "time_info": "[16时39分 ~ 16时40分]"
         },
         {
+          "title": "因制作「奥特曼怀孕」等视频多名博主被罚，AI 二创的伦理边界在哪里？平台与创作者各自该承担什么责任？",
+          "url": "https://www.zhihu.com/question/2005346719148237010",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时36分 ~ 18时37分]"
+        },
+        {
           "title": "让AI集体翻车的洗车难题",
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
           "source": "bilibili 热搜",
@@ -550,6 +576,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "上海市新增8款已完成登记的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/3055114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "上海：着力攻坚人工智能在规划设计等关键环节的技术应用与创新落地",
+          "url": "https://wallstreetcn.com/livenews/3055113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-13）",
@@ -580,7 +628,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -638,17 +686,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
-        },
-        {
-          "title": "杭州大哥开1人公司靠AI月入200万",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时41分"
         },
         {
           "title": "美联储理事米兰：预计关税每年将带来近4000亿美元的收入。 预计潜在GDP增速将提升0.75个百分点。 政策调整和人工智能将拉动GDP增长。",
@@ -713,11 +750,12 @@
             12,
             13,
             15,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时55分 ~ 17时41分]"
+          "appearance_count": 22,
+          "time_info": "[00时55分 ~ 18时37分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -732,11 +770,25 @@
             15,
             13,
             16,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时55分 ~ 17时41分]"
+          "appearance_count": 22,
+          "time_info": "[00时55分 ~ 18时37分]"
+        },
+        {
+          "title": "DeepSeek回应被指冷淡",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时01分 ~ 18时37分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -752,16 +804,17 @@
           "time_info": "[09时58分 ~ 13时58分]"
         },
         {
-          "title": "DeepSeek回应被指冷淡",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
-          "source": "百度热搜",
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
           "ranks": [
-            30,
-            19
+            13,
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 17时41分]"
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 18时37分]"
         },
         {
           "title": "DeepSeek回应被指变冷淡",
@@ -774,18 +827,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时01分 ~ 16时40分]"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 17时41分]"
         },
         {
           "title": "OpenAI指责DeepSeek“抄袭”背后",
@@ -880,7 +921,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -1070,7 +1111,7 @@
     },
     {
       "keyword_group": "字节 Kimi 豆包",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "字节跳动是否已经具备抗衡国内所有大厂总和的能力?",
@@ -1081,8 +1122,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时58分 ~ 17时41分]"
+          "appearance_count": 10,
+          "time_info": "[09时58分 ~ 18时37分]"
         },
         {
           "title": "豆包即梦上线视频模型Seedance2.0",
@@ -1120,7 +1161,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -1143,9 +1184,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
+        },
+        {
+          "title": "字节跳动正就出售其游戏子公司沐瞳科技进行深入谈判，交易金额或达60亿至70亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3055077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         }
       ]
     },
