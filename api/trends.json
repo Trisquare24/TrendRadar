@@ -1,12 +1,58 @@
 {
-  "generated_at": "2026-02-18T00:13:44.015699+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-18T00:55:15.503114+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "春晚绝活升级背后：中国人形机器人技术有了哪些新突破？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32624494",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
+        },
+        {
+          "title": "春晚后机器人卖爆了，宇树春晚机器人售价 20 万，这些机器人走下舞台能干啥？这波热度能带动赛道起飞吗？",
+          "url": "https://www.zhihu.com/question/2007090015855931933",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
+        },
+        {
+          "title": "今年春晚，机器人刷屏了",
+          "url": "https://www.cls.cn/detail/2290956",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
+        },
+        {
+          "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
+          "url": "https://www.cls.cn/detail/2291102",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
+        },
         {
           "title": "揭秘春晚机器人武术表演",
           "url": "https://www.douyin.com/hot/2403923",
@@ -19,48 +65,16 @@
           "time_info": "00时13分"
         },
         {
-          "title": "春晚绝活升级背后：中国人形机器人技术有了哪些新突破？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32624494",
-          "source": "澎湃新闻",
+          "title": "春晚机器人厉害在哪里",
+          "url": "https://www.douyin.com/hot/2404417",
+          "source": "抖音",
           "ranks": [
-            2
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "春晚后机器人卖爆了，宇树春晚机器人售价 20 万，这些机器人走下舞台能干啥？这波热度能带动赛道起飞吗？",
-          "url": "https://www.zhihu.com/question/2007090015855931933",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "今年春晚，机器人刷屏了",
-          "url": "https://www.cls.cn/detail/2290956",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
-          "url": "https://www.cls.cn/detail/2291102",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
         },
         {
           "title": "宇树机器人春晚武术表演再炸场，王兴兴：高动态高协同集群控制技术全球首秀",
@@ -70,30 +84,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "春晚机器人厉害在哪里",
-          "url": "https://www.douyin.com/hot/2404417",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
         },
         {
           "title": "宇树春晚同款机器人售价208850元",
           "url": "https://www.toutiao.com/trending/7606869652907707910/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
         },
         {
           "title": "宇树、魔法原子在春晚都表演了后空翻，对机器人来讲难度有多大？",
@@ -103,19 +107,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
         },
         {
           "title": "春晚机器人们是什么来头",
           "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%AC%E6%98%AF%E4%BB%80%E4%B9%88%E6%9D%A5%E5%A4%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
+        },
+        {
+          "title": "武bot机器人 我不要面子的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A6bot%E6%9C%BA%E5%99%A8%E4%BA%BA%20%E6%88%91%E4%B8%8D%E8%A6%81%E9%9D%A2%E5%AD%90%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
         },
         {
           "title": "机器人扎堆,亮眼还是视疲劳",
@@ -125,8 +142,89 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
+        },
+        {
+          "title": "机器人们在马年春晚上表演武术、小品、舞蹈等节目，如何评价机器人的表现？有哪些表演是机器人无法替代的？",
+          "url": "https://www.zhihu.com/question/2006829012186527478",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
+        },
+        {
+          "title": "太夯!宇树机器人三刷春晚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350744&amp;topic_name=%E5%A4%AA%E5%A4%AF%21%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%89%E5%88%B7%E6%98%A5%E6%99%9A",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
+        },
+        {
+          "title": "林剑分享春晚机器人武术视频",
+          "url": "https://www.douyin.com/hot/2403737",
+          "source": "抖音",
+          "ranks": [
+            26,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
+        },
+        {
+          "title": "春晚机器人齐聚抖音",
+          "url": "https://www.douyin.com/hot/2403438",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
+        },
+        {
+          "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
+          "url": "https://wallstreetcn.com/livenews/3056025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 00时55分]"
+        },
+        {
+          "title": "人形机器人会有失控风险吗",
+          "url": "https://www.douyin.com/hot/2403993",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
+        },
+        {
+          "title": "机器人春晚是什么梗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%A5%E6%99%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         },
         {
           "title": "机器人武术表演幕后细节",
@@ -140,66 +238,11 @@
           "time_info": "00时13分"
         },
         {
-          "title": "武bot机器人 我不要面子的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AD%A6bot%E6%9C%BA%E5%99%A8%E4%BA%BA%20%E6%88%91%E4%B8%8D%E8%A6%81%E9%9D%A2%E5%AD%90%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "机器人们在马年春晚上表演武术、小品、舞蹈等节目，如何评价机器人的表现？有哪些表演是机器人无法替代的？",
-          "url": "https://www.zhihu.com/question/2006829012186527478",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "太夯!宇树机器人三刷春晚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350744&amp;topic_name=%E5%A4%AA%E5%A4%AF%21%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%89%E5%88%B7%E6%98%A5%E6%99%9A",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
-          "url": "https://wallstreetcn.com/livenews/3056025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
           "title": "外媒惊叹中国人形机器人发展速度",
           "url": "https://www.toutiao.com/trending/7607638343538622506/",
           "source": "今日头条",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "林剑分享春晚机器人武术视频",
-          "url": "https://www.douyin.com/hot/2403737",
-          "source": "抖音",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -216,11 +259,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
         },
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -230,19 +274,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -252,19 +297,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
         },
         {
           "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
           "url": "https://wallstreetcn.com/livenews/3056047",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 00时55分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -274,8 +320,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -285,8 +331,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
         },
         {
           "title": "王菲化妆师改口问就是AI",
@@ -296,8 +342,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 00时55分]"
         },
         {
           "title": "业内：AI仍是投资主线",
@@ -314,18 +360,30 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "Gemini Space Station（GEMI）：本公司美国IPO之后，首席财务官（CFO）Dan Chen、首席运营官（COO）Marshall Beard、首席法务官（CLO）Tyler Meade离职。",
+          "url": "https://wallstreetcn.com/livenews/3056053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
         {
           "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
           "url": "https://wallstreetcn.com/livenews/3056046",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 00时55分]"
         }
       ]
     },
