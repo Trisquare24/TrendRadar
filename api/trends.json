@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T17:45:02.014642+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2026-02-17T18:42:48.452469+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 63,
+      "match_count": 67,
       "titles": [
         {
           "title": "春晚机器人们是什么来头",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时52分 ~ 17时45分]"
+          "appearance_count": 12,
+          "time_info": "[09时52分 ~ 18时42分]"
         },
         {
           "title": "如何评价蔡明、王天放、松延动力机器人在 2026 年春晚表演的小品《奶奶的最爱》？",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时39分 ~ 17时45分]"
+          "appearance_count": 23,
+          "time_info": "[00时39分 ~ 18时42分]"
         },
         {
           "title": "如何评价宇树机器人在 2026 年春晚的表现？相比去年，你观察到了哪些进步？",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时52分 ~ 17时45分]"
+          "appearance_count": 12,
+          "time_info": "[09时52分 ~ 18时42分]"
         },
         {
           "title": "春晚同款机器人85000？客服回应",
@@ -69,6 +69,20 @@
           "time_info": "[13时56分 ~ 17时45分]"
         },
         {
+          "title": "宇树春晚同款机器人售价208850元",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%98%A5%E6%99%9A%E5%90%8C%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%94%AE%E4%BB%B7208850%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时56分 ~ 18时42分]"
+        },
+        {
           "title": "春晚机器人中国功夫夯爆了",
           "url": "https://www.toutiao.com/trending/7607438781827366955/",
           "source": "今日头条",
@@ -79,6 +93,34 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时39分 ~ 09时52分]"
+        },
+        {
+          "title": "宇树机器人春晚武术表演再炸场，王兴兴：高动态高协同集群控制技术全球首秀",
+          "url": "https://wallstreetcn.com/articles/3765800",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时17分 ~ 18时42分]"
+        },
+        {
+          "title": "揭秘春晚机器人武术表演",
+          "url": "https://www.douyin.com/hot/2403923",
+          "source": "抖音",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时55分 ~ 18时42分]"
         },
         {
           "title": "蔡明30年后成真机器人",
@@ -107,21 +149,6 @@
           "time_info": "[00时39分 ~ 07时27分]"
         },
         {
-          "title": "宇树机器人春晚武术表演再炸场，王兴兴：高动态高协同集群控制技术全球首秀",
-          "url": "https://wallstreetcn.com/articles/3765800",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时17分 ~ 17时45分]"
-        },
-        {
           "title": "如何评价沈腾、马丽、银河通用机器人等 2026 年春晚上表演的贺岁微电影《我最难忘的今宵》？",
           "url": "https://www.zhihu.com/question/2006865473459942662",
           "source": "知乎",
@@ -135,20 +162,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时39分 ~ 09时52分]"
-        },
-        {
-          "title": "宇树春晚同款机器人售价208850元",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%98%A5%E6%99%9A%E5%90%8C%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%94%AE%E4%BB%B7208850%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时56分 ~ 17时45分]"
         },
         {
           "title": "如何评价宇树科技机器人在 2026 年春晚的武术表演《武 BOT》？与去年的《秧 BOT》相比有哪些进步？",
@@ -173,8 +186,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时17分 ~ 17时45分]"
+          "appearance_count": 11,
+          "time_info": "[12时17分 ~ 18时42分]"
         },
         {
           "title": "30年后春晚真有蔡明同款机器人了",
@@ -188,18 +201,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时39分 ~ 07时27分]"
-        },
-        {
-          "title": "揭秘春晚机器人武术表演",
-          "url": "https://www.douyin.com/hot/2403923",
-          "source": "抖音",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时55分 ~ 17时45分]"
         },
         {
           "title": "机器人中国功夫夯爆了",
@@ -316,8 +317,22 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时39分 ~ 17时45分]"
+          "appearance_count": 23,
+          "time_info": "[00时39分 ~ 18时42分]"
+        },
+        {
+          "title": "春晚机器人齐聚抖音",
+          "url": "https://www.douyin.com/hot/2403438",
+          "source": "抖音",
+          "ranks": [
+            7,
+            10,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时27分 ~ 18时42分]"
         },
         {
           "title": "揭秘春晚机器人背后概念股",
@@ -337,6 +352,21 @@
           "time_info": "[00时39分 ~ 07时27分]"
         },
         {
+          "title": "春晚机器人还是太全面了",
+          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%98%E6%98%AF%E5%A4%AA%E5%85%A8%E9%9D%A2%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            21,
+            22,
+            20,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时52分 ~ 18时42分]"
+        },
+        {
           "title": "春晚机器人硬核诠释中国功夫",
           "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A1%AC%E6%A0%B8%E8%AF%A0%E9%87%8A%E4%B8%AD%E5%9B%BD%E5%8A%9F%E5%A4%AB",
           "source": "bilibili 热搜",
@@ -348,11 +378,12 @@
             26,
             22,
             13,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时39分 ~ 17时45分]"
+          "appearance_count": 22,
+          "time_info": "[00时39分 ~ 18时42分]"
         },
         {
           "title": "马年春晚为何独爱机器人",
@@ -367,33 +398,18 @@
           "time_info": "[01时36分 ~ 14时56分]"
         },
         {
-          "title": "春晚机器人齐聚抖音",
-          "url": "https://www.douyin.com/hot/2403438",
-          "source": "抖音",
+          "title": "王兴兴称春晚机器人摔倒系剧情需要",
+          "url": "https://www.toutiao.com/trending/7607051298697088554/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            10,
-            12,
-            9
+            8,
+            23,
+            17,
+            22
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[07时27分 ~ 17时45分]"
-        },
-        {
-          "title": "春晚机器人还是太全面了",
-          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%98%E6%98%AF%E5%A4%AA%E5%85%A8%E9%9D%A2%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            21,
-            22,
-            20,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时52分 ~ 17时45分]"
+          "time_info": "[13时56分 ~ 18时42分]"
         },
         {
           "title": "张万森 下机器人了",
@@ -412,30 +428,17 @@
           "time_info": "[00时39分 ~ 07时27分]"
         },
         {
-          "title": "王兴兴称春晚机器人摔倒系剧情需要",
-          "url": "https://www.toutiao.com/trending/7607051298697088554/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            23,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时56分 ~ 17时45分]"
-        },
-        {
           "title": "春晚机器人火爆外网 人均“震惊脸”",
           "url": "https://www.baidu.com/s?wd=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%81%AB%E7%88%86%E5%A4%96%E7%BD%91+%E4%BA%BA%E5%9D%87%E2%80%9C%E9%9C%87%E6%83%8A%E8%84%B8%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
             28,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时49分 ~ 17时45分]"
+          "appearance_count": 6,
+          "time_info": "[15时49分 ~ 18时42分]"
         },
         {
           "title": "春晚后机器人卖爆了",
@@ -491,6 +494,34 @@
           "time_info": "[12时17分 ~ 14时56分]"
         },
         {
+          "title": "媒体评机器人春晚“炸场”",
+          "url": "https://www.toutiao.com/trending/7607719320281435684/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            8,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时49分 ~ 18时42分]"
+        },
+        {
+          "title": "林剑分享春晚机器人武术视频",
+          "url": "https://www.douyin.com/hot/2403737",
+          "source": "抖音",
+          "ranks": [
+            9,
+            12,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时49分 ~ 18时42分]"
+        },
+        {
           "title": "机器人浓度超高 春晚总导演回应",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B5%93%E5%BA%A6%E8%B6%85%E9%AB%98+%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -513,6 +544,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时52分 ~ 13时56分]"
+        },
+        {
+          "title": "机器人春晚炫技后迎来淘汰赛",
+          "url": "https://www.toutiao.com/trending/7607752040709623347/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时42分]"
+        },
+        {
+          "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
+          "url": "https://www.cls.cn/detail/2291102",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时41分 ~ 18时42分]"
         },
         {
           "title": "深度解密春晚机器人",
@@ -538,44 +594,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时17分 ~ 14时56分]"
-        },
-        {
-          "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
-          "url": "https://www.cls.cn/detail/2291102",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时41分 ~ 17时45分]"
-        },
-        {
-          "title": "媒体评机器人春晚“炸场”",
-          "url": "https://www.toutiao.com/trending/7607719320281435684/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时49分 ~ 17时45分]"
-        },
-        {
-          "title": "林剑分享春晚机器人武术视频",
-          "url": "https://www.douyin.com/hot/2403737",
-          "source": "抖音",
-          "ranks": [
-            9,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时49分 ~ 17时45分]"
         },
         {
           "title": "春晚落幕 机器人时代正式开场",
@@ -724,17 +742,6 @@
           "time_info": "[00时39分 ~ 02时39分]"
         },
         {
-          "title": "机器人春晚炫技后迎来淘汰赛",
-          "url": "https://www.toutiao.com/trending/7607752040709623347/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
-        },
-        {
           "title": "王兴兴揭秘机器人“练功秘籍”",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%85%B4%E5%85%B4%E6%8F%AD%E7%A7%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E7%BB%83%E5%8A%9F%E7%A7%98%E7%B1%8D%E2%80%9D",
           "source": "百度热搜",
@@ -769,6 +776,17 @@
           "time_info": "[17时44分 ~ 17时45分]"
         },
         {
+          "title": "宇树春晚同款机器人售价208850元",
+          "url": "https://www.toutiao.com/trending/7606869652907707910/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "这个春节，人形机器人正在实现“能演亦能干”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32618240",
           "source": "澎湃新闻",
@@ -778,6 +796,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "春晚后机器人卖爆了，宇树春晚机器人售价 20 万，这些机器人走下舞台能干啥？这波热度能带动赛道起飞吗？",
+          "url": "https://www.zhihu.com/question/2007090015855931933",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "禾赛科技激光雷达搭载于宇树春晚机器人",
+          "url": "https://wallstreetcn.com/livenews/3055936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "馆长看春晚机器人表演赞叹大陆科技",
+          "url": "https://www.toutiao.com/trending/7607441416575008822/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "宇树CEO王兴兴：春晚机器人摔倒是剧情需要",
@@ -827,7 +878,7 @@
     },
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -838,8 +889,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时39分 ~ 17时45分]"
+          "appearance_count": 23,
+          "time_info": "[00时39分 ~ 18时42分]"
         },
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -874,8 +925,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 16时41分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 18时42分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -889,8 +940,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时39分 ~ 17时45分]"
+          "appearance_count": 23,
+          "time_info": "[00时39分 ~ 18时42分]"
+        },
+        {
+          "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时56分 ~ 18时42分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -915,8 +980,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 16时41分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 18时42分]"
         },
         {
           "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
@@ -957,19 +1022,6 @@
           "time_info": "[00时39分 ~ 07时27分]"
         },
         {
-          "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时56分 ~ 17时45分]"
-        },
-        {
           "title": "这波三角洲AI春晚真该留到今晚看",
           "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%B3%A2%E4%B8%89%E8%A7%92%E6%B4%B2AI%E6%98%A5%E6%99%9A%E7%9C%9F%E8%AF%A5%E7%95%99%E5%88%B0%E4%BB%8A%E6%99%9A%E7%9C%8B",
           "source": "bilibili 热搜",
@@ -992,8 +1044,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时42分]"
         },
         {
           "title": "1.3亿人春节首次体验AI购物，千问一跃成为国民级AI助手",
@@ -1016,7 +1068,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -1184,6 +1236,18 @@
           "time_info": "[15时49分 ~ 16时41分]"
         },
         {
+          "title": "户口本只剩自己 刘维用AI和家人团圆",
+          "url": "https://www.baidu.com/s?wd=%E6%88%B7%E5%8F%A3%E6%9C%AC%E5%8F%AA%E5%89%A9%E8%87%AA%E5%B7%B1+%E5%88%98%E7%BB%B4%E7%94%A8AI%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%9B%A2%E5%9C%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时42分]"
+        },
+        {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
           "url": "https://www.cls.cn/detail/2290485",
           "source": "财联社热门",
@@ -1252,17 +1316,6 @@
           "time_info": "[06时25分 ~ 07时27分]"
         },
         {
-          "title": "户口本只剩自己 刘维用AI和家人团圆",
-          "url": "https://www.baidu.com/s?wd=%E6%88%B7%E5%8F%A3%E6%9C%AC%E5%8F%AA%E5%89%A9%E8%87%AA%E5%B7%B1+%E5%88%98%E7%BB%B4%E7%94%A8AI%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%9B%A2%E5%9C%86",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
-        },
-        {
           "title": "豆包大模型接上春晚机器人了",
           "url": "https://www.douyin.com/hot/2403275",
           "source": "抖音",
@@ -1294,6 +1347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "Anthropic与卢旺达政府签署关于人工智能在医疗和教育领域应用的谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20260217180419136800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "多部门部署加快招标投标领域人工智能推广应用",
@@ -1397,6 +1461,106 @@
       ]
     },
     {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "豆包春晚科技礼包抽奖攻略",
+          "url": "https://www.douyin.com/hot/2403149",
+          "source": "抖音",
+          "ranks": [
+            8,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时26分 ~ 07时27分]"
+        },
+        {
+          "title": "豆包红包",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%BA%A2%E5%8C%85&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时39分]"
+        },
+        {
+          "title": "被豆包Seedance2.0版贺花神美到了",
+          "url": "https://www.douyin.com/hot/2403271",
+          "source": "抖音",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时39分]"
+        },
+        {
+          "title": "爷爷奶奶也爱用豆包",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E4%B9%9F%E7%88%B1%E7%94%A8%E8%B1%86%E5%8C%85%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时36分]"
+        },
+        {
+          "title": "邓超用豆包重回妈妈电影院",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E7%94%A8%E8%B1%86%E5%8C%85%E9%87%8D%E5%9B%9E%E5%A6%88%E5%A6%88%E7%94%B5%E5%BD%B1%E9%99%A2%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 14时56分]"
+        },
+        {
+          "title": "沈腾找豆包上春晚",
+          "url": "https://www.douyin.com/hot/2403422",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "抽中豆包科技大礼的人找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8A%BD%E4%B8%AD%E8%B1%86%E5%8C%85%E7%A7%91%E6%8A%80%E5%A4%A7%E7%A4%BC%E7%9A%84%E4%BA%BA%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "邓超用豆包打卡妈妈的青春",
+          "url": "https://www.douyin.com/hot/2403771",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -1477,84 +1641,6 @@
       ]
     },
     {
-      "keyword_group": "字节 Kimi 豆包",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "豆包春晚科技礼包抽奖攻略",
-          "url": "https://www.douyin.com/hot/2403149",
-          "source": "抖音",
-          "ranks": [
-            8,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时26分 ~ 07时27分]"
-        },
-        {
-          "title": "豆包红包",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%BA%A2%E5%8C%85&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时39分]"
-        },
-        {
-          "title": "被豆包Seedance2.0版贺花神美到了",
-          "url": "https://www.douyin.com/hot/2403271",
-          "source": "抖音",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时39分]"
-        },
-        {
-          "title": "爷爷奶奶也爱用豆包",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E4%B9%9F%E7%88%B1%E7%94%A8%E8%B1%86%E5%8C%85%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时36分]"
-        },
-        {
-          "title": "邓超用豆包重回妈妈电影院",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E7%94%A8%E8%B1%86%E5%8C%85%E9%87%8D%E5%9B%9E%E5%A6%88%E5%A6%88%E7%94%B5%E5%BD%B1%E9%99%A2%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时55分 ~ 14时56分]"
-        },
-        {
-          "title": "沈腾找豆包上春晚",
-          "url": "https://www.douyin.com/hot/2403422",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -1585,8 +1671,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时39分 ~ 17时45分]"
+          "appearance_count": 23,
+          "time_info": "[00时39分 ~ 18时42分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -1662,7 +1748,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         }
