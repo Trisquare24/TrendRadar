@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T05:30:54.242012+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-02-20T06:29:12.891185+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 05时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 06时29分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 05时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 06时29分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 05时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 06时29分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -50,8 +50,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 05时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 06时29分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -61,8 +61,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 05时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 06时29分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -72,8 +72,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 05时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 06时29分]"
         },
         {
           "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
@@ -139,13 +139,24 @@
           "time_info": "[02时47分 ~ 04时29分]"
         },
         {
+          "title": "什么样的软件会被AI淘汰？",
+          "url": "https://wallstreetcn.com/articles/3765860",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时29分]"
+        },
+        {
           "title": "微软：XAI Grok 4.1快速版现已在Microsoft Copilot Studio中可用。",
           "url": "https://flash.jin10.com/detail/20260220043316320800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         },
@@ -185,19 +196,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 05时30分]"
-        },
-        {
-          "title": "机器人变印度造,三哥真敢吹",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350767&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%98%E5%8D%B0%E5%BA%A6%E9%80%A0%2C%E4%B8%89%E5%93%A5%E7%9C%9F%E6%95%A2%E5%90%B9",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 05时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 06时29分]"
         },
         {
           "title": "春晚机器人如何完成高难度动作",
@@ -207,11 +207,23 @@
             27,
             29,
             25,
-            30
+            30,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 05时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 06时29分]"
+        },
+        {
+          "title": "机器人变印度造,三哥真敢吹",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350767&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%98%E5%8D%B0%E5%BA%A6%E9%80%A0%2C%E4%B8%89%E5%93%A5%E7%9C%9F%E6%95%A2%E5%90%B9",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 06时29分]"
         },
         {
           "title": "韩国人怎么评价春晚机器人表演",
@@ -221,8 +233,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时30分]"
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 06时29分]"
         },
         {
           "title": "机器人跳舞摔倒 小伙查看时脸被踢伤",
@@ -231,11 +243,12 @@
           "ranks": [
             21,
             25,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时46分 ~ 05时30分]"
+          "appearance_count": 7,
+          "time_info": "[02时46分 ~ 06时29分]"
         },
         {
           "title": "未来的春晚机器人be like",
@@ -243,11 +256,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时48分 ~ 05时30分]"
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 06时29分]"
         },
         {
           "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
@@ -259,8 +273,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时37分 ~ 05时30分]"
+          "appearance_count": 6,
+          "time_info": "[03时37分 ~ 06时29分]"
         },
         {
           "title": "外网如何评价春晚机器人",
@@ -332,8 +346,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 05时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 06时29分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -391,7 +405,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
         }
