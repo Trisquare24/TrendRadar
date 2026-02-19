@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T15:00:25.274748+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-02-19T15:54:00.784939+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时00分 ~ 15时00分]"
+          "appearance_count": 20,
+          "time_info": "[01时00分 ~ 15时54分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -69,6 +69,17 @@
           "time_info": "[01时00分 ~ 03时46分]"
         },
         {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时18分 ~ 15时54分]"
+        },
+        {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
@@ -77,19 +88,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时00分 ~ 15时00分]"
+          "appearance_count": 20,
+          "time_info": "[01时00分 ~ 15时54分]"
         },
         {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "title": "终末地建模,AI偷偷加料",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
           "source": "贴吧",
           "ranks": [
-            1
+            2,
+            5,
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 15时00分]"
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 15时54分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -100,11 +114,12 @@
             9,
             14,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时00分 ~ 15时00分]"
+          "appearance_count": 20,
+          "time_info": "[01时00分 ~ 15时54分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -115,11 +130,12 @@
             15,
             20,
             22,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时00分 ~ 15时00分]"
+          "appearance_count": 20,
+          "time_info": "[01时00分 ~ 15时54分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -133,19 +149,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时51分 ~ 09时55分]"
-        },
-        {
-          "title": "终末地建模,AI偷偷加料",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时55分 ~ 15时00分]"
         },
         {
           "title": "目前大模型与人类意识的差别在哪里?",
@@ -232,6 +235,32 @@
           "time_info": "13时57分"
         },
         {
+          "title": "印度AI峰会大学展示泡沫塑料版无人机",
+          "url": "https://www.toutiao.com/trending/7608301157190156351/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 15时54分]"
+        },
+        {
+          "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
+          "url": "https://wallstreetcn.com/livenews/3056579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 15时54分]"
+        },
+        {
           "title": "Booking的首席财务官（CFO）：人工智能（AI）已经帮助实现消费者服务成本同比下降。",
           "url": "https://wallstreetcn.com/livenews/3056505",
           "source": "华尔街见闻-快讯",
@@ -242,18 +271,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时27分]"
-        },
-        {
-          "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
-          "url": "https://wallstreetcn.com/livenews/3056579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时00分]"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -281,16 +298,17 @@
           "time_info": "[01时56分 ~ 02时51分]"
         },
         {
-          "title": "印度AI峰会大学展示泡沫塑料版无人机",
-          "url": "https://www.toutiao.com/trending/7608301157190156351/",
-          "source": "今日头条",
+          "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
+          "url": "https://wallstreetcn.com/livenews/3056572",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            13
+            17,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时57分 ~ 15时00分]"
+          "time_info": "[13时57分 ~ 15时54分]"
         },
         {
           "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
@@ -340,18 +358,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 02时51分]"
-        },
-        {
-          "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
-          "url": "https://wallstreetcn.com/livenews/3056572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时00分]"
         },
         {
           "title": "扎克伯格出庭：美国法官威胁将对任何使用AI眼镜录像的人处以蔑视法庭罪",
@@ -469,6 +475,39 @@
           "time_info": "13时57分"
         },
         {
+          "title": "印度总理莫迪：AI深度伪造和虚假内容正在破坏开放的社会。水印和明确的来源标准变得越来越必要。我们还必须更加关注儿童的安全。",
+          "url": "https://flash.jin10.com/detail/20260219152952241800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
+          "title": "印度总理莫迪：人工智能将把人类的潜力提升到新的高度。",
+          "url": "https://flash.jin10.com/detail/20260219152513852800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
+          "title": "印度总理莫迪：人工智能是人类历史上最伟大的变革之一。",
+          "url": "https://flash.jin10.com/detail/20260219152457316800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "印度AI峰会2月18日要点总结",
           "url": "https://wallstreetcn.com/livenews/3056423",
           "source": "华尔街见闻-快讯",
@@ -516,7 +555,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
@@ -527,8 +566,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时00分 ~ 15时00分]"
+          "appearance_count": 20,
+          "time_info": "[01时00分 ~ 15时54分]"
         },
         {
           "title": "今年春晚，机器人刷屏了",
@@ -562,11 +601,29 @@
             5,
             10,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时00分 ~ 15时00分]"
+          "appearance_count": 20,
+          "time_info": "[01时00分 ~ 15时54分]"
+        },
+        {
+          "title": "外网如何评价春晚机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E7%BD%91%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            30,
+            19,
+            18,
+            24,
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时55分 ~ 15时54分]"
         },
         {
           "title": "未来的春晚机器人be like",
@@ -579,11 +636,12 @@
             5,
             12,
             22,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时00分 ~ 13时57分]"
+          "appearance_count": 18,
+          "time_info": "[01时00分 ~ 15时54分]"
         },
         {
           "title": "春晚机器人厉害在哪里",
@@ -597,22 +655,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时00分 ~ 09时55分]"
-        },
-        {
-          "title": "外网如何评价春晚机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E7%BD%91%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            30,
-            19,
-            18,
-            24,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时55分 ~ 15时00分]"
         },
         {
           "title": "机器人扎堆,亮眼还是视疲劳",
@@ -691,6 +733,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时18分 ~ 12时19分]"
+        },
+        {
+          "title": "机器人跳舞摔倒 小伙查看时脸被踢伤",
+          "url": "https://www.toutiao.com/trending/7607645107097288767/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
+        },
+        {
+          "title": "春晚机器人如何完成高难度动作",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A6%82%E4%BD%95%E5%AE%8C%E6%88%90%E9%AB%98%E9%9A%BE%E5%BA%A6%E5%8A%A8%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
         },
         {
           "title": "台名嘴看春晚机器人表演感慨太神了",
@@ -827,8 +891,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
+          "url": "https://wallstreetcn.com/livenews/3056596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
         {
           "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3056559",
@@ -945,11 +1020,12 @@
             11,
             10,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时55分 ~ 15时00分]"
+          "appearance_count": 18,
+          "time_info": "[01时55分 ~ 15时54分]"
         },
         {
           "title": "豆包声称已完整证明了黎曼猜想，可信度如何？",
