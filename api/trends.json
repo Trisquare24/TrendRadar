@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T07:27:58.041054+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-02-20T09:51:39.146642+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时48分 ~ 09时51分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -28,41 +28,44 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时48分 ~ 09时51分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时48分 ~ 09时51分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时48分 ~ 09时51分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时48分 ~ 09时51分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -72,8 +75,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时48分 ~ 09时51分]"
         },
         {
           "title": "英媒：Meta连续第二年削减员工激励 全力转向AI军备竞赛",
@@ -82,9 +85,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3056842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "埃森哲发出最后通牒：管理层若不使用AI将无缘晋升",
+          "url": "https://wallstreetcn.com/livenews/3056838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
@@ -146,8 +171,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时28分 ~ 07时27分]"
+          "appearance_count": 4,
+          "time_info": "[06时28分 ~ 09时51分]"
         },
         {
           "title": "英国政府：人工智能安全研究所的对齐项目得到包括亚马逊云服务、Anthropic等在内的国际联盟支持。",
@@ -169,7 +194,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -191,7 +216,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -202,9 +227,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "港股AI应用股走强，海致科技集团(02706.HK)大涨15%、MINIMAX-WP(00100.HK)、智谱(02513.HK)涨超5%，速腾聚创(02498.HK)涨4.42%。",
+          "url": "https://flash.jin10.com/detail/20260220092855183800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "欧洲头部AI公司的CEO警告：AI由少数企业主导恐致市场滥用",
@@ -232,7 +268,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
@@ -244,6 +280,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时48分 ~ 07时27分]"
+        },
+        {
+          "title": "韩国人怎么评价春晚机器人表演",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E8%AF%84%E4%BB%B7%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%A8%E6%BC%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时29分 ~ 09时51分]"
         },
         {
           "title": "春晚机器人如何完成高难度动作",
@@ -258,31 +307,34 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时48分 ~ 09时51分]"
         },
         {
           "title": "机器人变印度造,三哥真敢吹",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350767&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%98%E5%8D%B0%E5%BA%A6%E9%80%A0%2C%E4%B8%89%E5%93%A5%E7%9C%9F%E6%95%A2%E5%90%B9",
           "source": "贴吧",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时48分 ~ 09时51分]"
         },
         {
-          "title": "韩国人怎么评价春晚机器人表演",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E8%AF%84%E4%BB%B7%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%A8%E6%BC%94",
-          "source": "bilibili 热搜",
+          "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
+          "url": "https://www.cls.cn/detail/2291772",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            3
+            13,
+            12,
+            11,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时29分 ~ 07时27分]"
+          "appearance_count": 8,
+          "time_info": "[03时37分 ~ 09时51分]"
         },
         {
           "title": "未来的春晚机器人be like",
@@ -292,24 +344,12 @@
             28,
             29,
             30,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 07时27分]"
-        },
-        {
-          "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
-          "url": "https://www.cls.cn/detail/2291772",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时37分 ~ 07时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 09时51分]"
         },
         {
           "title": "机器人跳舞摔倒 小伙查看时脸被踢伤",
@@ -337,13 +377,35 @@
           "time_info": "[02时46分 ~ 02时47分]"
         },
         {
+          "title": "外媒：中国机器人让西方产品相形见绌",
+          "url": "https://www.toutiao.com/trending/7608717188911861298/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "“马年科技春晚”让买机器人的股民都松了一口气？节前资金已挤入ETF",
+          "url": "https://www.cls.cn/detail/2291748",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "春晚同款机器人申请加赛",
           "url": "https://www.douyin.com/hot/2405908",
           "source": "抖音",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         }
@@ -351,7 +413,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -363,19 +425,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时48分 ~ 09时51分]"
         },
         {
           "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
           "url": "https://wallstreetcn.com/livenews/3056822",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 09时51分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -401,6 +464,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时29分]"
+        },
+        {
+          "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3056832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     },
@@ -449,6 +523,45 @@
       ]
     },
     {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "恒生科技指数延续跌势，下跌2%，百度(09888.HK)跌4.7%，网易-S(09999.HK)跌超4%，阿里健康(00241.HK)下跌2.43%。",
+          "url": "https://flash.jin10.com/detail/20260220094304931800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌0.4%。 热门中概股里，晶科能源初步收跌2.4%，携程跌2.2%，百胜中国、奇富科技、文远知行跌超1%，阿里巴巴跌0.9%，百度跌0.7%，万国数据、金山云、大全新能源至少涨0.6%，华住涨1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3056768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大至1%，成分股百度(09888.HK)盘初下跌3.92%，哔哩哔哩(09626.HK)跌3.47%，阿里巴巴(09988.HK)跌近3%。",
+          "url": "https://flash.jin10.com/detail/20260220093224063800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -467,19 +580,19 @@
       ]
     },
     {
-      "keyword_group": "阿里 Qwen",
+      "keyword_group": "字节 Kimi 豆包",
       "match_count": 1,
       "titles": [
         {
-          "title": "纳斯达克金龙中国指数初步收跌0.4%。 热门中概股里，晶科能源初步收跌2.4%，携程跌2.2%，百胜中国、奇富科技、文远知行跌超1%，阿里巴巴跌0.9%，百度跌0.7%，万国数据、金山云、大全新能源至少涨0.6%，华住涨1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3056768",
-          "source": "华尔街见闻-快讯",
+          "title": "镖人片尾是用豆包做的",
+          "url": "https://www.douyin.com/hot/2406034",
+          "source": "抖音",
           "ranks": [
-            8
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时30分"
+          "time_info": "09时51分"
         }
       ]
     }
