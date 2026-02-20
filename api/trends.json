@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T20:53:25.212829+08:00",
-  "total_titles_processed": 1606,
+  "generated_at": "2026-02-20T22:00:19.528142+08:00",
+  "total_titles_processed": 1727,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时48分 ~ 09时51分]"
+        },
+        {
+          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
+          "url": "https://wallstreetcn.com/articles/3765892",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时37分 ~ 22时00分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -40,11 +52,12 @@
             2,
             13,
             7,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时53分 ~ 20时53分]"
+          "appearance_count": 10,
+          "time_info": "[14时53分 ~ 22时00分]"
         },
         {
           "title": "澎湃AI晚新闻丨2026年2月19日",
@@ -56,11 +69,12 @@
             14,
             13,
             12,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时13分 ~ 20时53分]"
+          "appearance_count": 12,
+          "time_info": "[12时13分 ~ 22时00分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -71,23 +85,12 @@
             10,
             13,
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时48分 ~ 20时53分]"
-        },
-        {
-          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
-          "url": "https://wallstreetcn.com/articles/3765892",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时37分 ~ 20时53分]"
+          "appearance_count": 25,
+          "time_info": "[00时48分 ~ 22时00分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -98,11 +101,12 @@
             13,
             16,
             19,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时48分 ~ 20时53分]"
+          "appearance_count": 25,
+          "time_info": "[00时48分 ~ 22时00分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -127,6 +131,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时48分 ~ 09时51分]"
+        },
+        {
+          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
+          "url": "https://wallstreetcn.com/articles/3765896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时37分 ~ 22时00分]"
         },
         {
           "title": "男子用AI鉴定玉石8个月收入上百万",
@@ -220,19 +237,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时37分 ~ 19时30分]"
-        },
-        {
-          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
-          "url": "https://wallstreetcn.com/articles/3765896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时37分 ~ 20时53分]"
         },
         {
           "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
@@ -350,6 +354,42 @@
           "time_info": "[06时28分 ~ 09时51分]"
         },
         {
+          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
+          "url": "https://wallstreetcn.com/articles/3765898",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时30分 ~ 22时00分]"
+        },
+        {
+          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
+          "url": "https://www.cls.cn/detail/2291704",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时30分 ~ 22时00分]"
+        },
+        {
+          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
+          "url": "https://www.cls.cn/detail/2292111",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 22时00分]"
+        },
+        {
           "title": "英国政府：人工智能安全研究所的对齐项目得到包括亚马逊云服务、Anthropic等在内的国际联盟支持。",
           "url": "https://flash.jin10.com/detail/20260220020608060800",
           "source": "金十数据",
@@ -374,6 +414,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时38分 ~ 19时30分]"
+        },
+        {
+          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 22时00分]"
         },
         {
           "title": "印度总理莫迪：在与联合国秘书长古特雷斯的会议中，我们讨论了如何让人工智能更加包容，以及联合国在这方面可以发挥的建设性作用。",
@@ -412,29 +464,6 @@
           "time_info": "[19时30分 ~ 20时53分]"
         },
         {
-          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
-          "url": "https://wallstreetcn.com/articles/3765898",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时30分 ~ 20时53分]"
-        },
-        {
-          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
-          "url": "https://www.cls.cn/detail/2291704",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时30分 ~ 20时53分]"
-        },
-        {
           "title": "港股大模型概念股涨幅扩大，智谱大涨近33%，海致科技集团现涨24%，MINIMAX涨逾14%。",
           "url": "https://wallstreetcn.com/livenews/3056870",
           "source": "华尔街见闻-快讯",
@@ -445,6 +474,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时46分 ~ 16时37分]"
+        },
+        {
+          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
+          "url": "https://www.zhihu.com/question/2005731383423824873",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时00分]"
+        },
+        {
+          "title": "我国科学家用天文AI模型绘制“极致深空图”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636176",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时00分]"
+        },
+        {
+          "title": "港股“AI新秀”板块逆势狂飙",
+          "url": "https://www.toutiao.com/trending/7608932922317344275/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时00分]"
         },
         {
           "title": "据英国金融时报：马克·扎克伯格削减成本以为巨额人工智能支出留出资金，大多数Meta公司员工的股权奖励将减少5%。",
@@ -489,17 +551,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
-        },
-        {
-          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
-          "url": "https://www.cls.cn/detail/2292111",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
         },
         {
           "title": "港股AI应用股走强",
@@ -563,18 +614,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -626,7 +666,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "从舞王到武王，机器人集群控制技术首亮相！宇树科技王兴兴：预计今年出货量达1-2万台",
@@ -644,11 +684,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350801&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%AA%E7%A7%80%2C%E7%99%BD%E7%9A%AE%E8%BD%AC%E8%A1%8C%E5%96%B7%E7%8E%AF%E4%BF%9D",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时52分 ~ 20时53分]"
+          "appearance_count": 11,
+          "time_info": "[13时52分 ~ 22时00分]"
         },
         {
           "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
@@ -662,8 +703,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时37分 ~ 20时53分]"
+          "appearance_count": 20,
+          "time_info": "[03时37分 ~ 22时00分]"
         },
         {
           "title": "韩国人怎么评价春晚机器人表演",
@@ -690,8 +731,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时51分 ~ 20时53分]"
+          "appearance_count": 13,
+          "time_info": "[09时51分 ~ 22时00分]"
         },
         {
           "title": "春晚机器人如何完成高难度动作",
@@ -719,11 +760,12 @@
             20,
             23,
             26,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时48分 ~ 20时53分]"
+          "appearance_count": 25,
+          "time_info": "[00时48分 ~ 22时00分]"
         },
         {
           "title": "未来的春晚机器人be like",
@@ -770,6 +812,17 @@
           "time_info": "[02时46分 ~ 06时29分]"
         },
         {
+          "title": "台媒酸了:春晚机器人是合成",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350811&amp;topic_name=%E5%8F%B0%E5%AA%92%E9%85%B8%E4%BA%86%3A%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%AF%E5%90%88%E6%88%90",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时00分]"
+        },
+        {
           "title": "图灵奖得主评人形机器人表演功夫",
           "url": "https://www.toutiao.com/trending/7608841641125744191/",
           "source": "今日头条",
@@ -809,6 +862,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时52分 ~ 16时37分]"
+        },
+        {
+          "title": "机器人为什么一定是人形",
+          "url": "https://www.toutiao.com/trending/7608900578059488831/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 22时00分]"
         },
         {
           "title": "外媒：春晚机器人让外国网友破防",
@@ -853,7 +918,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -867,17 +932,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
-        },
-        {
-          "title": "机器人为什么一定是人形",
-          "url": "https://www.toutiao.com/trending/7608900578059488831/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
         },
         {
           "title": "春节机器人卖爆了",
@@ -927,7 +981,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -987,7 +1041,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         }
