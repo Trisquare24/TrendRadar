@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T02:32:17.575611+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-02-23T03:23:21.536195+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时23分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时23分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时23分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时23分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -60,19 +60,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时23分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
           "url": "https://www.douyin.com/hot/2407569",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时23分]"
         }
       ]
     },
@@ -89,8 +90,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时23分]"
         },
         {
           "title": "台媒酸了:春晚机器人是合成",
@@ -101,8 +102,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时23分]"
         },
         {
           "title": "机器人太秀,白皮转行喷环保",
@@ -112,8 +113,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时23分]"
         }
       ]
     },
@@ -129,8 +130,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时23分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -140,8 +141,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时23分]"
         }
       ]
     },
@@ -159,8 +160,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时23分]"
         }
       ]
     }
