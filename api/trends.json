@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T17:28:48.306511+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-02-22T18:22:22.320125+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 17时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 18时22分]"
         },
         {
           "title": "莫迪举手全场欢呼 两大AI掌门人却各自握拳尴尬对峙",
@@ -43,11 +43,12 @@
             15,
             16,
             22,
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时54分 ~ 17时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时54分 ~ 18时22分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
@@ -58,8 +59,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 18时22分]"
         },
         {
           "title": "光谷重点企业春节不停工，开足马力忙生产，AI高速光模块订单排到四季度",
@@ -93,22 +94,36 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 18时22分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
           "url": "https://www.cls.cn/detail/2292422",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 18时22分]"
+        },
+        {
+          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
+          "url": "https://wallstreetcn.com/articles/3765949",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时22分]"
         },
         {
           "title": "印度AI峰会为何引发全球群嘲",
@@ -131,17 +146,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时26分]"
-        },
-        {
-          "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
-          "url": "https://wallstreetcn.com/articles/3765949",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "央视军事最新AI大片发布",
@@ -213,8 +217,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 17时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 18时22分]"
         },
         {
           "title": "“春晚版熊猫机器人”拍出近6万高价",
@@ -244,8 +248,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 17时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 18时22分]"
         },
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -256,8 +260,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时50分 ~ 17时28分]"
+          "appearance_count": 7,
+          "time_info": "[13时50分 ~ 18时22分]"
         },
         {
           "title": "王兴兴：机器人技术接近10岁孩子水平",
@@ -303,25 +307,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "实测Gemini 3.1 Pro",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            10,
-            11,
-            9,
-            8,
-            5,
-            13,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 17时28分]"
-        },
-        {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
           "url": "https://wallstreetcn.com/articles/3765938",
           "source": "华尔街见闻",
@@ -334,8 +319,28 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时54分 ~ 17时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时54分 ~ 18时22分]"
+        },
+        {
+          "title": "实测Gemini 3.1 Pro",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            10,
+            11,
+            9,
+            8,
+            5,
+            13,
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 18时22分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -364,8 +369,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 17时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 18时22分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -374,11 +379,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时34分 ~ 17时28分]"
+          "appearance_count": 5,
+          "time_info": "[15时34分 ~ 18时22分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -420,11 +426,12 @@
             11,
             12,
             17,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时15分 ~ 17时28分]"
+          "appearance_count": 7,
+          "time_info": "[12时15分 ~ 18时22分]"
         }
       ]
     },
@@ -444,8 +451,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 18时22分]"
         }
       ]
     },
