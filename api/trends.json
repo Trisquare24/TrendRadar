@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T16:45:35.567490+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-02-23T17:52:43.961971+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 16时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 17时52分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -65,8 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 16时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 17时52分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -93,8 +93,23 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 17时52分]"
+        },
+        {
+          "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
+          "url": "https://wallstreetcn.com/articles/3765968",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时55分 ~ 16时45分]"
+          "time_info": "[12时23分 ~ 17时52分]"
         },
         {
           "title": "在你的专业领域，大模型目前最难跨越的一道「门坎」是什么？",
@@ -120,18 +135,18 @@
           "time_info": "07时23分"
         },
         {
-          "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
-          "url": "https://wallstreetcn.com/articles/3765968",
+          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
+          "url": "https://wallstreetcn.com/articles/3765976",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
+            9,
+            8,
             6,
             4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时23分 ~ 16时45分]"
+          "time_info": "[14时04分 ~ 17时52分]"
         },
         {
           "title": "恒生科技指数日内涨幅扩大至3%，美团涨超5%，华虹半导体、中芯国际涨超4%。 港股大模型概念跌幅扩大，智谱跌超17%，MINIMAX跌超11%。",
@@ -159,17 +174,28 @@
           "time_info": "[05时22分 ~ 07时23分]"
         },
         {
-          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
-          "url": "https://wallstreetcn.com/articles/3765976",
-          "source": "华尔街见闻",
+          "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
+          "url": "https://www.zhihu.com/question/2008217541886043272",
+          "source": "知乎",
           "ranks": [
-            9,
-            8,
-            6
+            11,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时04分 ~ 16时45分]"
+          "time_info": "[15时53分 ~ 17时52分]"
+        },
+        {
+          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
+          "url": "https://wallstreetcn.com/articles/3765970",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 17时52分]"
         },
         {
           "title": "蚂蚁集团AI业务春节加速：支付宝“AI付”、蚂蚁阿福APP用户数双破亿",
@@ -184,15 +210,16 @@
           "time_info": "[12时23分 ~ 14时04分]"
         },
         {
-          "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
-          "url": "https://www.zhihu.com/question/2008217541886043272",
+          "title": "人工智能真的会让程序员在 5 年内失业吗？",
+          "url": "https://www.zhihu.com/question/617906623",
           "source": "知乎",
           "ranks": [
-            11
+            17,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时53分 ~ 16时45分]"
+          "time_info": "[16时45分 ~ 17时52分]"
         },
         {
           "title": "2026 大模型春节档陆续更新发布，你的使用体验如何？",
@@ -207,17 +234,6 @@
           "time_info": "[12时23分 ~ 14时04分]"
         },
         {
-          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
-          "url": "https://wallstreetcn.com/articles/3765970",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
           "title": "人工智能热潮提振芯片需求 韩国出口延续强劲势头",
           "url": "https://flash.jin10.com/detail/20260223084535159800",
           "source": "金十数据",
@@ -227,17 +243,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
-        },
-        {
-          "title": "人工智能真的会让程序员在 5 年内失业吗？",
-          "url": "https://www.zhihu.com/question/617906623",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
         },
         {
           "title": "受惠于AI热潮 泰国出口创四年来最大增幅",
@@ -284,11 +289,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 16时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 17时52分]"
         },
         {
           "title": "台媒酸了:春晚机器人是合成",
@@ -324,8 +330,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 16时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 17时52分]"
+        },
+        {
+          "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
+          "url": "https://www.cls.cn/detail/2292720",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 17时52分]"
         },
         {
           "title": "量增价跌！机器人表演租赁“出圈”",
@@ -338,17 +356,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时55分 ~ 12时23分]"
-        },
-        {
-          "title": "假期要闻汇总：美最高法院裁定关税违法，中方回应；马年春晚带动机器人搜索量环比增长超300%",
-          "url": "https://www.cls.cn/detail/2292720",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
         }
       ]
     },
@@ -365,8 +372,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 16时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 17时52分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
