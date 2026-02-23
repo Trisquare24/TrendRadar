@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T17:52:43.961971+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-02-23T18:48:09.274709+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 17时52分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 18时48分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -65,8 +65,23 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 17时52分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 18时48分]"
+        },
+        {
+          "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
+          "url": "https://wallstreetcn.com/articles/3765968",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时23分 ~ 18时48分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -97,19 +112,18 @@
           "time_info": "[09时55分 ~ 17时52分]"
         },
         {
-          "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
-          "url": "https://wallstreetcn.com/articles/3765968",
+          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
+          "url": "https://wallstreetcn.com/articles/3765976",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
+            9,
+            8,
             6,
-            4,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时23分 ~ 17时52分]"
+          "appearance_count": 6,
+          "time_info": "[14时04分 ~ 18时48分]"
         },
         {
           "title": "在你的专业领域，大模型目前最难跨越的一道「门坎」是什么？",
@@ -135,18 +149,17 @@
           "time_info": "07时23分"
         },
         {
-          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
-          "url": "https://wallstreetcn.com/articles/3765976",
+          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
+          "url": "https://wallstreetcn.com/articles/3765970",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             8,
-            6,
-            4
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时04分 ~ 17时52分]"
+          "time_info": "[16时45分 ~ 18时48分]"
         },
         {
           "title": "恒生科技指数日内涨幅扩大至3%，美团涨超5%，华虹半导体、中芯国际涨超4%。 港股大模型概念跌幅扩大，智谱跌超17%，MINIMAX跌超11%。",
@@ -174,6 +187,18 @@
           "time_info": "[05时22分 ~ 07时23分]"
         },
         {
+          "title": "人工智能真的会让程序员在 5 年内失业吗？",
+          "url": "https://www.zhihu.com/question/617906623",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时45分 ~ 18时48分]"
+        },
+        {
           "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
           "url": "https://www.zhihu.com/question/2008217541886043272",
           "source": "知乎",
@@ -186,18 +211,6 @@
           "time_info": "[15时53分 ~ 17时52分]"
         },
         {
-          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
-          "url": "https://wallstreetcn.com/articles/3765970",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 17时52分]"
-        },
-        {
           "title": "蚂蚁集团AI业务春节加速：支付宝“AI付”、蚂蚁阿福APP用户数双破亿",
           "url": "https://wallstreetcn.com/livenews/3057338",
           "source": "华尔街见闻-快讯",
@@ -208,18 +221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 14时04分]"
-        },
-        {
-          "title": "人工智能真的会让程序员在 5 年内失业吗？",
-          "url": "https://www.zhihu.com/question/617906623",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 17时52分]"
         },
         {
           "title": "2026 大模型春节档陆续更新发布，你的使用体验如何？",
@@ -281,7 +282,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "春晚人形机器人“大秀肌肉”背后：A股新材料产业链多点突破 这些企业抢占赛道先机",
@@ -293,8 +294,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 17时52分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 18时48分]"
         },
         {
           "title": "台媒酸了:春晚机器人是合成",
@@ -339,11 +340,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 17时52分]"
+          "appearance_count": 4,
+          "time_info": "[16时45分 ~ 18时48分]"
         },
         {
           "title": "量增价跌！机器人表演租赁“出圈”",
@@ -356,6 +358,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时55分 ~ 12时23分]"
+        },
+        {
+          "title": "王兴兴称机器人技术接近 10 岁孩子水平，杨立昆称当下人形机器人常识水平不如猫，谁的说法更接近现实？",
+          "url": "https://www.zhihu.com/question/2008851829849604675",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
+          "title": "机器人亮相天坛",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E5%A4%A9%E5%9D%9B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
         }
       ]
     },
@@ -372,8 +396,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 17时52分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 18时48分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
