@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T20:58:50.569611+08:00",
-  "total_titles_processed": 1737,
+  "generated_at": "2026-02-25T22:11:23.745974+08:00",
+  "total_titles_processed": 1848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 69,
+      "match_count": 73,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时39分 ~ 20时58分]"
+          "appearance_count": 12,
+          "time_info": "[07时39分 ~ 22时11分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -76,8 +76,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时58分 ~ 20时58分]"
+          "appearance_count": 18,
+          "time_info": "[02时58分 ~ 22时11分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -166,6 +166,20 @@
           "time_info": "[09时54分 ~ 15时08分]"
         },
         {
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时19分 ~ 22时11分]"
+        },
+        {
           "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
           "url": "https://www.cls.cn/detail/2294409",
           "source": "财联社热门",
@@ -177,20 +191,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时19分 ~ 18时48分]"
-        },
-        {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时19分 ~ 20时58分]"
         },
         {
           "title": "部分审稿意见高度疑似由AI生成，期刊发声：审稿专家应珍惜学术信任",
@@ -217,6 +217,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时39分 ~ 16时44分]"
+        },
+        {
+          "title": "市场消息：墨西哥选举改革将要求在竞选活动中对人工智能生成内容进行标识。",
+          "url": "https://flash.jin10.com/detail/20260225220244476800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "反向逻辑：城堡证券驳斥Citrini的“AI危机”设想",
@@ -463,6 +474,18 @@
           "time_info": "[02时58分 ~ 03时50分]"
         },
         {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 22时11分]"
+        },
+        {
           "title": "美联储柯林斯：到目前为止，人工智能一直在增强而非取代劳动力。",
           "url": "https://flash.jin10.com/detail/20260225045310493800",
           "source": "金十数据",
@@ -497,6 +520,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时39分]"
+        },
+        {
+          "title": "债市交易员押注美联储明年将继续降息 AI对就业的影响促使市场重估",
+          "url": "https://wallstreetcn.com/livenews/3058865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 22时11分]"
         },
         {
           "title": "美联储柯林斯：对人工智能的经济影响持谨慎乐观态度。",
@@ -556,6 +591,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "城堡证券反驳Citrini报告 认为人工智能不太可能引发大规模失业",
+          "url": "https://wallstreetcn.com/livenews/3058897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "AI开始雇佣人类",
           "url": "https://www.toutiao.com/trending/7609867693969178633/",
           "source": "今日头条",
@@ -565,6 +611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "荷兰国际：逃离人工智能动荡的投资者可能转向欧元债券",
+          "url": "https://flash.jin10.com/detail/20260225214840051800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "惠普(HPQ.N)CFO：第一季度搭载人工智能技术的个人电脑占总出货量的35%，高于上一季度的30%。",
@@ -578,17 +635,6 @@
           "time_info": "07时39分"
         },
         {
-          "title": "韩女子用AI精密策划诱杀致2死1伤",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
           "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
           "url": "https://wallstreetcn.com/articles/3766102",
           "source": "华尔街见闻",
@@ -600,15 +646,15 @@
           "time_info": "18时25分"
         },
         {
-          "title": "债市交易员押注美联储明年将继续降息 AI对就业的影响促使市场重估",
-          "url": "https://wallstreetcn.com/livenews/3058865",
+          "title": "德银与高盛寻求借助人工智能“盯防”交易员不当行为",
+          "url": "https://wallstreetcn.com/livenews/3058893",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时58分"
+          "time_info": "22时11分"
         },
         {
           "title": "AI投资热潮带动电力基建需求 机构称这些环节有望放量",
@@ -782,7 +828,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -879,8 +925,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时59分 ~ 20时58分]"
+          "appearance_count": 7,
+          "time_info": "[13时59分 ~ 22时11分]"
         },
         {
           "title": "宇树发布新款四足机器人",
@@ -942,6 +988,74 @@
       ]
     },
     {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "字节跳动超 400 亿元出售沐瞳科技，对其游戏业务意味着什么？",
+          "url": "https://www.zhihu.com/question/2006631956604003126",
+          "source": "知乎",
+          "ranks": [
+            12,
+            16,
+            6,
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时03分 ~ 12时19分]"
+        },
+        {
+          "title": "Kimi 推出 Kimi Claw 并原生集成 OpenClaw，有哪些技术亮点？",
+          "url": "https://www.zhihu.com/question/2006515599161958531",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时31分 ~ 09时55分]"
+        },
+        {
+          "title": "字节跳动PICO或将发布新款VR头显",
+          "url": "https://wallstreetcn.com/livenews/3058765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时48分]"
+        },
+        {
+          "title": "字节跳动新估值，5500亿美元！",
+          "url": "https://wallstreetcn.com/articles/3766156",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
+          "title": "字节跳动在拟议的股票出售中估值达5500亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3058742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -990,63 +1104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "字节 Kimi 豆包",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "字节跳动超 400 亿元出售沐瞳科技，对其游戏业务意味着什么？",
-          "url": "https://www.zhihu.com/question/2006631956604003126",
-          "source": "知乎",
-          "ranks": [
-            12,
-            16,
-            6,
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时03分 ~ 12时19分]"
-        },
-        {
-          "title": "Kimi 推出 Kimi Claw 并原生集成 OpenClaw，有哪些技术亮点？",
-          "url": "https://www.zhihu.com/question/2006515599161958531",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时31分 ~ 09时55分]"
-        },
-        {
-          "title": "字节跳动PICO或将发布新款VR头显",
-          "url": "https://wallstreetcn.com/livenews/3058765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时48分]"
-        },
-        {
-          "title": "字节跳动在拟议的股票出售中估值达5500亿美元。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3058742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         }
       ]
     },
