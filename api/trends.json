@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T13:56:16.905825+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2026-02-26T14:57:23.821072+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
@@ -77,11 +77,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 13时56分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 14时57分]"
         },
         {
           "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
@@ -94,8 +95,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时26分 ~ 13时56分]"
+          "appearance_count": 7,
+          "time_info": "[07时26分 ~ 14时57分]"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3766208",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时57分]"
         },
         {
           "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
@@ -106,20 +120,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时57分]"
         },
         {
-          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3766208",
-          "source": "华尔街见闻",
+          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
+          "url": "https://www.cls.cn/detail/2295445",
+          "source": "财联社热门",
           "ranks": [
+            8,
             6,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时57分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-26）",
@@ -169,28 +184,28 @@
           "time_info": "[05时33分 ~ 06时46分]"
         },
         {
-          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
-          "url": "https://www.cls.cn/detail/2295445",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 13时56分]"
-        },
-        {
           "title": "AI圈爆火的FARS是什么",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            30
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时14分 ~ 14时57分]"
+        },
+        {
+          "title": "如何看待字节、阿里、腾讯春节耗资数十亿推广 AI 应用？当补贴退潮，还有多少用户会主动打开这些应用？",
+          "url": "https://www.zhihu.com/question/2009656278029456894",
+          "source": "知乎",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时14分 ~ 13时56分]"
+          "time_info": "[12时14分 ~ 14时57分]"
         },
         {
           "title": "英伟达(NVDA.O) CFO：公司预计主权计算业务的增长将与其人工智能基础设施业务保持同步。",
@@ -239,17 +254,6 @@
           "time_info": "[05时32分 ~ 05时33分]"
         },
         {
-          "title": "如何看待字节、阿里、腾讯春节耗资数十亿推广 AI 应用？当补贴退潮，还有多少用户会主动打开这些应用？",
-          "url": "https://www.zhihu.com/question/2009656278029456894",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
-        },
-        {
           "title": "AI帮你选对发型",
           "url": "https://www.douyin.com/hot/2411301",
           "source": "抖音",
@@ -281,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "高盛首次覆盖MiniMax：全球化最强的中国大模型！",
+          "url": "https://wallstreetcn.com/articles/3766190",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "英伟达(NVDA.O) CFO：具身、物理AI应用开始推动财务业绩。",
@@ -355,7 +370,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         }
@@ -422,7 +437,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -452,7 +467,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌公司在欧盟抱怨之后测试搜索引擎的修改。（路透）",
@@ -477,6 +492,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时33分]"
+        },
+        {
+          "title": "马来西亚总理：这项投资涵盖了谷歌在马来西亚首个数据中心和云服务基础设施的开发和运营。该项目投入运营后，预计到2030年将带来32亿美元的经济效益，并创造26,500个就业岗位。",
+          "url": "https://flash.jin10.com/detail/20260226141522219800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "马来西亚总理：与Alphabet和谷歌的总裁兼首席投资官Ruth Porat及其团队进行了视频会议。我们讨论了谷歌在马来西亚的20亿美元投资进展。该项目进展顺利，超出了最初的预期。",
+          "url": "https://flash.jin10.com/detail/20260226141504282800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "谷歌：Chat现在成为Gemini APP的一个数据源。",
@@ -540,11 +588,12 @@
           "url": "https://wallstreetcn.com/livenews/3059300",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 14时57分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.47%，报7545.55点。 热门中概股里，阿特斯太阳能初步收跌5.3%，新东方跌5.1%，大全新能源跌2.9%，小鹏跌2.7%，万国数据跌2.4%，网易、理想跌超1%，阿里、腾讯至多跌约0.5%，唯品会涨1.9%，亚朵涨2.5%，贝壳涨3%，老虎证券涨4.2%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨1.26%，XtrackersHarvest中证50（ASHS）收涨2.26%。 中概互联网指数ETF（KWEB）收跌0.03%，中国科技指数ETF（CQQQ）收涨0.41%。",
@@ -569,11 +618,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时27分 ~ 13时56分]"
+          "appearance_count": 15,
+          "time_info": "[01时27分 ~ 14时57分]"
         }
       ]
     }
