@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T14:49:38.817777+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-02-27T15:44:39.706265+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -51,8 +51,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 15时44分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -64,11 +64,12 @@
             11,
             15,
             14,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时55分 ~ 14时49分]"
+          "appearance_count": 16,
+          "time_info": "[00时55分 ~ 15时44分]"
         },
         {
           "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
@@ -79,8 +80,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 14时49分]"
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 15时44分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -96,6 +97,69 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时55分 ~ 07时27分]"
+        },
+        {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
+          "url": "https://wallstreetcn.com/articles/3766280",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 15时44分]"
+        },
+        {
+          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2296619",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 15时44分]"
+        },
+        {
+          "title": "演员王劲松发文怒斥被AI盗用",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5%E8%A2%ABAI%E7%9B%97%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            5,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时44分]"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 15时44分]"
         },
         {
           "title": "押注AI提升公司效率 Block拟裁员近半",
@@ -122,17 +186,30 @@
           "time_info": "[13时50分 ~ 14时49分]"
         },
         {
-          "title": "演员王劲松发文怒斥被AI盗用",
-          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5%E8%A2%ABAI%E7%9B%97%E7%94%A8",
-          "source": "百度热搜",
+          "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
+          "url": "https://www.zhihu.com/question/2010325819092903282",
+          "source": "知乎",
           "ranks": [
-            26,
-            5,
-            17
+            10,
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时44分]"
+        },
+        {
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 15时44分]"
         },
         {
           "title": "戴尔科技财年四季度总体净营收333.8亿美元，分析师预期317.4亿美元。 四季度基础设施解决方案集团经营户艘196.0亿美元。 四季度AI服务器发货95亿美元，分析师预期94.4亿美元。 四季度AI订单积压430亿美元，AI订单341亿美元。 四季度经过AI优化之后的服务器营收90亿美元。 将年度股票分红提高20%，将股票回购规模扩大100亿美元。 预计2027财年营收1380亿-1420亿美元，分析师预期1262.8亿美元。 预计2027财年经AI优化的服务器营收将达到约500亿美元。 预计一季度营收347亿-357亿美元，分析师预期293亿美元",
@@ -145,55 +222,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时30分 ~ 06时31分]"
-        },
-        {
-          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
-          "url": "https://wallstreetcn.com/articles/3766280",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 14时49分]"
-        },
-        {
-          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
-          "url": "https://www.cls.cn/detail/2296619",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 14时49分]"
-        },
-        {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 14时49分]"
-        },
-        {
-          "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
-          "url": "https://www.zhihu.com/question/2010325819092903282",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时49分]"
         },
         {
           "title": "Meta持续投资AI，用于监测Cloaking。",
@@ -221,16 +249,17 @@
           "time_info": "[00时55分 ~ 03时42分]"
         },
         {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
-          "source": "华尔街见闻",
+          "title": "两会前瞻｜围绕人工智能发展，代表委员将带来哪些建议？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660481",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            9
+            18,
+            17,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时49分]"
+          "time_info": "[12时11分 ~ 15时44分]"
         },
         {
           "title": "中国AI调用量首次超过美国",
@@ -315,18 +344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 02时49分]"
-        },
-        {
-          "title": "两会前瞻｜围绕人工智能发展，代表委员将带来哪些建议？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660481",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 14时49分]"
         },
         {
           "title": "晨星：AI红利释放无需以裁员为代价 企业应聚焦价值创造",
@@ -475,7 +492,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "谷歌推出最新图像模型Nano Banana 2",
@@ -549,6 +566,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时27分]"
+        },
+        {
+          "title": "谷歌的“豆包手机”来了？",
+          "url": "https://news.ifeng.com/c/8r5Hb8yN4Fm",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "韩国批准谷歌的地图数据出口申请。",
@@ -642,7 +670,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "机器人加快走进百姓生活",
@@ -667,11 +695,12 @@
             14,
             5,
             7,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时55分 ~ 14时49分]"
+          "appearance_count": 16,
+          "time_info": "[00时55分 ~ 15时44分]"
         },
         {
           "title": "日本一大学把宇树机器人改成僧侣",
@@ -726,6 +755,17 @@
           "time_info": "[06时31分 ~ 07时27分]"
         },
         {
+          "title": "菜菜子re评机器人小品",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8F%9C%E8%8F%9C%E5%AD%90re%E8%AF%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%8F%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "德国总理为宇树机器人竖大拇指",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E4%B8%BA%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%96%E5%A4%A7%E6%8B%87%E6%8C%87%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -735,6 +775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "未来战争如果机器人完全取代了人类士兵，是否会出现到人类的意志对战争形势无法起到任何影响的情况?",
+          "url": "https://www.zhihu.com/question/536760105",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "机器人租赁火出圈 有企业机器人租赁订单排到3月底",
@@ -782,11 +833,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            5
+            5,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 14时49分]"
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 15时44分]"
         },
         {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
