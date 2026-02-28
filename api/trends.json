@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T09:41:02.450202+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-02-28T11:52:59.494137+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -62,11 +62,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 09时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 11时52分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -86,6 +87,17 @@
           "time_info": "[00时37分 ~ 09时41分]"
         },
         {
+          "title": "AI提供的虚拟微信号加到了真人",
+          "url": "https://www.baidu.com/s?wd=AI%E6%8F%90%E4%BE%9B%E7%9A%84%E8%99%9A%E6%8B%9F%E5%BE%AE%E4%BF%A1%E5%8F%B7%E5%8A%A0%E5%88%B0%E4%BA%86%E7%9C%9F%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
           "title": "中国AI调用量超越美国",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
           "source": "bilibili 热搜",
@@ -99,15 +111,38 @@
           "time_info": "[04时24分 ~ 07时21分]"
         },
         {
-          "title": "AI算力需求驱动光纤行业步入景气周期",
-          "url": "https://wallstreetcn.com/livenews/3060569",
-          "source": "华尔街见闻-快讯",
+          "title": "中国AI跑出马年加速度",
+          "url": "https://www.douyin.com/hot/2414159",
+          "source": "抖音",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时41分"
+          "time_info": "11时52分"
+        },
+        {
+          "title": "英伟达计划推出新芯片以加快AI处理速度",
+          "url": "https://wallstreetcn.com/livenews/3060590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "外媒爆料：美军想用AI攻击中国电网",
+          "url": "https://news.ifeng.com/c/8r5ygo8zdfZ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 11时52分]"
         },
         {
           "title": "美国参议院要求五角大楼与Anthropic解决（与人工智能/AI权限相关的）争端。（Axios）",
@@ -147,15 +182,28 @@
           "time_info": "[07时21分 ~ 09时41分]"
         },
         {
-          "title": "外媒爆料：美军想用AI攻击中国电网",
-          "url": "https://news.ifeng.com/c/8r5ygo8zdfZ",
-          "source": "凤凰网",
+          "title": "AI算力需求驱动光纤行业步入景气周期",
+          "url": "https://wallstreetcn.com/livenews/3060569",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            5,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时40分 ~ 09时41分]"
+          "time_info": "[09时41分 ~ 11时52分]"
+        },
+        {
+          "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2297921",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时40分 ~ 11时52分]"
         },
         {
           "title": "消息人士：布鲁克菲尔德旗下新的人工智能部门Radiant在与英国初创公司Ori合并后，估值达到13亿美元。",
@@ -230,17 +278,6 @@
           "time_info": "[07时21分 ~ 09时41分]"
         },
         {
-          "title": "美国政府大战AI明星公司 NASA调整载人登月计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2297921",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时40分 ~ 09时41分]"
-        },
-        {
           "title": "AI机器人能全面替代人类工种吗",
           "url": "https://www.toutiao.com/trending/7611539933462793779/",
           "source": "今日头条",
@@ -252,6 +289,17 @@
           "time_info": "[09时40分 ~ 09时41分]"
         },
         {
+          "title": "1.3万只基金里“万里挑一”太难，AI选基悄悄来了",
+          "url": "https://www.cls.cn/detail/2297571",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
           "title": "美国民主党参议员凯利：（谈Anthropic）国会必须采取行动监管人工智能，保护美国民众。",
           "url": "https://flash.jin10.com/detail/20260228000101836800",
           "source": "金十数据",
@@ -261,6 +309,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
+          "url": "https://www.zhihu.com/question/2010773992567481420",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "买 A18 Pro 的入门级 MacBook 和买 M4 MacBook Air，哪个更值得？",
+          "url": "https://www.zhihu.com/question/2009928728206149091",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         },
         {
           "title": "人工智能与信贷忧虑重创金融股 KBW银行指数跌近5%",
@@ -299,7 +369,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 13,
       "titles": [
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -311,8 +381,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时33分 ~ 09时41分]"
+          "appearance_count": 13,
+          "time_info": "[01时33分 ~ 11时52分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -337,8 +407,52 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时26分 ~ 09时41分]"
+          "appearance_count": 7,
+          "time_info": "[05时26分 ~ 11时52分]"
+        },
+        {
+          "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
+          "url": "https://flash.jin10.com/detail/20260228110554688800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
+          "url": "https://flash.jin10.com/detail/20260228110043453800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们强烈希望事态能够缓和，避免诉诸法律和政府行动，并达成合理的协议。",
+          "url": "https://flash.jin10.com/detail/20260228105851301800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们要求美国国防部向所有人工智能公司提供这些相同条款，我们认为每个人都应该愿意接受。",
+          "url": "https://flash.jin10.com/detail/20260228105836118800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         },
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
@@ -353,13 +467,46 @@
           "time_info": "[03时32分 ~ 04时25分]"
         },
         {
+          "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
+          "url": "https://flash.jin10.com/detail/20260228105824885800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
+          "url": "https://wallstreetcn.com/livenews/3060587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
+          "url": "https://flash.jin10.com/detail/20260228105722729800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
           "url": "https://flash.jin10.com/detail/20260228080935525800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
         },
@@ -378,7 +525,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "你如何看待机器人发展对人类的影响",
@@ -405,6 +552,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 06时20分]"
+        },
+        {
+          "title": "宝马宣布在德国工厂引入人形机器人 试点接管装配线最累工序",
+          "url": "https://www.cls.cn/detail/2297869",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "机器人将进入宝马德国工厂打工",
+          "url": "https://www.toutiao.com/trending/7611525084908535854/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
+          "title": "7万家企业为何扎堆深圳做机器人",
+          "url": "https://www.toutiao.com/trending/7611696532860964402/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         },
         {
           "title": "美国政府机构对使用马斯克旗下的Grok聊天机器人发出警告。（华尔街日报）",
@@ -468,11 +648,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 11时52分]"
         }
       ]
     },
