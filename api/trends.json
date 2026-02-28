@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T02:29:29.015543+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-03-01T03:19:28.453958+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时19分]"
         },
         {
           "title": "事关人形机器人！我国首个国家级标准体系发布 产业迫近临界点",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时19分]"
         },
         {
           "title": "春晚同款机器人开箱",
@@ -36,11 +36,12 @@
           "source": "抖音",
           "ranks": [
             26,
-            28
+            28,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时19分]"
         },
         {
           "title": "人形机器人进入宝马工厂，合作方为瑞典公司Hexagon",
@@ -48,11 +49,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时19分]"
         },
         {
           "title": "菜菜子re评机器人小品",
@@ -90,8 +92,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时19分]"
         },
         {
           "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
@@ -101,8 +103,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时19分]"
         },
         {
           "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
@@ -136,8 +138,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时19分]"
         }
       ]
     },
@@ -152,7 +154,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         }
@@ -169,11 +171,12 @@
           "ranks": [
             12,
             17,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时19分]"
         }
       ]
     }
