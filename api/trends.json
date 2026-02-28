@@ -1,8 +1,83 @@
 {
-  "generated_at": "2026-03-01T03:19:28.453958+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-03-01T04:22:45.933878+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能 AI 大模型 LLM AGI",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "AI冲击之下，新一轮“次贷危机”来了？",
+          "url": "https://wallstreetcn.com/articles/3766407",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时22分]"
+        },
+        {
+          "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
+          "url": "https://www.cls.cn/detail/2298310",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时22分]"
+        },
+        {
+          "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
+          "url": "https://www.zhihu.com/question/2011015637259028204",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时29分]"
+        },
+        {
+          "title": "春节 AI 大战几十亿烧完，谁赢了？这场红包雨究竟是抢到了 AI 入口的门票，还是只买到了一波短期日活脉冲？",
+          "url": "https://www.zhihu.com/question/2010359733668832775",
+          "source": "知乎",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时29分]"
+        },
+        {
+          "title": "最新AI军事模拟：95%对局发射核弹",
+          "url": "https://www.toutiao.com/trending/7611738738124656170/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 04时22分]"
+        },
+        {
+          "title": "Block 裁员近半并称「大多数公司动作太慢」，AI 技术变革是否正加速行业洗牌？",
+          "url": "https://www.zhihu.com/question/2010680269259179931",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        }
+      ]
+    },
     {
       "keyword_group": "机器人 具身智能",
       "match_count": 6,
@@ -15,8 +90,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时22分]"
         },
         {
           "title": "事关人形机器人！我国首个国家级标准体系发布 产业迫近临界点",
@@ -27,8 +102,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时22分]"
         },
         {
           "title": "春晚同款机器人开箱",
@@ -37,11 +112,12 @@
           "ranks": [
             26,
             28,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时22分]"
         },
         {
           "title": "人形机器人进入宝马工厂，合作方为瑞典公司Hexagon",
@@ -81,69 +157,6 @@
       ]
     },
     {
-      "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "AI冲击之下，新一轮“次贷危机”来了？",
-          "url": "https://wallstreetcn.com/articles/3766407",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时19分]"
-        },
-        {
-          "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
-          "url": "https://www.cls.cn/detail/2298310",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时19分]"
-        },
-        {
-          "title": "美国政府「首次封杀」全球头部大模型企业，美联邦机构停用 Anthropic 产品，会对市场造成何种影响？",
-          "url": "https://www.zhihu.com/question/2011015637259028204",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时29分]"
-        },
-        {
-          "title": "春节 AI 大战几十亿烧完，谁赢了？这场红包雨究竟是抢到了 AI 入口的门票，还是只买到了一波短期日活脉冲？",
-          "url": "https://www.zhihu.com/question/2010359733668832775",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时29分]"
-        },
-        {
-          "title": "最新AI军事模拟：95%对局发射核弹",
-          "url": "https://www.toutiao.com/trending/7611738738124656170/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时19分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -172,11 +185,12 @@
             12,
             17,
             20,
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 04时22分]"
         }
       ]
     }
