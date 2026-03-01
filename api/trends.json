@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T01:20:56.679244+08:00",
-  "total_titles_processed": 358,
+  "generated_at": "2026-03-02T02:29:54.307384+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时29分]"
         },
         {
           "title": "春晚同款机器人开箱",
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             26,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时29分]"
         }
       ]
     },
@@ -45,8 +46,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时29分]"
         }
       ]
     },
@@ -60,11 +61,12 @@
           "source": "微博",
           "ranks": [
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时29分]"
         }
       ]
     },
