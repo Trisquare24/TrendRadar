@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T19:18:36.678046+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2026-03-01T20:41:51.499409+08:00",
+  "total_titles_processed": 1613,
   "failed_sources": [],
   "trends": [
     {
@@ -247,8 +247,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 19时18分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 20时41分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
@@ -399,8 +399,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 19时18分]"
+          "appearance_count": 11,
+          "time_info": "[10时01分 ~ 20时41分]"
         },
         {
           "title": "事关人形机器人！我国首个国家级标准体系发布 产业迫近临界点",
@@ -510,7 +510,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -532,7 +532,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         }
