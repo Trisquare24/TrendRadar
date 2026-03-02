@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T14:54:23.785399+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-03-02T15:48:07.829897+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI短剧",
@@ -66,7 +66,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -110,7 +110,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -121,9 +121,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
+        },
+        {
+          "title": "海湾基石石油公司：暂时关停了在伊拉克库尔德地区的Shaikan油田生产作业；公司资产未受影响。",
+          "url": "https://flash.jin10.com/detail/20260302151649234800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "揭底战争背后的AI",
@@ -151,7 +162,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】美以袭击伊朗，伊朗反击；我国首个国家级人形机器人与具身智能标准体系发布",
@@ -185,7 +196,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -238,6 +249,28 @@
           "time_info": "[09时52分 ~ 14时54分]"
         },
         {
+          "title": "机器人手机趋势到来了吗",
+          "url": "https://www.toutiao.com/trending/7612544939070590470/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 15时48分]"
+        },
+        {
+          "title": "一个最像机器人的人类造了机器人",
+          "url": "https://www.toutiao.com/trending/7612458899861458474/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 15时48分]"
+        },
+        {
           "title": "荣耀机器人手机亮相",
           "url": "https://www.baidu.com/s?wd=%E8%8D%A3%E8%80%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8",
           "source": "百度热搜",
@@ -255,9 +288,38 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "迪拜环球港务集团（DPWorld）表示，杰贝阿里港的全部4个终端均已投入运营。",
+          "url": "https://flash.jin10.com/detail/20260302000905320800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时20分]"
+        },
+        {
+          "title": "阿里·拉里贾尼是谁？英媒：哈梅内伊之后的新一代强权者",
+          "url": "https://flash.jin10.com/detail/20260302152029138800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         }
       ]
     },
@@ -296,24 +358,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时23分 ~ 12时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里 Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "迪拜环球港务集团（DPWorld）表示，杰贝阿里港的全部4个终端均已投入运营。",
-          "url": "https://flash.jin10.com/detail/20260302000905320800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时20分]"
         }
       ]
     }
