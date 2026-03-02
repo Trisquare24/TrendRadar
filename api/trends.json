@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-03-02T22:49:34.516588+08:00",
-  "total_titles_processed": 2066,
+  "generated_at": "2026-03-02T23:39:51.017884+08:00",
+  "total_titles_processed": 2143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
+          "url": "https://www.cls.cn/detail/2299598",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时44分 ~ 23时39分]"
+        },
+        {
+          "title": "剑星AI作图抄袭,反手拉黑原创",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时40分 ~ 23时39分]"
+        },
         {
           "title": "AI短剧",
           "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=17&Refer=top",
@@ -23,33 +51,6 @@
           "time_info": "[00时23分 ~ 07时21分]"
         },
         {
-          "title": "剑星AI作图抄袭,反手拉黑原创",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时40分 ~ 22时49分]"
-        },
-        {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时44分 ~ 22时49分]"
-        },
-        {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
           "url": "https://wallstreetcn.com/premium/articles/3766415?layout=wscn-layout",
           "source": "华尔街见闻",
@@ -59,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时40分 ~ 22时49分]"
+          "appearance_count": 9,
+          "time_info": "[16时40分 ~ 23时39分]"
         },
         {
           "title": "千问AI眼镜开启预约",
@@ -72,8 +73,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时54分 ~ 22时49分]"
+          "appearance_count": 5,
+          "time_info": "[14时54分 ~ 23时39分]"
+        },
+        {
+          "title": "马上评｜如何看待学生作业中的“AI味儿”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时41分 ~ 23时39分]"
+        },
+        {
+          "title": "爱立信CEO Borje Ekholm：欧洲是科技领域的“博物馆”。 如果不加速开发自己的网络，将在人工智能（AI）领域落后。",
+          "url": "https://wallstreetcn.com/livenews/3062029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "摩根大通：大部分科技/人工智能股票的重新定价已经完成——这限制了进一步下跌的空间。",
@@ -109,20 +135,6 @@
           "time_info": "21时59分"
         },
         {
-          "title": "马上评｜如何看待学生作业中的“AI味儿”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时41分 ~ 22时49分]"
-        },
-        {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
           "url": "https://wallstreetcn.com/livenews/3061282",
           "source": "华尔街见闻-快讯",
@@ -149,6 +161,18 @@
           "time_info": "[09时52分 ~ 12时12分]"
         },
         {
+          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
+          "url": "https://www.cls.cn/detail/2300009",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时52分 ~ 23时39分]"
+        },
+        {
           "title": "Block 因 AI 裁员近 50%，码农裁 70%，股价飙涨 24%，AI 真会取代大部分人的工作吗？",
           "url": "https://www.zhihu.com/question/2011022777268856579",
           "source": "知乎",
@@ -158,18 +182,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时44分 ~ 20时52分]"
-        },
-        {
-          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
-          "url": "https://www.cls.cn/detail/2300009",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时52分 ~ 22时49分]"
         },
         {
           "title": "物理科研工作在 AI 相当发达的未来还有多少价值？",
@@ -333,7 +345,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -524,11 +536,25 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时49分]"
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时39分]"
+        },
+        {
+          "title": "荣耀机器人手机上手体验",
+          "url": "https://www.douyin.com/hot/2416394",
+          "source": "抖音",
+          "ranks": [
+            24,
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时59分 ~ 23时39分]"
         },
         {
           "title": "一个最像机器人的人类造了机器人",
@@ -540,18 +566,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时47分 ~ 15时48分]"
-        },
-        {
-          "title": "荣耀机器人手机上手体验",
-          "url": "https://www.douyin.com/hot/2416394",
-          "source": "抖音",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时49分]"
         },
         {
           "title": "荣耀机器人手机亮相",
@@ -631,11 +645,12 @@
           "url": "https://wallstreetcn.com/livenews/3061998",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时39分]"
         },
         {
           "title": "阿里·拉里贾尼是谁？英媒：哈梅内伊之后的新一代强权者",
