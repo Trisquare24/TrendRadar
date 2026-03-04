@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T18:34:05.028280+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2026-03-04T19:28:31.519390+08:00",
+  "total_titles_processed": 1833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时07分 ~ 18时34分]"
+          "appearance_count": 10,
+          "time_info": "[12时07分 ~ 19时28分]"
         },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -40,11 +40,12 @@
             1,
             15,
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时48分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[09时48分 ~ 19时28分]"
         },
         {
           "title": "沪指跌超1%，“三桶油”再度集体涨停，半导体产业链大跌，恒科指跌超2%，大模型股MINIMAX逆势涨超9%",
@@ -74,6 +75,22 @@
           "time_info": "[01时41分 ~ 15时36分]"
         },
         {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            12,
+            13,
+            20,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时07分 ~ 19时28分]"
+        },
+        {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32691228",
           "source": "澎湃新闻",
@@ -92,22 +109,6 @@
           "time_info": "[01时41分 ~ 17时37分]"
         },
         {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            12,
-            13,
-            20,
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时07分 ~ 18时34分]"
-        },
-        {
           "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
           "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
           "source": "澎湃新闻",
@@ -118,8 +119,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时41分 ~ 18时34分]"
+          "appearance_count": 9,
+          "time_info": "[13时41分 ~ 19时28分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -135,15 +136,17 @@
           "time_info": "[05时31分 ~ 12时07分]"
         },
         {
-          "title": "美国克利夫兰联储主席Hammack：我认为我们可能要暂停一段时间了。 从政策角度来看美联储处于良好位置。 美联储的政策设定处于”中性”水平。 现在就判断人工智能对经济的影响为时过早。 通胀预期未实质性上升。 将通胀率拉回目标水平很重要。 缩减资产负债表需有条不紊。",
-          "url": "https://wallstreetcn.com/livenews/3063569",
-          "source": "华尔街见闻-快讯",
+          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
+          "url": "https://www.cls.cn/detail/2302236",
+          "source": "财联社热门",
           "ranks": [
-            2
+            9,
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 19时28分]"
         },
         {
           "title": "中国成为发布大模型最多的国家",
@@ -182,16 +185,16 @@
           "time_info": "[07时24分 ~ 12时07分]"
         },
         {
-          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
-          "url": "https://www.cls.cn/detail/2302236",
-          "source": "财联社热门",
+          "title": "美国克利夫兰联储主席Hammack：我认为我们可能要暂停一段时间了。 从政策角度来看美联储处于良好位置。 美联储的政策设定处于”中性”水平。 现在就判断人工智能对经济的影响为时过早。 通胀预期未实质性上升。 将通胀率拉回目标水平很重要。 缩减资产负债表需有条不紊。",
+          "url": "https://wallstreetcn.com/livenews/3063569",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            2,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 18时34分]"
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时28分]"
         },
         {
           "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
@@ -228,6 +231,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时07分 ~ 14时43分]"
+        },
+        {
+          "title": "靳东：我不刷短剧 正学习AI",
+          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时33分 ~ 19时28分]"
+        },
+        {
+          "title": "荣耀MagicV6带飞李杰灵",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80MagicV6%E5%B8%A6%E9%A3%9E%E6%9D%8E%E6%9D%B0%E7%81%B5%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时33分 ~ 19时28分]"
         },
         {
           "title": "英特尔任命Craig H. Barratt为董事长，接替Frank Yeary。",
@@ -278,17 +305,6 @@
           "time_info": "[06时26分 ~ 07时24分]"
         },
         {
-          "title": "靳东：我不刷短剧 正学习AI",
-          "url": "https://www.baidu.com/s?wd=%E9%9D%B3%E4%B8%9C%EF%BC%9A%E6%88%91%E4%B8%8D%E5%88%B7%E7%9F%AD%E5%89%A7+%E6%AD%A3%E5%AD%A6%E4%B9%A0AI",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 18时34分]"
-        },
-        {
           "title": "建议为AI生成内容添加不可去除水印",
           "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%B8%BAAI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0%E4%B8%8D%E5%8F%AF%E5%8E%BB%E9%99%A4%E6%B0%B4%E5%8D%B0",
           "source": "百度热搜",
@@ -299,17 +315,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时48分 ~ 12时07分]"
-        },
-        {
-          "title": "荣耀MagicV6带飞李杰灵",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80MagicV6%E5%B8%A6%E9%A3%9E%E6%9D%8E%E6%9D%B0%E7%81%B5%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 18时34分]"
         },
         {
           "title": "AI参战对伊空袭",
@@ -420,6 +425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "曾毓群：未来将利用更多人工智能加大研发投入",
+          "url": "https://wallstreetcn.com/livenews/3063575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "AI的奥本海默时刻已经到来",
@@ -588,19 +604,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时41分 ~ 18时34分]"
+          "appearance_count": 9,
+          "time_info": "[13时41分 ~ 19时28分]"
         },
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
           "url": "https://www.cls.cn/detail/2302661",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 18时34分]"
+          "appearance_count": 3,
+          "time_info": "[18时33分 ~ 19时28分]"
         },
         {
           "title": "机器人感谢人大代表关心：心里暖暖的",
@@ -629,6 +646,19 @@
           "time_info": "13时41分"
         },
         {
+          "title": "雷军两会建言：加快推动人形机器人“上岗” 关注智驾时代安全体系与人才培育",
+          "url": "https://www.cls.cn/detail/2302307",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 19时28分]"
+        },
+        {
           "title": "贾跃亭成功做出机器人！法拉第未来已向美国高端酒店交付产品",
           "url": "https://www.cls.cn/detail/2301011",
           "source": "财联社热门",
@@ -639,18 +669,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时43分 ~ 02时44分]"
-        },
-        {
-          "title": "雷军两会建言：加快推动人形机器人“上岗” 关注智驾时代安全体系与人才培育",
-          "url": "https://www.cls.cn/detail/2302307",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 18时34分]"
         },
         {
           "title": "雷军建议：部署通用人形机器人的工厂，给予产业补贴和优先准入等政策优惠",
@@ -763,11 +781,12 @@
             14,
             13,
             11,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时48分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[09时48分 ~ 19时28分]"
         },
         {
           "title": "豆包取名",
