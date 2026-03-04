@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T09:48:57.693584+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-03-04T12:07:40.236871+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 09时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 12时07分]"
         },
         {
           "title": "马云，新年现身！谈了AI",
@@ -42,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时41分 ~ 09时48分]"
+          "appearance_count": 11,
+          "time_info": "[01时41分 ~ 12时07分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -53,11 +53,24 @@
             20,
             19,
             18,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时41分 ~ 09时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时41分 ~ 12时07分]"
+        },
+        {
+          "title": "如何评价阿里千问大模型负责人林俊旸自宣卸任？会对通义千问造成什么影响？",
+          "url": "https://www.zhihu.com/question/2012332008160895210",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时07分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -65,22 +78,23 @@
           "source": "今日头条",
           "ranks": [
             1,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时31分 ~ 09时48分]"
+          "appearance_count": 5,
+          "time_info": "[05时31分 ~ 12时07分]"
         },
         {
-          "title": "如何评价阿里千问大模型负责人林俊旸自宣卸任？会对通义千问造成什么影响？",
-          "url": "https://www.zhihu.com/question/2012332008160895210",
-          "source": "知乎",
+          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "12时07分"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -88,11 +102,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            4
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 09时48分]"
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 12时07分]"
         },
         {
           "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
@@ -167,6 +182,29 @@
           "time_info": "[06时26分 ~ 07时24分]"
         },
         {
+          "title": "建议为AI生成内容添加不可去除水印",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%B8%BAAI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0%E4%B8%8D%E5%8F%AF%E5%8E%BB%E9%99%A4%E6%B0%B4%E5%8D%B0",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时07分]"
+        },
+        {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，新闻集团与Meta Platforms(META.O)达成多年期人工智能授权协议，协议将至少持续三年，Meta每年将向新闻集团支付高达5000万美元的费用，以获得内容授权用于训练和内容输出。",
           "url": "https://flash.jin10.com/detail/20260304053702894800",
           "source": "金十数据",
@@ -187,6 +225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2012296941925581663",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         },
         {
           "title": "英国财政大臣里夫斯：对人工智能持乐观态度，但可能会导致一些失业。",
@@ -231,17 +280,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "建议为AI生成内容添加不可去除水印",
-          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%B8%BAAI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0%E4%B8%8D%E5%8F%AF%E5%8E%BB%E9%99%A4%E6%B0%B4%E5%8D%B0",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
         },
         {
           "title": "澳大利亚2月AIG/PWC制造业表现指数 -15.6，前值由-19.4修正为-19。",
@@ -368,7 +406,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -379,7 +417,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         }
@@ -495,11 +533,12 @@
           "url": "https://www.douyin.com/hot/2418162",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时07分]"
         }
       ]
     }
