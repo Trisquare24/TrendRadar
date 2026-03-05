@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T09:51:39.240757+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2026-03-05T12:10:48.308541+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
@@ -57,11 +57,12 @@
             15,
             14,
             11,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时10分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -86,6 +87,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时27分 ~ 07时28分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-05）",
+          "url": "https://flash.jin10.com/detail/20260305120534883800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
@@ -177,7 +189,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -188,7 +200,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -199,9 +211,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
+          "url": "https://www.zhihu.com/question/2007415716228330401",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "【工信部部长李乐成：全力推进新一代人工智能产品的攻关和迭代更新】在十四届全国人大四次会议首场“部长通道”集中采访活动上，工业和信息化部部长李乐成表示，2026年工信部将按照政府工作报告要求，大力推动人工智能（AI）和制造业双向奔赴。我国产业门类齐全，创新人才众多，创新生态不断改善，我们有信心，坚信必将有更多的世界级智能产品在这片热土上生产出来。要努力推动AI电脑、AI手机、智能家居，更好满足人民群众对美好生活的需求。要全力推进新一代人工智能产品的攻关和迭代更新，包括脑机接口、自动驾驶汽车、机器人，推动科技攻关、技术迭代。大力支持发展智能农业机械、智能医疗器械，让更多智能产品满足各行各业各领域的需要。",
+          "url": "https://wallstreetcn.com/livenews/3064172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "Meta计划研发自研芯片，来训练自家的AI模型",
@@ -213,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "工业和信息化部部长李乐成：要坚持AI为人所控",
+          "url": "https://wallstreetcn.com/livenews/3064167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         },
         {
           "title": "市场消息：美国参议员就监控政策问题向人工智能公司施压。",
@@ -237,6 +282,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "工业和信息化部部长李乐成：我国规上制造业企业人工智能（AI）技术应用普及率超30%",
+          "url": "https://wallstreetcn.com/livenews/3064161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
           "title": "继林俊旸离职后，多位核心成员相继出走，阿里内部到底发生了啥？大模型赛道要告别英雄时代了吗？",
           "url": "https://www.zhihu.com/question/2012534492087210347",
           "source": "知乎",
@@ -257,12 +313,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "马斯克为何频繁为中国AI站台",
+          "url": "https://www.toutiao.com/trending/7613576713213054470/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "一键进入AI幻想世界",
+          "url": "https://www.douyin.com/hot/2419330",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "百度AIGC舌尖遇顺德",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6AIGC%E8%88%8C%E5%B0%96%E9%81%87%E9%A1%BA%E5%BE%B7",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "据The Information：OpenAI正在缩减其ChatGPT结账功能的推广规模，这标志着其商业拓展策略出现突然转变。",
@@ -271,7 +360,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -310,6 +399,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
+          "url": "https://www.cls.cn/detail/2303137",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
           "title": "博通：预计Anthropic将在2027（财务）年度带来3 GW算力需求。 预计OpenAI将在2027年批量部署芯片。 Meta的定制芯片路线图“正在推进之中，进展不错”。",
           "url": "https://wallstreetcn.com/livenews/3063886",
           "source": "华尔街见闻-快讯",
@@ -343,6 +443,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "截至上月末，OpenAI年化收入已超过250亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3064152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
           "title": "据CNBC：OpenAI创始人奥尔特曼预计将于周四在摩根士丹利会议上发言。",
           "url": "https://flash.jin10.com/detail/20260305041842177800",
           "source": "金十数据",
@@ -357,7 +468,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -380,11 +491,12 @@
             7,
             5,
             2,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时10分]"
         },
         {
           "title": "甄子丹：机器人太厉害了 我可能打不过",
@@ -423,6 +535,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时31分]"
+        },
+        {
+          "title": "科技部部长点赞人形机器人",
+          "url": "https://www.toutiao.com/trending/7613552782146158611/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        },
+        {
+          "title": "IDC预测：2026年全球智能机器人硬件市场将近300亿美元 中国有望引领增长",
+          "url": "https://wallstreetcn.com/livenews/3064174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时10分"
         }
       ]
     },
@@ -495,8 +629,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时10分]"
         },
         {
           "title": "当我让豆包用一句话击溃我",
@@ -514,11 +648,40 @@
           "url": "https://www.douyin.com/hot/2419084",
           "source": "抖音",
           "ranks": [
-            30
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 12时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "阿里吴泳铭回应林俊旸离职",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%90%B4%E6%B3%B3%E9%93%AD%E5%9B%9E%E5%BA%94%E6%9E%97%E4%BF%8A%E6%97%B8%E7%A6%BB%E8%81%8C%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "12时10分"
+        },
+        {
+          "title": "阿里通义实验室紧急召开会议",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E9%80%9A%E4%B9%89%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%B4%A7%E6%80%A5%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
         }
       ]
     },
@@ -541,19 +704,19 @@
       ]
     },
     {
-      "keyword_group": "阿里 Qwen",
+      "keyword_group": "罗永浩",
       "match_count": 1,
       "titles": [
         {
-          "title": "阿里通义实验室紧急召开会议",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E9%80%9A%E4%B9%89%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%B4%A7%E6%80%A5%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "罗永浩自曝44岁在儿科确诊ADHD",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%87%AA%E6%9B%9D44%E5%B2%81%E5%9C%A8%E5%84%BF%E7%A7%91%E7%A1%AE%E8%AF%8AADHD",
+          "source": "百度热搜",
           "ranks": [
-            15
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "12时10分"
         }
       ]
     }
