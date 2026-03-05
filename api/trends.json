@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T13:45:08.644937+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-03-05T14:46:53.309115+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
@@ -59,11 +59,12 @@
             11,
             10,
             24,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 13时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 14时46分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -168,19 +169,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 13时45分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 14时46分]"
         },
         {
           "title": "一键进入AI幻想世界",
           "url": "https://www.douyin.com/hot/2419330",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 13时45分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 14时46分]"
         },
         {
           "title": "博通营收预测令部分投资者失望，凸显AI担忧",
@@ -344,7 +346,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         },
@@ -396,8 +398,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 13时45分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 14时46分]"
         },
         {
           "title": "OpenAI与Trade Desk Inc.（TTD）围绕广告销售启动初步的磋商。（The Information）",
@@ -504,11 +506,12 @@
             5,
             2,
             17,
-            19
+            19,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 13时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时40分 ~ 14时46分]"
         },
         {
           "title": "甄子丹：机器人太厉害了 我可能打不过",
@@ -668,7 +671,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
         }
