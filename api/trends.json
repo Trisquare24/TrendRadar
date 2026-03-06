@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T07:49:16.136345+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-03-06T09:52:58.386673+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -14,17 +14,6 @@
           "ranks": [
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 07时49分]"
-        },
-        {
-          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
-          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
-          "source": "凤凰网",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -41,19 +30,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 07时49分]"
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 09时52分]"
         },
         {
           "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
           "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 07时49分]"
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 09时52分]"
         },
         {
           "title": "有数｜今年的政府工作报告，大模型读到了这些新词和热词",
@@ -61,11 +51,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 07时49分]"
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 09时52分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -75,7 +66,19 @@
             21,
             23,
             22,
-            25
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 09时52分]"
+        },
+        {
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -142,6 +145,17 @@
           "time_info": "[04时34分 ~ 05时31分]"
         },
         {
+          "title": "阿里否认大模型核心团队集体离职：团队稳定，服务正常，未设置商业化KPI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32707241",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
           "title": "市场消息：美国考虑制定规则，为寻求美国AI芯片的国家设立四个等级，美国考虑新的框架以监管人工智能芯片出口，出口超过20万个美国AI芯片可能需要对美国AI数据中心或安全进行投资。",
           "url": "https://flash.jin10.com/detail/20260306050651902800",
           "source": "金十数据",
@@ -197,6 +211,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "忍住AI让我把食欲忍住",
+          "url": "https://www.douyin.com/hot/2420009",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
           "title": "市场消息：马斯克的xAI未能阻止加州人工智能透明度法案实施。",
           "url": "https://flash.jin10.com/detail/20260306031802688800",
           "source": "金十数据",
@@ -222,8 +247,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "OpenAI发布GPT-5.4",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
         {
           "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
           "url": "https://flash.jin10.com/detail/20260306025523028800",
@@ -260,6 +296,17 @@
           "time_info": "[03时24分 ~ 04时34分]"
         },
         {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
           "title": "OpenAI发布GPT-5.4 为首个具备原生计算机操作能力的模型",
           "url": "https://flash.jin10.com/detail/20260306024056758800",
           "source": "金十数据",
@@ -269,12 +316,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "号称最强模型 OpenAI GPT-5.4发布",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B7%E7%A7%B0%E6%9C%80%E5%BC%BA%E6%A8%A1%E5%9E%8B+OpenAI+GPT-5.4%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         }
       ]
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "食堂引入2台6万元的智能炒菜机器人",
@@ -294,11 +352,40 @@
           "url": "https://www.zhihu.com/question/2011177014359513086",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时48分 ~ 07时49分]"
+          "appearance_count": 3,
+          "time_info": "[07时48分 ~ 09时52分]"
+        },
+        {
+          "title": "社区食堂引入2台6万元的炒菜机器人",
+          "url": "https://www.baidu.com/s?wd=%E7%A4%BE%E5%8C%BA%E9%A3%9F%E5%A0%82%E5%BC%95%E5%85%A52%E5%8F%B06%E4%B8%87%E5%85%83%E7%9A%84%E7%82%92%E8%8F%9C%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待林俊旸和他所带领开发的 Qwen 系列模型对行业的贡献？",
+          "url": "https://www.zhihu.com/question/2012928663889338822",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         }
       ]
     },
@@ -315,8 +402,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 07时49分]"
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 09时52分]"
         }
       ]
     }
