@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T09:52:51.731766+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-03-08T12:09:57.493467+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
@@ -145,6 +145,17 @@
           "time_info": "[01时18分 ~ 09时52分]"
         },
         {
+          "title": "假如AI取代了UP主",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E5%8F%96%E4%BB%A3%E4%BA%86UP%E4%B8%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 12时09分]"
+        },
+        {
           "title": "破 5 亿播放 AI 短剧成本仅 3000，这是新的风口吗？给影视行业带来哪些影响？",
           "url": "https://www.zhihu.com/question/2013275268022757071",
           "source": "知乎",
@@ -156,37 +167,26 @@
           "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "AI写作48小时生成500万字长篇小说",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%86%99%E4%BD%9C48%E5%B0%8F%E6%97%B6%E7%94%9F%E6%88%90500%E4%B8%87%E5%AD%97%E9%95%BF%E7%AF%87%E5%B0%8F%E8%AF%B4%23&t=31&band_rank=1&Refer=top",
+          "title": "AI龙虾爆火有人几天赚了26万",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%E6%9C%89%E4%BA%BA%E5%87%A0%E5%A4%A9%E8%B5%9A%E4%BA%8626%E4%B8%87%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "12时09分"
         },
         {
-          "title": "假如AI取代了UP主",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E5%8F%96%E4%BB%A3%E4%BA%86UP%E4%B8%BB",
-          "source": "bilibili 热搜",
+          "title": "奋进十五五AI超燃大片",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%8B%E8%BF%9B%E5%8D%81%E4%BA%94%E4%BA%94AI%E8%B6%85%E7%87%83%E5%A4%A7%E7%89%87%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "人社部表示正研究措施，发挥人工智能创造新岗位作用，会带来哪些影响？未来可能会出现哪些 AI 新职业？",
-          "url": "https://www.zhihu.com/question/2013564166326215304",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "12时09分"
         },
         {
           "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
@@ -198,6 +198,42 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时23分 ~ 02时29分]"
+        },
+        {
+          "title": "AI写作48小时生成500万字长篇小说",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%86%99%E4%BD%9C48%E5%B0%8F%E6%97%B6%E7%94%9F%E6%88%90500%E4%B8%87%E5%AD%97%E9%95%BF%E7%AF%87%E5%B0%8F%E8%AF%B4%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 12时09分]"
+        },
+        {
+          "title": "人社部表示正研究措施，发挥人工智能创造新岗位作用，会带来哪些影响？未来可能会出现哪些 AI 新职业？",
+          "url": "https://www.zhihu.com/question/2013564166326215304",
+          "source": "知乎",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 12时09分]"
+        },
+        {
+          "title": "“龙虾”狂欢①4个月25万星标！开源智能体“龙虾”为何能席卷AI圈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32723518",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 12时09分]"
         },
         {
           "title": "周鸿祎称AI时代文科生更有优势",
@@ -212,37 +248,50 @@
           "time_info": "[02时29分 ~ 03时20分]"
         },
         {
-          "title": "“龙虾”狂欢①4个月25万星标！开源智能体“龙虾”为何能席卷AI圈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32723518",
-          "source": "澎湃新闻",
+          "title": "院士：不要天天想AI替代谁",
+          "url": "https://www.baidu.com/s?wd=%E9%99%A2%E5%A3%AB%EF%BC%9A%E4%B8%8D%E8%A6%81%E5%A4%A9%E5%A4%A9%E6%83%B3AI%E6%9B%BF%E4%BB%A3%E8%B0%81",
+          "source": "百度热搜",
           "ranks": [
-            13
+            19,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 12时09分]"
         },
         {
           "title": "会见企业家｜何小鹏：AI将改变物理世界，也是未来增长的支点",
           "url": "https://m.thepaper.cn/newsDetail_forward_32715203",
           "source": "澎湃新闻",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "院士：不要天天想AI替代谁",
-          "url": "https://www.baidu.com/s?wd=%E9%99%A2%E5%A3%AB%EF%BC%9A%E4%B8%8D%E8%A6%81%E5%A4%A9%E5%A4%A9%E6%83%B3AI%E6%9B%BF%E4%BB%A3%E8%B0%81",
-          "source": "百度热搜",
-          "ranks": [
+            18,
             19
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 12时09分]"
+        },
+        {
+          "title": "AI写作48小时生成500万字长篇小说",
+          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E4%BD%9C48%E5%B0%8F%E6%97%B6%E7%94%9F%E6%88%90500%E4%B8%87%E5%AD%97%E9%95%BF%E7%AF%87%E5%B0%8F%E8%AF%B4",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "12时09分"
+        },
+        {
+          "title": "千问AI眼镜G1现货开售",
+          "url": "https://wallstreetcn.com/livenews/3065809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "解读刷爆外网的AI危机预言",
@@ -251,7 +300,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         }
@@ -302,6 +351,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "“我80岁有机器人就不去养老院了”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%9180%E5%B2%81%E6%9C%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%B1%E4%B8%8D%E5%8E%BB%E5%85%BB%E8%80%81%E9%99%A2%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 12时09分]"
+        },
+        {
           "title": "杀戮尖塔2故障机器人卡牌解析",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%80%E6%88%AE%E5%B0%96%E5%A1%942%E6%95%85%E9%9A%9C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%A1%E7%89%8C%E8%A7%A3%E6%9E%90",
           "source": "bilibili 热搜",
@@ -312,17 +373,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时20分 ~ 09时52分]"
-        },
-        {
-          "title": "“我80岁有机器人就不去养老院了”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%9180%E5%B2%81%E6%9C%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%B1%E4%B8%8D%E5%8E%BB%E5%85%BB%E8%80%81%E9%99%A2%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
         }
       ]
     },
