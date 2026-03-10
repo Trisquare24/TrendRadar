@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T20:54:32.504325+08:00",
-  "total_titles_processed": 1898,
+  "generated_at": "2026-03-10T22:02:32.417124+08:00",
+  "total_titles_processed": 2006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -41,11 +41,12 @@
             2,
             4,
             9,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时46分 ~ 20时54分]"
+          "appearance_count": 13,
+          "time_info": "[09时46分 ~ 22时02分]"
         },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -119,15 +120,38 @@
           "time_info": "[17时41分 ~ 18时36分]"
         },
         {
+          "title": "工业富联董事长郑弘孟：AI算力基础设施将成为未来多年最具确定性的核心发展领域之一",
+          "url": "https://wallstreetcn.com/livenews/3067361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "荣耀正式发布折叠旗舰Magic V6，售价8999元起",
           "url": "https://wallstreetcn.com/livenews/3067312",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
+          "url": "https://www.cls.cn/detail/2308421",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时36分 ~ 22时02分]"
         },
         {
           "title": "广东：重点布局GPU、FPGA、NPU等高端通用人工智能芯片及ASIC专用人工智能芯片的研发、设计和制造",
@@ -166,16 +190,40 @@
           "time_info": "[17时41分 ~ 18时36分]"
         },
         {
-          "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
-          "url": "https://www.cls.cn/detail/2308421",
-          "source": "财联社热门",
+          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
+          "url": "https://wallstreetcn.com/articles/3767089",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
+            10,
             9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时36分 ~ 20时54分]"
+          "time_info": "[20时54分 ~ 22时02分]"
+        },
+        {
+          "title": "AI背锅,内存降价遥遥无期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 22时02分]"
+        },
+        {
+          "title": "如何评价荣耀MagicV6",
+          "url": "https://www.douyin.com/hot/2425911",
+          "source": "抖音",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 22时02分]"
         },
         {
           "title": "AI龙虾为何那么“生猛”",
@@ -251,6 +299,39 @@
           "time_info": "[05时31分 ~ 06时35分]"
         },
         {
+          "title": "荣耀MagicV6太能整活了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80MagicV6%E5%A4%AA%E8%83%BD%E6%95%B4%E6%B4%BB%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
+          "title": "代表委员热聊新质生产力：大模型读到这些高频词",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32733353",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
+          "title": "Meta收购AI社交网络平台Moltbook。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3067356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "港股AI应用股走强，智谱涨近13%、金山云涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3066882",
           "source": "华尔街见闻-快讯",
@@ -262,15 +343,15 @@
           "time_info": "09时46分"
         },
         {
-          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
-          "url": "https://wallstreetcn.com/articles/3767089",
-          "source": "华尔街见闻",
+          "title": "两会现场 我问了AI这样一个问题",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E7%8E%B0%E5%9C%BA+%E6%88%91%E9%97%AE%E4%BA%86AI%E8%BF%99%E6%A0%B7%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "22时02分"
         },
         {
           "title": "沙特阿美：正在利用人工智能提升各项运营效率。我们相信，持续投资于我们的业务，将使我们在未来处于有利地位。",
@@ -317,17 +398,6 @@
           "time_info": "19时31分"
         },
         {
-          "title": "AI背锅,内存降价遥遥无期",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "腾讯股价涨超6%，领涨恒生科技指数成分股，此前腾讯正式推出AI智能助手WorkBuddy，花旗将腾讯此举视为其AI发展的里程碑。",
           "url": "https://wallstreetcn.com/livenews/3066984",
           "source": "华尔街见闻-快讯",
@@ -367,20 +437,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
         {
-          "title": "如何评价荣耀MagicV6",
-          "url": "https://www.douyin.com/hot/2425911",
-          "source": "抖音",
+          "title": "伊朗的战火，可能烧掉美国的AI梦？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260310213156918800",
+          "source": "金十数据",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "22时02分"
         },
         {
           "title": "美国负责军备控制和国际安全的国务卿：若没有核能，就无法满足数据中心、人工智能等领域日益增长的能源需求。",
@@ -444,9 +514,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "英伟达宣布对AI企业Thinking Machines Lab进行新一轮投资，并将向该初创公司提供芯片，用于训练和运行其AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3067332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "据英国《金融时报》：亚马逊在人工智能相关宕机事件后召开工程会议。",
@@ -488,7 +569,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         }
@@ -496,8 +577,20 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "【焦点复盘】市场全天现缩量普涨，英伟达链卷土重来，机器人概念现久违涨势",
+          "url": "https://www.cls.cn/detail/2308576",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 22时02分]"
+        },
         {
           "title": "人形机器人进厂“打工”还有多远",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9B%E5%8E%82%E2%80%9C%E6%89%93%E5%B7%A5%E2%80%9D%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
@@ -510,15 +603,15 @@
           "time_info": "[15时39分 ~ 16时38分]"
         },
         {
-          "title": "【焦点复盘】市场全天现缩量普涨，英伟达链卷土重来，机器人概念现久违涨势",
-          "url": "https://www.cls.cn/detail/2308576",
-          "source": "财联社热门",
+          "title": "荣耀CEO李健：机器人手机下半年上市 人形机器人全栈自研",
+          "url": "https://wallstreetcn.com/livenews/3067352",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "22时02分"
         },
         {
           "title": "封测龙头长电科技临港工厂投产：面向汽车电子与机器人应用",
@@ -527,7 +620,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -630,7 +723,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
@@ -642,6 +735,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "一项由谷歌和特斯拉等公司组成的新联盟将通过利用电网闲置容量来解决能源可负担性问题。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3067324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "影视飓风",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "影视飓风上手Macbook Neo",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E4%B8%8A%E6%89%8BMacbook%20Neo",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         }
       ]
     }
