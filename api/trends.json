@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T06:25:44.248717+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-03-11T07:25:24.069415+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -15,8 +15,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 07时25分]"
+        },
+        {
+          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
+          "url": "https://wallstreetcn.com/articles/3767089",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 07时25分]"
         },
         {
           "title": "两会现场 我问了AI这样一个问题",
@@ -26,20 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 06时25分]"
-        },
-        {
-          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
-          "url": "https://wallstreetcn.com/articles/3767089",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 07时25分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -49,19 +50,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 07时25分]"
         },
         {
           "title": "代表委员热聊新质生产力：大模型读到这些高频词",
           "url": "https://m.thepaper.cn/newsDetail_forward_32733353",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 07时25分]"
         },
         {
           "title": "如何评价荣耀MagicV6",
@@ -73,11 +75,25 @@
             17,
             16,
             29,
-            25
+            25,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 07时25分]"
+        },
+        {
+          "title": "建议不允许青少年用AI做作业",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 07时25分]"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -94,17 +110,15 @@
           "time_info": "[00时04分 ~ 06时25分]"
         },
         {
-          "title": "建议不允许青少年用AI做作业",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "新加坡普林斯顿数字集团（PDG）联合创始人兼首席执行Rangu Salgame：我们正处于AI投资的“超级周期”之中。 对AI的长期需求以及即将到来的创新，正在驱动对数据中心容量的需求。 我们与超大规模云厂商（Hyperscalers）拥有极其稳固的合同，平均租期为10-12年。 （对于怀疑论者质疑AI类协议是否在人为地夸大对AI芯片的需求）这些担忧并未影响公司获得融资的能力。",
+          "url": "https://wallstreetcn.com/livenews/3067605",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            10,
-            2
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 06时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
@@ -117,6 +131,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时36分 ~ 04时31分]"
+        },
+        {
+          "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
         },
         {
           "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
@@ -154,6 +180,18 @@
           "time_info": "[05时27分 ~ 06时25分]"
         },
         {
+          "title": "豆包限制AI成毅",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
           "title": "院士说文科生绝不会被AI替代",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%A2%E5%A3%AB%E8%AF%B4%E6%96%87%E7%A7%91%E7%94%9F%E7%BB%9D%E4%B8%8D%E4%BC%9A%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -177,26 +215,15 @@
           "time_info": "[04时31分 ~ 05时27分]"
         },
         {
-          "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3067582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "豆包限制AI成毅",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=13&Refer=top",
+          "title": "AI短剧侵权肖战最高可判10年",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E6%9D%83%E8%82%96%E6%88%98%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A410%E5%B9%B4%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时25分"
         },
         {
           "title": "外媒：腾讯秘密开发微信AI智能体 年内或对全用户开放",
@@ -334,11 +361,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 07时25分]"
         }
       ]
     },
@@ -354,8 +382,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 07时25分]"
         }
       ]
     }
