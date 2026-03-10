@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-03-10T19:31:57.255271+08:00",
-  "total_titles_processed": 1770,
+  "generated_at": "2026-03-10T20:54:32.504325+08:00",
+  "total_titles_processed": 1898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 34,
+      "match_count": 41,
       "titles": [
-        {
-          "title": "工信部提醒AI养虾安全风险",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时46分 ~ 19时31分]"
-        },
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
           "url": "https://wallstreetcn.com/articles/3766992",
@@ -45,6 +31,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时55分 ~ 09时46分]"
+        },
+        {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            4,
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时46分 ~ 20时54分]"
         },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -118,6 +119,17 @@
           "time_info": "[17时41分 ~ 18时36分]"
         },
         {
+          "title": "荣耀正式发布折叠旗舰Magic V6，售价8999元起",
+          "url": "https://wallstreetcn.com/livenews/3067312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "广东：重点布局GPU、FPGA、NPU等高端通用人工智能芯片及ASIC专用人工智能芯片的研发、设计和制造",
           "url": "https://wallstreetcn.com/livenews/3067205",
           "source": "华尔街见闻-快讯",
@@ -152,6 +164,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时41分 ~ 18时36分]"
+        },
+        {
+          "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
+          "url": "https://www.cls.cn/detail/2308421",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 20时54分]"
         },
         {
           "title": "AI龙虾为何那么“生猛”",
@@ -189,18 +213,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 15时39分]"
-        },
-        {
-          "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
-          "url": "https://www.cls.cn/detail/2308421",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 19时31分]"
         },
         {
           "title": "小红书：将封禁主页所有公开笔记均为AI托管代发的账号",
@@ -250,6 +262,17 @@
           "time_info": "09时46分"
         },
         {
+          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
+          "url": "https://wallstreetcn.com/articles/3767089",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "沙特阿美：正在利用人工智能提升各项运营效率。我们相信，持续投资于我们的业务，将使我们在未来处于有利地位。",
           "url": "https://flash.jin10.com/detail/20260310131741446800",
           "source": "金十数据",
@@ -289,9 +312,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
+        },
+        {
+          "title": "AI背锅,内存降价遥遥无期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "腾讯股价涨超6%，领涨恒生科技指数成分股，此前腾讯正式推出AI智能助手WorkBuddy，花旗将腾讯此举视为其AI发展的里程碑。",
@@ -311,7 +345,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -327,13 +361,35 @@
           "time_info": "12时07分"
         },
         {
+          "title": "央视网评AI养“龙虾”狂欢：我们怕的不是风险，是掉队",
+          "url": "https://wallstreetcn.com/livenews/3067302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "如何评价荣耀MagicV6",
+          "url": "https://www.douyin.com/hot/2425911",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "美国负责军备控制和国际安全的国务卿：若没有核能，就无法满足数据中心、人工智能等领域日益增长的能源需求。",
           "url": "https://flash.jin10.com/detail/20260310190550014800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -382,6 +438,17 @@
           "time_info": "13时43分"
         },
         {
+          "title": "阿联酋最大的炼油厂Ruwais炼油厂在无人机袭击后出于安全考虑暂停运营。",
+          "url": "https://wallstreetcn.com/livenews/3067294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "据英国《金融时报》：亚马逊在人工智能相关宕机事件后召开工程会议。",
           "url": "https://flash.jin10.com/detail/20260310123947391800",
           "source": "金十数据",
@@ -399,7 +466,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -413,6 +480,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        },
+        {
+          "title": "应用材料与美光科技合作开发AI存储解决方案。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "人形机器人进厂“打工”还有多远",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9B%E5%8E%82%E2%80%9C%E6%89%93%E5%B7%A5%E2%80%9D%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时39分 ~ 16时38分]"
+        },
+        {
+          "title": "【焦点复盘】市场全天现缩量普涨，英伟达链卷土重来，机器人概念现久违涨势",
+          "url": "https://www.cls.cn/detail/2308576",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "封测龙头长电科技临港工厂投产：面向汽车电子与机器人应用",
+          "url": "https://wallstreetcn.com/livenews/3067288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "智元机器人推出ACoT-VLA并开源",
+          "url": "https://wallstreetcn.com/livenews/3066606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
         }
       ]
     },
@@ -497,34 +625,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "人形机器人进厂“打工”还有多远",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9B%E5%8E%82%E2%80%9C%E6%89%93%E5%B7%A5%E2%80%9D%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时38分]"
-        },
-        {
-          "title": "智元机器人推出ACoT-VLA并开源",
-          "url": "https://wallstreetcn.com/livenews/3066606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
         }
       ]
     },
