@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T17:39:45.428338+08:00",
-  "total_titles_processed": 1561,
+  "generated_at": "2026-03-11T18:36:33.616820+08:00",
+  "total_titles_processed": 1661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -17,11 +17,12 @@
             12,
             13,
             14,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时04分 ~ 17时39分]"
+          "appearance_count": 23,
+          "time_info": "[00时04分 ~ 18时36分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -63,21 +64,6 @@
           "time_info": "[00时04分 ~ 12时08分]"
         },
         {
-          "title": "AI背锅,内存降价遥遥无期",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13,
-            20,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时04分 ~ 17时39分]"
-        },
-        {
           "title": "建议AI应用设计多考虑残疾人",
           "url": "https://www.douyin.com/hot/2426364",
           "source": "抖音",
@@ -86,11 +72,28 @@
             13,
             12,
             23,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时08分 ~ 17时39分]"
+          "appearance_count": 11,
+          "time_info": "[12时08分 ~ 18时36分]"
+        },
+        {
+          "title": "AI背锅,内存降价遥遥无期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13,
+            20,
+            21,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时04分 ~ 18时36分]"
         },
         {
           "title": "如何评价荣耀MagicV6",
@@ -160,8 +163,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时48分 ~ 17时39分]"
+          "appearance_count": 8,
+          "time_info": "[14时48分 ~ 18时36分]"
+        },
+        {
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 18时36分]"
         },
         {
           "title": "AI龙虾卸载潮,299元上门收尸",
@@ -184,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
+        },
+        {
+          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
+          "url": "https://wallstreetcn.com/articles/3767169",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时41分 ~ 18时36分]"
         },
         {
           "title": "代表建议破除AI教育产品算法偏见",
@@ -219,27 +245,16 @@
           "time_info": "14时49分"
         },
         {
-          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
-          "url": "https://www.cls.cn/detail/2309524",
+          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
+          "url": "https://www.cls.cn/detail/2309633",
           "source": "财联社热门",
           "ranks": [
-            9,
-            5
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 17时39分]"
-        },
-        {
-          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
-          "url": "https://wallstreetcn.com/articles/3767169",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时41分 ~ 17时39分]"
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时36分]"
         },
         {
           "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
@@ -279,6 +294,19 @@
           "time_info": "[06时25分 ~ 09时47分]"
         },
         {
+          "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
+          "url": "https://www.toutiao.com/trending/7615866634636365339/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 18时36分]"
+        },
+        {
           "title": "AI短剧侵权肖战最高可判10年",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E6%9D%83%E8%82%96%E6%88%98%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A410%E5%B9%B4%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -289,18 +317,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时25分 ~ 09时47分]"
-        },
-        {
-          "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
-          "url": "https://www.toutiao.com/trending/7615866634636365339/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 17时39分]"
         },
         {
           "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
@@ -382,17 +398,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 09时47分]"
-        },
-        {
-          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
-          "url": "https://www.cls.cn/detail/2309633",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
         },
         {
           "title": "集邦咨询：预估CPO在AI数据中心光通信模块的渗透率将逐年成长，有机会于2030年达35%",
@@ -503,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "据Business Insider：特斯拉加码类AI智能体项目，XAI的Macrohard项目陷入停滞。",
+          "url": "https://flash.jin10.com/detail/20260311180922364800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "原工信部部长苗圩：让制造业成为人工智能科技创新和产业创新深度融合的主战场",
@@ -660,9 +676,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时36分]"
         }
       ]
     },
@@ -676,11 +692,12 @@
           "source": "微博",
           "ranks": [
             7,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 17时39分]"
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 18时36分]"
         }
       ]
     },
