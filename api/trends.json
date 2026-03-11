@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T22:04:54.438003+08:00",
-  "total_titles_processed": 1985,
+  "generated_at": "2026-03-11T23:45:19.953205+08:00",
+  "total_titles_processed": 2098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -38,11 +38,26 @@
             11,
             7,
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时08分 ~ 22时04分]"
+          "appearance_count": 15,
+          "time_info": "[12时08分 ~ 23时45分]"
+        },
+        {
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时37分 ~ 23时45分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -84,19 +99,6 @@
           "time_info": "[00时04分 ~ 12时08分]"
         },
         {
-          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
-          "url": "https://www.cls.cn/detail/2309524",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时37分 ~ 22时04分]"
-        },
-        {
           "title": "AI背锅,内存降价遥遥无期",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
           "source": "贴吧",
@@ -107,11 +109,12 @@
             21,
             26,
             30,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时04分 ~ 22时04分]"
+          "appearance_count": 25,
+          "time_info": "[00时04分 ~ 23时45分]"
         },
         {
           "title": "如何评价荣耀MagicV6",
@@ -157,6 +160,19 @@
           "time_info": "[14时48分 ~ 19时32分]"
         },
         {
+          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
+          "url": "https://www.cls.cn/detail/2309633",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时39分 ~ 23时45分]"
+        },
+        {
           "title": "建议不允许青少年用AI做作业",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -186,19 +202,6 @@
           "time_info": "[00时04分 ~ 09时47分]"
         },
         {
-          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
-          "url": "https://www.cls.cn/detail/2309633",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时39分 ~ 22时04分]"
-        },
-        {
           "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
           "url": "https://wallstreetcn.com/articles/3767169",
           "source": "华尔街见闻",
@@ -212,23 +215,24 @@
           "time_info": "[15时41分 ~ 22时04分]"
         },
         {
-          "title": "AI龙虾爆火,大神在线答疑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351702&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%A4%A7%E7%A5%9E%E5%9C%A8%E7%BA%BF%E7%AD%94%E7%96%91",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 22时04分]"
-        },
-        {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
           "url": "https://www.cls.cn/detail/2309924",
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 23时45分]"
+        },
+        {
+          "title": "AI龙虾爆火,大神在线答疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351702&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%A4%A7%E7%A5%9E%E5%9C%A8%E7%BA%BF%E7%AD%94%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -289,7 +293,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -353,6 +357,30 @@
           "time_info": "[06时25分 ~ 09时47分]"
         },
         {
+          "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
+          "url": "https://wallstreetcn.com/articles/3767211",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 23时45分]"
+        },
+        {
+          "title": "沉迷AI的领导belike",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 23时45分]"
+        },
+        {
           "title": "AI短剧侵权肖战最高可判10年",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E6%9D%83%E8%82%96%E6%88%98%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A410%E5%B9%B4%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -375,17 +403,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时25分]"
-        },
-        {
-          "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
-          "url": "https://wallstreetcn.com/articles/3767211",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 22时04分]"
         },
         {
           "title": "与AI“抢”芯片、单车内存成本增千元 有车企高管建议“买车趁早”",
@@ -423,6 +440,18 @@
           "time_info": "[05时27分 ~ 06时25分]"
         },
         {
+          "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32733403",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时04分 ~ 23时45分]"
+        },
+        {
           "title": "院士说文科生绝不会被AI替代",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%A2%E5%A3%AB%E8%AF%B4%E6%96%87%E7%A7%91%E7%94%9F%E7%BB%9D%E4%B8%8D%E4%BC%9A%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -444,18 +473,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时27分]"
-        },
-        {
-          "title": "沉迷AI的领导belike",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 22时04分]"
         },
         {
           "title": "AI动画揭“美洲之盾”实质",
@@ -489,6 +506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
+        },
+        {
+          "title": "马斯克：Digital Optimus是xAI一特斯拉的一个联合项目。 这也是双方协议的一部分。",
+          "url": "https://wallstreetcn.com/livenews/3068208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "集邦咨询：预估CPO在AI数据中心光通信模块的渗透率将逐年成长，有机会于2030年达35%",
@@ -533,17 +561,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32733403",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
         },
         {
           "title": "亚马逊：用户无需成为亚马逊Prime会员或One Medical会员即可使用健康AI。",
@@ -662,9 +679,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：Macrohard将运行在特斯拉的AI4系统（650美元）上，并配合相对节制地使用xAI的英伟达硬件。",
+          "url": "https://flash.jin10.com/detail/20260311232051644800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "AI机器人初创公司Rhoda AI完成4.5亿美元A轮融资，旨在推动机器人从实验室走向现实应用。本轮融资由淡马锡（Temasek）、Capricorn投资集团、Khosla Ventures、Leitmotif、Matter Venture Partners及Xora等机构参投。",
@@ -687,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：Macrohard或Digital Optimus是xAI与特斯拉的联合项目，将作为特斯拉与xAI投资协议的一部分推出。",
+          "url": "https://flash.jin10.com/detail/20260311231802434800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "抖音再战社交，“小火人”打头阵：上线世界广场，内测AI精灵聊天",
@@ -759,7 +798,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         }
@@ -789,11 +828,12 @@
           "ranks": [
             7,
             22,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时39分 ~ 22时04分]"
+          "appearance_count": 6,
+          "time_info": "[17时39分 ~ 23时45分]"
         },
         {
           "title": "《电力厂站足式机器人巡检》标准正式发布，咸亨国际子公司等13家企业参与起草",
@@ -824,7 +864,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         }
