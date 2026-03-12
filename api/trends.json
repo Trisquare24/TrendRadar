@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T22:02:48.000270+08:00",
-  "total_titles_processed": 1856,
+  "generated_at": "2026-03-12T23:56:48.419258+08:00",
+  "total_titles_processed": 1976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -43,6 +43,22 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[14时51分 ~ 22时02分]"
+        },
+        {
+          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
+          "url": "https://www.zhihu.com/question/2015029846779065089",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            10,
+            12,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时44分 ~ 23时56分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -88,8 +104,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时47分 ~ 22时02分]"
+          "appearance_count": 21,
+          "time_info": "[00时47分 ~ 23时56分]"
         },
         {
           "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
@@ -116,21 +132,6 @@
           "time_info": "[00时47分 ~ 07时23分]"
         },
         {
-          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
-          "url": "https://www.zhihu.com/question/2015029846779065089",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            10,
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时44分 ~ 22时02分]"
-        },
-        {
           "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
           "url": "https://www.cls.cn/detail/2310365",
           "source": "财联社热门",
@@ -154,6 +155,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "据Business Insider：xAI联合创始人Zihang Dai本周早些时候已离开公司。",
+          "url": "https://flash.jin10.com/detail/20260312235230253800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "港口运营商APM Terminals Bahrain：将立即暂停哈利法·本·萨勒曼港的港口运营，包括泊位和闸口的作业。此次停业措施将于3月12日和13日继续生效。",
@@ -187,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时30分 ~ 23时56分]"
         },
         {
           "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
@@ -236,17 +259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时40分 ~ 18时36分]"
-        },
-        {
-          "title": "“乐山大佛是大禹雕像”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时30分 ~ 22时02分]"
         },
         {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
@@ -372,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "戴尔科技CEO Michael Dell：（回应Anthropic与五角大楼的纠纷）企业无法影响（美国）政府如何使用（AI）工具。 企业（向美国政府）提出工具使用方式要求这种做法不可行。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3069024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "AI时代计算机专业还能报吗",
@@ -583,7 +606,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -597,6 +620,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "豆包P图有多权威",
+          "url": "https://www.douyin.com/hot/2427641",
+          "source": "抖音",
+          "ranks": [
+            26,
+            24,
+            25,
+            23,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时44分 ~ 23时56分]"
+        },
+        {
+          "title": "报道：原千问后训练负责人郁博文据悉加盟字节Seed，曾与林俊旸同日宣布离职",
+          "url": "https://wallstreetcn.com/livenews/3068592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 14时51分]"
+        },
+        {
+          "title": "正式确诊为黏豆包型人格",
+          "url": "https://www.douyin.com/hot/2427302",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时49分]"
+        },
+        {
+          "title": "豆包成导师,王者带8u轻松连胜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351752&amp;topic_name=%E8%B1%86%E5%8C%85%E6%88%90%E5%AF%BC%E5%B8%88%2C%E7%8E%8B%E8%80%85%E5%B8%A68u%E8%BD%BB%E6%9D%BE%E8%BF%9E%E8%83%9C",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         }
       ]
     },
@@ -636,50 +715,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "字节 Kimi 豆包",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "豆包P图有多权威",
-          "url": "https://www.douyin.com/hot/2427641",
-          "source": "抖音",
-          "ranks": [
-            26,
-            24,
-            25,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时44分 ~ 22时02分]"
-        },
-        {
-          "title": "报道：原千问后训练负责人郁博文据悉加盟字节Seed，曾与林俊旸同日宣布离职",
-          "url": "https://wallstreetcn.com/livenews/3068592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 14时51分]"
-        },
-        {
-          "title": "正式确诊为黏豆包型人格",
-          "url": "https://www.douyin.com/hot/2427302",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 13时49分]"
         }
       ]
     },
