@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T12:09:21.906431+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-03-14T13:43:37.575920+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 12时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 13时43分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -77,6 +78,18 @@
           "time_info": "[01时33分 ~ 03时30分]"
         },
         {
+          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
+          "url": "https://www.cls.cn/detail/2312637",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时43分]"
+        },
+        {
           "title": "美国官员：自与伊朗开战以来，军方已向中东部署近10,000架人工智能无人机。",
           "url": "https://flash.jin10.com/detail/20260314041906690800",
           "source": "金十数据",
@@ -86,6 +99,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时44分 ~ 07时25分]"
+        },
+        {
+          "title": "马斯克旗下xAI聘请AI初创公司Thinking Machines的创始成员Devendra Chaplot参与其Grok AI模型的训练工作。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3070061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 13时43分]"
         },
         {
           "title": "亚马逊计划利用Cerebras Systems Inc.的芯片搭配自家Trainium处理器来改善人工智能（AI）软件/模型的运行效果。",
@@ -110,18 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时30分 ~ 04时31分]"
-        },
-        {
-          "title": "马斯克旗下xAI聘请AI初创公司Thinking Machines的创始成员Devendra Chaplot参与其Grok AI模型的训练工作。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3070061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时09分]"
         },
         {
           "title": "你是在哪一刻感觉到 AI 时代真的到来了？",
@@ -159,17 +173,6 @@
           "time_info": "[05时44分 ~ 06时26分]"
         },
         {
-          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
-          "url": "https://www.cls.cn/detail/2312637",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
           "title": "微软(MSFT.O)CEO：我们是首家部署英伟达Vera Rubin NVL72系统进行验证的云服务提供商，这是与英伟达(NVDA.O)合作构建下一代AI基础设施的又一重要里程碑。",
           "url": "https://flash.jin10.com/detail/20260314015342167800",
           "source": "金十数据",
@@ -181,13 +184,24 @@
           "time_info": "02时41分"
         },
         {
+          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "海尔AI科技真的懂生活",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%B0%94AI%E7%A7%91%E6%8A%80%E7%9C%9F%E7%9A%84%E6%87%82%E7%94%9F%E6%B4%BB%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -216,6 +230,45 @@
       ]
     },
     {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "机器人“保姆”何时来咱家",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E4%BF%9D%E5%A7%86%E2%80%9D%E4%BD%95%E6%97%B6%E6%9D%A5%E5%92%B1%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 09时48分]"
+        },
+        {
+          "title": "上海推出全国首个虚实融合具身智能训练场",
+          "url": "https://wallstreetcn.com/livenews/3070088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "傲鲨外骨骼机器人亮相AWE2026",
+          "url": "https://www.toutiao.com/trending/7616014653279240198/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -239,39 +292,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "机器人“保姆”何时来咱家",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E4%BF%9D%E5%A7%86%E2%80%9D%E4%BD%95%E6%97%B6%E6%9D%A5%E5%92%B1%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 09时48分]"
-        },
-        {
-          "title": "傲鲨外骨骼机器人亮相AWE2026",
-          "url": "https://www.toutiao.com/trending/7616014653279240198/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 13时43分]"
         }
       ]
     },
@@ -286,11 +312,12 @@
           "ranks": [
             21,
             23,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 12时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 13时43分]"
         }
       ]
     }
