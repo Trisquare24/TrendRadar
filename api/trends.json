@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T22:27:04.920058+08:00",
-  "total_titles_processed": 1582,
+  "generated_at": "2026-03-14T23:26:19.467978+08:00",
+  "total_titles_processed": 1636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时09分 ~ 22时27分]"
+          "appearance_count": 15,
+          "time_info": "[12时09分 ~ 23时26分]"
         },
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -35,8 +36,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时43分 ~ 22时27分]"
+          "appearance_count": 14,
+          "time_info": "[13时43分 ~ 23时26分]"
         },
         {
           "title": "鹅厂抄袭AI龙虾,创始人开喷",
@@ -68,8 +69,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时37分 ~ 22时27分]"
+          "appearance_count": 29,
+          "time_info": "[00时37分 ~ 23时26分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -156,6 +157,17 @@
           "time_info": "[01时33分 ~ 03时30分]"
         },
         {
+          "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
+          "url": "https://wallstreetcn.com/articles/3767512",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时43分 ~ 23时26分]"
+        },
+        {
           "title": "人工智能替代了大部分工作后，我们该做什么？",
           "url": "https://www.zhihu.com/question/60274282",
           "source": "知乎",
@@ -166,17 +178,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[20时43分 ~ 22时27分]"
-        },
-        {
-          "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
-          "url": "https://wallstreetcn.com/articles/3767512",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时43分 ~ 22时27分]"
         },
         {
           "title": "美国官员：自与伊朗开战以来，军方已向中东部署近10,000架人工智能无人机。",
@@ -329,6 +330,17 @@
           "time_info": "12时09分"
         },
         {
+          "title": "GLM5 、 Kimi 2.5 、 Minimax M2.5 、千问、豆包，国产大模型选哪个？",
+          "url": "https://www.zhihu.com/question/2007181043678077214",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "为什么很多网文作者都非常自信，认为 AI 在创作领域无法取代自己？",
           "url": "https://www.zhihu.com/question/1914316923497350507",
           "source": "知乎",
@@ -402,19 +414,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时43分 ~ 22时27分]"
+          "appearance_count": 5,
+          "time_info": "[20时43分 ~ 23时26分]"
         },
         {
           "title": "机器人踢球800个假动作",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B8%A2%E7%90%83800%E4%B8%AA%E5%81%87%E5%8A%A8%E4%BD%9C",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
+          "appearance_count": 3,
+          "time_info": "[22时26分 ~ 23时26分]"
         },
         {
           "title": "优必选：拟将全球品牌总部落沪 计划合作发起机器人领域的产业科技发展基金",
@@ -480,28 +493,30 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "据伊朗多家新闻机构报道，伊朗警告居民撤离迪拜杰贝勒阿里港、阿布扎比哈利法港及阿联酋富查伊拉港附近地区。",
-          "url": "https://flash.jin10.com/detail/20260314212539273800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 22时27分]"
-        },
-        {
           "title": "腾讯、字节、阿里、小米、美团、京东、百度，中国互联网七巨头，谁的护城河最宽地位最牢固? 谁的潜力最大?",
           "url": "https://www.zhihu.com/question/1986155615169574349",
           "source": "知乎",
           "ranks": [
             18,
-            7
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时43分 ~ 23时26分]"
+        },
+        {
+          "title": "据伊朗多家新闻机构报道，伊朗警告居民撤离迪拜杰贝勒阿里港、阿布扎比哈利法港及阿联酋富查伊拉港附近地区。",
+          "url": "https://flash.jin10.com/detail/20260314212539273800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时43分 ~ 22时27分]"
+          "time_info": "[21时43分 ~ 23时26分]"
         }
       ]
     },
@@ -522,8 +537,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时37分 ~ 22时27分]"
+          "appearance_count": 21,
+          "time_info": "[00时37分 ~ 23时26分]"
         },
         {
           "title": "Kimi估值涨至180亿美元 ，不到3个月翻了4倍",
