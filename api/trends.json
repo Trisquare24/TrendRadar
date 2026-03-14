@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-03-15T05:24:16.486063+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-03-15T06:23:27.895699+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
       "match_count": 6,
       "titles": [
-        {
-          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时24分]"
-        },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
           "url": "https://www.cls.cn/detail/2312637",
@@ -28,8 +16,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时23分]"
+        },
+        {
+          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时23分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -39,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时23分]"
         },
         {
           "title": "GLM5 、 Kimi 2.5 、 Minimax M2.5 、千问、豆包，国产大模型选哪个？",
@@ -53,8 +54,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时23分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -64,8 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时23分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -96,8 +97,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时23分]"
         },
         {
           "title": "机器人踢球800个假动作",
@@ -108,11 +109,12 @@
             9,
             15,
             16,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时23分]"
         },
         {
           "title": "机器人正要进电梯被男子一脚踹倒",
@@ -122,8 +124,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时23分]"
         }
       ]
     },
@@ -137,11 +139,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时23分]"
         }
       ]
     },
@@ -157,8 +160,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时23分]"
         }
       ]
     }
