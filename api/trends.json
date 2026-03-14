@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T09:48:14.556647+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2026-03-14T12:09:21.906431+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 09时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 12时09分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -111,6 +112,18 @@
           "time_info": "[03时30分 ~ 04时31分]"
         },
         {
+          "title": "马斯克旗下xAI聘请AI初创公司Thinking Machines的创始成员Devendra Chaplot参与其Grok AI模型的训练工作。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3070061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时09分]"
+        },
+        {
           "title": "你是在哪一刻感觉到 AI 时代真的到来了？",
           "url": "https://www.zhihu.com/question/6607255010",
           "source": "知乎",
@@ -120,6 +133,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时47分 ~ 09时48分]"
+        },
+        {
+          "title": "报道：Meta计划因AI成本攀升而实施大规模裁员",
+          "url": "https://wallstreetcn.com/livenews/3070059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时09分]"
         },
         {
           "title": "周五（3月13日），存储芯片与硬件供应链指数涨3.42%，报107.71点，本周劣迹上涨11.60%，周一显著上涨，随后持续高位震荡。 信息科技指数涨0.44%，本周累涨2.59%。 人工智能（AI）赢家指数跌0.14%，本周累涨3.39%，周一和周二持续上涨，随后高位震荡。 AI软件先驱指数跌1.66%，本周累跌4.78%，周四和周五加速下跌。",
@@ -134,6 +159,17 @@
           "time_info": "[05时44分 ~ 06时26分]"
         },
         {
+          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
+          "url": "https://www.cls.cn/detail/2312637",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
           "title": "微软(MSFT.O)CEO：我们是首家部署英伟达Vera Rubin NVL72系统进行验证的云服务提供商，这是与英伟达(NVDA.O)合作构建下一代AI基础设施的又一重要里程碑。",
           "url": "https://flash.jin10.com/detail/20260314015342167800",
           "source": "金十数据",
@@ -145,26 +181,15 @@
           "time_info": "02时41分"
         },
         {
-          "title": "马斯克旗下xAI聘请AI初创公司Thinking Machines的创始成员Devendra Chaplot参与其Grok AI模型的训练工作。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3070061",
-          "source": "华尔街见闻-快讯",
+          "title": "海尔AI科技真的懂生活",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%B0%94AI%E7%A7%91%E6%8A%80%E7%9C%9F%E7%9A%84%E6%87%82%E7%94%9F%E6%B4%BB%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            14
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "报道：Meta计划因AI成本攀升而实施大规模裁员",
-          "url": "https://wallstreetcn.com/livenews/3070059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "12时09分"
         },
         {
           "title": "据英国金融时报：埃隆·马斯克下令xAI再裁员。",
@@ -213,11 +238,40 @@
           "url": "https://wallstreetcn.com/livenews/3070070",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "机器人“保姆”何时来咱家",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E4%BF%9D%E5%A7%86%E2%80%9D%E4%BD%95%E6%97%B6%E6%9D%A5%E5%92%B1%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 09时48分]"
+        },
+        {
+          "title": "傲鲨外骨骼机器人亮相AWE2026",
+          "url": "https://www.toutiao.com/trending/7616014653279240198/",
+          "source": "今日头条",
+          "ranks": [
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "12时09分"
         }
       ]
     },
@@ -231,28 +285,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 09时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "机器人“保姆”何时来咱家",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E4%BF%9D%E5%A7%86%E2%80%9D%E4%BD%95%E6%97%B6%E6%9D%A5%E5%92%B1%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 09时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 12时09分]"
         }
       ]
     }
