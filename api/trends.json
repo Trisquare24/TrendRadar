@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T03:25:07.261525+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-03-15T04:24:58.359443+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 04时24分]"
         },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 04时24分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 04时24分]"
         },
         {
           "title": "GLM5 、 Kimi 2.5 、 Minimax M2.5 、千问、豆包，国产大模型选哪个？",
@@ -52,8 +52,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 04时24分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -63,8 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 04时24分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -95,8 +95,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 04时24分]"
         },
         {
           "title": "机器人踢球800个假动作",
@@ -105,11 +105,12 @@
           "ranks": [
             10,
             9,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 04时24分]"
         },
         {
           "title": "机器人正要进电梯被男子一脚踹倒",
@@ -119,8 +120,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 04时24分]"
         }
       ]
     },
@@ -137,8 +138,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 04时24分]"
         }
       ]
     },
@@ -154,8 +155,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 03时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 04时24分]"
         }
       ]
     }
