@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T00:27:48.703072+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-15T01:24:43.582124+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
           "url": "https://www.cls.cn/detail/2312637",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
           "url": "https://flash.jin10.com/detail/20260315000241891800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -48,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -59,19 +61,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         },
         {
           "title": "GLM5 、 Kimi 2.5 、 Minimax M2.5 、千问、豆包，国产大模型选哪个？",
           "url": "https://www.zhihu.com/question/2007181043678077214",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         }
       ]
     },
@@ -84,22 +87,24 @@
           "url": "https://www.toutiao.com/trending/7616976184911364146/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         },
         {
           "title": "机器人踢球800个假动作",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B8%A2%E7%90%83800%E4%B8%AA%E5%81%87%E5%8A%A8%E4%BD%9C",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         },
         {
           "title": "机器人正要进电梯被男子一脚踹倒",
@@ -109,8 +114,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         }
       ]
     },
@@ -126,8 +131,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         }
       ]
     },
@@ -143,8 +148,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         }
       ]
     }
