@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-03-15T07:25:38.342205+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-03-15T10:04:37.138119+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
       "match_count": 7,
       "titles": [
-        {
-          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
-          "url": "https://www.cls.cn/detail/2312637",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时25分]"
-        },
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
           "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
@@ -29,8 +17,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 10时04分]"
+        },
+        {
+          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
+          "url": "https://www.cls.cn/detail/2312637",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 10时04分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -38,11 +39,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 10时04分]"
         },
         {
           "title": "GLM5 、 Kimi 2.5 、 Minimax M2.5 、千问、豆包，国产大模型选哪个？",
@@ -66,8 +68,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 10时04分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -88,17 +90,18 @@
           "url": "https://wallstreetcn.com/articles/3767515",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 10时04分]"
         }
       ]
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "湖北“省考”开考 人形机器人入考题",
@@ -109,8 +112,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 10时04分]"
         },
         {
           "title": "机器人踢球800个假动作",
@@ -123,11 +126,12 @@
             16,
             18,
             21,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 10时04分]"
         },
         {
           "title": "机器人正要进电梯被男子一脚踹倒",
@@ -139,6 +143,67 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 07时25分]"
+        },
+        {
+          "title": "机器人正要进电梯被男子一脚踹倒",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E8%A6%81%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E7%94%B7%E5%AD%90%E4%B8%80%E8%84%9A%E8%B8%B9%E5%80%92%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "机器人正要进电梯被人一脚踹倒",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E8%A6%81%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E4%BA%BA%E4%B8%80%E8%84%9A%E8%B8%B9%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "机器人踢球800个假动作",
+          "url": "https://www.toutiao.com/trending/7617234822351585289/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "豆包成导师,王者带8u轻松连胜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351752&amp;topic_name=%E8%B1%86%E5%8C%85%E6%88%90%E5%AF%BC%E5%B8%88%2C%E7%8E%8B%E8%80%85%E5%B8%A68u%E8%BD%BB%E6%9D%BE%E8%BF%9E%E8%83%9C",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 10时04分]"
+        },
+        {
+          "title": "Kimi爆火，月之暗面估值冲到180亿美元 ，不到3个月翻了4倍！",
+          "url": "https://wallstreetcn.com/articles/3767528",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         }
       ]
     },
@@ -153,28 +218,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "字节 Kimi 豆包",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "豆包成导师,王者带8u轻松连胜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351752&amp;topic_name=%E8%B1%86%E5%8C%85%E6%88%90%E5%AF%BC%E5%B8%88%2C%E7%8E%8B%E8%80%85%E5%B8%A68u%E8%BD%BB%E6%9D%BE%E8%BF%9E%E8%83%9C",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 10时04分]"
         }
       ]
     }
