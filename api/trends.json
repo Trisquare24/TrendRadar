@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T14:53:10.026898+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2026-03-15T15:43:34.408665+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 14时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 15时43分]"
         },
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -66,11 +66,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 14时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 15时43分]"
         },
         {
           "title": "xAI核心团队基本跑光",
@@ -103,11 +104,23 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            14
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时03分 ~ 15时43分]"
+        },
+        {
+          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
+          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
+          "source": "凤凰网",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时03分 ~ 14时53分]"
+          "time_info": "[14时52分 ~ 15时43分]"
         },
         {
           "title": "突然撤回“AI芯片出口许可”草案，特朗普政府监管再生变数！",
@@ -120,17 +133,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 10时04分]"
-        },
-        {
-          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
-          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 14时53分]"
         },
         {
           "title": "谁在渲染AI焦虑",
@@ -158,7 +160,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "湖北“省考”开考 人形机器人入考题",
@@ -203,6 +205,19 @@
           "time_info": "[00时27分 ~ 13时03分]"
         },
         {
+          "title": "机器人正要进电梯被人一脚踹倒",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E8%A6%81%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E4%BA%BA%E4%B8%80%E8%84%9A%E8%B8%B9%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 15时43分]"
+        },
+        {
           "title": "机器人正要进电梯被男子一脚踹倒",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E8%A6%81%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E7%94%B7%E5%AD%90%E4%B8%80%E8%84%9A%E8%B8%B9%E5%80%92%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -215,28 +230,28 @@
           "time_info": "[10时04分 ~ 13时03分]"
         },
         {
-          "title": "机器人正要进电梯被人一脚踹倒",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%AD%A3%E8%A6%81%E8%BF%9B%E7%94%B5%E6%A2%AF%E8%A2%AB%E4%BA%BA%E4%B8%80%E8%84%9A%E8%B8%B9%E5%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 14时53分]"
-        },
-        {
           "title": "人形机器人夜跑备战半马",
           "url": "https://www.douyin.com/hot/2431104",
           "source": "抖音",
           "ranks": [
             25,
-            29
+            29,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时03分 ~ 15时43分]"
+        },
+        {
+          "title": "人形机器人夜跑备战半马",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%9C%E8%B7%91%E5%A4%87%E6%88%98%E5%8D%8A%E9%A9%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "机器人踢球800个假动作",
@@ -261,11 +276,12 @@
           "source": "贴吧",
           "ranks": [
             23,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 14时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 15时43分]"
         },
         {
           "title": "Kimi爆火，月之暗面估值冲到180亿美元 ，不到3个月翻了4倍！",
@@ -277,8 +293,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 14时53分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 15时43分]"
         }
       ]
     },
@@ -295,8 +311,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时03分 ~ 15时43分]"
         }
       ]
     },
@@ -314,11 +330,12 @@
             4,
             10,
             19,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 14时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 15时43分]"
         }
       ]
     }
