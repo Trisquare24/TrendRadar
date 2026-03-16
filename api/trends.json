@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T21:05:02.049897+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2026-03-16T22:57:30.411120+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "“3·15”晚会：起底荐股分成骗局 给AI大模型投毒已成产业链",
@@ -45,8 +45,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 18时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 22时57分]"
         },
         {
           "title": "六指内塔尼亚胡是AI替身？真相来了",
@@ -162,17 +162,6 @@
           "time_info": "[15时12分 ~ 19时44分]"
         },
         {
-          "title": "锐评B站AI大赛热门作品",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E7%83%AD%E9%97%A8%E4%BD%9C%E5%93%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 21时05分]"
-        },
-        {
           "title": "3月16日投资避雷针：315晚会曝光AI大模型被投毒 给AI投毒已成产业链",
           "url": "https://www.cls.cn/detail/2313556",
           "source": "财联社热门",
@@ -239,6 +228,18 @@
           "time_info": "[03时26分 ~ 07时27分]"
         },
         {
+          "title": "锐评B站AI大赛热门作品",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E7%83%AD%E9%97%A8%E4%BD%9C%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 22时57分]"
+        },
+        {
           "title": "中国AI大模型调用量连续两周超越美国 神秘模型Hunter Alpha上榜",
           "url": "https://wallstreetcn.com/livenews/3070595",
           "source": "华尔街见闻-快讯",
@@ -248,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
+          "url": "https://www.cls.cn/detail/2314550",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "315晚会曝光“AI投毒产业链”",
@@ -415,7 +427,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -497,6 +509,17 @@
           "time_info": "19时44分"
         },
         {
+          "title": "Global AI在美国纽约部署旗下最大规模的英伟达GB300 NVL72 Cluster。 该公司计划在全美范围部署英伟达Vera Rubin平台。",
+          "url": "https://wallstreetcn.com/livenews/3070986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "金珉锡十二星座庇护所堪比AI",
           "url": "https://www.douyin.com/hot/2432672",
           "source": "抖音",
@@ -525,6 +548,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "全球首例机器人“被捕”事件出现",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E8%A2%AB%E6%8D%95%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%87%BA%E7%8E%B0",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时04分 ~ 22时57分]"
+        },
+        {
           "title": "人形机器人夜跑备战半马",
           "url": "https://www.douyin.com/hot/2431104",
           "source": "抖音",
@@ -540,16 +576,16 @@
           "time_info": "[04时25分 ~ 10时05分]"
         },
         {
-          "title": "全球首例机器人“被捕”事件出现",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E8%A2%AB%E6%8D%95%E2%80%9D%E4%BA%8B%E4%BB%B6%E5%87%BA%E7%8E%B0",
-          "source": "百度热搜",
+          "title": "人形机器人能打网球了",
+          "url": "https://www.douyin.com/hot/2432245",
+          "source": "抖音",
           "ranks": [
-            25,
-            10
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时04分 ~ 21时05分]"
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 22时57分]"
         },
         {
           "title": "人形机器人夜跑备战半马",
@@ -563,17 +599,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 03时26分]"
-        },
-        {
-          "title": "人形机器人能打网球了",
-          "url": "https://www.douyin.com/hot/2432245",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 21时05分]"
         },
         {
           "title": "福莱蒽特：拟0元受让杭州元甲企业管理合伙企业（有限合伙）持有的双曲线智能机器人（杭州）有限公司30%的股权",
@@ -590,8 +615,19 @@
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "纳斯达克金龙中国指数涨幅第三次扩大至超过2%，刷新日高至7300点上方。 热门中概股腾讯音乐涨超5%，理想涨4.5%，再鼎医药、大全新能源、华住、百胜中国涨超3%，蔚来涨2.9%，网易涨2.5%，阿里巴巴涨2.2%。 ETF中，KWEB涨2.5%，CQQQ也涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3070990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
         {
           "title": "金十整理：下周重要事件与数据预告——超级央行周来袭，美日英欧瑞加央行决议轮番“炸场”；阿里、腾讯等多家科技公司财报将公布",
           "url": "https://flash.jin10.com/detail/20260315214911547800",
@@ -613,6 +649,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "字节跳动因版权纠纷暂停 Seedance 2.0 的全球发布，对其影响有多大？有哪些好的应对方式？",
+          "url": "https://www.zhihu.com/question/2016435583233255060",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时27分]"
+        },
+        {
+          "title": "Kimi发布技术报告获马斯克点赞，联合创始人杨植麟、吴育昕、周昕宇署名",
+          "url": "https://wallstreetcn.com/livenews/3071006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         }
       ]
     },
@@ -645,28 +709,12 @@
           "url": "https://wallstreetcn.com/articles/3767569",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 21时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "字节 Kimi 豆包",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "字节跳动因版权纠纷暂停 Seedance 2.0 的全球发布，对其影响有多大？有哪些好的应对方式？",
-          "url": "https://www.zhihu.com/question/2016435583233255060",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 07时27分]"
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 22时57分]"
         }
       ]
     }
