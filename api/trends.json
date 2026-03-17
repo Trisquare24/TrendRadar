@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T15:04:54.660188+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-03-17T16:52:21.755466+08:00",
+  "total_titles_processed": 1418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 60,
+      "match_count": 65,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -57,11 +57,12 @@
             23,
             25,
             22,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时04分 ~ 09时53分]"
+          "appearance_count": 13,
+          "time_info": "[00时04分 ~ 16时52分]"
         },
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
@@ -99,11 +100,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时04分]"
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时52分]"
         },
         {
           "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
@@ -117,6 +119,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时52分 ~ 15时04分]"
+        },
+        {
+          "title": "AI大厂月薪3万疯抢文科生",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "英伟达(NVDA.O)扩展开源模型系列，以支持下一波基于智能体、实体世界和医疗保健人工智能的发展。",
@@ -210,6 +223,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时16分 ~ 15时04分]"
+        },
+        {
+          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时52分]"
         },
         {
           "title": "苹果发布AirPods Max 2",
@@ -318,18 +344,6 @@
           "time_info": "[12时16分 ~ 12时17分]"
         },
         {
-          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
-          "url": "https://www.zhihu.com/question/1977057445844109122",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时04分]"
-        },
-        {
           "title": "三星电子在英伟达GTC大会上展示了采用三星4纳米代工工艺制造的英伟达新一代AI推理处理器。",
           "url": "https://flash.jin10.com/detail/20260317060618810800",
           "source": "金十数据",
@@ -380,7 +394,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -407,6 +421,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "英伟达押注下一个万亿级机遇 入局AI服务器系统",
+          "url": "https://wallstreetcn.com/livenews/3071516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "三星电子：将在2026年3月16日至19日于美国加州圣何塞举行的英伟达GTC 2026大会上展示全面的AI计算技术。核心产品将是全新第六代HBM4，目前已进入量产阶段，并专为英伟达Vera Rubin平台设计。",
           "url": "https://flash.jin10.com/detail/20260317070719405800",
           "source": "金十数据",
@@ -416,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "3·15晚会点名AI投毒 中广协已启动GEO标准化建设工作",
+          "url": "https://flash.jin10.com/detail/20260317161933180800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "马斯克旗下xAI：Grok的文本生成Speech API上线。",
@@ -446,7 +482,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -534,7 +570,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -649,6 +685,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "华为面向AI推理场景发布新一代AI数据基础设施",
+          "url": "https://wallstreetcn.com/livenews/3071491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "英伟达将向韩国数据中心提供芯片。 Reflection AI计划开发韩语模型。 该公司Shinsegae数据中心将消耗250 MW电力。 （华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3071116",
           "source": "华尔街见闻-快讯",
@@ -691,6 +738,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "Kimi回应马斯克点赞AI论文：你的火箭造得不错",
+          "url": "https://wallstreetcn.com/livenews/3071485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "AirPodsMax2发布",
@@ -767,61 +825,8 @@
       ]
     },
     {
-      "keyword_group": "字节 Kimi 豆包",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Kimi 新发布的「注意力残差」有什么亮点？马斯克和 Karpathy 为何同时点赞？",
-          "url": "https://www.zhihu.com/question/2016993095078684011",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时04分]"
-        },
-        {
-          "title": "为什么豆包模型实际很强，但却远被人们低估？",
-          "url": "https://www.zhihu.com/question/2013902668985292076",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 15时04分]"
-        },
-        {
-          "title": "豆包给周也指导的穿搭",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E7%BB%99%E5%91%A8%E4%B9%9F%E6%8C%87%E5%AF%BC%E7%9A%84%E7%A9%BF%E6%90%AD%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时04分"
-        },
-        {
-          "title": "Kimi发布技术报告获马斯克点赞，联合创始人杨植麟、吴育昕、周昕宇署名",
-          "url": "https://wallstreetcn.com/livenews/3071006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 具身智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "人形机器人能打网球了",
@@ -869,6 +874,71 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "人形机器人能打网球了",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%BD%E6%89%93%E7%BD%91%E7%90%83%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "Kimi 新发布的「注意力残差」有什么亮点？马斯克和 Karpathy 为何同时点赞？",
+          "url": "https://www.zhihu.com/question/2016993095078684011",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时52分]"
+        },
+        {
+          "title": "为什么豆包模型实际很强，但却远被人们低估？",
+          "url": "https://www.zhihu.com/question/2013902668985292076",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 16时52分]"
+        },
+        {
+          "title": "豆包给周也指导的穿搭",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E7%BB%99%E5%91%A8%E4%B9%9F%E6%8C%87%E5%AF%BC%E7%9A%84%E7%A9%BF%E6%90%AD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
+          "title": "Kimi发布技术报告获马斯克点赞，联合创始人杨植麟、吴育昕、周昕宇署名",
+          "url": "https://wallstreetcn.com/livenews/3071006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
         }
       ]
     },
