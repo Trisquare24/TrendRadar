@@ -1,27 +1,12 @@
 {
-  "generated_at": "2026-03-18T17:51:43.973845+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2026-03-18T18:50:26.379601+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
-        {
-          "title": "AI味太冲,英伟达DLSS5翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            9,
-            13,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时03分 ~ 17时51分]"
-        },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
           "url": "https://www.zhihu.com/question/2016981407864414269",
@@ -36,6 +21,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时03分 ~ 07时29分]"
+        },
+        {
+          "title": "AI味太冲,英伟达DLSS5翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            9,
+            13,
+            14,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时03分 ~ 18时50分]"
         },
         {
           "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
@@ -109,6 +110,18 @@
           "time_info": "[12时24分 ~ 17时51分]"
         },
         {
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时24分 ~ 18时50分]"
+        },
+        {
           "title": "七部门发AI安全治理3年计划？谣言",
           "url": "https://www.toutiao.com/trending/7618388030847700530/",
           "source": "今日头条",
@@ -132,17 +145,6 @@
           "time_info": "[12时24分 ~ 14时02分]"
         },
         {
-          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
-          "url": "https://www.zhihu.com/question/2016095792616744489",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 17时51分]"
-        },
-        {
           "title": "腾讯控股：2025年企业服务收入同比增长接近20%，得益于国内及海外对云服务的需求（包括对AI相关服务的需求）增加，以及由于微信小店交易额上升而带动的商家技术服务费收入增长。",
           "url": "https://wallstreetcn.com/livenews/3072284",
           "source": "华尔街见闻-快讯",
@@ -160,9 +162,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
+          "url": "https://www.zhihu.com/question/2017541603019940502",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 18时50分]"
         },
         {
           "title": "橡树资本联合创始人Howard Marks：投资者低估了人工智能（AI）。 AI让世界变得更难预测。 赋予AI重要性的“力量”也让AI未来会做些什么变得难以预料。",
@@ -225,6 +240,31 @@
           "time_info": "[12时24分 ~ 16时44分]"
         },
         {
+          "title": "短剧演员谈被AI替代",
+          "url": "https://www.douyin.com/hot/2434994",
+          "source": "抖音",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 18时50分]"
+        },
+        {
+          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
+          "url": "https://www.cls.cn/detail/2316633",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时44分 ~ 18时50分]"
+        },
+        {
           "title": "“龙虾”火出圈，券商纷纷自研AI智能体",
           "url": "https://wallstreetcn.com/livenews/3071935",
           "source": "华尔街见闻-快讯",
@@ -235,19 +275,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时29分]"
-        },
-        {
-          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
-          "url": "https://www.zhihu.com/question/2017541603019940502",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 17时51分]"
         },
         {
           "title": "亚马逊股价走高，最新上涨1%，报214美元以上，此前报道称，该公司首席执行官预计到2036年，人工智能将使亚马逊云服务的销售额翻一番，达到6000亿美元。",
@@ -284,18 +311,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 04时36分]"
-        },
-        {
-          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
-          "url": "https://www.cls.cn/detail/2316633",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 17时51分]"
         },
         {
           "title": "亚马逊(AMZN.O)首席执行官：到2036年，人工智能将使亚马逊云服务销售额翻倍至6000亿美元（此前预计为3000亿美元）。",
@@ -369,17 +384,6 @@
           "time_info": "16时44分"
         },
         {
-          "title": "短剧演员谈被AI替代",
-          "url": "https://www.douyin.com/hot/2434994",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
           "title": "腾讯：人工智能能力提升推动了游戏的用户参与度。",
           "url": "https://wallstreetcn.com/livenews/3072278",
           "source": "华尔街见闻-快讯",
@@ -397,7 +401,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -419,9 +423,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
+          "url": "https://www.cls.cn/detail/2316793",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "摩根大通：上调哔哩哔哩评级至超配并建议抄底 公司AI投资战略正确",
@@ -457,13 +472,24 @@
           "time_info": "07时29分"
         },
         {
+          "title": "腾讯2025年游戏营收同比增长22%，游戏AI应用成关键驱动力之一",
+          "url": "https://wallstreetcn.com/livenews/3072356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
           "title": "腾讯：2025年第四季资本开支付款224亿元 主要用于支持AI业务发展",
           "url": "https://wallstreetcn.com/livenews/3072288",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -551,7 +577,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -584,9 +610,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "耀客AI演员 赵今麦翟子路",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%80%E5%AE%A2AI%E6%BC%94%E5%91%98%20%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%BF%9F%E5%AD%90%E8%B7%AF&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "英伟达(NVDA.O)：AT&T与思科和英伟达合作，为物联网构建人工智能网格",
@@ -677,6 +714,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "北京：对重点领域“人工智能+”示范项目，按有关政策给予不超过5000万元支持",
+          "url": "https://wallstreetcn.com/livenews/3072337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
           "title": "A股开盘，沪指开涨0.08%，深证成指开涨0.49%，创业板指开涨0.85%；钢铁、AI芯片、盲盒经济、纺织制造等概念涨幅居前。",
           "url": "https://flash.jin10.com/detail/20260318092522912800",
           "source": "金十数据",
@@ -708,6 +756,106 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "看机器人跳一支春天的芭蕾",
+          "url": "https://www.douyin.com/hot/2433980",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 07时29分]"
+        },
+        {
+          "title": "王兴兴谈具身智能的GPT时刻",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%85%B4%E5%85%B4%E8%B0%88%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84GPT%E6%97%B6%E5%88%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时24分 ~ 18时50分]"
+        },
+        {
+          "title": "宇树创始人称今年机器人会快过博尔特",
+          "url": "https://www.toutiao.com/trending/7617456243996885038/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 14时02分]"
+        },
+        {
+          "title": "机器人租赁平台擎天租获过亿融资，黄晓明、乐华娱乐参投",
+          "url": "https://wallstreetcn.com/livenews/3072372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "宇树创始人：今年机器人会快过博尔特",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%88%9B%E5%A7%8B%E4%BA%BA%EF%BC%9A%E4%BB%8A%E5%B9%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%9A%E5%BF%AB%E8%BF%87%E5%8D%9A%E5%B0%94%E7%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 14时02分]"
+        },
+        {
+          "title": "看机器人剥香蕉，大爷急疯了",
+          "url": "https://news.ifeng.com/c/8rZeUSzEwjt",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时24分 ~ 16时44分]"
+        },
+        {
+          "title": "石景山区人形机器人数据训练中心三期将投用",
+          "url": "https://flash.jin10.com/detail/20260318181515107800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "智元机器人获颁国家高新技术企业认证",
+          "url": "https://wallstreetcn.com/livenews/3072250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     },
@@ -800,83 +948,6 @@
       ]
     },
     {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "看机器人跳一支春天的芭蕾",
-          "url": "https://www.douyin.com/hot/2433980",
-          "source": "抖音",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时29分]"
-        },
-        {
-          "title": "宇树创始人称今年机器人会快过博尔特",
-          "url": "https://www.toutiao.com/trending/7617456243996885038/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 14时02分]"
-        },
-        {
-          "title": "王兴兴谈具身智能的GPT时刻",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%85%B4%E5%85%B4%E8%B0%88%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84GPT%E6%97%B6%E5%88%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 17时51分]"
-        },
-        {
-          "title": "宇树创始人：今年机器人会快过博尔特",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%88%9B%E5%A7%8B%E4%BA%BA%EF%BC%9A%E4%BB%8A%E5%B9%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%9A%E5%BF%AB%E8%BF%87%E5%8D%9A%E5%B0%94%E7%89%B9",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 14时02分]"
-        },
-        {
-          "title": "看机器人剥香蕉，大爷急疯了",
-          "url": "https://news.ifeng.com/c/8rZeUSzEwjt",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 16时44分]"
-        },
-        {
-          "title": "智元机器人获颁国家高新技术企业认证",
-          "url": "https://wallstreetcn.com/livenews/3072250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "阿里 Qwen",
       "match_count": 5,
       "titles": [
@@ -899,7 +970,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -988,11 +1059,12 @@
           "ranks": [
             3,
             7,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 17时51分]"
+          "appearance_count": 7,
+          "time_info": "[12时24分 ~ 18时50分]"
         }
       ]
     },
