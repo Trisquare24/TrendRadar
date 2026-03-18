@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T07:29:59.562713+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-03-18T09:57:11.880845+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 09时57分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -43,11 +43,12 @@
             12,
             13,
             10,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时55分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[01时55分 ~ 09时57分]"
         },
         {
           "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
@@ -55,11 +56,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 09时57分]"
         },
         {
           "title": "于谦说怕AI偷看相册",
@@ -68,11 +70,12 @@
           "ranks": [
             13,
             14,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 09时57分]"
         },
         {
           "title": "橡树资本联合创始人Howard Marks：投资者低估了人工智能（AI）。 AI让世界变得更难预测。 赋予AI重要性的“力量”也让AI未来会做些什么变得难以预料。",
@@ -81,9 +84,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "大厂月薪 3 万元「疯抢」文科生，AI 时代文科生比理科生更吃香了吗？他们有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
+          "ranks": [
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 09时57分]"
         },
         {
           "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
@@ -183,6 +198,17 @@
           "time_info": "[01时56分 ~ 03时00分]"
         },
         {
+          "title": "七部门发AI安全治理3年计划？谣言",
+          "url": "https://www.toutiao.com/trending/7618388030847700530/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
           "title": "惠与（HPE）推出由英伟达产品支持的HPE AI Grid。",
           "url": "https://wallstreetcn.com/livenews/3071844",
           "source": "华尔街见闻-快讯",
@@ -193,6 +219,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时00分 ~ 03时55分]"
+        },
+        {
+          "title": "男二以下 AI演员",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%20AI%E6%BC%94%E5%91%98&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
         },
         {
           "title": "MasterCard Inc.推出新款生成式AI模型。 大模型Tabular在结构性数据的基础上进行训练。",
@@ -207,13 +244,35 @@
           "time_info": "[01时56分 ~ 03时00分]"
         },
         {
+          "title": "港股大模型“双雄”智谱(02513.HK)、MINIMAX-W(00100.HK)盘初拉升，现涨幅均扩大至逾6%。",
+          "url": "https://flash.jin10.com/detail/20260318094118873800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "摩根大通：上调哔哩哔哩评级至超配并建议抄底 公司AI投资战略正确",
+          "url": "https://wallstreetcn.com/livenews/3072012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
           "title": "公募机构争夺AI好感度，业内提示谨防信息污染",
           "url": "https://wallstreetcn.com/livenews/3071939",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -249,17 +308,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
-        },
-        {
-          "title": "大厂月薪 3 万元「疯抢」文科生，AI 时代文科生比理科生更吃香了吗？他们有哪些优势？",
-          "url": "https://www.zhihu.com/question/2016095792616744489",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
         },
         {
           "title": "微软整合个人与工作Copilot团队，全力推进AI布局",
@@ -304,13 +352,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "三星电子联合首席执行官Jun：已对股东回报政策进行了深入审查，将长期致力于提升股东价值。 将董事会成员人数从9人减至8人。 芯片业务首席技术官Song Jai-hyuk辞去董事会职务。",
+          "url": "https://wallstreetcn.com/livenews/3071991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "A股CPO概念盘初走强，罗博特科涨超6%，天孚通信涨超5%，德科立、炬光科技、长芯博创、新易盛、协创数据等个股跟涨。黄仁勋在GTC大会上表示，英伟达将与专注推理技术的初创公司“格罗克”合作推出AI服务器系统，从而加大在低成本、低延迟推理计算领域的布局。",
+          "url": "https://flash.jin10.com/detail/20260318092634064800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "A股开盘，沪指开涨0.08%，深证成指开涨0.49%，创业板指开涨0.85%；钢铁、AI芯片、盲盒经济、纺织制造等概念涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260318092522912800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        },
+        {
+          "title": "摩根士丹利：上调宁德时代A和H股目标价 储能出货量料受AI需求提振",
+          "url": "https://wallstreetcn.com/livenews/3071985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
+          "url": "https://www.cls.cn/detail/2316213",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
         {
           "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
           "url": "https://wallstreetcn.com/livenews/3071826",
@@ -372,7 +475,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌公司位于美国密歇根的Gigawatt数据中心将于2027年上线（投入应用）。",
@@ -392,9 +495,60 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "A股液冷概念局部活跃，高澜股份、奕东电子双双涨超3%，优刻得-W、飞龙股份、网宿科技、川润股份等个股跟涨。据报道，美国谷歌公司团队近日来华考察用于数据中心服务器冷却的液冷设备。",
+          "url": "https://flash.jin10.com/detail/20260318092900712800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "看机器人跳一支春天的芭蕾",
+          "url": "https://www.douyin.com/hot/2433980",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 07时29分]"
+        },
+        {
+          "title": "宇树创始人称今年机器人会快过博尔特",
+          "url": "https://www.toutiao.com/trending/7617456243996885038/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
+          "title": "宇树创始人：今年机器人会快过博尔特",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%88%9B%E5%A7%8B%E4%BA%BA%EF%BC%9A%E4%BB%8A%E5%B9%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%9A%E5%BF%AB%E8%BF%87%E5%8D%9A%E5%B0%94%E7%89%B9",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
         }
       ]
     },
@@ -424,24 +578,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "看机器人跳一支春天的芭蕾",
-          "url": "https://www.douyin.com/hot/2433980",
-          "source": "抖音",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时29分]"
         }
       ]
     }
