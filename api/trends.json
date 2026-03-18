@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T14:02:28.592610+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-03-18T15:33:10.038378+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 14时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时03分 ~ 15时33分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -85,11 +86,24 @@
           "source": "微博",
           "ranks": [
             11,
-            1
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 15时33分]"
+        },
+        {
+          "title": "官方辟谣“AI安全治理3年计划”",
+          "url": "https://www.douyin.com/hot/2434741",
+          "source": "抖音",
+          "ranks": [
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时56分 ~ 14时02分]"
+          "time_info": "[12时24分 ~ 15时33分]"
         },
         {
           "title": "如何看待 2026 EWC 官方因 Xiaohai 更换战队而取消其《街霸 6》卫冕冠军直邀资格的行为？",
@@ -102,6 +116,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 14时02分]"
+        },
+        {
+          "title": "七部门发AI安全治理3年计划？谣言",
+          "url": "https://www.toutiao.com/trending/7618388030847700530/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 15时33分]"
         },
         {
           "title": "橡树资本联合创始人Howard Marks：投资者低估了人工智能（AI）。 AI让世界变得更难预测。 赋予AI重要性的“力量”也让AI未来会做些什么变得难以预料。",
@@ -152,18 +177,6 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
-          "title": "官方辟谣“AI安全治理3年计划”",
-          "url": "https://www.douyin.com/hot/2434741",
-          "source": "抖音",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 14时02分]"
-        },
-        {
           "title": "亚马逊股价走高，最新上涨1%，报214美元以上，此前报道称，该公司首席执行官预计到2036年，人工智能将使亚马逊云服务的销售额翻一番，达到6000亿美元。",
           "url": "https://flash.jin10.com/detail/20260318024409341800",
           "source": "金十数据",
@@ -200,15 +213,38 @@
           "time_info": "[03时55分 ~ 04时36分]"
         },
         {
-          "title": "七部门发AI安全治理3年计划？谣言",
-          "url": "https://www.toutiao.com/trending/7618388030847700530/",
-          "source": "今日头条",
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 15时33分]"
+        },
+        {
+          "title": "七部门发AI安全治理3年计划系谣言",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E9%83%A8%E9%97%A8%E5%8F%91AI%E5%AE%89%E5%85%A8%E6%B2%BB%E7%90%863%E5%B9%B4%E8%AE%A1%E5%88%92%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时56分 ~ 14时02分]"
+          "time_info": "[12时24分 ~ 15时33分]"
+        },
+        {
+          "title": "网传“男二以下用AI演员” 于正发声",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%E7%94%A8AI%E6%BC%94%E5%91%98%E2%80%9D+%E4%BA%8E%E6%AD%A3%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 15时33分]"
         },
         {
           "title": "亚马逊(AMZN.O)首席执行官：到2036年，人工智能将使亚马逊云服务销售额翻倍至6000亿美元（此前预计为3000亿美元）。",
@@ -247,26 +283,15 @@
           "time_info": "[01时56分 ~ 03时00分]"
         },
         {
-          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
-          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
+          "url": "https://www.zhihu.com/question/2017541603019940502",
           "source": "知乎",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时24分 ~ 14时02分]"
-        },
-        {
-          "title": "七部门发AI安全治理3年计划系谣言",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E9%83%A8%E9%97%A8%E5%8F%91AI%E5%AE%89%E5%85%A8%E6%B2%BB%E7%90%863%E5%B9%B4%E8%AE%A1%E5%88%92%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 14时02分]"
+          "time_info": "[15时32分 ~ 15时33分]"
         },
         {
           "title": "惠与（HPE）推出由英伟达产品支持的HPE AI Grid。",
@@ -291,17 +316,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 03时00分]"
-        },
-        {
-          "title": "网传“男二以下用AI演员” 于正发声",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%E7%94%A8AI%E6%BC%94%E5%91%98%E2%80%9D+%E4%BA%8E%E6%AD%A3%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
         },
         {
           "title": "港股大模型“双雄”智谱(02513.HK)、MINIMAX-W(00100.HK)盘初拉升，现涨幅均扩大至逾6%。",
@@ -343,7 +357,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -398,7 +412,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -409,7 +423,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -453,9 +467,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "港股大模型股持续走高，MINIMAX涨幅扩大至超27%，智谱涨超20%。",
+          "url": "https://wallstreetcn.com/livenews/3072191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         },
         {
           "title": "三星电子联合首席执行官Jun：已对股东回报政策进行了深入审查，将长期致力于提升股东价值。 将董事会成员人数从9人减至8人。 芯片业务首席技术官Song Jai-hyuk辞去董事会职务。",
@@ -475,7 +500,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -486,7 +511,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -530,7 +555,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         }
@@ -546,11 +571,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 14时02分]"
+          "appearance_count": 6,
+          "time_info": "[09时56分 ~ 15时33分]"
         },
         {
           "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
@@ -583,7 +609,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -668,11 +694,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%85%B4%E5%85%B4%E8%B0%88%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84GPT%E6%97%B6%E5%88%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 15时33分]"
         },
         {
           "title": "看机器人剥香蕉，大爷急疯了",
@@ -682,8 +709,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 15时33分]"
         }
       ]
     },
@@ -760,7 +787,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         }
@@ -775,11 +802,29 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 15时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "字节面向员工推出ByteClaw",
+          "url": "https://wallstreetcn.com/livenews/3072215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         }
       ]
     }
