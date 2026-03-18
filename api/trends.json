@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T02:32:25.533231+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-03-19T03:07:12.624784+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时07分]"
         },
         {
           "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时07分]"
         },
         {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
@@ -37,19 +37,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时07分]"
         },
         {
           "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
           "url": "https://wallstreetcn.com/articles/3767836",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时07分]"
         },
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
@@ -59,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时07分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -70,8 +71,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时07分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -82,8 +83,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时07分]"
         },
         {
           "title": "短剧演员谈被AI替代",
@@ -103,7 +104,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -114,7 +115,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -124,6 +125,34 @@
           "source": "微博",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌公司与Stitch推出Vibe Design。",
+          "url": "https://wallstreetcn.com/livenews/3072623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "上个月，当Anthropic公司与美国国防部就人工智能在战争中的应用发生冲突时，谷歌(GOOG.O)的一位高管悄悄地与五角大楼官员会面，力荐该公司成为完美的国防合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20260318233322171800",
+          "source": "金十数据",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -143,25 +172,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 02时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上个月，当Anthropic公司与美国国防部就人工智能在战争中的应用发生冲突时，谷歌(GOOG.O)的一位高管悄悄地与五角大楼官员会面，力荐该公司成为完美的国防合作伙伴。",
-          "url": "https://flash.jin10.com/detail/20260318233322171800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时07分]"
         }
       ]
     },
@@ -192,11 +204,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 03时07分]"
         }
       ]
     }
