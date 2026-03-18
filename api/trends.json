@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T16:44:36.499840+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2026-03-18T17:51:43.973845+08:00",
+  "total_titles_processed": 1497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 53,
+      "match_count": 60,
       "titles": [
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -15,11 +15,12 @@
             5,
             9,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时03分 ~ 16时44分]"
+          "appearance_count": 19,
+          "time_info": "[00时03分 ~ 17时51分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -104,8 +105,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 16时44分]"
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 17时51分]"
         },
         {
           "title": "七部门发AI安全治理3年计划？谣言",
@@ -131,15 +132,37 @@
           "time_info": "[12时24分 ~ 14时02分]"
         },
         {
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 17时51分]"
+        },
+        {
           "title": "腾讯控股：2025年企业服务收入同比增长接近20%，得益于国内及海外对云服务的需求（包括对AI相关服务的需求）增加，以及由于微信小店交易额上升而带动的商家技术服务费收入增长。",
           "url": "https://wallstreetcn.com/livenews/3072284",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "腾讯首席财务官：腾讯计划减少股票回购，将资金用于AI投资。",
+          "url": "https://wallstreetcn.com/livenews/3072308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "橡树资本联合创始人Howard Marks：投资者低估了人工智能（AI）。 AI让世界变得更难预测。 赋予AI重要性的“力量”也让AI未来会做些什么变得难以预料。",
@@ -165,15 +188,17 @@
           "time_info": "[07时29分 ~ 09时57分]"
         },
         {
-          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
-          "url": "https://www.zhihu.com/question/2016095792616744489",
-          "source": "知乎",
+          "title": "网传“男二以下用AI演员” 于正发声",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%E7%94%A8AI%E6%BC%94%E5%91%98%E2%80%9D+%E4%BA%8E%E6%AD%A3%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
           "ranks": [
-            9
+            7,
+            9,
+            27
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时24分 ~ 16时44分]"
+          "time_info": "[14时02分 ~ 17时51分]"
         },
         {
           "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
@@ -212,16 +237,17 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
-          "title": "网传“男二以下用AI演员” 于正发声",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E2%80%9C%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%E7%94%A8AI%E6%BC%94%E5%91%98%E2%80%9D+%E4%BA%8E%E6%AD%A3%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
+          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
+          "url": "https://www.zhihu.com/question/2017541603019940502",
+          "source": "知乎",
           "ranks": [
-            7,
-            9
+            10,
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时02分 ~ 16时44分]"
+          "time_info": "[15时32分 ~ 17时51分]"
         },
         {
           "title": "亚马逊股价走高，最新上涨1%，报214美元以上，此前报道称，该公司首席执行官预计到2036年，人工智能将使亚马逊云服务的销售额翻一番，达到6000亿美元。",
@@ -260,16 +286,16 @@
           "time_info": "[03时55分 ~ 04时36分]"
         },
         {
-          "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
-          "url": "https://www.zhihu.com/question/2017541603019940502",
-          "source": "知乎",
+          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
+          "url": "https://www.cls.cn/detail/2316633",
+          "source": "财联社热门",
           "ranks": [
-            10,
+            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 16时44分]"
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 17时51分]"
         },
         {
           "title": "亚马逊(AMZN.O)首席执行官：到2036年，人工智能将使亚马逊云服务销售额翻倍至6000亿美元（此前预计为3000亿美元）。",
@@ -338,9 +364,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "短剧演员谈被AI替代",
+          "url": "https://www.douyin.com/hot/2434994",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "腾讯：人工智能能力提升推动了游戏的用户参与度。",
@@ -349,20 +386,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
         {
-          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
-          "url": "https://www.cls.cn/detail/2316633",
-          "source": "财联社热门",
+          "title": "腾讯控股(00700.HK)首席财务官：腾讯计划减少股票回购，将资金用于AI投资。",
+          "url": "https://flash.jin10.com/detail/20260318173058178800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时44分"
+          "time_info": "17时51分"
         },
         {
           "title": "港股大模型“双雄”智谱(02513.HK)、MINIMAX-W(00100.HK)盘初拉升，现涨幅均扩大至逾6%。",
@@ -374,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "富士康与SAP签署战略合作 加速AI驱动型制造与供应链转型",
+          "url": "https://flash.jin10.com/detail/20260318173048985800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "摩根大通：上调哔哩哔哩评级至超配并建议抄底 公司AI投资战略正确",
@@ -393,7 +441,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         },
@@ -407,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "腾讯：2025年第四季资本开支付款224亿元 主要用于支持AI业务发展",
+          "url": "https://wallstreetcn.com/livenews/3072288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "阿里巴巴2027届实习生招聘启动，AI相关岗位占比超八成",
@@ -486,6 +545,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "腾讯：AI能力提升推动了游戏的用户参与度",
+          "url": "https://wallstreetcn.com/livenews/3072278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "麒麟信安发布企业级云上AI安全部署方案",
           "url": "https://wallstreetcn.com/livenews/3071770",
           "source": "华尔街见闻-快讯",
@@ -503,9 +573,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
+        },
+        {
+          "title": "耀客签约AI演员",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%80%E5%AE%A2%E7%AD%BE%E7%BA%A6AI%E6%BC%94%E5%91%98%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "英伟达(NVDA.O)：AT&T与思科和英伟达合作，为物联网构建人工智能网格",
@@ -641,11 +722,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 16时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 17时51分]"
         },
         {
           "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
@@ -746,6 +828,18 @@
           "time_info": "[09时56分 ~ 14时02分]"
         },
         {
+          "title": "王兴兴谈具身智能的GPT时刻",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%85%B4%E5%85%B4%E8%B0%88%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84GPT%E6%97%B6%E5%88%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 17时51分]"
+        },
+        {
           "title": "宇树创始人：今年机器人会快过博尔特",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E5%88%9B%E5%A7%8B%E4%BA%BA%EF%BC%9A%E4%BB%8A%E5%B9%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%9A%E5%BF%AB%E8%BF%87%E5%8D%9A%E5%B0%94%E7%89%B9",
           "source": "百度热搜",
@@ -757,18 +851,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时56分 ~ 14时02分]"
-        },
-        {
-          "title": "王兴兴谈具身智能的GPT时刻",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%85%B4%E5%85%B4%E8%B0%88%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84GPT%E6%97%B6%E5%88%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 16时44分]"
         },
         {
           "title": "看机器人剥香蕉，大爷急疯了",
@@ -788,7 +870,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         }
@@ -796,7 +878,7 @@
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据伊朗塔斯尼姆通讯社报道，伊朗最高国家安全委员会秘书阿里·拉里贾尼与其子、资深安全官员莫尔特扎·拉里贾尼以及一组随行保镖一同遇害。伊朗最高国家安全委员会在一份声明中确认阿里·拉里贾尼死亡，称其与其子、副安全官员阿里雷扎·巴亚特以及其安保团队成员一同遇害。",
@@ -809,6 +891,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 06时31分]"
+        },
+        {
+          "title": "南向资金今日净买入12.17亿元。港股通（沪）方面，小米集团-W、阿里巴巴-W分别获净买入6.28亿港元、6.28亿港元；腾讯控股净卖出额居首，金额为7.08亿港元；港股通（深）方面，阿里巴巴-W、长飞光纤光缆分别获净买入9.08亿港元、4.24亿港元；中芯国际净卖出额居首，金额为2.78亿港元。",
+          "url": "https://flash.jin10.com/detail/20260318173116479800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "伊朗最高国家安全委员会秘书阿里·拉里贾尼的社交媒体账号18日凌晨发布消息，证实拉里贾尼在美国和以色列对伊朗的袭击中遇难。",
@@ -839,7 +932,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
         }
@@ -894,11 +987,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 16时44分]"
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 17时51分]"
         }
       ]
     },
