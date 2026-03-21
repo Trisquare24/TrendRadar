@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T16:29:44.428886+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-03-21T17:29:16.909303+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             8,
             9,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时39分 ~ 16时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时39分 ~ 17时29分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -62,11 +63,12 @@
             13,
             14,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时39分 ~ 16时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时39分 ~ 17时29分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -126,17 +128,6 @@
           "time_info": "03时36分"
         },
         {
-          "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
-          "url": "https://flash.jin10.com/detail/20260321155755350800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "抵制没用 AI演员已经杀进影视圈",
           "url": "https://www.baidu.com/s?wd=%E6%8A%B5%E5%88%B6%E6%B2%A1%E7%94%A8+AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E6%9D%80%E8%BF%9B%E5%BD%B1%E8%A7%86%E5%9C%88",
           "source": "百度热搜",
@@ -174,6 +165,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时39分 ~ 07时27分]"
+        },
+        {
+          "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
+          "url": "https://flash.jin10.com/detail/20260321155755350800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时29分]"
         },
         {
           "title": "如何看待 ICML 2026 因审稿人违规使用 AI 而一次性桌拒 497 篇论文？",
@@ -219,11 +222,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 16时29分]"
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 17时29分]"
         },
         {
           "title": "国家级电力人工智能中试基地迎首批企业，华为、中兴、百度等入驻",
@@ -360,8 +364,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时03分 ~ 16时29分]"
+          "appearance_count": 8,
+          "time_info": "[12时03分 ~ 17时29分]"
         },
         {
           "title": "人形机器人第一股要来了吗",
