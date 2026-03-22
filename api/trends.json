@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T04:24:24.954223+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-03-23T05:23:43.953891+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时23分]"
         },
         {
           "title": "AI演员为啥遭网友抵制",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时23分]"
         },
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -39,8 +39,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时23分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -51,8 +51,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时23分]"
         },
         {
           "title": "AI智能体加速落地，业内：商业保险迎补位时刻",
@@ -60,11 +60,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[03时23分 ~ 05时23分]"
         },
         {
           "title": "世界周刊之当AI决定扣动扳机",
@@ -92,11 +93,12 @@
             24,
             22,
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时23分]"
         },
         {
           "title": "小孩看机器人跳舞挨了一巴掌",
@@ -106,11 +108,12 @@
             27,
             25,
             22,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时23分]"
         }
       ]
     }
