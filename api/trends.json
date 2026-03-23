@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T07:25:19.701730+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-03-23T09:59:12.210052+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "跑马拉松护航的民警居然是AI机器人",
@@ -39,8 +39,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 09时59分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -48,11 +48,23 @@
           "source": "贴吧",
           "ranks": [
             29,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 09时59分]"
+        },
+        {
+          "title": "跑马拉松护航的民警居然是AI机器人",
+          "url": "https://www.toutiao.com/trending/7619981033894821924/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "AI智能体加速落地，业内：商业保险迎补位时刻",
@@ -67,6 +79,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时23分 ~ 06时22分]"
+        },
+        {
+          "title": "AI算力需求将超1.3万亿美元！华为加码“企业龙虾” 涉及多家上市公司",
+          "url": "https://www.cls.cn/detail/2320476",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "郑强教授：AI发展不能低端化平庸化",
+          "url": "https://www.toutiao.com/trending/7619238244945346579/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "世界周刊之当AI决定扣动扳机",
@@ -87,7 +121,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -98,7 +132,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         }
@@ -106,7 +140,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "全网给U航机器人写剧本",
@@ -121,8 +155,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 09时59分]"
         },
         {
           "title": "小孩看机器人跳舞挨了一巴掌",
@@ -137,8 +171,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 07时25分]"
+          "appearance_count": 9,
+          "time_info": "[01时23分 ~ 09时59分]"
         },
         {
           "title": "具身智能资本局：百亿估值企业涌现，投融资热潮助推IPO奇点加速到来",
@@ -147,9 +181,37 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "机器人概念股局部活跃，中大力德冲击涨停，朗科智能、金发科技、卧龙电驱、首开股份跟涨，消息上，上交所受理宇树科技科创板IPO申请，拟融资金额42.02亿元。",
+          "url": "https://wallstreetcn.com/livenews/3074736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek郭达雅被曝离职",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         }
       ]
     }
