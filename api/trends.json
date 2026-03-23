@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T09:59:12.210052+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-03-23T12:32:39.579568+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "跑马拉松护航的民警居然是AI机器人",
@@ -36,11 +36,12 @@
           "source": "贴吧",
           "ranks": [
             25,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 12时32分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -65,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-03-23）",
+          "url": "https://flash.jin10.com/detail/20260323115801203800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "AI智能体加速落地，业内：商业保险迎补位时刻",
@@ -135,6 +147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "阿里巴巴港股盘中拉升，目前跌幅收窄至约2%。此前据华尔街见闻获悉，阿里巴巴达摩院明日或将发布重要芯片产品，或直指今年爆发的AI Agent算力需求。",
+          "url": "https://wallstreetcn.com/livenews/3074809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     },
@@ -152,11 +175,12 @@
             22,
             20,
             19,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 12时32分]"
         },
         {
           "title": "小孩看机器人跳舞挨了一巴掌",
@@ -192,7 +216,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         }
@@ -207,11 +231,29 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里明日或将发布重要芯片产品",
+          "url": "https://wallstreetcn.com/livenews/3074799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     }
