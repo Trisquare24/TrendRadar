@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T21:02:13.105471+08:00",
-  "total_titles_processed": 1615,
+  "generated_at": "2026-03-23T22:19:33.043494+08:00",
+  "total_titles_processed": 1721,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9CAI%E8%A7%86%E9%A2%91",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时19分]"
         },
         {
           "title": "AI短剧付费后竟然变成PPT",
@@ -80,17 +81,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时52分 ~ 21时02分]"
-        },
-        {
-          "title": "深度解析AI对影视行业的影响",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90AI%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "跑马拉松护航的民警居然是AI机器人",
@@ -137,6 +127,18 @@
           "time_info": "12时32分"
         },
         {
+          "title": "深度解析AI对影视行业的影响",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90AI%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时19分]"
+        },
+        {
           "title": "AI智能体加速落地，业内：商业保险迎补位时刻",
           "url": "https://wallstreetcn.com/livenews/3074617",
           "source": "华尔街见闻-快讯",
@@ -151,6 +153,18 @@
           "time_info": "[03时23分 ~ 06时22分]"
         },
         {
+          "title": "AI写歌走红程序员9个月赚20万",
+          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E6%AD%8C%E8%B5%B0%E7%BA%A2%E7%A8%8B%E5%BA%8F%E5%91%989%E4%B8%AA%E6%9C%88%E8%B5%9A20%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时19分]"
+        },
+        {
           "title": "AI算力需求将超1.3万亿美元！华为加码“企业龙虾” 涉及多家上市公司",
           "url": "https://www.cls.cn/detail/2320476",
           "source": "财联社热门",
@@ -160,17 +174,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时58分 ~ 09时59分]"
-        },
-        {
-          "title": "AI写歌走红程序员9个月赚20万",
-          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E6%AD%8C%E8%B5%B0%E7%BA%A2%E7%A8%8B%E5%BA%8F%E5%91%989%E4%B8%AA%E6%9C%88%E8%B5%9A20%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "霍启刚形象被AI盗用",
@@ -441,7 +444,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
@@ -461,11 +464,12 @@
             8,
             15,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时58分 ~ 21时02分]"
+          "appearance_count": 11,
+          "time_info": "[09时58分 ~ 22时19分]"
         }
       ]
     }
