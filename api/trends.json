@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T05:34:13.212472+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-03-24T06:29:57.993313+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "普通人如何制作AI视频",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时29分]"
         },
         {
           "title": "欧洲央行首席经济学家：欧洲金融体系不适配人工智能时代",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 00时58分]"
+        },
+        {
+          "title": "据航空新闻资讯平台The Air Current：波音(BA.N)已获得美国联邦航空管理局的批准，推出787-9和787-10远程宽体客机的新型增重最大起飞重量型号。",
+          "url": "https://flash.jin10.com/detail/20260324052732928800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         },
         {
           "title": "欧洲央行首席经济学家Lane：AI是欧盟（致力于）完成储蓄联盟的另外一个理由。",
@@ -128,11 +139,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时29分]"
         }
       ]
     },
