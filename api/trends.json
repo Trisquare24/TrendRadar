@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T16:46:56.463386+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2026-03-25T17:52:06.781668+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             12,
             22,
             20,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时04分 ~ 16时46分]"
+          "appearance_count": 18,
+          "time_info": "[00时04分 ~ 17时52分]"
         },
         {
           "title": "马上评｜“去人化”的AI影视，你还会看吗？",
@@ -58,11 +59,12 @@
             16,
             26,
             24,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时04分 ~ 16时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时04分 ~ 17时51分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
@@ -80,6 +82,18 @@
           "time_info": "[00时04分 ~ 09时56分]"
         },
         {
+          "title": "黄仁勋震撼发言：AGI时代已经到来，“龙虾开公司”不是梦！",
+          "url": "https://www.cls.cn/detail/2323846",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 17时52分]"
+        },
+        {
           "title": "报告称AI将全面取代这六大岗位",
           "url": "https://www.toutiao.com/trending/7620795844911959606/",
           "source": "今日头条",
@@ -93,29 +107,44 @@
           "time_info": "[00时04分 ~ 07时29分]"
         },
         {
-          "title": "黄仁勋震撼发言：AGI时代已经到来，“龙虾开公司”不是梦！",
-          "url": "https://www.cls.cn/detail/2323846",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时58分 ~ 16时46分]"
-        },
-        {
           "title": "Token AI时代的新KPI",
           "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
           "source": "bilibili 热搜",
           "ranks": [
             10,
             12,
-            7
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时20分 ~ 17时52分]"
+        },
+        {
+          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
+          "url": "https://www.cls.cn/detail/2323916",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 17时52分]"
+        },
+        {
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时20分 ~ 16时46分]"
+          "time_info": "[07时29分 ~ 17时52分]"
         },
         {
           "title": "Arm将首次出售自有芯片 以争夺人工智能市场份额",
@@ -135,7 +164,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -168,7 +197,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -196,19 +225,6 @@
           "time_info": "[12时20分 ~ 13时59分]"
         },
         {
-          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
-          "url": "https://www.cls.cn/detail/2323916",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时58分 ~ 16时46分]"
-        },
-        {
           "title": "新思科技（Synopsys）支持Arm控股新款AGI CPU。",
           "url": "https://wallstreetcn.com/livenews/3076115",
           "source": "华尔街见闻-快讯",
@@ -232,18 +248,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时56分 ~ 13时59分]"
-        },
-        {
-          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
-          "url": "https://wallstreetcn.com/articles/3768269",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 16时46分]"
         },
         {
           "title": "AI将军凯旋归来",
@@ -345,7 +349,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -367,7 +371,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -411,7 +415,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -530,8 +534,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 16时46分]"
+          "appearance_count": 8,
+          "time_info": "[12时20分 ~ 17时52分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -540,11 +544,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 16时46分]"
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 17时52分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -559,8 +564,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 16时46分]"
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 17时52分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -803,7 +808,7 @@
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "港股午后快速拉升恒生指数涨超1.3%，恒生科技指数涨超2%，科网股领涨大市，美团(03690.HK)涨超11.5%，阿里巴巴(09988.HK)涨超6%，京东(09618.HK)涨超5%；消息面上，经济日报评论员发布文章表示，外卖大战该结束了。",
@@ -815,6 +820,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        },
+        {
+          "title": "《经济日报》刊文“外卖大战该结束了”，美团、阿里直线拉升，这一战曾半年烧光800亿",
+          "url": "https://wallstreetcn.com/articles/3768336",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 17时52分]"
         },
         {
           "title": "恒生科技指数午后涨幅扩大至2%，美团涨超10%，阿里巴巴涨超5%。",
@@ -889,7 +905,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -958,8 +974,19 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "特斯拉机器人Optimus发招聘，称目标尽快量产",
+          "url": "https://wallstreetcn.com/livenews/3076573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
         {
           "title": "A股人形机器人概念板块午后活跃，斯菱智驱涨超10%，德马科技、五洲新春、万向钱潮、睿能科技、奥比中光跟涨。",
           "url": "https://flash.jin10.com/detail/20260325130445732800",
