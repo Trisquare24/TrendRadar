@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T02:54:18.067888+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-03-26T03:45:03.874674+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            13
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 03时45分]"
+        },
+        {
+          "title": "短剧演员成AI技术第一批“牺牲品”",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E6%88%90AI%E6%8A%80%E6%9C%AF%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E7%89%BA%E7%89%B2%E5%93%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时08分 ~ 02时54分]"
+          "time_info": "[02时53分 ~ 03时45分]"
         },
         {
           "title": "CrowdStrike扩大与英特尔的战略合作，以保护新一代AI PC。",
@@ -30,17 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 02时54分]"
-        },
-        {
-          "title": "短剧演员成AI技术第一批“牺牲品”",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E6%88%90AI%E6%8A%80%E6%9C%AF%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E7%89%BA%E7%89%B2%E5%93%81%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时53分 ~ 02时54分]"
         },
         {
           "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
@@ -131,11 +133,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 03时45分]"
         },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -144,7 +147,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         }
@@ -163,8 +166,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 03时45分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -172,11 +175,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 03时45分]"
         }
       ]
     },
@@ -192,8 +196,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 02时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 03时45分]"
         }
       ]
     },
@@ -207,11 +211,12 @@
           "source": "微博",
           "ranks": [
             25,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 02时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 03时45分]"
         }
       ]
     }
