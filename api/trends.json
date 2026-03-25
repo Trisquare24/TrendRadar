@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T03:45:03.874674+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-03-26T04:35:58.836758+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "Token AI时代的新KPI",
@@ -14,11 +14,23 @@
           "ranks": [
             15,
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 03时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 04时35分]"
+        },
+        {
+          "title": "美联储理事米兰：我预计，AI和去监管将让通胀失速。",
+          "url": "https://wallstreetcn.com/livenews/3076892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -26,11 +38,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时53分 ~ 03时45分]"
+          "appearance_count": 5,
+          "time_info": "[02时53分 ~ 04时35分]"
         },
         {
           "title": "CrowdStrike扩大与英特尔的战略合作，以保护新一代AI PC。",
@@ -103,7 +116,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌在青少年社交媒体成瘾案中被判定负有责任。",
@@ -150,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "美国社交媒体成瘾案陪审团裁定，谷歌需支付90万美元的惩罚性赔偿金。",
+          "url": "https://flash.jin10.com/detail/20260326035612512800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
         }
       ]
     },
@@ -163,11 +187,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 03时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 04时35分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -186,7 +211,7 @@
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "《经济日报》刊文“外卖大战该结束了”，美团、阿里直线拉升，这一战曾半年烧光800亿",
@@ -196,8 +221,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 03时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 04时35分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.86%，报6897.01点。 热门中概股里，宝尊电商初步收涨15.5%，美团涨13.8%，京东涨8.3%，阿特斯太阳能涨7.8%，金山云涨6.5%，拼多多涨4.5%，阿里涨3.6%，百度涨2.8%，新东方、小米涨超2%。 ETF中，中国科技指数ETF（CQQQ）收涨3.29%，中概互联网指数ETF（KWEB）收涨3.04%。 XtrackersHarvest中证50（ASHS）收涨2.61%，德银嘉实沪深300指数ETF（ASHR）收涨2.09%。",
+          "url": "https://wallstreetcn.com/livenews/3076882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
         }
       ]
     },
@@ -212,11 +248,12 @@
           "ranks": [
             25,
             18,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 04时35分]"
         }
       ]
     }
