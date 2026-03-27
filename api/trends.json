@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T06:29:20.371335+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2026-03-28T07:30:03.997163+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时30分]"
         },
         {
           "title": "中国人工智能走在世界前列",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时30分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时30分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时30分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -59,8 +59,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时30分]"
+        },
+        {
+          "title": "LPL宣布naiyou假赛被终身禁赛",
+          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            15,
+            13,
+            28,
+            19,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时30分]"
         },
         {
           "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
@@ -104,22 +121,6 @@
           "time_info": "[00时52分 ~ 06时29分]"
         },
         {
-          "title": "LPL宣布naiyou假赛被终身禁赛",
-          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            15,
-            13,
-            28,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时29分]"
-        },
-        {
           "title": "Science 封面论文称「人工智能的谄媚影响人的思维方式」，这种「谄媚」还会产生哪些其他影响？",
           "url": "https://www.zhihu.com/question/2020941462666305824",
           "source": "知乎",
@@ -155,8 +156,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[05时32分 ~ 07时30分]"
         },
         {
           "title": "警惕AI“过度谄媚”",
@@ -194,11 +195,12 @@
           "ranks": [
             11,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时30分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -211,8 +213,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时30分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -225,8 +227,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时30分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -236,11 +238,12 @@
             15,
             13,
             14,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时30分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -304,11 +307,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时52分 ~ 05时32分]"
+          "appearance_count": 6,
+          "time_info": "[02时52分 ~ 07时30分]"
         }
       ]
     }
