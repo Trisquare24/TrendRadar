@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T19:40:04.653257+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2026-03-27T20:59:57.909775+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时03分 ~ 19时40分]"
+          "appearance_count": 8,
+          "time_info": "[15时03分 ~ 20时59分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -62,11 +62,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 19时40分]"
+          "appearance_count": 5,
+          "time_info": "[17时52分 ~ 20时59分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -82,6 +83,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时03分 ~ 19时40分]"
+        },
+        {
+          "title": "小米大模型负责人谈未来竞争",
+          "url": "https://www.douyin.com/hot/2445480",
+          "source": "抖音",
+          "ranks": [
+            21,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时46分 ~ 20时59分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -119,17 +133,15 @@
           "time_info": "[13时04分 ~ 17时52分]"
         },
         {
-          "title": "小米大模型负责人谈未来竞争",
-          "url": "https://www.douyin.com/hot/2445480",
-          "source": "抖音",
+          "title": "一行代码破甲,AI水军现原形",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
+          "source": "贴吧",
           "ranks": [
-            21,
-            15,
-            18
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时46分 ~ 19时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "Anthropic赢得法院支持，以阻止特朗普对其AI工具使用的禁令。（彭博）",
@@ -141,6 +153,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
+          "url": "https://news.ifeng.com/c/8rpvER227kd",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时52分 ~ 20时59分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -180,16 +204,16 @@
           "time_info": "[13时04分 ~ 16时47分]"
         },
         {
-          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
-          "url": "https://news.ifeng.com/c/8rpvER227kd",
-          "source": "凤凰网",
+          "title": "交通银行首席信息官钱斌：持续推动人工智能应用场景落地",
+          "url": "https://wallstreetcn.com/livenews/3078193",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 19时40分]"
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 20时59分]"
         },
         {
           "title": "美联储理事库克：人工智能对劳动力市场具有变革性作用。",
@@ -236,17 +260,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
-        },
-        {
-          "title": "交通银行首席信息官钱斌：持续推动人工智能应用场景落地",
-          "url": "https://wallstreetcn.com/livenews/3078193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
         },
         {
           "title": "苹果公司将在策略转向中向竞争对手的AI助理开放Siri。（彭博）",
@@ -376,6 +389,22 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            4,
+            5,
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时04分 ~ 20时59分]"
+        },
+        {
           "title": "内存股大跌与谷歌论文有关吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
           "source": "bilibili 热搜",
@@ -385,26 +414,12 @@
             15,
             13,
             17,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时03分 ~ 19时40分]"
-        },
-        {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            4,
-            5,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时04分 ~ 19时40分]"
+          "appearance_count": 11,
+          "time_info": "[10时03分 ~ 20时59分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -429,8 +444,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时03分 ~ 19时40分]"
+          "appearance_count": 8,
+          "time_info": "[15时03分 ~ 20时59分]"
         },
         {
           "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
@@ -503,6 +518,79 @@
       ]
     },
     {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "小孩观看表演遭机器人回旋巴掌误伤，暴露出机器人在目标识别、防碰撞方面的哪些问题？当前技术水平能规避吗？",
+          "url": "https://www.zhihu.com/question/2019377327549674299",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 16时47分]"
+        },
+        {
+          "title": "人形机器人高质量真机数据集",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9C%9F%E6%9C%BA%E6%95%B0%E6%8D%AE%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "俄乌战场惊现持枪机器人",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E6%88%98%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%8C%81%E6%9E%AA%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
+        },
+        {
+          "title": "雷军介绍小米机器人团队在灵巧手领域的新进展",
+          "url": "https://www.cls.cn/detail/2326662",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "机器人扎双马尾在樱花树下翩翩起舞",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8E%E5%8F%8C%E9%A9%AC%E5%B0%BE%E5%9C%A8%E6%A8%B1%E8%8A%B1%E6%A0%91%E4%B8%8B%E7%BF%A9%E7%BF%A9%E8%B5%B7%E8%88%9E",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "雷军发文，小米机器人有新进展",
+          "url": "https://wallstreetcn.com/livenews/3078127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
@@ -563,57 +651,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "小孩观看表演遭机器人回旋巴掌误伤，暴露出机器人在目标识别、防碰撞方面的哪些问题？当前技术水平能规避吗？",
-          "url": "https://www.zhihu.com/question/2019377327549674299",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时04分 ~ 16时47分]"
-        },
-        {
-          "title": "人形机器人高质量真机数据集",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9C%9F%E6%9C%BA%E6%95%B0%E6%8D%AE%E9%9B%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "俄乌战场惊现持枪机器人",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E4%B9%8C%E6%88%98%E5%9C%BA%E6%83%8A%E7%8E%B0%E6%8C%81%E6%9E%AA%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "雷军发文，小米机器人有新进展",
-          "url": "https://wallstreetcn.com/livenews/3078127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时44分"
         }
       ]
     },
