@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T22:29:54.251453+08:00",
-  "total_titles_processed": 1580,
+  "generated_at": "2026-03-28T23:28:55.025331+08:00",
+  "total_titles_processed": 1654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "中国人工智能走在世界前列",
@@ -44,8 +44,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时52分 ~ 22时29分]"
+          "appearance_count": 25,
+          "time_info": "[00时52分 ~ 23时28分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -63,8 +63,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时52分 ~ 22时29分]"
+          "appearance_count": 25,
+          "time_info": "[00时52分 ~ 23时28分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -78,8 +78,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时19分 ~ 22时29分]"
+          "appearance_count": 14,
+          "time_info": "[12时19分 ~ 23时28分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -93,8 +93,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时55分 ~ 22时29分]"
+          "appearance_count": 12,
+          "time_info": "[14时55分 ~ 23时28分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -185,16 +185,28 @@
           "time_info": "[00时52分 ~ 06时29分]"
         },
         {
+          "title": "一个视频了解AI常识",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E4%BA%86%E8%A7%A3AI%E5%B8%B8%E8%AF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
           "url": "https://wallstreetcn.com/livenews/3078600",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 22时29分]"
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 23时28分]"
         },
         {
           "title": "Science 封面论文称「人工智能的谄媚影响人的思维方式」，这种「谄媚」还会产生哪些其他影响？",
@@ -340,8 +352,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时52分 ~ 22时29分]"
+          "appearance_count": 25,
+          "time_info": "[00时52分 ~ 23时28分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -359,8 +371,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时52分 ~ 22时29分]"
+          "appearance_count": 25,
+          "time_info": "[00时52分 ~ 23时28分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -378,11 +390,12 @@
             23,
             27,
             26,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时52分 ~ 22时29分]"
+          "appearance_count": 25,
+          "time_info": "[00时52分 ~ 23时28分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
