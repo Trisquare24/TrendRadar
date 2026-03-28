@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T13:55:24.831748+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-03-28T14:55:52.833681+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "中国人工智能走在世界前列",
@@ -36,11 +36,12 @@
           "ranks": [
             2,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 13时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 14时55分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -50,11 +51,12 @@
             4,
             7,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 13时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 14时55分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -132,11 +134,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 13时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 14时55分]"
         },
         {
           "title": "Science 封面论文称「人工智能的谄媚影响人的思维方式」，这种「谄媚」还会产生哪些其他影响？",
@@ -183,11 +186,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 13时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 14时55分]"
         },
         {
           "title": "警惕AI“过度谄媚”",
@@ -200,6 +204,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时29分]"
+        },
+        {
+          "title": "AI神游!原神现六指派蒙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352454&amp;topic_name=AI%E7%A5%9E%E6%B8%B8%21%E5%8E%9F%E7%A5%9E%E7%8E%B0%E5%85%AD%E6%8C%87%E6%B4%BE%E8%92%99",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         },
         {
           "title": "上海市人工智能行业协会：AI发展不能因噎废食 安全和风控要协同推进",
@@ -241,7 +256,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         }
@@ -264,8 +279,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 13时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 14时55分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -277,11 +292,12 @@
             16,
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 13时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 14时55分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -291,11 +307,12 @@
             14,
             20,
             15,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 13时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 14时55分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -310,8 +327,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 13时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 14时55分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -388,11 +405,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%BA%A6%E4%B8%80%E8%B4%B4%E5%90%A7%E7%96%91%E5%85%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A6%81%E6%AD%A2%E4%BA%BA%E7%B1%BB%E5%8F%91%E5%B8%96%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            20,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时55分]"
         }
       ]
     }
