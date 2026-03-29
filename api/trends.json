@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T14:59:59.550370+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-03-29T15:55:16.704486+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             4,
             9,
             10,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 14时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 15时55分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -31,11 +32,12 @@
             7,
             8,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 14时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 15时55分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -45,11 +47,12 @@
             12,
             13,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 14时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 15时55分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -59,11 +62,12 @@
             19,
             20,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 14时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 15时55分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -110,11 +114,25 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时08分 ~ 14时59分]"
+          "appearance_count": 4,
+          "time_info": "[13时08分 ~ 15时55分]"
+        },
+        {
+          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时08分 ~ 15时55分]"
         },
         {
           "title": "以色列国防军：不久前，以色列国防军实施了一次有针对性的打击行动，成功击毙了阿里·哈桑·沙伊卜（Ali Hassan Shaib），他是真主党拉德万部队情报部门的一名恐怖分子，多年来一直以记者的身份进行活动。",
@@ -129,16 +147,17 @@
           "time_info": "[01时26分 ~ 02时37分]"
         },
         {
-          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
-          "source": "澎湃新闻",
+          "title": "上海人工智能实验室联合相关主体启动“超智融合算力”平台",
+          "url": "https://wallstreetcn.com/livenews/3078656",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            7
+            6,
+            9,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时08分 ~ 14时59分]"
+          "time_info": "[13时09分 ~ 15时55分]"
         },
         {
           "title": "做量化搞 quant 会被 ai 取代吗?",
@@ -177,27 +196,16 @@
           "time_info": "[06时26分 ~ 07时29分]"
         },
         {
-          "title": "上海人工智能实验室联合相关主体启动“超智融合算力”平台",
-          "url": "https://wallstreetcn.com/livenews/3078656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 14时59分]"
-        },
-        {
           "title": "马斯克：特斯拉人工智能自动驾驶的安全性将比人类驾驶高出10倍以上。",
           "url": "https://flash.jin10.com/detail/20260329141015916800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时55分]"
         },
         {
           "title": "xAI最后一位联合创始人据悉已离开公司",
@@ -281,11 +289,12 @@
           "ranks": [
             2,
             7,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 14时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 15时55分]"
         },
         {
           "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
@@ -294,9 +303,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时55分]"
         },
         {
           "title": "谷歌称可节省内存的刷屏论文 TurboQuant 被 RaBitQ 作者指出存在严重错误",
@@ -316,9 +325,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时55分]"
         }
       ]
     },
@@ -331,11 +340,12 @@
           "url": "https://wallstreetcn.com/livenews/3078665",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时55分]"
         },
         {
           "title": "王兴兴定义具身智能“GPT时刻”：带机器人到陌生场景，语音指令完成80%以上任务",
@@ -344,7 +354,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         }
