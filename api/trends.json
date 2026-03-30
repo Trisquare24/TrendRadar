@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T15:23:45.822290+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2026-03-30T17:09:01.309576+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
@@ -45,18 +45,6 @@
           "time_info": "10时08分"
         },
         {
-          "title": "豆包谈DeepSeek频繁崩溃",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E8%B0%88DeepSeek%E9%A2%91%E7%B9%81%E5%B4%A9%E6%BA%83%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 15时23分]"
-        },
-        {
           "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
           "source": "澎湃新闻",
@@ -65,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 15时23分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 17时09分]"
         },
         {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
@@ -77,8 +65,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 15时23分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 17时09分]"
         },
         {
           "title": "DeepSeek宕机12小时后恢复服务",
@@ -87,6 +75,18 @@
           "ranks": [
             13,
             15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 17时09分]"
+        },
+        {
+          "title": "豆包谈DeepSeek频繁崩溃",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E8%B0%88DeepSeek%E9%A2%91%E7%B9%81%E5%B4%A9%E6%BA%83%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -151,7 +151,7 @@
     },
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -172,11 +172,12 @@
           "ranks": [
             1,
             8,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 15时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 17时09分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -236,6 +237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "韩红秀牙缝自证“不是AI人”",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E7%A7%80%E7%89%99%E7%BC%9D%E8%87%AA%E8%AF%81%E2%80%9C%E4%B8%8D%E6%98%AFAI%E4%BA%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -335,11 +347,12 @@
             14,
             16,
             22,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 15时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 17时09分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -351,11 +364,12 @@
             22,
             21,
             18,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 15时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 17时09分]"
         }
       ]
     },
