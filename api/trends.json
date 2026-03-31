@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T07:33:00.935980+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-03-31T10:04:54.001568+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -16,8 +16,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 10时04分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -30,6 +30,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时53分 ~ 07时33分]"
+        },
+        {
+          "title": "AI短剧 偷脸",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E5%81%B7%E8%84%B8&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "国行版苹果AI",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
         },
         {
           "title": "美联储威廉姆斯：人工智能应该创造大量就业岗位，应让人们为这些岗位做好准备。",
@@ -101,6 +123,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "国行版苹果AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "美联储威廉姆斯：难以预测人工智能在未来几年将如何发展。",
           "url": "https://flash.jin10.com/detail/20260331043947071800",
           "source": "金十数据",
@@ -137,11 +170,12 @@
             13,
             12,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 10时04分]"
         },
         {
           "title": "具身智能领域首份行业标准发布",
@@ -151,8 +185,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时39分 ~ 07时33分]"
+          "appearance_count": 5,
+          "time_info": "[05时39分 ~ 10时04分]"
         }
       ]
     },
@@ -231,11 +265,12 @@
             15,
             8,
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 10时04分]"
         }
       ]
     },
@@ -252,8 +287,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 10时04分]"
         }
       ]
     }
