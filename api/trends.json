@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-03-31T18:04:08.676579+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-03-31T19:45:34.381519+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
-        {
-          "title": "苹果客服回应撤回国行AI",
-          "url": "https://www.douyin.com/hot/2449610",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 18时04分]"
-        },
         {
           "title": "AI勇闯二游圈,引爆米库论战",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
@@ -33,6 +21,34 @@
           "time_info": "[00时53分 ~ 13时07分]"
         },
         {
+          "title": "苹果客服回应撤回国行AI",
+          "url": "https://www.douyin.com/hot/2449610",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 19时45分]"
+        },
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6,
+            7,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 19时45分]"
+        },
+        {
           "title": "复旦教授解析AI冲击职场真相",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
           "source": "bilibili 热搜",
@@ -45,20 +61,6 @@
           "time_info": "[00时53分 ~ 07时33分]"
         },
         {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 18时04分]"
-        },
-        {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
           "source": "贴吧",
@@ -66,11 +68,12 @@
             6,
             9,
             12,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 18时04分]"
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 19时45分]"
         },
         {
           "title": "AI短剧 偷脸",
@@ -161,9 +164,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
+        },
+        {
+          "title": "77部作品看到AI创作可能性",
+          "url": "https://search.bilibili.com/all?keyword=77%E9%83%A8%E4%BD%9C%E5%93%81%E7%9C%8B%E5%88%B0AI%E5%88%9B%E4%BD%9C%E5%8F%AF%E8%83%BD%E6%80%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "美国纽约联储主席（FOMC永久票委，号称美联储三把手）威廉姆斯：在一段时期内，AI将是投资的驱动因素。",
@@ -257,7 +271,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek崩溃10多小时为何是“好事”",
@@ -301,11 +315,23 @@
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E5%81%9A%E6%88%90%E6%B8%85%E6%98%8E%E8%8A%82%E7%BA%B8%E6%89%8E",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 18时04分]"
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 19时45分]"
+        },
+        {
+          "title": "DeepSeek连续三天发生服务异常，最长宕机超10小时",
+          "url": "https://flash.jin10.com/detail/20260331191726516800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         }
       ]
     },
@@ -332,7 +358,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         }
@@ -421,6 +447,23 @@
       ]
     },
     {
+      "keyword_group": "影视飓风",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "影视飓风梦幻联动曼城",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8%E6%9B%BC%E5%9F%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "罗永浩",
       "match_count": 1,
       "titles": [
@@ -434,11 +477,12 @@
             11,
             14,
             17,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 18时04分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 19时45分]"
         }
       ]
     }
