@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T19:45:34.381519+08:00",
-  "total_titles_processed": 1560,
+  "generated_at": "2026-03-31T22:05:36.193516+08:00",
+  "total_titles_processed": 1716,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时07分 ~ 19时45分]"
+          "appearance_count": 7,
+          "time_info": "[13时07分 ~ 22时05分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -69,11 +69,12 @@
             9,
             12,
             14,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时07分 ~ 19时45分]"
+          "appearance_count": 7,
+          "time_info": "[13时07分 ~ 22时05分]"
         },
         {
           "title": "AI短剧 偷脸",
@@ -175,7 +176,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -299,6 +300,19 @@
           "time_info": "[18时03分 ~ 18时04分]"
         },
         {
+          "title": "DeepSeek被做成清明节纸扎",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E5%81%9A%E6%88%90%E6%B8%85%E6%98%8E%E8%8A%82%E7%BA%B8%E6%89%8E",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时03分 ~ 22时05分]"
+        },
+        {
           "title": "DeepSeek崩了",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -311,25 +325,13 @@
           "time_info": "[16时55分 ~ 18时04分]"
         },
         {
-          "title": "DeepSeek被做成清明节纸扎",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E5%81%9A%E6%88%90%E6%B8%85%E6%98%8E%E8%8A%82%E7%BA%B8%E6%89%8E",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时03分 ~ 19时45分]"
-        },
-        {
           "title": "DeepSeek连续三天发生服务异常，最长宕机超10小时",
           "url": "https://flash.jin10.com/detail/20260331191726516800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         }
@@ -457,7 +459,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         }
@@ -478,11 +480,12 @@
             14,
             17,
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 19时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 22时05分]"
         }
       ]
     }
