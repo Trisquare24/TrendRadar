@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T15:17:02.274218+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-04-01T17:02:06.342661+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -15,11 +15,12 @@
             14,
             15,
             18,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时09分 ~ 15时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时09分 ~ 17时02分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -28,11 +29,34 @@
           "ranks": [
             22,
             25,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时09分 ~ 15时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时09分 ~ 17时02分]"
+        },
+        {
+          "title": "HBM之父：看好高带宽闪存技术 未来AI产业或从GPU转向内存主导",
+          "url": "https://flash.jin10.com/detail/20260401164104532800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "Anthropic意外泄露了Claude AI智能体的源代码",
+          "url": "https://wallstreetcn.com/livenews/3080773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "男子靠AI开一人公司年营收达150万",
@@ -92,6 +116,17 @@
           "time_info": "[07时31分 ~ 07时32分]"
         },
         {
+          "title": "微软预计到2029年将在新加坡的AI领域投资55亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3080767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "字节Seed启动大模型校招 全球招募百位AI人才",
           "url": "https://flash.jin10.com/detail/20260401130758814800",
           "source": "金十数据",
@@ -101,6 +136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "HBM之父：看好高带宽闪存技术 未来AI产业或从GPU转向内存主导",
+          "url": "https://wallstreetcn.com/livenews/3080764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "澳大利亚3月AIG/PWC制造业表现指数 -27.9，前值-15.6。",
@@ -161,7 +207,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
@@ -210,6 +256,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时37分]"
+        },
+        {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
@@ -275,11 +332,12 @@
           "ranks": [
             8,
             12,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时12分 ~ 15时17分]"
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 17时02分]"
         }
       ]
     },
