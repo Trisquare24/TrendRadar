@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T22:53:33.790192+08:00",
-  "total_titles_processed": 1881,
+  "generated_at": "2026-04-02T23:59:00.905515+08:00",
+  "total_titles_processed": 1943,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时51分 ~ 10时01分]"
+        },
+        {
+          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时59分 ~ 23时59分]"
         },
         {
           "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
@@ -153,19 +166,6 @@
           "time_info": "12时36分"
         },
         {
-          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时59分 ~ 22时53分]"
-        },
-        {
           "title": "据Axios：美国正征集相关提案，以协助企业将全栈式人工智能系统打包并推向全球市场。",
           "url": "https://flash.jin10.com/detail/20260402023533205800",
           "source": "金十数据",
@@ -190,6 +190,17 @@
           "time_info": "[03时58分 ~ 04时47分]"
         },
         {
+          "title": "AI冲击+侵权,配音演员联合抵制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时53分 ~ 23时59分]"
+        },
+        {
           "title": "美国AI又被电力设备“卡脖子”：今年近半数据中心受阻 开发商盯上二手变压器",
           "url": "https://www.cls.cn/detail/2333025",
           "source": "财联社热门",
@@ -211,17 +222,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时33分 ~ 07时34分]"
-        },
-        {
-          "title": "AI冲击+侵权,配音演员联合抵制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
         },
         {
           "title": "可灵AI全球用户规模领先，成Sora关停后最受关注视频模型",
@@ -351,7 +351,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -391,11 +391,12 @@
             14,
             17,
             16,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时59分 ~ 22时53分]"
+          "appearance_count": 7,
+          "time_info": "[17时59分 ~ 23时59分]"
         },
         {
           "title": "阿里发布国产最强编程模型Qwen3.6-Plus",
@@ -470,6 +471,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "年薪最高1.24亿！“人形机器人第一股”招首席",
+          "url": "https://www.cls.cn/detail/2333820",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时53分 ~ 23时59分]"
+        },
+        {
           "title": "具身智能机器人加速发展",
           "url": "https://www.douyin.com/hot/2452147",
           "source": "抖音",
@@ -479,17 +492,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 14时11分]"
-        },
-        {
-          "title": "年薪最高1.24亿！“人形机器人第一股”招首席",
-          "url": "https://www.cls.cn/detail/2333820",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
         },
         {
           "title": "长安汽车等成立天枢智能机器人公司 注册资本4.5亿元",
