@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T22:02:37.537990+08:00",
-  "total_titles_processed": 1820,
+  "generated_at": "2026-04-03T23:37:49.716572+08:00",
+  "total_titles_processed": 1942,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             20,
             21,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时59分 ~ 22时02分]"
+          "appearance_count": 22,
+          "time_info": "[00时59分 ~ 23时37分]"
         },
         {
           "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
@@ -50,6 +51,17 @@
           "time_info": "[16时49分 ~ 19时36分]"
         },
         {
+          "title": "Claude源码能否让全球AI工具大升级",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时37分]"
+        },
+        {
           "title": "上海市新增7款已完成备案的生成式人工智能服务",
           "url": "https://flash.jin10.com/detail/20260403190851634800",
           "source": "金十数据",
@@ -59,17 +71,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
-        },
-        {
-          "title": "Claude源码能否让全球AI工具大升级",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
         },
         {
           "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
@@ -249,8 +250,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 23时37分]"
         },
         {
           "title": "阿里千问3.6登顶中国最强编程模型",
@@ -322,11 +323,12 @@
             4,
             16,
             19,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时49分 ~ 22时02分]"
+          "appearance_count": 8,
+          "time_info": "[16时49分 ~ 23时37分]"
         },
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
@@ -493,11 +495,12 @@
           "ranks": [
             26,
             18,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 23时37分]"
         },
         {
           "title": "国内三大编程模型（Kimi K2.5, GLM 5, Minimax M2.7）我应该选择哪个？",
@@ -525,11 +528,12 @@
             8,
             21,
             17,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时49分 ~ 22时02分]"
+          "appearance_count": 8,
+          "time_info": "[16时49分 ~ 23时37分]"
         }
       ]
     }
