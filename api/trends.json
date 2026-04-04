@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T21:52:12.005192+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2026-04-04T22:32:06.195046+08:00",
+  "total_titles_processed": 1555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
@@ -52,11 +52,12 @@
             9,
             10,
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时57分 ~ 21时52分]"
+          "appearance_count": 13,
+          "time_info": "[14时57分 ~ 22时32分]"
         },
         {
           "title": "40岁男子AI成瘾无法接受版本更新",
@@ -107,6 +108,20 @@
           "time_info": "[12时15分 ~ 16时38分]"
         },
         {
+          "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
+          "url": "https://wallstreetcn.com/livenews/3082430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 22时32分]"
+        },
+        {
           "title": "江苏：加快打造人工智能创新发展高地 大力支持OPC创新创业",
           "url": "https://wallstreetcn.com/livenews/3082360",
           "source": "华尔街见闻-快讯",
@@ -131,19 +146,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时15分 ~ 14时57分]"
-        },
-        {
-          "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
-          "url": "https://wallstreetcn.com/livenews/3082430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 21时52分]"
         },
         {
           "title": "美媒：因AI初创公司Mercor发生数据泄露事件 Meta暂停与其合作",
@@ -209,6 +211,17 @@
           "time_info": "[12时15分 ~ 13时55分]"
         },
         {
+          "title": "如何评价恽之玮对 AI 冲击下的数学行业的悲观看法？",
+          "url": "https://www.zhihu.com/question/2023543499937576139",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时32分]"
+        },
+        {
           "title": "江苏：加快打造人工智能创新发展高地 大力支持OPC创新创业",
           "url": "https://flash.jin10.com/detail/20260404085049313800",
           "source": "金十数据",
@@ -259,6 +272,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "“没中国，美国机器人就动不了”",
+          "url": "https://news.ifeng.com/c/8s3Cgdlzylx",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时35分 ~ 22时32分]"
+        },
+        {
           "title": "从优必选、宇树科技财报 解码中国人形机器人差异化突围逻辑",
           "url": "https://www.cls.cn/detail/2335220",
           "source": "财联社热门",
@@ -269,17 +293,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时55分 ~ 20时48分]"
-        },
-        {
-          "title": "“没中国，美国机器人就动不了”",
-          "url": "https://news.ifeng.com/c/8s3Cgdlzylx",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时35分 ~ 21时52分]"
         },
         {
           "title": "中国机器人公司日薪50万招人",
