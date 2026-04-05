@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T07:28:52.412796+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-04-05T10:08:16.443831+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "UP主结合自身经历做清明AI短片",
@@ -18,8 +18,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时08分]"
         },
         {
           "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
@@ -31,11 +31,12 @@
             12,
             8,
             7,
-            9
+            9,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时08分]"
         },
         {
           "title": "Space X并购xAI目的何在",
@@ -48,8 +49,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时08分]"
         },
         {
           "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
@@ -67,11 +68,12 @@
           "url": "https://flash.jin10.com/detail/20260405062637079800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 10时08分]"
         },
         {
           "title": "广东鸡煲店老板累瘫照系AI生成",
@@ -88,6 +90,28 @@
           "time_info": "[01时27分 ~ 03时29分]"
         },
         {
+          "title": "当下的 AI 是不是被过度神化了？",
+          "url": "https://www.zhihu.com/question/641916009",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "易烊千玺方回应被AI短剧换脸",
+          "url": "https://www.baidu.com/s?wd=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E6%8D%A2%E8%84%B8",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
           "title": "如何评价恽之玮对 AI 冲击下的数学行业的悲观看法？",
           "url": "https://www.zhihu.com/question/2023543499937576139",
           "source": "知乎",
@@ -97,6 +121,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网传OpenAI“股权结构表”：微软“130亿美元投资”已升至“2283亿美元”",
+          "url": "https://wallstreetcn.com/articles/3769250",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
         }
       ]
     },
@@ -112,8 +153,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时28分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时08分]"
         }
       ]
     }
