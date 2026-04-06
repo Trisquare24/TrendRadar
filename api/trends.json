@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T10:09:34.681930+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-04-06T13:21:43.304452+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "腾讯AI闯祸,拿唐山地震玩梗",
@@ -13,18 +13,6 @@
           "source": "贴吧",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 10时09分]"
-        },
-        {
-          "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
-          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            9
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -44,6 +32,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 10时09分]"
+        },
+        {
+          "title": "妈妈不知儿子去世 跟AI儿子聊了1年",
+          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E4%B8%8D%E7%9F%A5%E5%84%BF%E5%AD%90%E5%8E%BB%E4%B8%96+%E8%B7%9FAI%E5%84%BF%E5%AD%90%E8%81%8A%E4%BA%861%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 13时21分]"
         },
         {
           "title": "妈妈不知儿子去世跟AI儿子聊了1年",
@@ -72,19 +73,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 10时09分]"
-        },
-        {
-          "title": "母亲不知儿子去世跟AI儿子聊了1年",
-          "url": "https://www.toutiao.com/trending/7625239644062023743/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 13时21分]"
         },
         {
           "title": "商务部等6部门：发展“人工智能+电商”，引导电商企业加强人工智能大模型等技术研发应用",
@@ -93,9 +83,65 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "母亲不知儿子去世跟AI儿子聊了1年",
+          "url": "https://www.toutiao.com/trending/7625239644062023743/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 13时21分]"
+        },
+        {
+          "title": "AirAsia X创始人：燃油成本基本上已翻了一倍多。",
+          "url": "https://flash.jin10.com/detail/20260406121342962800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "中国AI大模型调用量环比增逾31%，连续五周超越美国",
+          "url": "https://wallstreetcn.com/livenews/3082722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "AirAsia X创始人：飞机交付未出现延误；今年将按计划接收四架新机。",
+          "url": "https://flash.jin10.com/detail/20260406120359099800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "AirAsia X创始人：不受林吉特汇率波动影响；油价是最关键因素。",
+          "url": "https://flash.jin10.com/detail/20260406120353341800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "男子用AI写歌仅版权赚了5位数",
@@ -104,9 +150,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "AirAsia X创始人：马来西亚国家石油公司告知我们，燃油储备可维持至6月。越南和泰国对飞机加油仍有一定限制。",
+          "url": "https://flash.jin10.com/detail/20260406120124811800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     },
@@ -166,11 +223,12 @@
           "url": "https://wallstreetcn.com/articles/3769294",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 13时21分]"
         }
       ]
     },
