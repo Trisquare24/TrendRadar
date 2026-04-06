@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T18:54:24.783140+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-04-06T19:47:21.035489+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "腾讯AI闯祸,拿唐山地震玩梗",
@@ -77,6 +77,19 @@
           "time_info": "[00时33分 ~ 13时21分]"
         },
         {
+          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
+          "url": "https://wallstreetcn.com/articles/3769308",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 19时47分]"
+        },
+        {
           "title": "母亲不知儿子去世跟AI儿子聊了1年",
           "url": "https://www.toutiao.com/trending/7625239644062023743/",
           "source": "今日头条",
@@ -84,11 +97,12 @@
             1,
             17,
             16,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 18时54分]"
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 19时47分]"
         },
         {
           "title": "商务部等6部门：发展“人工智能+电商”，引导电商企业加强人工智能大模型等技术研发应用",
@@ -102,29 +116,18 @@
           "time_info": "10时09分"
         },
         {
-          "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
-          "url": "https://wallstreetcn.com/articles/3769308",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 18时54分]"
-        },
-        {
           "title": "妈妈不知儿子去世跟 AI 儿子聊了 1 年，AI「复活」逝者的服务有伦理风险吗？如果是你，会更愿意知道真相吗？",
           "url": "https://www.zhihu.com/question/2024413032667772670",
           "source": "知乎",
           "ranks": [
             14,
             9,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 18时54分]"
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 19时47分]"
         },
         {
           "title": "澎湃AI晚新闻丨2026年4月5日",
@@ -133,11 +136,12 @@
           "ranks": [
             18,
             19,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 18时54分]"
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 19时47分]"
         },
         {
           "title": "孙女用AI复刻奶奶的叮嘱",
@@ -149,6 +153,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "室内空气系统供应商Madison Air Solutions寻求通过IPO筹资至多22.3亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3082806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "易烊千玺被“换脸”？红果短剧：坚决打击AI短剧素材违规使用、无授权盗用等行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32911737",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "AirAsia X创始人：燃油成本基本上已翻了一倍多。",
@@ -253,7 +279,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI首席执行官和首席财务官据称在IPO时机问题上意见分歧。（The Information）",
@@ -274,7 +300,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -289,6 +315,47 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时28分]"
+        },
+        {
+          "title": "OpenAI发布文章 提出AI时代产业政策建议",
+          "url": "https://wallstreetcn.com/livenews/3082798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗伊斯兰革命卫队发表声明称，已在阿联酋杰贝勒阿里港航道内击中一艘以色列籍船只。",
+          "url": "https://flash.jin10.com/detail/20260406003226320800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时32分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：阿联酋与“犹太复国主义政权”的无人机联合生产中心，以及驻扎在阿里·萨利姆基地的数架飞机，均遭无人机和导弹精确打击。",
+          "url": "https://flash.jin10.com/detail/20260406190358039800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         }
       ]
     },
@@ -323,27 +390,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 18时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里 Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗伊斯兰革命卫队发表声明称，已在阿联酋杰贝勒阿里港航道内击中一艘以色列籍船只。",
-          "url": "https://flash.jin10.com/detail/20260406003226320800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[10时09分 ~ 19时47分]"
         }
       ]
     },
@@ -360,8 +408,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 18时54分]"
+          "appearance_count": 3,
+          "time_info": "[17时06分 ~ 19时47分]"
         }
       ]
     }
