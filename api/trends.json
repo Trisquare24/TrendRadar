@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T06:36:00.307455+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-04-08T07:35:15.588632+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 07时35分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -26,8 +26,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 07时35分]"
+        },
+        {
+          "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
+          "url": "https://www.cls.cn/detail/2336990",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时35分 ~ 07时35分]"
         },
         {
           "title": "芭比大战AI偶像",
@@ -39,17 +51,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 05时15分]"
-        },
-        {
-          "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
-          "url": "https://www.cls.cn/detail/2336990",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 06时36分]"
         },
         {
           "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
@@ -78,8 +79,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 06时36分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 07时35分]"
         }
       ]
     },
