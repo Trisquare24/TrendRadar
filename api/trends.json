@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-04-08T18:10:01.049430+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-04-08T20:05:06.372530+08:00",
+  "total_titles_processed": 1590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "宁波高二女生将 AI「豆包」视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
+          "url": "https://www.zhihu.com/question/2023389785188745917",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时08分 ~ 20时05分]"
+        },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352871&amp;topic_name=AI%E6%9F%93%E6%8C%87%E9%AC%BC%E7%81%AD%2C%E6%97%A5%E7%BD%91%E5%8F%8B%E6%B0%94%E6%80%A5%E8%B7%B3%E8%84%9A",
@@ -16,11 +30,12 @@
             18,
             21,
             23,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时07分 ~ 18时10分]"
+          "appearance_count": 21,
+          "time_info": "[01时07分 ~ 20时05分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -38,18 +53,41 @@
           "time_info": "[01时07分 ~ 18时10分]"
         },
         {
-          "title": "宁波高二女生将 AI「豆包」视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
-          "url": "https://www.zhihu.com/question/2023389785188745917",
-          "source": "知乎",
+          "title": "员工离职变AI,上班不能停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
+          "source": "贴吧",
           "ranks": [
-            5,
-            4,
-            8,
-            12
+            6,
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时08分 ~ 18时10分]"
+          "appearance_count": 6,
+          "time_info": "[16时57分 ~ 20时05分]"
+        },
+        {
+          "title": "美国 AI 三巨头围剿模型蒸馏，对全球主要大模型公司将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2025148296822351316",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时57分 ~ 20时05分]"
+        },
+        {
+          "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
+          "url": "https://www.zhihu.com/question/2024823845052269102",
+          "source": "知乎",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 20时05分]"
         },
         {
           "title": "如何评价 Anthropic 这个据称强到不敢直接发布的大模型 Mythos Preview？",
@@ -77,18 +115,6 @@
           "time_info": "[06时35分 ~ 10时06分]"
         },
         {
-          "title": "员工离职变AI,上班不能停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时10分]"
-        },
-        {
           "title": "阿里新设集团技术委员会，升级通义大模型事业部",
           "url": "https://wallstreetcn.com/livenews/3084190",
           "source": "华尔街见闻-快讯",
@@ -101,18 +127,6 @@
           "time_info": "[16时58分 ~ 18时10分]"
         },
         {
-          "title": "美国 AI 三巨头围剿模型蒸馏，对全球主要大模型公司将产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2025148296822351316",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时10分]"
-        },
-        {
           "title": "芭比大战AI偶像",
           "url": "https://search.bilibili.com/all?keyword=%E8%8A%AD%E6%AF%94%E5%A4%A7%E6%88%98AI%E5%81%B6%E5%83%8F",
           "source": "bilibili 热搜",
@@ -122,17 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 05时15分]"
-        },
-        {
-          "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
-          "url": "https://www.zhihu.com/question/2024823845052269102",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
         },
         {
           "title": "AI开始接管代码 计算机专业如何变革",
@@ -190,6 +193,17 @@
           "time_info": "15时14分"
         },
         {
+          "title": "大型基金纷纷涌入美债和AI概念股，押注战争最动荡阶段已过",
+          "url": "https://wallstreetcn.com/livenews/3084312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
           "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
           "url": "https://wallstreetcn.com/livenews/3083664",
           "source": "华尔街见闻-快讯",
@@ -224,11 +238,12 @@
           "ranks": [
             12,
             7,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时06分 ~ 18时10分]"
+          "appearance_count": 10,
+          "time_info": "[10时06分 ~ 20时05分]"
         },
         {
           "title": "DeepSeek更新专家模式",
@@ -369,11 +384,12 @@
             14,
             15,
             20,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时07分 ~ 18时10分]"
+          "appearance_count": 21,
+          "time_info": "[01时07分 ~ 20时05分]"
         }
       ]
     }
