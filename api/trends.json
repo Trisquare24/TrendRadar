@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T07:35:58.196047+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-04-09T09:58:50.184778+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "员工离职变AI,上班不能停",
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 09时58分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -26,8 +26,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 09时58分]"
+        },
+        {
+          "title": "深成指、创业板指均跌超1%，沪指跌0.77%，贵金属、光伏设备、民航机场、AI应用等方向跌幅居前，沪深京三市下跌个股超4200只。",
+          "url": "https://wallstreetcn.com/livenews/3084698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
@@ -53,6 +64,17 @@
           "time_info": "[04时43分 ~ 05时39分]"
         },
         {
+          "title": "两人用AI洗稿编造车企谣言被抓",
+          "url": "https://www.toutiao.com/trending/7625974933612773417/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "AI21 Labs曾在2025年讨论出售给英伟达。 Nebius洽谈收购AI初创公司AI21。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3084595",
           "source": "华尔街见闻-快讯",
@@ -73,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "创业板指盘初跌逾1%，AI应用、BC电池等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260409093337729800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "高盛资产管理的Brook Dane表示，随着人工智能（AI）支出加速，即便伊朗战争加剧地缘政治紧张，投资者仍需配置半导体公司及其他AI“卖铲人”类资产。",
@@ -110,6 +143,56 @@
       ]
     },
     {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收涨3.1%。 热门中概股里，小马智行初步收涨10.7%，美团涨超9%，金山云、老虎证券涨超7%，亚朵、万国数据、B站涨超5%，阿里巴巴涨4.6%，文远知行、蔚来、小米、拼多多涨超4%，腾讯涨3.7%。 ETF中，CHAU涨7.7%，EMXC涨5.9%，CQQQ涨5.8%，ASHS涨5.7%，KWEB涨3.74%。",
+          "url": "https://wallstreetcn.com/livenews/3084558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "恒指低开0.53%，报25756.41点；恒生科技指数跌1.11%。阿里巴巴、快手、华虹半导体等跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3084678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨3.05%，报6876.97点。 热门中概股里，小马智行初步收涨10.7%，美团涨超9%，金山云、老虎证券涨超7%，亚朵、万国数据、B站涨超5%，阿里巴巴涨4.6%，文远知行、蔚来、小米、拼多多涨超4%，腾讯涨3.7%。 ETF中，中国科技指数ETF（CQQQ）收涨5.94%，中概互联网指数ETF（KWEB）收涨3.71%。 沪深300 2X做多涨8.15%，MSCI新兴市场ex中国ETF涨6.09%，XtrackersHarvest中证50（ASHS）收涨5.57%，德银嘉实沪深300指数ETF（ASHR）收涨4.07%。",
+          "url": "https://wallstreetcn.com/livenews/3084558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
+          "title": "港股开盘，恒指开跌0.53%，科指开跌1.11%，科网股多股开跌，阿里巴巴(09988.HK)开跌2.69%，快手(01024.HK)开跌2.53%。",
+          "url": "https://flash.jin10.com/detail/20260409092100917800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -124,8 +207,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 07时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 09时58分]"
         },
         {
           "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
@@ -181,30 +264,30 @@
       ]
     },
     {
-      "keyword_group": "阿里 Qwen",
+      "keyword_group": "机器人 具身智能",
       "match_count": 2,
       "titles": [
         {
-          "title": "纳斯达克金龙中国指数初步收涨3.1%。 热门中概股里，小马智行初步收涨10.7%，美团涨超9%，金山云、老虎证券涨超7%，亚朵、万国数据、B站涨超5%，阿里巴巴涨4.6%，文远知行、蔚来、小米、拼多多涨超4%，腾讯涨3.7%。 ETF中，CHAU涨7.7%，EMXC涨5.9%，CQQQ涨5.8%，ASHS涨5.7%，KWEB涨3.74%。",
-          "url": "https://wallstreetcn.com/livenews/3084558",
+          "title": "速腾聚创Q1销量增长204.1%，机器人业务占比首超车载",
+          "url": "https://wallstreetcn.com/livenews/3084685",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时43分"
+          "time_info": "09时58分"
         },
         {
-          "title": "纳斯达克金龙中国指数收涨3.05%，报6876.97点。 热门中概股里，小马智行初步收涨10.7%，美团涨超9%，金山云、老虎证券涨超7%，亚朵、万国数据、B站涨超5%，阿里巴巴涨4.6%，文远知行、蔚来、小米、拼多多涨超4%，腾讯涨3.7%。 ETF中，中国科技指数ETF（CQQQ）收涨5.94%，中概互联网指数ETF（KWEB）收涨3.71%。 沪深300 2X做多涨8.15%，MSCI新兴市场ex中国ETF涨6.09%，XtrackersHarvest中证50（ASHS）收涨5.57%，德银嘉实沪深300指数ETF（ASHR）收涨4.07%。",
-          "url": "https://wallstreetcn.com/livenews/3084558",
+          "title": "通用智能机器人企业智平方完成股改",
+          "url": "https://wallstreetcn.com/livenews/3084660",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时39分"
+          "time_info": "09时58分"
         }
       ]
     }
