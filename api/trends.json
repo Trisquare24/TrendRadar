@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T19:45:08.637349+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2026-04-10T21:04:21.157310+08:00",
+  "total_titles_processed": 1667,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "字节发布全双工语音大模型Seeduplex",
@@ -49,6 +49,37 @@
           "time_info": "[01时04分 ~ 07时36分]"
         },
         {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时22分 ~ 21时04分]"
+        },
+        {
+          "title": "Wait清唱挑战",
+          "url": "https://www.douyin.com/hot/2460968",
+          "source": "抖音",
+          "ranks": [
+            25,
+            15,
+            16,
+            21,
+            29,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时04分 ~ 21时04分]"
+        },
+        {
           "title": "玩具也要闯闯AI赛道",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
           "source": "bilibili 热搜",
@@ -67,48 +98,6 @@
           "time_info": "[01时04分 ~ 18时51分]"
         },
         {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时22分 ~ 19时45分]"
-        },
-        {
-          "title": "Wait清唱挑战",
-          "url": "https://www.douyin.com/hot/2460968",
-          "source": "抖音",
-          "ranks": [
-            25,
-            15,
-            16,
-            21,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 10时11分]"
-        },
-        {
-          "title": "员工离职变AI,上班不能停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 10时11分]"
-        },
-        {
           "title": "人工智能将纳入教师资格考试和认证内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
           "source": "澎湃新闻",
@@ -118,8 +107,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时22分 ~ 19时45分]"
+          "appearance_count": 9,
+          "time_info": "[13时22分 ~ 21时04分]"
         },
         {
           "title": "人工智能将纳入教师资格考试",
@@ -132,8 +121,20 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时22分 ~ 19时45分]"
+          "appearance_count": 9,
+          "time_info": "[13时22分 ~ 21时04分]"
+        },
+        {
+          "title": "员工离职变AI,上班不能停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 10时11分]"
         },
         {
           "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
@@ -430,7 +431,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
@@ -455,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "王自如聊中美AI模型上新",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%81%8A%E4%B8%AD%E7%BE%8EAI%E6%A8%A1%E5%9E%8B%E4%B8%8A%E6%96%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "港股AI应用股盘初延续强势，迅策(03317.HK)涨11%，滴普科技(01384.HK)涨超5.5%，中手游(00302.HK)、商汤(00020.HK)均涨超4.5%，MINIMAX-W(00100.HK)等跟涨。",
@@ -695,7 +707,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时45分"
         },
