@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T20:52:28.165846+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2026-04-11T21:55:02.049154+08:00",
+  "total_titles_processed": 1499,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
             26,
             23,
             27,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时59分 ~ 20时52分]"
+          "appearance_count": 12,
+          "time_info": "[09时59分 ~ 21时55分]"
         },
         {
           "title": "人工智能将纳入教师资格考试",
@@ -61,6 +62,21 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时46分 ~ 07时33分]"
+        },
+        {
+          "title": "我也来试一下这个wait",
+          "url": "https://www.douyin.com/hot/2462368",
+          "source": "抖音",
+          "ranks": [
+            22,
+            16,
+            17,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时39分 ~ 21时55分]"
         },
         {
           "title": "夫妻称用AI写公众号年赚200万被封号",
@@ -89,18 +105,18 @@
           "time_info": "[05时34分 ~ 09时59分]"
         },
         {
-          "title": "我也来试一下这个wait",
-          "url": "https://www.douyin.com/hot/2462368",
-          "source": "抖音",
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
           "ranks": [
-            22,
-            16,
-            17,
-            14
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时39分 ~ 20时52分]"
+          "time_info": "[17时37分 ~ 21时55分]"
         },
         {
           "title": "普京：俄罗斯须自主研发有竞争力的人工智能模型",
@@ -141,19 +157,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时47分 ~ 04时33分]"
-        },
-        {
-          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
-          "url": "https://wallstreetcn.com/articles/3769738",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 20时52分]"
         },
         {
           "title": "如何评价米哈游近日公开的视频角色表演生成大模型 LPM1.0?",
@@ -294,7 +297,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -334,22 +337,24 @@
             13,
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时58分 ~ 20时52分]"
+          "appearance_count": 10,
+          "time_info": "[13时58分 ~ 21时55分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
           "url": "https://www.zhihu.com/question/2026136705757902456",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 20时52分]"
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 21时55分]"
         },
         {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
@@ -459,8 +464,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时39分 ~ 20时52分]"
+          "appearance_count": 8,
+          "time_info": "[16时39分 ~ 21时55分]"
         },
         {
           "title": "郑丽文参访清华附中称想带机器人回家",
@@ -557,6 +562,18 @@
           "time_info": "[16时40分 ~ 18时31分]"
         },
         {
+          "title": "机器人机器狗方阵献舞苏超开幕式",
+          "url": "https://www.toutiao.com/trending/7626963528087408182/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 21时55分]"
+        },
+        {
           "title": "江苏常州街头“机器人交警”上岗",
           "url": "https://www.toutiao.com/trending/7627024221646045227/",
           "source": "今日头条",
@@ -566,17 +583,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
-        },
-        {
-          "title": "机器人机器狗方阵献舞苏超开幕式",
-          "url": "https://www.toutiao.com/trending/7626963528087408182/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
         }
       ]
     },
