@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T01:29:15.593037+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-04-12T02:40:03.775500+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3769738",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时40分]"
         },
         {
           "title": "我也来试一下这个wait",
           "url": "https://www.douyin.com/hot/2462368",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时40分]"
         },
         {
           "title": "人工智能卖瓜",
@@ -38,8 +40,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时40分]"
         },
         {
           "title": "郑丽文一行在北京参访了解人工智能发展，感叹两岸合作对人类贡献将不可限量。（新华社）",
@@ -47,11 +49,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时40分]"
         },
         {
           "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
@@ -78,8 +81,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时40分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -87,17 +90,18 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时40分]"
         }
       ]
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "水军机器人走错片场露马脚",
@@ -107,8 +111,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时40分]"
+        },
+        {
+          "title": "宇树H1人形机器人奔跑速度再破纪录",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91H1%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A5%94%E8%B7%91%E9%80%9F%E5%BA%A6%E5%86%8D%E7%A0%B4%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 02时40分]"
         }
       ]
     }
