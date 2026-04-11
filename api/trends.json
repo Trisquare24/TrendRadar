@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T06:29:14.808126+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-04-12T07:31:16.350407+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 07时31分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -28,11 +28,12 @@
             25,
             28,
             20,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 07时31分]"
         },
         {
           "title": "人工智能卖瓜",
@@ -42,11 +43,12 @@
             20,
             22,
             29,
-            27
+            27,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 07时31分]"
         },
         {
           "title": "郑丽文一行在北京参访了解人工智能发展，感叹两岸合作对人类贡献将不可限量。（新华社）",
@@ -60,6 +62,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 02时40分]"
+        },
+        {
+          "title": "郑丽文一行在北京参访了解人工智能发展，感叹两岸合作对人类贡献将不可限量",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32952031",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
         },
         {
           "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
@@ -86,8 +99,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 07时31分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -99,8 +112,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 07时31分]"
         }
       ]
     },
@@ -116,8 +129,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 06时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 07时31分]"
         },
         {
           "title": "宇树H1人形机器人奔跑速度再破纪录",
@@ -126,11 +139,12 @@
           "ranks": [
             27,
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时39分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[02时39分 ~ 07时31分]"
         }
       ]
     }
