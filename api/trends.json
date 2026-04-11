@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T05:30:33.373909+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-04-12T06:29:14.808126+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 06时29分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -31,8 +31,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 06时29分]"
         },
         {
           "title": "人工智能卖瓜",
@@ -41,11 +41,12 @@
           "ranks": [
             20,
             22,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 06时29分]"
         },
         {
           "title": "郑丽文一行在北京参访了解人工智能发展，感叹两岸合作对人类贡献将不可限量。（新华社）",
@@ -85,8 +86,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 06时29分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -98,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 06时29分]"
         }
       ]
     },
@@ -115,8 +116,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 05时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 06时29分]"
         },
         {
           "title": "宇树H1人形机器人奔跑速度再破纪录",
@@ -128,8 +129,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时39分 ~ 05时30分]"
+          "appearance_count": 8,
+          "time_info": "[02时39分 ~ 06时29分]"
         }
       ]
     }
