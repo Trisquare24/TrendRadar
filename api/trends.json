@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T06:31:23.103545+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-04-13T07:32:12.185418+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "国产AI模型为何大多免费",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "境外涉黄AI软件绕过监管流入国内",
@@ -43,8 +43,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时32分]"
+        },
+        {
+          "title": "AI 会有情绪吗？",
+          "url": "https://www.zhihu.com/question/583568899",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时37分 ~ 07时32分]"
         },
         {
           "title": "央视曝光AI造黄产业链",
@@ -61,30 +74,18 @@
           "time_info": "[00时35分 ~ 06时31分]"
         },
         {
-          "title": "AI 会有情绪吗？",
-          "url": "https://www.zhihu.com/question/583568899",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时37分 ~ 06时31分]"
-        },
-        {
           "title": "多款AI应用存在涉黄生成漏洞",
           "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%AC%BEAI%E5%BA%94%E7%94%A8%E5%AD%98%E5%9C%A8%E6%B6%89%E9%BB%84%E7%94%9F%E6%88%90%E6%BC%8F%E6%B4%9E",
           "source": "百度热搜",
           "ranks": [
             23,
             25,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[02时42分 ~ 07时32分]"
         },
         {
           "title": "摩尔线程率先完成MiniMax M2.7大模型适配",
@@ -123,8 +124,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "机器人冲线后坐车休息脚搭车架上",
@@ -137,8 +138,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "宇树机器人百米冲刺 10 米每秒，逼近博尔特记录，这个速度是什么水平？能应用到哪些现实场景？",
@@ -149,11 +150,12 @@
             8,
             15,
             10,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "人形机器人半马完成全流程测试",
@@ -164,8 +166,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "水军机器人走错片场露马脚",
@@ -175,8 +177,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时32分]"
         },
         {
           "title": "机器人闪电展现提速能力",
