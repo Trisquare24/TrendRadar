@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T16:43:41.992243+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-04-12T17:43:04.514931+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 16时43分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 17时43分]"
         },
         {
           "title": "宇树H1人形机器人奔跑速度再破纪录",
@@ -43,19 +44,34 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时10分 ~ 16时43分]"
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 17时43分]"
         },
         {
           "title": "机器人短跑破纪录有什么用",
           "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9F%AD%E8%B7%91%E7%A0%B4%E7%BA%AA%E5%BD%95%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 17时43分]"
+        },
+        {
+          "title": "机器人闪电展现提速能力",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%97%AA%E7%94%B5%E5%B1%95%E7%8E%B0%E6%8F%90%E9%80%9F%E8%83%BD%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            18,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 17时43分]"
         },
         {
           "title": "宇树科技人形机器人跑出10米/秒",
@@ -83,19 +99,6 @@
           "time_info": "[13时21分 ~ 16时43分]"
         },
         {
-          "title": "机器人闪电展现提速能力",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%97%AA%E7%94%B5%E5%B1%95%E7%8E%B0%E6%8F%90%E9%80%9F%E8%83%BD%E5%8A%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时12分 ~ 16时43分]"
-        },
-        {
           "title": "宇树机器人跑出10米/秒逼近人类巅峰",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E5%87%BA10%E7%B1%B3%2F%E7%A7%92%E9%80%BC%E8%BF%91%E4%BA%BA%E7%B1%BB%E5%B7%85%E5%B3%B0",
           "source": "百度热搜",
@@ -106,6 +109,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时12分 ~ 13时21分]"
+        },
+        {
+          "title": "70多款机器人深夜竞速",
+          "url": "https://s.weibo.com/weibo?q=%2370%E5%A4%9A%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B7%B1%E5%A4%9C%E7%AB%9E%E9%80%9F%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 17时43分]"
+        },
+        {
+          "title": "人形机器人半马完成全流程测试",
+          "url": "https://www.douyin.com/hot/2463701",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 17时43分]"
         },
         {
           "title": "宇树科技宣布人形机器人跑出10米/秒，逼近人类巅峰水平",
@@ -121,18 +148,6 @@
           "time_info": "[10时12分 ~ 15时10分]"
         },
         {
-          "title": "70多款机器人深夜竞速",
-          "url": "https://s.weibo.com/weibo?q=%2370%E5%A4%9A%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B7%B1%E5%A4%9C%E7%AB%9E%E9%80%9F%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时10分 ~ 16时43分]"
-        },
-        {
           "title": "宇树机器人百米冲刺10米每秒",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BE%E7%B1%B3%E5%86%B2%E5%88%BA10%E7%B1%B3%E6%AF%8F%E7%A7%92%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -143,17 +158,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时12分 ~ 13时21分]"
-        },
-        {
-          "title": "人形机器人半马完成全流程测试",
-          "url": "https://www.douyin.com/hot/2463701",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
         },
         {
           "title": "「机器人三定律」现实可行吗？",
@@ -214,7 +218,7 @@
     },
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -260,8 +264,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 16时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 17时43分]"
         },
         {
           "title": "顶尖大模型“能力突变”，算力需求“系统性超越供给”--大摩：“市场乐观的程度可能还不够”",
@@ -274,8 +278,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 16时43分]"
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 17时43分]"
+        },
+        {
+          "title": "公众号批量删除 AI 写作文章，新规则打击自动化方式的创作，这是怎么判断的？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2025695905764962890",
+          "source": "知乎",
+          "ranks": [
+            20,
+            8,
+            7,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 17时43分]"
         },
         {
           "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」词元，将如何影响市场格局？",
@@ -312,18 +331,16 @@
           "time_info": "[13时21分 ~ 15时10分]"
         },
         {
-          "title": "公众号批量删除 AI 写作文章，新规则打击自动化方式的创作，这是怎么判断的？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2025695905764962890",
+          "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」token，将如何影响市场格局？",
+          "url": "https://www.zhihu.com/question/2025491195443311364",
           "source": "知乎",
           "ranks": [
-            20,
             8,
-            7,
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时12分 ~ 16时43分]"
+          "time_info": "[15时10分 ~ 17时43分]"
         },
         {
           "title": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
@@ -352,16 +369,15 @@
           "time_info": "[00时34分 ~ 02时40分]"
         },
         {
-          "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」token，将如何影响市场格局？",
-          "url": "https://www.zhihu.com/question/2025491195443311364",
-          "source": "知乎",
+          "title": "国产AI模型为何大多免费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7AI%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E5%A4%A7%E5%A4%9A%E5%85%8D%E8%B4%B9",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时10分 ~ 16时43分]"
+          "time_info": "[17时42分 ~ 17时43分]"
         },
         {
           "title": "郑丽文一行在北京参访了解人工智能发展，感叹两岸合作对人类贡献将不可限量",
@@ -424,8 +440,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 16时43分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 17时43分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -448,7 +464,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         }
