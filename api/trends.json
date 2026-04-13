@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T03:10:45.578427+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-04-14T04:51:31.379102+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时51分]"
         },
         {
           "title": "AI辅助炒股哪家强",
@@ -26,7 +26,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时51分]"
         },
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -50,8 +50,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时51分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
+          "url": "https://www.cls.cn/detail/2342373",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时51分]"
         },
         {
           "title": "北京最火饺子馆开始喂AI龙虾",
@@ -71,18 +83,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
-          "url": "https://www.cls.cn/detail/2342373",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
         },
@@ -133,8 +134,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时51分]"
         },
         {
           "title": "中国机器人在波兰街头驱赶野猪",
@@ -143,11 +144,12 @@
           "ranks": [
             8,
             17,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时51分]"
         },
         {
           "title": "机器人短跑破纪录有什么用",
@@ -156,11 +158,12 @@
           "ranks": [
             18,
             20,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时51分]"
         },
         {
           "title": "水军机器人走错片场露马脚",
@@ -171,25 +174,54 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时51分]"
         }
       ]
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何评价阿里云百炼 Coding Plan Lite 停止续费和升级、自动续费将自动失效?",
           "url": "https://www.zhihu.com/question/2026647221651687071",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时51分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.7%。 热门中概股里，金山云初步收涨6.4%，小马智行涨4.9%，晶科能源涨3.7%，比亚迪涨4.4%，拼多多涨0.6%，阿里巴巴涨0.5%。 ETF中，CQQQ涨1.2%，KWEB涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3087145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
+          "url": "https://flash.jin10.com/detail/20260414043421131800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         }
       ]
     },
@@ -202,11 +234,12 @@
           "url": "https://www.zhihu.com/question/2026223211436676545",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时10分 ~ 04时51分]"
         }
       ]
     }
