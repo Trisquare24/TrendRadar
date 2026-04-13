@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T17:59:05.911513+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-04-13T19:19:45.536539+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "国产AI模型为何大多免费",
@@ -59,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时25分 ~ 17时59分]"
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 19时19分]"
         },
         {
           "title": "AI 会有情绪吗？",
@@ -98,8 +98,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 17时59分]"
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 19时19分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -109,8 +109,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时19分]"
         },
         {
           "title": "天普股份：截至目前，公司无开展人工智能相关业务的计划",
@@ -119,7 +119,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -136,6 +136,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时42分 ~ 07时32分]"
+        },
+        {
+          "title": "马上评｜谁来斩断AI“造黄”产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时58分 ~ 19时19分]"
         },
         {
           "title": "战争间歇期的四个缩圈方向：AI硬件、资源、周期涨价和红利",
@@ -164,28 +177,28 @@
           "time_info": "[10时25分 ~ 15时58分]"
         },
         {
-          "title": "马上评｜谁来斩断AI“造黄”产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时58分 ~ 17时59分]"
-        },
-        {
           "title": "央视曝光AI造黄产业链",
           "url": "https://www.toutiao.com/trending/7627852499819118611/",
           "source": "今日头条",
           "ranks": [
             27,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 15时58分]"
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 19时19分]"
+        },
+        {
+          "title": "国芯科技与中国人民大学签约 将共研AI安全推理一体机",
+          "url": "https://flash.jin10.com/detail/20260413185111179800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "金蝶国际：一季度AI原生产品签约合同金额达2.3亿元",
@@ -194,7 +207,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -205,7 +218,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -235,7 +248,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "机器人冲线后坐车休息脚搭车架上",
@@ -253,21 +266,6 @@
           "time_info": "[00时35分 ~ 10时25分]"
         },
         {
-          "title": "机器人短跑破纪录有什么用",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9F%AD%E8%B7%91%E7%A0%B4%E7%BA%AA%E5%BD%95%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            4,
-            12,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 17时59分]"
-        },
-        {
           "title": "宇树机器人百米冲刺 10 米每秒，逼近博尔特记录，这个速度是什么水平？能应用到哪些现实场景？",
           "url": "https://www.zhihu.com/question/2026580932996456466",
           "source": "知乎",
@@ -282,6 +280,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时35分 ~ 07时32分]"
+        },
+        {
+          "title": "机器人短跑破纪录有什么用",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9F%AD%E8%B7%91%E7%A0%B4%E7%BA%AA%E5%BD%95%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            4,
+            12,
+            14,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 19时19分]"
         },
         {
           "title": "人形机器人半马完成全流程测试",
@@ -308,8 +322,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 17时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 19时19分]"
+        },
+        {
+          "title": "中国机器人在波兰街头驱赶野猪",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E6%B3%A2%E5%85%B0%E8%A1%97%E5%A4%B4%E9%A9%B1%E8%B5%B6%E9%87%8E%E7%8C%AA%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "机器人闪电展现提速能力",
@@ -318,11 +343,12 @@
           "ranks": [
             20,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 10时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 19时19分]"
         },
         {
           "title": "泰国公主诗琳通访问北京邮电大学，被人形机器人逗笑",
@@ -348,11 +374,12 @@
           "source": "微博",
           "ranks": [
             22,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 17时59分]"
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 19时19分]"
         },
         {
           "title": "字节与荣耀接洽“豆包手机”合作？ 知情人士：细节尚未达成一致",
