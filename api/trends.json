@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T10:11:54.901172+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2026-04-14T13:21:14.087853+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 10时11分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 13时21分]"
         },
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -38,11 +39,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 10时11分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 13时21分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -136,6 +138,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "韩国人工智能芯片初创公司DeepX准备在韩国进行IPO，其也对通过ADR在美国上市持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3087406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "Claude：正在调查Claude.ai出现的问题。",
           "url": "https://flash.jin10.com/detail/20260414000010753800",
           "source": "金十数据",
@@ -164,7 +177,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         }
@@ -172,7 +185,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中国人形机器人在波兰街头驱赶野猪",
@@ -180,11 +193,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 10时11分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 13时21分]"
         },
         {
           "title": "机器人短跑破纪录有什么用",
@@ -195,11 +209,12 @@
             20,
             15,
             16,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 10时11分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 13时21分]"
         },
         {
           "title": "水军机器人走错片场露马脚",
@@ -228,6 +243,57 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 07时40分]"
+        },
+        {
+          "title": "具身智能开始分层：谁卖整机，谁做底座，谁定义机器人的大脑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32958985",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 13时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI伦敦设立永久办公室",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时20分 ~ 13时21分]"
+        },
+        {
+          "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
+          "url": "https://flash.jin10.com/detail/20260414043421131800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时51分 ~ 05时45分]"
+        },
+        {
+          "title": "OpenAI估值8520亿美元遭质疑：押注企业市场，投资人直言“失焦”",
+          "url": "https://flash.jin10.com/detail/20260414124747645800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     },
@@ -282,7 +348,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -291,29 +357,46 @@
           "url": "https://www.baidu.com/s?wd=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD%E2%80%9C120W%E6%98%AF%E5%85%85%E7%94%B5%E5%99%A8%E5%95%86%E6%A0%87%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 13时21分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
-          "url": "https://flash.jin10.com/detail/20260414043421131800",
-          "source": "金十数据",
+          "title": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3087405",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            23
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GitHub github",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大一学编程，朋友说「别学古法编程」，还让我养小龙虾，可我连 GitHub 都不会用，我该怎么办？",
+          "url": "https://www.zhihu.com/question/2026653029177280167",
+          "source": "知乎",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时45分]"
+          "time_info": "[13时20分 ~ 13时21分]"
         }
       ]
     },
