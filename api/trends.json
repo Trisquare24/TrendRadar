@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T15:27:36.526386+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-04-15T17:16:11.000694+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -23,6 +23,32 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时05分 ~ 13时21分]"
+        },
+        {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 17时16分]"
+        },
+        {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时48分 ~ 17时16分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -60,30 +86,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时05分 ~ 06时42分]"
-        },
-        {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 15时27分]"
-        },
-        {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时48分 ~ 15时27分]"
         },
         {
           "title": "英伟达推出全球首个开源量子AI模型",
@@ -133,6 +135,30 @@
           "time_info": "[07时40分 ~ 15时27分]"
         },
         {
+          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
+          "url": "https://www.cls.cn/detail/2344320",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 17时16分]"
+        },
+        {
+          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
+          "url": "https://www.cls.cn/detail/2344890",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
           "title": "美特种军斥资5000万引入“AI 副驾驶” 助力决策优化与减负",
           "url": "https://flash.jin10.com/detail/20260415052923283800",
           "source": "金十数据",
@@ -155,18 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 06时42分]"
-        },
-        {
-          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
-          "url": "https://www.cls.cn/detail/2344320",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 15时27分]"
         },
         {
           "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
@@ -231,7 +245,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -253,9 +267,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "网易云音乐回应争议广告：系合作方未经许可对广告素材进行AI二创",
+          "url": "https://wallstreetcn.com/livenews/3088354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "据美国《财富》杂志：Anthropic因其 Claude AI聊天机器人出现性能下降而面临用户强烈不满。据多位开发者和重度用户反映，Claude人工智能模型近期性能明显下滑，表现为越来越难以遵循指令、在某些情况下选择不恰当的捷径，并在复杂工作流程中出现更多错误。",
@@ -267,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "老外为省钱纷纷注册微信支付？智谱大模型“反向定价”火了",
+          "url": "https://wallstreetcn.com/livenews/3088349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "英国央行行长贝利谈及Anthropic，称：所有人都在研究这个问题的意义。 呼吁监管部门评估银行业面临的AI网络风险。",
@@ -359,6 +395,79 @@
       ]
     },
     {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "阿里云：7月15日起对DDoS防护产品调价",
+          "url": "https://wallstreetcn.com/livenews/3088108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "机器人半程马拉松来了！阿里、荣耀将携首款具身机器人征战",
+          "url": "https://www.cls.cn/detail/2344310",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 17时16分]"
+        },
+        {
+          "title": "阿里巴巴(09988.HK)涨超5%，消息面上，阿里云此前发布DDoS防护产品调价公告。",
+          "url": "https://flash.jin10.com/detail/20260415095920643800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "阿里云发布DDoS防护产品调价公告",
+          "url": "https://flash.jin10.com/detail/20260415095511452800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "机构：阿里云连续5年位居游戏云市场份额第一",
+          "url": "https://flash.jin10.com/detail/20260415150128273800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "宇树、追觅等签约阿里速卖通“Brand+”出海计划",
+          "url": "https://wallstreetcn.com/livenews/3088335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
@@ -422,67 +531,6 @@
       ]
     },
     {
-      "keyword_group": "阿里 Qwen",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "阿里云：7月15日起对DDoS防护产品调价",
-          "url": "https://wallstreetcn.com/livenews/3088108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "阿里巴巴(09988.HK)涨超5%，消息面上，阿里云此前发布DDoS防护产品调价公告。",
-          "url": "https://flash.jin10.com/detail/20260415095920643800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "机器人半程马拉松来了！阿里、荣耀将携首款具身机器人征战",
-          "url": "https://www.cls.cn/detail/2344310",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "阿里云发布DDoS防护产品调价公告",
-          "url": "https://flash.jin10.com/detail/20260415095511452800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "机构：阿里云连续5年位居游戏云市场份额第一",
-          "url": "https://flash.jin10.com/detail/20260415150128273800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "机器人 具身智能",
       "match_count": 4,
       "titles": [
@@ -500,8 +548,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 15时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 17时16分]"
         },
         {
           "title": "对话蔚来创始人李斌：出海2.0、芯片外供、对人形机器人和Robotaxi保持观望",
@@ -540,7 +588,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         }
@@ -586,11 +634,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 15时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 17时16分]"
         }
       ]
     }
