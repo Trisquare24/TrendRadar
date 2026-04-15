@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T02:09:43.453971+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-04-16T04:01:53.369850+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时01分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时01分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时01分]"
         },
         {
           "title": "Cadence与英伟达扩大合作伙伴关系，以在人工智能与加速计算时代重塑工程设计。",
@@ -48,7 +48,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
         }
@@ -67,8 +67,21 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时01分]"
+        },
+        {
+          "title": "机器人切除肿瘤不彻底患者去世",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%87%E9%99%A4%E8%82%BF%E7%98%A4%E4%B8%8D%E5%BD%BB%E5%BA%95%E6%82%A3%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时01分]"
         },
         {
           "title": "机器人切除肿瘤两年后患者去世",
@@ -77,18 +90,6 @@
           "ranks": [
             27,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时09分]"
-        },
-        {
-          "title": "机器人切除肿瘤不彻底患者去世",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%87%E9%99%A4%E8%82%BF%E7%98%A4%E4%B8%8D%E5%BD%BB%E5%BA%95%E6%82%A3%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            26
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -109,8 +110,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 02时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 04时01分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
@@ -127,7 +128,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
@@ -139,6 +140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "报道：谷歌母公司Alphabet料将因SpaceX投资而获得1000亿美元“意外之财”",
+          "url": "https://wallstreetcn.com/livenews/3088724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         }
       ]
     }
