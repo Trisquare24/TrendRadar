@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T15:27:29.460429+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-04-16T17:16:58.786379+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时00分 ~ 15时27分]"
+          "appearance_count": 11,
+          "time_info": "[01时00分 ~ 17时16分]"
         },
         {
           "title": "通用大模型直接接入股票行情数据，新的竞争信号来了？",
@@ -33,6 +34,31 @@
           "time_info": "[01时00分 ~ 07时39分]"
         },
         {
+          "title": "番茄作者AI代笔,读者白追",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时27分 ~ 17时16分]"
+        },
+        {
+          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
+          "url": "https://wallstreetcn.com/articles/3770049",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 17时16分]"
+        },
+        {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
           "url": "https://www.zhihu.com/question/2027689506711630551",
           "source": "知乎",
@@ -43,17 +69,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时00分 ~ 06时39分]"
-        },
-        {
-          "title": "番茄作者AI代笔,读者白追",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
         },
         {
           "title": "报道：美国航司Spirit Airlines最早可能在本周开始清算",
@@ -78,19 +93,6 @@
           "time_info": "13时28分"
         },
         {
-          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
-          "url": "https://wallstreetcn.com/articles/3770049",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 15时27分]"
-        },
-        {
           "title": "警惕人工智能让人类陷入“自恋”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
           "source": "澎湃新闻",
@@ -100,8 +102,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 17时16分]"
         },
         {
           "title": "玩家AI生图捧洛克,网友一秒戳穿",
@@ -109,11 +111,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 17时16分]"
         },
         {
           "title": "刷手机有多累？现在AI能算出来了",
@@ -146,7 +149,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -190,7 +193,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -212,7 +215,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -245,7 +248,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         }
@@ -253,7 +256,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "机器人跑马拉松也穿跑鞋了",
@@ -269,6 +272,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时00分 ~ 13时28分]"
+        },
+        {
+          "title": "京东推出“机器人救护车” 未来3年招聘1万名维修人才",
+          "url": "https://flash.jin10.com/detail/20260416170023649800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "机器人切除肿瘤不彻底患者去世",
@@ -291,8 +305,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 17时16分]"
         },
         {
           "title": "机器人切除肿瘤两年后患者去世",
@@ -384,8 +398,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 15时27分]"
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 17时16分]"
         },
         {
           "title": "恒生科技指数日内涨幅扩大至3%，百度涨超7%，阿里巴巴、网易涨超4%。",
@@ -427,11 +441,12 @@
             8,
             20,
             10,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时00分 ~ 15时27分]"
+          "appearance_count": 11,
+          "time_info": "[01时00分 ~ 17时16分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
@@ -462,6 +477,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时50分 ~ 07时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "豆包帮挑的西瓜",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%B8%AE%E6%8C%91%E7%9A%84%E8%A5%BF%E7%93%9C&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     }
