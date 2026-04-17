@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T15:28:27.150100+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-04-17T17:14:36.673779+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -15,11 +15,12 @@
             4,
             6,
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 15时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 17时14分]"
         },
         {
           "title": "警惕人工智能让人类陷入“自恋”",
@@ -85,6 +86,18 @@
           "time_info": "[00时20分 ~ 10时13分]"
         },
         {
+          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
+          "url": "https://www.cls.cn/detail/2347047",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 17时14分]"
+        },
+        {
           "title": "国产AI激光“灭蚊神器”海外爆单",
           "url": "https://www.toutiao.com/trending/7628666147721740329/",
           "source": "今日头条",
@@ -109,15 +122,17 @@
           "time_info": "[13时25分 ~ 15时28分]"
         },
         {
-          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
-          "url": "https://www.cls.cn/detail/2347047",
-          "source": "财联社热门",
+          "title": "朱珠版wait一开口对味了",
+          "url": "https://www.douyin.com/hot/2468877",
+          "source": "抖音",
           "ranks": [
-            4
+            13,
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 17时14分]"
         },
         {
           "title": "解读AI蒸馏攻防战",
@@ -132,18 +147,6 @@
           "time_info": "[05时40分 ~ 10时13分]"
         },
         {
-          "title": "朱珠版wait一开口对味了",
-          "url": "https://www.douyin.com/hot/2468877",
-          "source": "抖音",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 15时28分]"
-        },
-        {
           "title": "用 AI 写的代码，最终会不会让整个项目成为屎山？",
           "url": "https://www.zhihu.com/question/2013899380286047376",
           "source": "知乎",
@@ -156,6 +159,19 @@
           "time_info": "[10时12分 ~ 13时25分]"
         },
         {
+          "title": "国产AI激光“灭蚊神器”海外爆单",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E6%BF%80%E5%85%89%E2%80%9C%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 17时14分]"
+        },
+        {
           "title": "Upscale AI洽谈获得20亿美元估值，该公司的投资者包括老虎环球。",
           "url": "https://wallstreetcn.com/livenews/3089555",
           "source": "华尔街见闻-快讯",
@@ -166,18 +182,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时59分 ~ 04时55分]"
-        },
-        {
-          "title": "国产AI激光“灭蚊神器”海外爆单",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E6%BF%80%E5%85%89%E2%80%9C%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 15时28分]"
         },
         {
           "title": "曝常春藤名校用打字机对抗AI",
@@ -214,24 +218,24 @@
           "time_info": "[13时25分 ~ 15时28分]"
         },
         {
-          "title": "禾赛发布空间智能AI硬件产品KOSMO，可服务物理AI数据训练",
-          "url": "https://wallstreetcn.com/livenews/3089855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
           "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
           "url": "https://www.cls.cn/detail/2346971",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 17时14分]"
+        },
+        {
+          "title": "禾赛发布空间智能AI硬件产品KOSMO，可服务物理AI数据训练",
+          "url": "https://wallstreetcn.com/livenews/3089855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -256,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "AI龙头业绩与指引双双提振信心 瑞银仍看好AI长期趋势",
+          "url": "https://flash.jin10.com/detail/20260417165554147800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：各国应密切关注经济转型中的“赢家”与“输家”。 AI革命不应重蹈全球化时期的覆辙，当时许多失去工作的人从未能重新融入经济体系。 她担心如果人们相信冲突会很快结束，那么节能的意愿将会降低。",
@@ -308,17 +323,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "机器人马拉松排位赛大赏",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8E%92%E4%BD%8D%E8%B5%9B%E5%A4%A7%E8%B5%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 15时28分]"
-        },
-        {
           "title": "佑驾创新(02431.HK)涨超10%，公司宣布与荣耀达成合作，以“无人车+机器人”打通全链路无人化闭环。",
           "url": "https://flash.jin10.com/detail/20260417100344407800",
           "source": "金十数据",
@@ -342,13 +346,25 @@
           "time_info": "[10时12分 ~ 13时25分]"
         },
         {
+          "title": "机器人马拉松排位赛大赏",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%8E%92%E4%BD%8D%E8%B5%9B%E5%A4%A7%E8%B5%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 17时14分]"
+        },
+        {
           "title": "2026人形机器人半马周末开跑 赛事规则发布",
           "url": "https://wallstreetcn.com/livenews/3089853",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -494,6 +510,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄仁勋：DeepSeek如果先在华为平台适配，对美国来说非常糟糕。（每经网）",
+          "url": "https://wallstreetcn.com/livenews/3089919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         }
       ]
     }
