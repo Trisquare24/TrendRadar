@@ -1,22 +1,36 @@
 {
-  "generated_at": "2026-04-20T07:33:22.900633+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-04-20T10:25:46.721229+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "荣耀夺冠、机器人半马跑赢人类，但最关键的比赛不在亦庄",
           "url": "https://wallstreetcn.com/articles/3770341",
           "source": "华尔街见闻",
           "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时25分]"
+        },
+        {
+          "title": "人形机器人半马跑进1小时 行业加速放量期上市公司卡位“供应链”",
+          "url": "https://www.cls.cn/detail/2348570",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时25分]"
         },
         {
           "title": "今年机器人跑半马也太快了",
@@ -25,11 +39,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时25分]"
         },
         {
           "title": "50分26秒破人类纪录！直击北京亦庄机器人半马赛：荣耀“闪电”夺冠 宇树天工双双“累倒”终点",
@@ -40,20 +55,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时33分]"
-        },
-        {
-          "title": "人形机器人半马跑进1小时 行业加速放量期上市公司卡位“供应链”",
-          "url": "https://www.cls.cn/detail/2348570",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时25分]"
         },
         {
           "title": "快过人类！荣耀、宇树刷屏2026机器人半马 冠军花落自主导航组",
@@ -88,11 +91,26 @@
             10,
             9,
             7,
-            15
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时25分]"
+        },
+        {
+          "title": "经纬度：从“养生跑”到破人类纪录，中国机器人成了！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33004952",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            10
           ],
           "is_new": false,
           "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "time_info": "[00时36分 ~ 10时25分]"
         },
         {
           "title": "50分26秒！2026北京亦庄人形机器人半马冠军出炉",
@@ -102,24 +120,29 @@
             16,
             15,
             14,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时25分]"
+        },
+        {
+          "title": "机器人半马显眼包大赏",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E6%98%BE%E7%9C%BC%E5%8C%85%E5%A4%A7%E8%B5%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            24,
+            20,
+            23,
+            25,
+            22,
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时33分]"
-        },
-        {
-          "title": "经纬度：从“养生跑”到破人类纪录，中国机器人成了！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33004952",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[00时36分 ~ 06时32分]"
+          "time_info": "[01时33分 ~ 10时25分]"
         },
         {
           "title": "小孩哥机器人跑一半打招呼被“抱走”",
@@ -128,11 +151,12 @@
           "ranks": [
             18,
             24,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时25分]"
         },
         {
           "title": "荣耀回应首次参加机器人马拉松夺冠",
@@ -147,22 +171,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时36分 ~ 07时33分]"
-        },
-        {
-          "title": "机器人半马显眼包大赏",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E6%98%BE%E7%9C%BC%E5%8C%85%E5%A4%A7%E8%B5%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            24,
-            20,
-            23,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时33分 ~ 07时33分]"
         },
         {
           "title": "机器人跑得比人类还快有啥用",
@@ -188,11 +196,12 @@
             28,
             29,
             27,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时33分 ~ 07时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时33分 ~ 10时25分]"
         },
         {
           "title": "2026，人形机器人半马有哪些名场面？",
@@ -222,15 +231,50 @@
           "time_info": "[00时36分 ~ 02时44分]"
         },
         {
+          "title": "今年机器人马拉松发生了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8A%E5%B9%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "小鼻嘎累趴 路过机器人看热闹鼓掌",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%BC%BB%E5%98%8E%E7%B4%AF%E8%B6%B4+%E8%B7%AF%E8%BF%87%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9C%8B%E7%83%AD%E9%97%B9%E9%BC%93%E6%8E%8C",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "当机器人开始跨越恐怖谷",
           "url": "https://www.douyin.com/hot/2471868",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 10时25分]"
+        },
+        {
+          "title": "程序员追不上机器人干脆开电瓶车跟",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E8%BF%BD%E4%B8%8D%E4%B8%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B9%B2%E8%84%86%E5%BC%80%E7%94%B5%E7%93%B6%E8%BD%A6%E8%B7%9F%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "time_info": "[07时33分 ~ 10时25分]"
         },
         {
           "title": "宇树H1机器人被担架抬离赛道",
@@ -255,13 +299,46 @@
           "time_info": "[02时43分 ~ 02时44分]"
         },
         {
+          "title": "宇树人形机器人打破人类 1500 米世界纪录，人形机器人疯狂竞速，实际落地价值在哪儿？",
+          "url": "https://www.zhihu.com/question/2029148050057077679",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "小鼻嘎“累趴” 机器人看热闹还鼓掌",
+          "url": "https://www.toutiao.com/trending/7630302162937217087/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "荣耀包揽亦庄机器人马拉松前三：对话齐天大圣冠军战队，技术与路线全揭秘",
+          "url": "https://www.cls.cn/detail/2348726",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "直播丨50分26秒！2026北京亦庄人形机器人半程马拉松冠军出炉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33000647",
           "source": "澎湃新闻",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -272,18 +349,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "程序员追不上机器人干脆开电瓶车跟",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E8%BF%BD%E4%B8%8D%E4%B8%8A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B9%B2%E8%84%86%E5%BC%80%E7%94%B5%E7%93%B6%E8%BD%A6%E8%B7%9F%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -294,7 +360,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         }
@@ -302,40 +368,43 @@
     },
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "up主转战AI动画遭手绘党声讨",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353424&amp;topic_name=up%E4%B8%BB%E8%BD%AC%E6%88%98AI%E5%8A%A8%E7%94%BB%E9%81%AD%E6%89%8B%E7%BB%98%E5%85%9A%E5%A3%B0%E8%AE%A8",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时25分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353412&amp;topic_name=%E5%88%BA%E7%8C%AC%E7%8C%ABAI%E6%96%87%E9%9C%B8%E6%A6%9C%2C%E4%BD%9C%E8%80%85%E9%AD%94%E6%B3%95%E5%AF%B9%E8%BD%B0",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时25分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
           "source": "贴吧",
           "ranks": [
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时25分]"
         },
         {
           "title": "我们要不要向AI说谢谢？",
@@ -343,11 +412,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时39分 ~ 07时33分]"
+          "appearance_count": 7,
+          "time_info": "[03时39分 ~ 10时25分]"
         },
         {
           "title": "在战锤 40k 里，机械神甫那些跳大神操作真的对人工智能有用吗?",
@@ -388,6 +458,17 @@
           "time_info": "[02时44分 ~ 04时34分]"
         },
         {
+          "title": "如何看待番茄平台上月稿费 80 万的金番作者使用 AI 写作，甚至在正文中没有删除 AI 提示词的现象？",
+          "url": "https://www.zhihu.com/question/2027490615500313080",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "AI初创公司Cursor正在洽谈筹集20亿美元的融资，估值超过500亿美元。",
           "url": "https://flash.jin10.com/detail/20260420053324061800",
           "source": "金十数据",
@@ -397,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "中石油天然气集团等成立数科科技公司，含AI业务",
+          "url": "https://flash.jin10.com/detail/20260420094913700800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "国投智能：公司已构建全链条AI安全能力体系",
@@ -427,8 +519,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时25分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
@@ -487,11 +579,12 @@
             8,
             9,
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时25分]"
         }
       ]
     }
