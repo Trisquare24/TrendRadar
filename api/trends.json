@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T17:23:12.524302+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-04-21T19:26:10.462724+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
@@ -44,11 +44,12 @@
             10,
             17,
             18,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时06分 ~ 17时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时06分 ~ 19时26分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -75,6 +76,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时24分 ~ 17时23分]"
+        },
+        {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 19时26分]"
         },
         {
           "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
@@ -140,19 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
-        },
-        {
-          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时24分 ~ 17时23分]"
         },
         {
           "title": "女子酒窝超大被网友怀疑是AI",
@@ -293,6 +295,17 @@
           "time_info": "[01时55分 ~ 03时01分]"
         },
         {
+          "title": "你每天用的AI 可能被“投毒”了",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E7%94%A8%E7%9A%84AI+%E5%8F%AF%E8%83%BD%E8%A2%AB%E2%80%9C%E6%8A%95%E6%AF%92%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 19时26分]"
+        },
+        {
           "title": "在 AI 生成内容泛滥的时代，审美教育是多余的吗？理想的审美教育应该是什么样？",
           "url": "https://www.zhihu.com/question/2029487128267036372",
           "source": "知乎",
@@ -333,7 +346,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -344,7 +357,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -388,7 +401,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -421,7 +434,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -451,7 +464,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "机器人半马见证大国创造澎湃动能",
@@ -476,8 +489,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时06分 ~ 17时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时06分 ~ 19时26分]"
         },
         {
           "title": "今年机器人马拉松发生了什么",
@@ -506,6 +519,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时13分 ~ 15时45分]"
+        },
+        {
+          "title": "机器人半马成绩从近 3 小时压缩到 50 分，打破了人类世界纪录，「跑赢」后，它们真正的战场在哪里？",
+          "url": "https://www.zhihu.com/question/2029516146806669538",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 19时26分]"
         },
         {
           "title": "A股机器人概念短线拉升，日盈电子触及涨停，震裕科技、浙江荣泰、美湖股份、五洲新春、万向钱潮跟涨。",
@@ -541,16 +566,26 @@
           "time_info": "10时13分"
         },
         {
-          "title": "机器人半马成绩从近 3 小时压缩到 50 分，打破了人类世界纪录，「跑赢」后，它们真正的战场在哪里？",
-          "url": "https://www.zhihu.com/question/2029516146806669538",
-          "source": "知乎",
+          "title": "机器人马拉松赛的回顾与展望",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B5%9B%E7%9A%84%E5%9B%9E%E9%A1%BE%E4%B8%8E%E5%B1%95%E6%9C%9B",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 17时23分]"
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 19时26分]"
+        },
+        {
+          "title": "日本开发新脑洞:机器人拆开做",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353542&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%BC%80%E5%8F%91%E6%96%B0%E8%84%91%E6%B4%9E%3A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%86%E5%BC%80%E5%81%9A",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 19时26分]"
         },
         {
           "title": "第二届世界人形机器人运动会将于8月在京举办",
@@ -600,7 +635,7 @@
     },
     {
       "keyword_group": "字节 Kimi 豆包",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "抖音回应“字节净利下滑70%”",
@@ -653,6 +688,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 05时43分]"
+        },
+        {
+          "title": "Kimi 发布并开源 K2.6，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2029714522651272097",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 19时26分]"
         },
         {
           "title": "Kimi K2.6 发布并开源，集群能力全面提升",
@@ -735,7 +781,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         }
