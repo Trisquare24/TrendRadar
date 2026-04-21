@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-04-21T21:19:14.778381+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2026-04-21T23:10:51.635466+08:00",
+  "total_titles_processed": 1734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            9,
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时24分 ~ 23时10分]"
+        },
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33011101",
@@ -20,21 +36,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时06分 ~ 17时23分]"
-        },
-        {
-          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            9,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时24分 ~ 21时19分]"
         },
         {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
@@ -64,8 +65,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时06分 ~ 21时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时06分 ~ 23时10分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -112,22 +113,12 @@
           "url": "https://www.cls.cn/detail/2350762",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
-        },
-        {
-          "title": "唐诡导演 真人能演为啥让AI演",
-          "url": "https://s.weibo.com/weibo?q=%E5%94%90%E8%AF%A1%E5%AF%BC%E6%BC%94%20%E7%9C%9F%E4%BA%BA%E8%83%BD%E6%BC%94%E4%B8%BA%E5%95%A5%E8%AE%A9AI%E6%BC%94&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
+          "appearance_count": 3,
+          "time_info": "[21时18分 ~ 23时10分]"
         },
         {
           "title": "AI 投入猛增，字节跳动去年净利下滑超 70%，如何解读该业绩？是暂时战略牺牲还是经营基本面出问题了？",
@@ -221,6 +212,18 @@
           "time_info": "00时06分"
         },
         {
+          "title": "唐诡导演 真人能演为啥让AI演",
+          "url": "https://s.weibo.com/weibo?q=%E5%94%90%E8%AF%A1%E5%AF%BC%E6%BC%94%20%E7%9C%9F%E4%BA%BA%E8%83%BD%E6%BC%94%E4%B8%BA%E5%95%A5%E8%AE%A9AI%E6%BC%94&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时18分 ~ 23时10分]"
+        },
+        {
           "title": "污染数据、操控榜单 你信任的AI可能已被“投毒”",
           "url": "https://flash.jin10.com/detail/20260421065051985800",
           "source": "金十数据",
@@ -230,6 +233,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "你每天用的AI 可能被“投毒”了",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E7%94%A8%E7%9A%84AI+%E5%8F%AF%E8%83%BD%E8%A2%AB%E2%80%9C%E6%8A%95%E6%AF%92%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 23时10分]"
         },
         {
           "title": "在招聘页面放AI聚餐照",
@@ -244,18 +260,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时55分 ~ 05时43分]"
-        },
-        {
-          "title": "你每天用的AI 可能被“投毒”了",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E7%94%A8%E7%9A%84AI+%E5%8F%AF%E8%83%BD%E8%A2%AB%E2%80%9C%E6%8A%95%E6%AF%92%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时25分 ~ 21时19分]"
         },
         {
           "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
@@ -409,6 +413,28 @@
           "time_info": "17时23分"
         },
         {
+          "title": "AI时代纸质阅读会被淘汰吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E7%BA%B8%E8%B4%A8%E9%98%85%E8%AF%BB%E4%BC%9A%E8%A2%AB%E6%B7%98%E6%B1%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
+          "url": "https://www.zhihu.com/question/2027797621893244826",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "我国自主量子计算机“本源悟空”形成搭载人工智能运算能力",
           "url": "https://flash.jin10.com/detail/20260421124724522800",
           "source": "金十数据",
@@ -470,7 +496,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -517,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "AI艺人库背后的商业逻辑",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%83%8C%E5%90%8E%E7%9A%84%E5%95%86%E4%B8%9A%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         }
       ]
     },
@@ -548,8 +585,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时06分 ~ 21时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时06分 ~ 23时10分]"
         },
         {
           "title": "今年机器人马拉松发生了什么",
@@ -625,24 +662,24 @@
           "time_info": "10时13分"
         },
         {
-          "title": "机器人马拉松赛的回顾与展望",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B5%9B%E7%9A%84%E5%9B%9E%E9%A1%BE%E4%B8%8E%E5%B1%95%E6%9C%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时25分 ~ 21时19分]"
-        },
-        {
           "title": "日本开发新脑洞:机器人拆开做",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353542&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%BC%80%E5%8F%91%E6%96%B0%E8%84%91%E6%B4%9E%3A%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%86%E5%BC%80%E5%81%9A",
           "source": "贴吧",
           "ranks": [
             15,
             16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 23时10分]"
+        },
+        {
+          "title": "机器人马拉松赛的回顾与展望",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B5%9B%E7%9A%84%E5%9B%9E%E9%A1%BE%E4%B8%8E%E5%B1%95%E6%9C%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -796,7 +833,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -836,7 +873,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -847,7 +884,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -878,6 +915,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 03时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GitHub github",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 GitHub Copilot 在 4 月 20 日暂停 Pro 和 Pro+ 新用户注册，并修改使用限制算法？",
+          "url": "https://www.zhihu.com/question/2029850996344578566",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         }
       ]
     }
