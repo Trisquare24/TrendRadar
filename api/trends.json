@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T03:04:12.553494+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-04-24T04:49:46.197552+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 04时49分]"
         },
         {
           "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 04时49分]"
         },
         {
           "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
@@ -38,8 +39,44 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 04时49分]"
+        },
+        {
+          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
+          "url": "https://wallstreetcn.com/articles/3770653",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 04时49分]"
+        },
+        {
+          "title": "对比实测3大AI生图模型",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E6%AF%94%E5%AE%9E%E6%B5%8B3%E5%A4%A7AI%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 04时49分]"
+        },
+        {
+          "title": "核心拒绝AI,异环美术光速滑跪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 04时49分]"
         },
         {
           "title": "小米首次登顶全球开源大模型第一",
@@ -54,39 +91,15 @@
           "time_info": "[01时17分 ~ 03时04分]"
         },
         {
-          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
-          "url": "https://wallstreetcn.com/articles/3770653",
-          "source": "华尔街见闻",
+          "title": "英特尔一季度营收135.8亿美元，分析师预期123.6亿美元。 一季度数据中心、AI营收50.5亿美元，分析师预期44.1亿美元。 一季度客户计算营收77.3亿美元，分析师预期 一季度英特尔代工（Intel Foundry）营收54.2亿美元，分析师预期48.1亿美元。 一季度调整后每股收益（EPS）为0.29美元，分析师预期0.01美元。 预计二季度营收138亿-148亿美元，分析师预期130.4亿美元。 预计二季度调整后EPS为0.20美元，分析师预期0.086美元。 英特尔美股盘后狂飙17%。",
+          "url": "https://wallstreetcn.com/livenews/3093507",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            12
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时04分]"
-        },
-        {
-          "title": "对比实测3大AI生图模型",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E6%AF%94%E5%AE%9E%E6%B5%8B3%E5%A4%A7AI%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时04分]"
-        },
-        {
-          "title": "核心拒绝AI,异环美术光速滑跪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "AI演员还算不算演员",
@@ -106,7 +119,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
         }
@@ -123,7 +136,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
         },
@@ -134,7 +147,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
         },
@@ -145,7 +158,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
         },
@@ -156,7 +169,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
         },
@@ -167,7 +180,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
         }
@@ -196,8 +209,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 04时49分]"
         }
       ]
     },
@@ -211,11 +224,29 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 04时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数收跌2.47%，报6843.70点。 热门中概股里，好未来初步收跌9.3%，小鹏跌6.4%，新东方跌5.8%，小马智行跌5%，文远知行、再鼎医药跌4.3%，阿里巴巴跌3.5%，网易跌3.2%，蔚来跌3%，理想、万国数据大致持平，世纪互联涨0.8%，晶科能源涨1%，阿特斯太阳能涨9.5%。 ETF中，KWEB跌2.8%，CQQQ跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3093503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         }
       ]
     }
