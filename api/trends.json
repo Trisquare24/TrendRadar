@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T17:47:42.659981+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-04-24T19:05:52.350357+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时17分 ~ 17时47分]"
+          "appearance_count": 12,
+          "time_info": "[01时17分 ~ 19时05分]"
         },
         {
           "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
@@ -50,6 +50,19 @@
           "time_info": "[01时17分 ~ 07时42分]"
         },
         {
+          "title": "“CPU重归AI核心地位”！英特尔财报会实录：半导体市场规模已近万亿美元",
+          "url": "https://www.cls.cn/detail/2354408",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 19时05分]"
+        },
+        {
           "title": "核心拒绝AI,异环美术光速滑跪",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
           "source": "贴吧",
@@ -60,19 +73,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时17分 ~ 10时23分]"
-        },
-        {
-          "title": "“CPU重归AI核心地位”！英特尔财报会实录：半导体市场规模已近万亿美元",
-          "url": "https://www.cls.cn/detail/2354408",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 17时47分]"
         },
         {
           "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
@@ -88,6 +88,18 @@
           "time_info": "[01时17分 ~ 07时42分]"
         },
         {
+          "title": "AI图以假乱真,恐怖谷效应拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 19时05分]"
+        },
+        {
           "title": "这些图片居然都是AI的",
           "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%BA%9B%E5%9B%BE%E7%89%87%E5%B1%85%E7%84%B6%E9%83%BD%E6%98%AFAI%E7%9A%84&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -97,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "AI在保护AI",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%9C%A8%E4%BF%9D%E6%8A%A4AI&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "对比实测3大AI生图模型",
@@ -136,17 +159,6 @@
           "time_info": "10时23分"
         },
         {
-          "title": "AI图以假乱真,恐怖谷效应拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
-        },
-        {
           "title": "周四（4月23日），美股存储芯片与硬件供应链指数跌0.20%，报144.48点，在震荡上行行情中，北京时间23:42刷新日高至148.53点，随后震荡下行，01:46刷新日低至142.59点。 信息科技指数跌1.24%，报329.36点。 人工智能（AI）赢家指数跌0.92%，报348.16点。 AI软件先驱指数跌6.81%，报95.68点，跳空低开后持续低位窄幅震荡，形成长尾L形走势。",
           "url": "https://wallstreetcn.com/livenews/3093542",
           "source": "华尔街见闻-快讯",
@@ -157,6 +169,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时41分]"
+        },
+        {
+          "title": "如何看待 MiroMind 被指要求在中国孵化的 AI 大模型核心技术和团队转移到国外，否则竞业限制？",
+          "url": "https://www.zhihu.com/question/2030235662557951222",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 19时05分]"
         },
         {
           "title": "小米首次登顶全球开源大模型第一",
@@ -171,15 +194,38 @@
           "time_info": "[01时17分 ~ 03时04分]"
         },
         {
-          "title": "如何看待 MiroMind 被指要求在中国孵化的 AI 大模型核心技术和团队转移到国外，否则竞业限制？",
-          "url": "https://www.zhihu.com/question/2030235662557951222",
-          "source": "知乎",
+          "title": "SpaceX又一“IPO重磅炸弹”：未来靠企业AI“吃饭”，而非太空飞船！",
+          "url": "https://www.cls.cn/detail/2354474",
+          "source": "财联社热门",
           "ranks": [
-            11
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时32分 ~ 17时47分]"
+          "time_info": "[15时59分 ~ 19时05分]"
+        },
+        {
+          "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
+          "url": "https://www.cls.cn/detail/2354727",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 19时05分]"
+        },
+        {
+          "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
+          "url": "https://wallstreetcn.com/articles/3770753",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 19时05分]"
         },
         {
           "title": "英特尔：AI产品的“脊柱”是CPU。 代工业务（Intel Foundry）将是一个漫长的旅程。",
@@ -192,18 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时41分]"
-        },
-        {
-          "title": "SpaceX又一“IPO重磅炸弹”：未来靠企业AI“吃饭”，而非太空飞船！",
-          "url": "https://www.cls.cn/detail/2354474",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 17时47分]"
         },
         {
           "title": "在S-1文件中，SpaceX警告称，政府对Grok AI的调查可能导致公司失去部分市场准入。",
@@ -230,26 +264,27 @@
           "time_info": "[06时41分 ~ 07时42分]"
         },
         {
-          "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
-          "url": "https://www.cls.cn/detail/2354727",
-          "source": "财联社热门",
+          "title": "中方：反对美方污蔑中国人工智能成就",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E5%8F%8D%E5%AF%B9%E7%BE%8E%E6%96%B9%E6%B1%A1%E8%94%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%88%90%E5%B0%B1",
+          "source": "百度热搜",
           "ranks": [
-            6
+            16,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 19时05分]"
         },
         {
-          "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
-          "url": "https://wallstreetcn.com/articles/3770753",
-          "source": "华尔街见闻",
+          "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
+          "url": "https://www.cls.cn/detail/2355054",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时47分"
+          "time_info": "19时05分"
         },
         {
           "title": "Meta 强制监控员工的鼠标和键盘用于训练 AI，如何看待这种强制「蒸馏」行为？涉嫌违法吗？",
@@ -269,7 +304,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -294,17 +329,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
-        },
-        {
-          "title": "中方：反对美方污蔑中国人工智能成就",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E5%8F%8D%E5%AF%B9%E7%BE%8E%E6%96%B9%E6%B1%A1%E8%94%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%88%90%E5%B0%B1",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
         },
         {
           "title": "英特尔(INTC.O)CEO：人工智能基础设施的加速部署为代工业务带来了机遇。",
@@ -357,7 +381,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -371,6 +395,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "对话AI天才少女罗福莉",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E8%AF%9DAI%E5%A4%A9%E6%89%8D%E5%B0%91%E5%A5%B3%E7%BD%97%E7%A6%8F%E8%8E%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "美团万亿级参数大模型开放测试，训练全程由国产算力集群完成",
+          "url": "https://wallstreetcn.com/livenews/3093973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "有人用AI恶搞保安扇女子耳光视频",
@@ -393,6 +439,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "美团万亿级参数大模型开放测试，训练全程由国产算力集群完成",
+          "url": "https://flash.jin10.com/detail/20260424183442104800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "Meta内部宣布将裁员10%来提升效率，弥补AI方面高额支出",
@@ -431,7 +488,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "DeepSeek V4 发布",
@@ -441,8 +498,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 17时47分]"
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 19时05分]"
         },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -452,8 +509,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 17时47分]"
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 19时05分]"
+        },
+        {
+          "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
+          "url": "https://wallstreetcn.com/articles/3770782",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 19时05分]"
         },
         {
           "title": "如何看待腾讯、阿里洽谈投资 DeepSeek 的消息，估值超过 200 亿美元合理吗？",
@@ -471,18 +540,6 @@
           "time_info": "[01时17分 ~ 07时42分]"
         },
         {
-          "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
-          "url": "https://wallstreetcn.com/articles/3770782",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 17时47分]"
-        },
-        {
           "title": "万字回顾DeepSeek演进之路",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%9B%9E%E9%A1%BEDeepSeek%E6%BC%94%E8%BF%9B%E4%B9%8B%E8%B7%AF",
           "source": "bilibili 热搜",
@@ -492,8 +549,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 17时47分]"
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 19时05分]"
         },
         {
           "title": "DeepSeek-V4预览版上线 对计算和显存的需求降低 百万字上下文成标配",
@@ -505,8 +562,21 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 19时05分]"
+        },
+        {
+          "title": "DeepSeek-V4发布！迈入百万上下文时代 华为昇腾超节点全面支持",
+          "url": "https://www.cls.cn/detail/2354690",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时32分 ~ 17时47分]"
+          "time_info": "[15时59分 ~ 19时05分]"
         },
         {
           "title": "港股大模型概念股午后跌幅扩大，智谱(02513.HK)跌超9%，MiniMax(00100.HK)跌5.77%，此前DeepSeek-V4的预览版本正式上线并同步开源。",
@@ -518,6 +588,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
+          "url": "https://www.cls.cn/detail/2354737",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 19时05分]"
+        },
+        {
+          "title": "深度解读DeepSeek-V4",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek-V4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 19时05分]"
         },
         {
           "title": "DeepSeek-V4 预览版正式上线",
@@ -532,18 +627,6 @@
           "time_info": "[13时32分 ~ 15时59分]"
         },
         {
-          "title": "DeepSeek-V4发布！迈入百万上下文时代 华为昇腾超节点全面支持",
-          "url": "https://www.cls.cn/detail/2354690",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 17时47分]"
-        },
-        {
           "title": "UP主评测DeepSeek V4",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%AF%84%E6%B5%8BDeepSeek%20V4",
           "source": "bilibili 热搜",
@@ -556,16 +639,52 @@
           "time_info": "[13时32分 ~ 17时47分]"
         },
         {
-          "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
-          "url": "https://www.cls.cn/detail/2354737",
-          "source": "财联社热门",
+          "title": "DeepSeekV4预览版本上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E9%A2%84%E8%A7%88%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
+            18,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 19时05分]"
+        },
+        {
+          "title": "DeepSeek V4适配国产芯片",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 19时05分]"
+        },
+        {
+          "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
+          "url": "https://www.zhihu.com/question/2030963912749924411",
+          "source": "知乎",
+          "ranks": [
+            9,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时59分 ~ 17时47分]"
+          "time_info": "[17时47分 ~ 19时05分]"
+        },
+        {
+          "title": "DeepSeek V4强在哪里",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 19时05分]"
         },
         {
           "title": "DeepSeek v4 百万上下文",
@@ -591,29 +710,6 @@
           "time_info": "[13时32分 ~ 15时59分]"
         },
         {
-          "title": "DeepSeekV4预览版本上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E9%A2%84%E8%A7%88%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 17时47分]"
-        },
-        {
-          "title": "DeepSeek V4适配国产芯片",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 17时47分]"
-        },
-        {
           "title": "港股大模型概念股智谱、Minimax午后跌幅扩大，智谱跌超9%，Minimax跌超4%，此前DeepSeek V4预览版发布。",
           "url": "https://wallstreetcn.com/livenews/3093717",
           "source": "华尔街见闻-快讯",
@@ -623,17 +719,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
-        },
-        {
-          "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
-          "url": "https://www.zhihu.com/question/2030963912749924411",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
         },
         {
           "title": "DeepSeek融资为何谁都不想错过",
@@ -647,15 +732,15 @@
           "time_info": "13时32分"
         },
         {
-          "title": "深度解读DeepSeek-V4",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek-V4",
-          "source": "bilibili 热搜",
+          "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
+          "url": "https://www.cls.cn/detail/2354937",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时47分"
+          "time_info": "19时05分"
         },
         {
           "title": "DeepSeek-V4-Flash上线华为云",
@@ -691,24 +776,13 @@
           "time_info": "13时32分"
         },
         {
-          "title": "DeepSeek V4强在哪里",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
-        },
-        {
           "title": "如何评价 DeepSeek 刚刚发布的 DeepSeek-V4-Pro 和 DeepSeek-V4-Flash？",
           "url": "https://www.zhihu.com/question/2030969489941066221",
           "source": "知乎",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -733,6 +807,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "金山办公、360等已通过华为云接入DeepSeek新模型",
+          "url": "https://wallstreetcn.com/livenews/3093974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
         },
         {
           "title": "华为：DeepSeek V4正式发布，昇腾超节点系列产品全面支持",
@@ -938,6 +1023,19 @@
           "time_info": "01时17分"
         },
         {
+          "title": "高校演出机器人突然拥抱女生",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%BC%94%E5%87%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AA%81%E7%84%B6%E6%8B%A5%E6%8A%B1%E5%A5%B3%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时59分 ~ 19时05分]"
+        },
+        {
           "title": "机器人上岗劝阻挖婆婆丁",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E5%B2%97%E5%8A%9D%E9%98%BB%E6%8C%96%E5%A9%86%E5%A9%86%E4%B8%81",
           "source": "百度热搜",
@@ -948,18 +1046,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时32分 ~ 15时59分]"
-        },
-        {
-          "title": "高校演出机器人突然拥抱女生",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%BC%94%E5%87%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AA%81%E7%84%B6%E6%8B%A5%E6%8A%B1%E5%A5%B3%E7%94%9F",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 17时47分]"
         },
         {
           "title": "中国电网开启近100亿具身智能设备采购与投资，机器人应用打开新空间",
@@ -1030,7 +1116,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         }
