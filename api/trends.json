@@ -1,8 +1,277 @@
 {
-  "generated_at": "2026-04-27T19:02:18.144635+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-04-27T20:23:37.103634+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能 AI 大模型 LLM AGI",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
+          "url": "https://wallstreetcn.com/articles/3770919",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 16时18分]"
+        },
+        {
+          "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2029541889469096343",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7,
+            10,
+            14,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 07时37分]"
+        },
+        {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            15,
+            14,
+            20,
+            10,
+            8,
+            18,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时39分 ~ 16时18分]"
+        },
+        {
+          "title": "AI图以假乱真,恐怖谷效应拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时39分 ~ 10时31分]"
+        },
+        {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 20时23分]"
+        },
+        {
+          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 06时35分]"
+        },
+        {
+          "title": "GPT-Image-2 图片很难一眼看出 AI 味，颠覆了有图有真相的认知，那普通人怎样才能鉴别真假？",
+          "url": "https://www.zhihu.com/question/2031001231607296969",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时52分]"
+        },
+        {
+          "title": "被AI骗去毒蛇窝徒步",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时23分]"
+        },
+        {
+          "title": "歌手 AI海报",
+          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20AI%E6%B5%B7%E6%8A%A5&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 20时23分]"
+        },
+        {
+          "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
+          "url": "https://flash.jin10.com/detail/20260427010358748800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            14,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时37分 ~ 05时35分]"
+        },
+        {
+          "title": "LEMAIRE被指辱华后致歉：未能充分考虑文化差异与敏感性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058387",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时51分 ~ 20时23分]"
+        },
+        {
+          "title": "壁仞科技率先完成中国移动九天35B大模型预适配",
+          "url": "https://wallstreetcn.com/livenews/3094517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时35分]"
+        },
+        {
+          "title": "A股AI芯片板块震荡走高，摩尔线程-U涨超11%，禾盛新材涨超9%，澜起科技涨超8%，铂科新材、海光信息、沐曦股份-U、景嘉微等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260427100332954800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "就在下周四！科技四巨头同日财报，暴涨的AI面临“验证时刻”",
+          "url": "https://wallstreetcn.com/articles/3770917",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 16时18分]"
+        },
+        {
+          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
+          "url": "https://wallstreetcn.com/articles/3770953",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 20时23分]"
+        },
+        {
+          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
+          "url": "https://www.zhihu.com/question/2030297015276549260",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时23分]"
+        },
+        {
+          "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
+          "url": "https://wallstreetcn.com/articles/3770976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "小红书首次公布AI治理主张：可借助AI放大创意，对AI不良行为零容忍",
+          "url": "https://wallstreetcn.com/livenews/3094978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "在 AI 一键生成代码的时代，程序员还有必要坚持手写「古法编程」吗？",
+          "url": "https://www.zhihu.com/question/2030599879777572198",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "紫光展锐联合华阳通用发布新一代AI座舱平台",
+          "url": "https://flash.jin10.com/detail/20260427154532397800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "当AI跑进县城医院当“实习医生”",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93AI%E8%B7%91%E8%BF%9B%E5%8E%BF%E5%9F%8E%E5%8C%BB%E9%99%A2%E5%BD%93%E2%80%9C%E5%AE%9E%E4%B9%A0%E5%8C%BB%E7%94%9F%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 20,
@@ -58,6 +327,17 @@
           "time_info": "[00时39分 ~ 07时37分]"
         },
         {
+          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
+          "url": "https://www.zhihu.com/question/2031494133160861736",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 20时23分]"
+        },
+        {
           "title": "DeepSeek V4发布意味着什么",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%8F%91%E5%B8%83%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -71,17 +351,6 @@
           "time_info": "[00时39分 ~ 07时37分]"
         },
         {
-          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
-          "url": "https://www.zhihu.com/question/2031494133160861736",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 19时02分]"
-        },
-        {
           "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
           "url": "https://wallstreetcn.com/articles/3770923",
           "source": "华尔街见闻",
@@ -90,8 +359,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 20时23分]"
         },
         {
           "title": "DeepSeek输入缓存降价",
@@ -134,6 +403,19 @@
           "time_info": "[00时39分 ~ 06时35分]"
         },
         {
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 20时23分]"
+        },
+        {
           "title": "手机厂商加速接入DeepSeek-V4，荣耀打响第一枪",
           "url": "https://wallstreetcn.com/livenews/3094744",
           "source": "华尔街见闻-快讯",
@@ -143,17 +425,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
-        },
-        {
-          "title": "媒体：梁文锋这一次要掀桌",
-          "url": "https://www.toutiao.com/trending/7633338675333434907/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         },
         {
           "title": "DeepSeekV4脱离英伟达了吗",
@@ -169,16 +440,16 @@
           "time_info": "[05时35分 ~ 10时31分]"
         },
         {
-          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
-          "url": "https://www.cls.cn/detail/2356575",
-          "source": "财联社热门",
+          "title": "媒体：梁文锋这一次要掀桌",
+          "url": "https://www.toutiao.com/trending/7633338675333434907/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            2
+            5,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时18分 ~ 19时02分]"
+          "time_info": "[19时02分 ~ 20时23分]"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -247,253 +518,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
-          "url": "https://wallstreetcn.com/articles/3770919",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 16时18分]"
-        },
-        {
-          "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2029541889469096343",
-          "source": "知乎",
-          "ranks": [
-            13,
-            7,
-            10,
-            14,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 07时37分]"
-        },
-        {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
-          "ranks": [
-            15,
-            14,
-            20,
-            10,
-            8,
-            18,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 16时18分]"
-        },
-        {
-          "title": "AI图以假乱真,恐怖谷效应拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 10时31分]"
-        },
-        {
-          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时35分]"
-        },
-        {
-          "title": "AI海报杀疯,设计师饭碗被砸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 19时02分]"
-        },
-        {
-          "title": "歌手 AI海报",
-          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20AI%E6%B5%B7%E6%8A%A5&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 19时02分]"
-        },
-        {
-          "title": "GPT-Image-2 图片很难一眼看出 AI 味，颠覆了有图有真相的认知，那普通人怎样才能鉴别真假？",
-          "url": "https://www.zhihu.com/question/2031001231607296969",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 13时52分]"
-        },
-        {
-          "title": "被AI骗去毒蛇窝徒步",
-          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
-        },
-        {
-          "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
-          "url": "https://flash.jin10.com/detail/20260427010358748800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            14,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 05时35分]"
-        },
-        {
-          "title": "壁仞科技率先完成中国移动九天35B大模型预适配",
-          "url": "https://wallstreetcn.com/livenews/3094517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时35分]"
-        },
-        {
-          "title": "A股AI芯片板块震荡走高，摩尔线程-U涨超11%，禾盛新材涨超9%，澜起科技涨超8%，铂科新材、海光信息、沐曦股份-U、景嘉微等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260427100332954800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "LEMAIRE被指辱华后致歉：未能充分考虑文化差异与敏感性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058387",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时51分 ~ 19时02分]"
-        },
-        {
-          "title": "就在下周四！科技四巨头同日财报，暴涨的AI面临“验证时刻”",
-          "url": "https://wallstreetcn.com/articles/3770917",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 16时18分]"
-        },
-        {
-          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
-          "url": "https://wallstreetcn.com/articles/3770953",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 19时02分]"
-        },
-        {
-          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
-          "url": "https://www.zhihu.com/question/2030297015276549260",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
-        },
-        {
-          "title": "在 AI 一键生成代码的时代，程序员还有必要坚持手写「古法编程」吗？",
-          "url": "https://www.zhihu.com/question/2030599879777572198",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "紫光展锐联合华阳通用发布新一代AI座舱平台",
-          "url": "https://flash.jin10.com/detail/20260427154532397800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "当AI跑进县城医院当“实习医生”",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%93AI%E8%B7%91%E8%BF%9B%E5%8E%BF%E5%9F%8E%E5%8C%BB%E9%99%A2%E5%BD%93%E2%80%9C%E5%AE%9E%E4%B9%A0%E5%8C%BB%E7%94%9F%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
         }
       ]
     },
@@ -508,7 +535,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -519,7 +546,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -580,11 +607,12 @@
           "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86+%E7%9C%8B%E5%88%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%92%93%E4%B8%8A%E9%B1%BC%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时23分]"
         }
       ]
     }
