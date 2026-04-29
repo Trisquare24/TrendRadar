@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T18:54:16.314021+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-04-29T20:16:24.693307+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
@@ -53,11 +53,12 @@
           "ranks": [
             9,
             4,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时37分 ~ 18时54分]"
+          "appearance_count": 7,
+          "time_info": "[10时37分 ~ 20时16分]"
         },
         {
           "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
@@ -132,17 +133,6 @@
           "time_info": "[07时53分 ~ 10时38分]"
         },
         {
-          "title": "中美AI竞争的本质差距在哪",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8EAI%E7%AB%9E%E4%BA%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B7%AE%E8%B7%9D%E5%9C%A8%E5%93%AA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 18时54分]"
-        },
-        {
           "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
           "url": "https://wallstreetcn.com/articles/3771194",
           "source": "华尔街见闻",
@@ -150,8 +140,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 18时54分]"
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 20时16分]"
         },
         {
           "title": "澎湃AI晚新闻丨2026年4月28日",
@@ -159,6 +149,17 @@
           "source": "澎湃新闻",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 20时16分]"
+        },
+        {
+          "title": "中美AI竞争的本质差距在哪",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8EAI%E7%AB%9E%E4%BA%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B7%AE%E8%B7%9D%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -276,6 +277,17 @@
           "time_info": "13时52分"
         },
         {
+          "title": "在异环中演奏See you again",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%BC%82%E7%8E%AF%E4%B8%AD%E6%BC%94%E5%A5%8FSee%20you%20again",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "科大讯飞总裁吴晓如：今年10月将在昇腾950平台上发布国产旗舰大模型",
           "url": "https://flash.jin10.com/detail/20260429153322334800",
           "source": "金十数据",
@@ -290,7 +302,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -300,8 +312,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时53分 ~ 18时54分]"
+          "appearance_count": 8,
+          "time_info": "[07时53分 ~ 20时16分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -313,8 +325,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时54分 ~ 18时54分]"
+          "appearance_count": 10,
+          "time_info": "[06时54分 ~ 20时16分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -409,8 +421,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时52分 ~ 18时54分]"
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 20时16分]"
         },
         {
           "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
@@ -528,6 +540,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "亚马逊云服务(AWS)与OpenAI宣布扩大合作伙伴关系。",
           "url": "https://flash.jin10.com/detail/20260429010529383800",
           "source": "金十数据",
@@ -564,7 +587,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
@@ -584,11 +607,12 @@
           "ranks": [
             9,
             2,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时52分 ~ 18时54分]"
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 20时16分]"
         },
         {
           "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
@@ -596,11 +620,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时11分 ~ 18时54分]"
+          "appearance_count": 4,
+          "time_info": "[16时11分 ~ 20时16分]"
         },
         {
           "title": "DeepSeekV4Pro优惠延期",
@@ -614,6 +639,17 @@
           "time_info": "[10时37分 ~ 10时38分]"
         },
         {
+          "title": "DeepSeek上线识图模式",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%B8%8A%E7%BA%BF%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "如何评价 DeepSeek V4 降价的事？",
           "url": "https://www.zhihu.com/question/2032100000558229357",
           "source": "知乎",
@@ -623,13 +659,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "华为终端：华为小艺Claw上线自进化能力，同时接入DeepSeek V4实现逻辑推理跃迁。",
+          "url": "https://flash.jin10.com/detail/20260429192700676800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "谷歌(GOOG.O)：Gemini在英国推出新的个性化功能。",
+          "url": "https://flash.jin10.com/detail/20260429194814328800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
         {
           "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
           "url": "https://flash.jin10.com/detail/20260429054900131800",
@@ -699,7 +757,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         }
@@ -717,8 +775,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 18时54分]"
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 20时16分]"
         }
       ]
     }
