@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T16:59:04.661013+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-05-01T18:25:41.883309+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
@@ -31,8 +31,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时18分 ~ 16时59分]"
+          "appearance_count": 12,
+          "time_info": "[01时18分 ~ 18时25分]"
+        },
+        {
+          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
+          "url": "https://news.ifeng.com/c/8slj4BER3rc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时14分 ~ 18时25分]"
         },
         {
           "title": "假如AI能模拟去世亲人",
@@ -49,17 +60,6 @@
           "time_info": "[01时18分 ~ 07时51分]"
         },
         {
-          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
-          "url": "https://news.ifeng.com/c/8slj4BER3rc",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 16时59分]"
-        },
-        {
           "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
           "url": "https://www.cls.cn/detail/2361533",
           "source": "财联社热门",
@@ -71,8 +71,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时56分 ~ 16时59分]"
+          "appearance_count": 8,
+          "time_info": "[05时56分 ~ 18时25分]"
+        },
+        {
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            6,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 18时25分]"
         },
         {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
@@ -88,19 +102,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时18分 ~ 06时52分]"
-        },
-        {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 16时59分]"
         },
         {
           "title": "女子被AI误导闯入响尾蛇窝",
@@ -185,6 +186,17 @@
           "time_info": "10时45分"
         },
         {
+          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "美国总统特朗普：AI将创造大量就业机会。",
           "url": "https://wallstreetcn.com/livenews/3097697",
           "source": "华尔街见闻-快讯",
@@ -265,8 +277,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时52分 ~ 16时59分]"
+          "appearance_count": 7,
+          "time_info": "[06时52分 ~ 18时25分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -291,8 +303,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时52分 ~ 16时59分]"
+          "appearance_count": 7,
+          "time_info": "[06时52分 ~ 18时25分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -332,6 +344,18 @@
           "time_info": "[10时45分 ~ 16时59分]"
         },
         {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时25分]"
+        },
+        {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
           "url": "https://wallstreetcn.com/articles/3771342",
           "source": "华尔街见闻",
@@ -342,17 +366,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时52分 ~ 10时45分]"
-        },
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 16时59分]"
         },
         {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
@@ -412,11 +425,12 @@
             2,
             3,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时18分 ~ 16时59分]"
+          "appearance_count": 12,
+          "time_info": "[01时18分 ~ 18时25分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -443,6 +457,19 @@
           "time_info": "[01时18分 ~ 07时51分]"
         },
         {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时14分 ~ 18时25分]"
+        },
+        {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
           "url": "https://www.zhihu.com/question/2031352480852915686",
           "source": "知乎",
@@ -454,18 +481,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时18分 ~ 04时57分]"
-        },
-        {
-          "title": "DeepSeek多模态正式发布",
-          "url": "https://www.douyin.com/hot/2485029",
-          "source": "抖音",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 16时59分]"
         },
         {
           "title": "DeepSeek梦话大赏",
@@ -488,6 +503,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "今起施行，杭州为具身智能机器人立法",
+          "url": "https://wallstreetcn.com/livenews/3097800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "宇树双臂人形机器人价格",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E5%8F%8C%E8%87%82%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 10时45分]"
+        },
+        {
+          "title": "杭州为具身智能机器人立法 5月1日正式施行",
+          "url": "https://flash.jin10.com/detail/20260501134243619800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
+          "title": "全国首个交通管理机器人中队上岗",
+          "url": "https://www.toutiao.com/trending/7634423336931442707/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "湖北以旧换新国补扩品，新增智能服务机器人等10个品类产品",
+          "url": "https://wallstreetcn.com/livenews/3097829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "北京人形将发布天工Omni机器人",
+          "url": "https://flash.jin10.com/detail/20260501131536090800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         }
       ]
     },
@@ -549,68 +637,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "今起施行，杭州为具身智能机器人立法",
-          "url": "https://wallstreetcn.com/livenews/3097800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时14分"
-        },
-        {
-          "title": "宇树双臂人形机器人价格",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E5%8F%8C%E8%87%82%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 10时45分]"
-        },
-        {
-          "title": "杭州为具身智能机器人立法 5月1日正式施行",
-          "url": "https://flash.jin10.com/detail/20260501134243619800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时14分"
-        },
-        {
-          "title": "湖北以旧换新国补扩品，新增智能服务机器人等10个品类产品",
-          "url": "https://wallstreetcn.com/livenews/3097829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时59分"
-        },
-        {
-          "title": "北京人形将发布天工Omni机器人",
-          "url": "https://flash.jin10.com/detail/20260501131536090800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时14分"
         }
       ]
     },
