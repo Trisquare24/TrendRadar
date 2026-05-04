@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-05T06:55:51.967776+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-05-05T07:52:49.665474+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
       "match_count": 18,
       "titles": [
+        {
+          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
+          "url": "https://www.zhihu.com/question/2034643547668862086",
+          "source": "知乎",
+          "ranks": [
+            11,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 07时52分]"
+        },
         {
           "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
           "url": "https://wallstreetcn.com/articles/3771537",
@@ -16,31 +29,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时55分]"
-        },
-        {
-          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
-          "url": "https://www.zhihu.com/question/2034643547668862086",
-          "source": "知乎",
-          "ranks": [
-            11,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 07时52分]"
         },
         {
           "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
           "url": "https://wallstreetcn.com/articles/3771530",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 07时52分]"
         },
         {
           "title": "大模型免费时代结束？豆包官宣新增付费订阅，主打生产力场景",
@@ -49,11 +51,12 @@
           "ranks": [
             6,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 07时52分]"
         },
         {
           "title": "美国豪赌AI,取代人类科学家",
@@ -64,8 +67,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 07时52分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -76,8 +79,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 07时52分]"
         },
         {
           "title": "马上评｜AI替岗，还是“科技向善”吗",
@@ -90,8 +93,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 07时52分]"
         },
         {
           "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
@@ -102,8 +105,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 07时52分]"
         },
         {
           "title": "据纽约时报：美国白宫考虑在发布人工智能模型前对其进行审查。",
@@ -144,22 +147,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时06分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时06分 ~ 07时52分]"
         },
         {
           "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
           "url": "https://wallstreetcn.com/articles/3771542",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时29分 ~ 06时55分]"
+          "appearance_count": 4,
+          "time_info": "[03时29分 ~ 07时52分]"
         },
         {
           "title": "被AI抢走工作的人在忙什么",
@@ -202,7 +207,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         },
@@ -231,8 +236,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 07时52分]"
         },
         {
           "title": "豆包 付费",
@@ -245,8 +250,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 07时52分]"
         },
         {
           "title": "豆包回应推出付费订阅",
@@ -255,11 +260,12 @@
           "ranks": [
             12,
             28,
-            29
+            29,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 06时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 07时52分]"
         },
         {
           "title": "怎样看待豆包将要上线的付费服务，你认为什么价格比较合适？",
@@ -280,9 +286,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时52分]"
         }
       ]
     },
@@ -298,8 +304,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 07时52分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
@@ -335,11 +341,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时46分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时46分 ~ 07时52分]"
         }
       ]
     },
