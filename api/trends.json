@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T13:41:00.978577+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-05-05T16:05:10.623185+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时00分 ~ 16时05分]"
         },
         {
           "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
@@ -36,18 +36,19 @@
           "time_info": "[00时00分 ~ 13时41分]"
         },
         {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
+          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
+          "url": "https://www.cls.cn/detail/2362279",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            8,
             11,
-            18
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时00分 ~ 16时05分]"
         },
         {
           "title": "马上评｜AI替岗，还是“科技向善”吗",
@@ -58,25 +59,27 @@
             10,
             11,
             12,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时00分 ~ 16时05分]"
         },
         {
-          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
-          "url": "https://www.cls.cn/detail/2362279",
-          "source": "财联社热门",
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
           "ranks": [
+            7,
+            8,
             11,
-            10,
-            9,
-            8
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时00分 ~ 16时05分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -86,11 +89,26 @@
             8,
             9,
             12,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时00分 ~ 16时05分]"
+        },
+        {
+          "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
+          "url": "https://wallstreetcn.com/articles/3771542",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时29分 ~ 16时05分]"
         },
         {
           "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
@@ -117,19 +135,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时00分 ~ 10时29分]"
-        },
-        {
-          "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
-          "url": "https://wallstreetcn.com/articles/3771542",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时29分 ~ 13时41分]"
         },
         {
           "title": "据纽约时报：美国白宫考虑在发布人工智能模型前对其进行审查。",
@@ -182,11 +187,35 @@
           "url": "https://wallstreetcn.com/articles/3771556",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 16时05分]"
+        },
+        {
+          "title": "贝莱德5000万美元领衔18家基石认购，AI药物递送第一股剂泰科技启动公开招股",
+          "url": "https://wallstreetcn.com/livenews/3098714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
+          "time_info": "[13时41分 ~ 16时05分]"
+        },
+        {
+          "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
+          "url": "https://wallstreetcn.com/articles/3771568",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 16时05分]"
         },
         {
           "title": "被AI抢走工作的人在忙什么",
@@ -201,15 +230,26 @@
           "time_info": "[01时46分 ~ 05时06分]"
         },
         {
-          "title": "贝莱德5000万美元领衔18家基石认购，AI药物递送第一股剂泰科技启动公开招股",
-          "url": "https://wallstreetcn.com/livenews/3098714",
+          "title": "AI在偷我们的东西 我们决定毒死它",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%9C%A8%E5%81%B7%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%9C%E8%A5%BF%20%E6%88%91%E4%BB%AC%E5%86%B3%E5%AE%9A%E6%AF%92%E6%AD%BB%E5%AE%83&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 16时05分]"
+        },
+        {
+          "title": "鸿海：4月营收同比增长29.74%。 第二季度是ICT行业的传统淡季，主要产品正处于新旧机型交替期。 不过，AI服务器预计将保持持续增长趋势。 根据目前的可见性，预计第二季度营收将实现环比和同比增长。 但仍需关注全球政治与经济局势波动的影响。",
+          "url": "https://wallstreetcn.com/livenews/3098730",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时41分"
+          "time_info": "16时05分"
         },
         {
           "title": "Fujairah：阿联酋政府正设法控制石油设施的火情。",
@@ -229,7 +269,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -243,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "鸿海：第二季度是信息与通信技术行业的传统淡季，主要产品进入新旧机型的过渡期。不过，人工智能相关业务预计将保持持续增长态势。",
+          "url": "https://flash.jin10.com/detail/20260505153236384800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
         },
         {
           "title": "据华尔街日报：Anthropic与FIS正在开发一款人工智能代理，旨在帮助银行打击金融犯罪行为。",
@@ -270,7 +321,7 @@
     },
     {
       "keyword_group": "字节 Kimi 豆包",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "豆包开始收钱,智商够用吗",
@@ -282,8 +333,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时00分 ~ 16时05分]"
         },
         {
           "title": "豆包回应推出付费订阅",
@@ -300,6 +351,18 @@
           "time_info": "[00时00分 ~ 13时41分]"
         },
         {
+          "title": "小K快评：豆包试水付费版 意味着什么？",
+          "url": "https://www.cls.cn/detail/2362623",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时55分 ~ 16时05分]"
+        },
+        {
           "title": "豆包 付费",
           "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%20%E4%BB%98%E8%B4%B9&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -314,15 +377,16 @@
           "time_info": "[00时00分 ~ 07时52分]"
         },
         {
-          "title": "小K快评：豆包试水付费版 意味着什么？",
-          "url": "https://www.cls.cn/detail/2362623",
-          "source": "财联社热门",
+          "title": "豆包同一个问题三个答案",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E5%90%8C%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E4%B8%89%E4%B8%AA%E7%AD%94%E6%A1%88%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时55分 ~ 13时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 16时05分]"
         },
         {
           "title": "怎样看待豆包将要上线的付费服务，你认为什么价格比较合适？",
@@ -337,15 +401,77 @@
           "time_info": "[01时46分 ~ 05时06分]"
         },
         {
-          "title": "豆包同一个问题三个答案",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E5%90%8C%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E4%B8%89%E4%B8%AA%E7%AD%94%E6%A1%88%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "【早报】伊朗称“击中了一艘美军舰”，美军否认；豆包将推出付费订阅版本",
+          "url": "https://www.cls.cn/detail/2362714",
+          "source": "财联社热门",
           "ranks": [
-            28
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
+          "time_info": "[16时04分 ~ 16时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 13时41分]"
+        },
+        {
+          "title": "挪威主权财富基金首席执行官：即将有3个重要IPO——SpaceX、Anthropic和OpenAI，我们通常会投资这些公司。",
+          "url": "https://wallstreetcn.com/livenews/3098735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "挪威主权财富基金首席执行官：即将有三次重要的首次公开募股——SpaceX、Anthropic和OpenAI。我们会买入这些公司的股份。",
+          "url": "https://flash.jin10.com/detail/20260505154538750800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
+          "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
+          "url": "https://wallstreetcn.com/livenews/3098593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "布罗克曼称其所持OpenAI的股份价值接近300亿美元",
+          "url": "https://flash.jin10.com/detail/20260505022512889800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时29分"
         }
       ]
     },
@@ -397,46 +523,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 13时41分]"
-        },
-        {
-          "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
-          "url": "https://wallstreetcn.com/livenews/3098593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "布罗克曼称其所持OpenAI的股份价值接近300亿美元",
-          "url": "https://flash.jin10.com/detail/20260505022512889800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时29分"
         }
       ]
     },
