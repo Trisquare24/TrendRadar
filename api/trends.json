@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T06:49:28.998830+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-05-07T07:47:29.238701+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时47分]"
         },
         {
           "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
@@ -25,22 +25,24 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时47分]"
         },
         {
           "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
           "url": "https://wallstreetcn.com/articles/3771608",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时47分]"
         },
         {
           "title": "有AI真好 放以前没十几亿下不来",
@@ -48,11 +50,12 @@
           "source": "微博",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时47分]"
         },
         {
           "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
@@ -60,11 +63,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时47分]"
         },
         {
           "title": "10后小孩哥用AI帮妈妈管店",
@@ -73,11 +77,12 @@
           "ranks": [
             27,
             18,
-            23
+            23,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时13分 ~ 06时49分]"
+          "appearance_count": 7,
+          "time_info": "[02时13分 ~ 07时47分]"
         },
         {
           "title": "美联储古尔斯比：持续的核心服务价格上涨、富裕家庭的财富驱动消费以及与人工智能投资相关职业的工资上涨，可能表明通胀更加持久。",
@@ -109,11 +114,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时54分 ~ 06时49分]"
+          "appearance_count": 4,
+          "time_info": "[05时54分 ~ 07时47分]"
         },
         {
           "title": "Meta支持的Scale AI获五角大楼5亿美元AI合同",
@@ -217,6 +223,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "马斯克详解“Terafab”AI芯片项目：建设自主算力帝国",
+          "url": "https://wallstreetcn.com/livenews/3099619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
           "title": "得益于AI数据中心需求的激增，Arm营收展望高于预期",
           "url": "https://flash.jin10.com/detail/20260507042524989800",
           "source": "金十数据",
@@ -296,38 +313,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "UP主优化DeepSeek V4",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 06时49分]"
-        },
-        {
-          "title": "梁文锋留住97%员工",
-          "url": "https://www.toutiao.com/trending/7636695860440469034/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时13分 ~ 02时14分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
@@ -343,6 +330,17 @@
           "time_info": "[00时46分 ~ 05时55分]"
         },
         {
+          "title": "OpenAI：Uber(UBER.N)使用OpenAI为人工智能助手和语音功能提供支持。",
+          "url": "https://flash.jin10.com/detail/20260507064154537800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
           "title": "OpenAI推出B2B Signals，称是OpenAI Signals的商业扩展版。",
           "url": "https://wallstreetcn.com/livenews/3099536",
           "source": "华尔街见闻-快讯",
@@ -356,6 +354,37 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "UP主优化DeepSeek V4",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时47分]"
+        },
+        {
+          "title": "梁文锋留住97%员工",
+          "url": "https://www.toutiao.com/trending/7636695860440469034/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 02时14分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "字节 Kimi 豆包",
       "match_count": 2,
       "titles": [
@@ -365,11 +394,12 @@
           "source": "今日头条",
           "ranks": [
             30,
-            22
+            22,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 06时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 07时47分]"
         },
         {
           "title": "你们怎么看待豆包收费？",
