@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T13:59:46.094822+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-05-07T16:41:56.925578+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -133,8 +133,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 16时41分]"
         },
         {
           "title": "EXO ai篡改记忆",
@@ -148,6 +148,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时34分 ~ 13时59分]"
+        },
+        {
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 16时41分]"
         },
         {
           "title": "黄仁勋：美国应保持AI领先地位",
@@ -202,20 +214,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
         {
-          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
-          "url": "https://www.cls.cn/detail/2364594",
+          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
+          "url": "https://www.cls.cn/detail/2364810",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "16时41分"
+        },
+        {
+          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
+          "url": "https://www.zhihu.com/question/2035667399110653049",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "xAI：Anthropic计划利用这额外的计算能力直接提升Claude Pro和Claude Max用户的服务能力。",
@@ -235,7 +258,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -271,6 +294,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "三角洲如何忽悠AI送礼",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
+        },
+        {
+          "title": "歌手2026 AI歌手",
+          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B2026%20AI%E6%AD%8C%E6%89%8B&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时41分"
         },
         {
           "title": "美联储古尔斯比：如果人工智能如宣传的那样优秀，那将是“美妙的”，但美联储仍需警惕经济过热。",
@@ -312,7 +357,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -334,7 +379,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -451,11 +496,12 @@
           "url": "https://wallstreetcn.com/articles/3771667",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 16时41分]"
         },
         {
           "title": "梁文锋留住97%员工",
@@ -486,7 +532,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         }
@@ -544,7 +590,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
