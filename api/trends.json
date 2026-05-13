@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T12:03:10.299209+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2026-05-13T15:48:22.130080+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 22,
+      "match_count": 30,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 12时03分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 15时48分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -87,27 +87,52 @@
           "time_info": "[01时08分 ~ 08时02分]"
         },
         {
-          "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
-          "url": "https://wallstreetcn.com/articles/3772082",
-          "source": "华尔街见闻",
+          "title": "豆包收费 大模型将告别免费时代",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E6%94%B6%E8%B4%B9%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B0%86%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E6%97%B6%E4%BB%A3&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 12时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "韩国AI红利：闪崩之后，悬念才刚开始",
           "url": "https://wallstreetcn.com/articles/3772076",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 15时48分]"
+        },
+        {
+          "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
+          "url": "https://wallstreetcn.com/articles/3772082",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 12时03分]"
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 15时48分]"
+        },
+        {
+          "title": "豆包收费 大模型将告别免费时代",
+          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E6%94%B6%E8%B4%B9+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B0%86%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E6%97%B6%E4%BB%A3",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 15时48分]"
         },
         {
           "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
@@ -120,17 +145,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时46分 ~ 06时58分]"
-        },
-        {
-          "title": "豆包收费 大模型将告别免费时代",
-          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E6%94%B6%E8%B4%B9+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B0%86%E5%91%8A%E5%88%AB%E5%85%8D%E8%B4%B9%E6%97%B6%E4%BB%A3",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
         },
         {
           "title": "Create2026百度AI开发者大会",
@@ -166,6 +180,39 @@
           "time_info": "[03时46分 ~ 05时17分]"
         },
         {
+          "title": "功率半导体密集涨价！AI数据中心成最大推手 业内预计供需紧张短期难解",
+          "url": "https://www.cls.cn/detail/2369925",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "港股大模型股大涨，智谱涨30%，MINIMAX涨超15%。",
+          "url": "https://wallstreetcn.com/livenews/3102816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "AI超节点放量元年？国内大厂相继押注 OEM环节或成下一受益方向",
+          "url": "https://www.cls.cn/detail/2369967",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "报道：AI芯片制造商Cerebras的IPO发行价将高于160美元",
           "url": "https://wallstreetcn.com/livenews/3102540",
           "source": "华尔街见闻-快讯",
@@ -175,6 +222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "A股收盘：沪指涨0.67% AI算力走高",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.67%25+AI%E7%AE%97%E5%8A%9B%E8%B5%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "据The Information：Anthropic正在与开发工具初创公司Stainless进行深入洽谈，收购金额至少为3亿美元。",
@@ -199,6 +257,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "中国驻美大使谢锋：中美在人工智能领域应良性竞争，先装好刹车再上路",
+          "url": "https://wallstreetcn.com/livenews/3102800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "Meta：将为竞争对手的人工智能聊天机器人提供一个月的WhatsApp免费访问权限。",
           "url": "https://flash.jin10.com/detail/20260513023414045800",
           "source": "金十数据",
@@ -221,6 +290,17 @@
           "time_info": "06时58分"
         },
         {
+          "title": "阿里健康发布医学AI氢离子，与英国BMJ集团达成期刊内容独家合作",
+          "url": "https://wallstreetcn.com/livenews/3102798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，沃尔玛(WMT.N)计划裁员或调岗约1,000名企业员工。沃尔玛高管已审查公司内部架构，并决定精简部分团队。沃尔玛正寻求进一步整合其全球技术团队与人工智能产品团队。",
           "url": "https://flash.jin10.com/detail/20260513060126996800",
           "source": "金十数据",
@@ -232,13 +312,24 @@
           "time_info": "06时58分"
         },
         {
+          "title": "软银利润意外飙升，孙正义的人工智能投资大获成功",
+          "url": "https://flash.jin10.com/detail/20260513150716408800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "全球AI药物递送第一股剂泰科技挂牌港交所",
           "url": "https://wallstreetcn.com/livenews/3102648",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -318,7 +409,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
@@ -343,6 +434,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "先导智能与北京人形机器人创新中心签署战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3102801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。 微软在OpenAI相关方面收入超过300亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3102458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "软银集团：截至3月底，对OpenAI的投资累计录得450亿美元投资收益。 2026年4月共动用200亿美元借款，主要用于投资OpenAI，其中25亿美元已于当月偿还。 在2025/26财年出售了价值162.5亿美元的T-Mobile股份。",
+          "url": "https://wallstreetcn.com/livenews/3102788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         }
       ]
     },
@@ -355,28 +485,12 @@
           "url": "https://www.zhihu.com/question/2036544679387341657",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。 微软在OpenAI相关方面收入超过300亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3102458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 15时48分]"
         }
       ]
     }
