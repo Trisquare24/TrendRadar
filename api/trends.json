@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T01:55:22.658698+08:00",
-  "total_titles_processed": 358,
+  "generated_at": "2026-05-17T03:00:25.526234+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -48,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
@@ -59,8 +59,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -70,8 +70,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时00分]"
         },
         {
           "title": "美军AIM-260空空导弹首次亮相",
@@ -107,11 +107,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时00分]"
         }
       ]
     },
@@ -127,8 +128,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 03时00分]"
         }
       ]
     },
@@ -141,11 +142,12 @@
           "url": "https://wallstreetcn.com/livenews/3104794",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时00分]"
         }
       ]
     },
@@ -158,11 +160,12 @@
           "url": "https://wallstreetcn.com/livenews/3104798",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时00分]"
         }
       ]
     }
