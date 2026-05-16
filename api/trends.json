@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-05-16T13:52:10.826620+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2026-05-16T15:59:59.492642+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
       "match_count": 18,
       "titles": [
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时54分 ~ 15时59分]"
+        },
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
           "url": "https://www.zhihu.com/question/2035685308566610183",
@@ -25,30 +39,30 @@
           "time_info": "[00时05分 ~ 10时38分]"
         },
         {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时54分 ~ 13时52分]"
-        },
-        {
           "title": "AI全员娘化,豆包变呆瓜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
           "source": "贴吧",
           "ranks": [
             7,
             10,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时05分 ~ 13时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时05分 ~ 15时59分]"
+        },
+        {
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 15时59分]"
         },
         {
           "title": "周五（5月15日），美股人工智能（AI）赢家指数跌3.07%，报389.89点，本周累跌0.81%，整体呈现出M形走势。 AI软件先驱指数涨1.94%，报105.57点，本周累跌0.45%，整体呈现出V形走势。",
@@ -106,17 +120,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时06分 ~ 02时21分]"
-        },
-        {
-          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
-          "url": "https://www.cls.cn/detail/2373131",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "美国总统特朗普：AI是一个了不起的东西。",
@@ -223,7 +226,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "对冲基金经理比尔·阿克曼：我们出售了谷歌(GOOG.O)，购买了微软(MSFT.O)。",
@@ -242,11 +245,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 15时59分]"
         },
         {
           "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
@@ -259,6 +263,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时54分]"
+        },
+        {
+          "title": "阿克曼：出售谷歌股票并非做空公司。我们长期非常看好Alphabet。",
+          "url": "https://wallstreetcn.com/livenews/3104759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "比尔·阿克曼：潘兴广场出售谷歌股票并非看空该公司。长期以来依然非常看好Alphabet。基于当前估值水平及有限的资本规模，我们将谷歌持仓变现，所得资金用于买入微软",
+          "url": "https://flash.jin10.com/detail/20260516150549630800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         },
         {
           "title": "对冲基金潘兴广场创始人兼经理比尔·阿克曼：我们卖出谷歌，买入微软。",
@@ -368,8 +394,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 13时52分]"
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 15时59分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.80%，报6839.65点，本周累计下跌2.22%。 热门中概股里，金山云初步收跌9.4%，阿里巴巴跌6.2%，B站、小马智行、文远知行、百度至少跌5.6%。 ETF中，中概互联网指数ETF（KWEB）收跌3.53%，本周回撤4.67%； 中国科技指数ETF（CQQQ）收跌3.06%，本周回撤3.17%； XtrackersHarvest中证50（ASHS）收跌2.05%，本周回撤2.06%； 德银嘉实沪深300指数ETF（ASHR）收跌1.85%，本周回撤0.73%，结束此前连续上涨六周的趋势。",
@@ -420,11 +446,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E5%B2%97%E5%BF%AB%E9%80%92%E5%88%86%E6%8B%A3%E5%91%98",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 15时59分]"
         }
       ]
     },
@@ -504,8 +531,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 13时52分]"
+          "appearance_count": 3,
+          "time_info": "[13时51分 ~ 15时59分]"
         }
       ]
     }
