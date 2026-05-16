@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T10:38:06.861295+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-05-16T13:52:10.826620+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
@@ -25,18 +25,6 @@
           "time_info": "[00时05分 ~ 10时38分]"
         },
         {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 10时38分]"
-        },
-        {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
           "url": "https://www.cls.cn/detail/2373036",
           "source": "财联社热门",
@@ -46,8 +34,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时54分 ~ 10时38分]"
+          "appearance_count": 7,
+          "time_info": "[06时54分 ~ 13时52分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时05分 ~ 13时52分]"
         },
         {
           "title": "周五（5月15日），美股人工智能（AI）赢家指数跌3.07%，报389.89点，本周累跌0.81%，整体呈现出M形走势。 AI软件先驱指数涨1.94%，报105.57点，本周累跌0.45%，整体呈现出V形走势。",
@@ -105,6 +106,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时06分 ~ 02时21分]"
+        },
+        {
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "美国总统特朗普：AI是一个了不起的东西。",
@@ -211,7 +223,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "对冲基金经理比尔·阿克曼：我们出售了谷歌(GOOG.O)，购买了微软(MSFT.O)。",
@@ -223,6 +235,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         },
         {
           "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
@@ -304,7 +328,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -344,8 +368,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 10时38分]"
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 13时52分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.80%，报6839.65点，本周累计下跌2.22%。 热门中概股里，金山云初步收跌9.4%，阿里巴巴跌6.2%，B站、小马智行、文远知行、百度至少跌5.6%。 ETF中，中概互联网指数ETF（KWEB）收跌3.53%，本周回撤4.67%； 中国科技指数ETF（CQQQ）收跌3.06%，本周回撤3.17%； XtrackersHarvest中证50（ASHS）收跌2.05%，本周回撤2.06%； 德银嘉实沪深300指数ETF（ASHR）收跌1.85%，本周回撤0.73%，结束此前连续上涨六周的趋势。",
@@ -362,7 +386,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【每日收评】沪指与深成指双双跌超1%，全市场超3500股飘绿，机器人概念股逆势爆发",
@@ -390,12 +414,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时57分 ~ 10时38分]"
+        },
+        {
+          "title": "机器人上岗快递分拣员",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E5%B2%97%E5%BF%AB%E9%80%92%E5%88%86%E6%8B%A3%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         }
       ]
     },
     {
       "keyword_group": "罗永浩",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "罗永浩怒怼保时捷被抄袭无奈论",
@@ -422,6 +457,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时05分 ~ 00时06分]"
+        },
+        {
+          "title": "罗永浩怒怼保时捷被抄袭无奈论",
+          "url": "https://www.toutiao.com/trending/7639228221339615286/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         }
       ]
     },
@@ -443,6 +489,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时20分 ~ 10时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价上海交通大学智慧能源创新学院某学生试图使用豆包伪造证据，私吞奖金？",
+          "url": "https://www.zhihu.com/question/2038608367330014135",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
         }
       ]
     }
