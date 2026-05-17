@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T05:52:49.740083+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-05-18T06:51:31.185879+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时51分]"
         },
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时51分]"
         },
         {
           "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时51分]"
         },
         {
           "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
@@ -48,11 +48,12 @@
           "ranks": [
             2,
             4,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时51分]"
         },
         {
           "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
@@ -62,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时51分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -73,8 +74,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时51分]"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -83,11 +84,12 @@
           "ranks": [
             10,
             12,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 06时51分]"
         },
         {
           "title": "博主：中国AI算力产业链正在全面腾飞",
@@ -127,8 +129,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时51分]"
         }
       ]
     },
@@ -147,8 +149,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时51分]"
         }
       ]
     }
