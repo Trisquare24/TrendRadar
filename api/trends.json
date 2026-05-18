@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-18T07:56:14.333238+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-05-18T10:56:44.308413+08:00",
+  "total_titles_processed": 752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
+          "url": "https://news.ifeng.com/c/8tCYxqxYOCE",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时56分]"
+        },
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
           "url": "https://www.cls.cn/detail/2373269",
@@ -14,17 +26,6 @@
           "ranks": [
             4,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时56分]"
-        },
-        {
-          "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
-          "url": "https://news.ifeng.com/c/8tCYxqxYOCE",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -50,19 +51,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时56分]"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时56分]"
         },
         {
           "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
@@ -99,7 +101,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -134,9 +136,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "GAI新专Real G完整锐评",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E4%B8%93Real%20G%E5%AE%8C%E6%95%B4%E9%94%90%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
         },
         {
           "title": "谁卡住AI算力瓶颈谁就离财富越近",
@@ -153,7 +166,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
@@ -165,6 +178,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时56分 ~ 07时56分]"
+        },
+        {
+          "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时56分"
         }
       ]
     },
@@ -180,11 +204,12 @@
             10,
             8,
             9,
-            7
+            7,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时56分 ~ 10时56分]"
         }
       ]
     }
