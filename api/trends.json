@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-21T10:57:08.208580+08:00",
-  "total_titles_processed": 770,
+  "generated_at": "2026-05-21T14:53:17.107632+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "中美同意开展人工智能政府间对话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 14时53分]"
+        },
         {
           "title": "路透调查：三分之一的日本企业正在使用或考虑使用AI机器人。交通运输设备制造商引领日本AI机器人应用热潮。",
           "url": "https://flash.jin10.com/detail/20260521070434459800",
@@ -30,17 +43,15 @@
           "time_info": "05时49分"
         },
         {
-          "title": "中美同意开展人工智能政府间对话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
-          "source": "bilibili 热搜",
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
           "ranks": [
-            21,
-            19,
-            20
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 10时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "颠覆AI公司“烧钱”逻辑 Anthropic预计二季度营收将爆炸性增长",
@@ -54,6 +65,30 @@
           "time_info": "05时49分"
         },
         {
+          "title": "Meta 或将裁员 10% 约 7800 人，另 7000 人转岗奔赴 AI 新主场，如何解读？",
+          "url": "https://www.zhihu.com/question/2040425345606578251",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 14时53分]"
+        },
+        {
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 14时53分]"
+        },
+        {
           "title": "贝索斯：太空数据中心短期难落地 无需担心AI泡沫",
           "url": "https://www.cls.cn/detail/2377170",
           "source": "财联社热门",
@@ -65,26 +100,26 @@
           "time_info": "[10时56分 ~ 10时57分]"
         },
         {
-          "title": "Meta 或将裁员 10% 约 7800 人，另 7000 人转岗奔赴 AI 新主场，如何解读？",
-          "url": "https://www.zhihu.com/question/2040425345606578251",
-          "source": "知乎",
+          "title": "智能体重塑AI算力秩序 CPU或成英伟达下一个增长引擎",
+          "url": "https://www.cls.cn/detail/2377636",
+          "source": "财联社热门",
           "ranks": [
-            12
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
-          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
-          "source": "澎湃新闻",
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "双向赋能，“光＋AI”融合拓宽产业发展方向",
@@ -351,7 +386,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "机器人穿上皮肤 正处在爆发前夜",
@@ -382,22 +417,35 @@
           "url": "https://www.cls.cn/detail/2377385",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 14时53分]"
         },
         {
           "title": "全国首个面向家庭场景的通用机器人在武汉发布：会做饭、洗衣服、叠衣服，武汉家庭可免费申请",
           "url": "https://www.cls.cn/detail/2377373",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 14时53分]"
+        },
+        {
+          "title": "刘擎被机器人整破防",
+          "url": "https://search.bilibili.com/all?keyword=%E5%88%98%E6%93%8E%E8%A2%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B4%E7%A0%B4%E9%98%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "A股机器人概念股反复活跃，北投科技反包涨停，昊志机电涨超10%，科森科技、信邦智能、福莱新材、浙江荣泰涨幅居前。",
@@ -406,7 +454,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         }
@@ -414,7 +462,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
@@ -426,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "最快周五递表？据称OpenAI正秘密筹备IPO 华尔街或迎史诗级上市潮",
+          "url": "https://www.cls.cn/detail/2377274",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "英伟达(NVDA.O)CFO：Anthropic和OpenAI的模型层增长势头尤为强劲。",
@@ -453,7 +512,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
@@ -478,6 +537,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "阿里云重磅发布金融级智能体平台点金",
+          "url": "https://wallstreetcn.com/livenews/3107225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "港股科网股表现疲软，哔哩哔哩(09626.HK)跌超5%，百度(09888.HK)跌超3%，快手(01024.HK)、阿里巴巴(09988.HK)等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260521101112536800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "港股科网股午后下挫，哔哩哔哩跌超7%，百度集团跌近5%，阿里巴巴跌超4%，腾讯控股跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3107186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         }
       ]
     },
@@ -490,11 +599,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354467&amp;topic_name=%E9%97%B2%E9%B1%BC%E9%81%87%E7%A5%9E%E4%BA%BA%2C%E7%94%A8%E8%B1%86%E5%8C%85%E9%89%B4%E5%86%85%E5%AD%98%E7%9C%9F%E4%BC%AA",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时56分 ~ 14时53分]"
         },
         {
           "title": "全世界第二信任豆包的人出现了",
@@ -507,23 +617,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时22分 ~ 07时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里 Qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港股科网股表现疲软，哔哩哔哩(09626.HK)跌超5%，百度(09888.HK)跌超3%，快手(01024.HK)、阿里巴巴(09988.HK)等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260521101112536800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
         }
       ]
     }
