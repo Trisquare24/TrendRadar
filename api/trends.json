@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T12:58:56.145521+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-05-22T16:23:39.506240+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
@@ -90,8 +90,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时31分 ~ 12时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 16时23分]"
+        },
+        {
+          "title": "关于“6张网”、人工智能、具身智能，国家发改委最新回应",
+          "url": "https://www.cls.cn/detail/2378704",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "港股收盘，恒指收涨0.86%，科指收涨2.11%，联想集团(00992.HK)绩后收涨19.77%，AI应用、半导体板块集体爆发，智谱(02513.HK)收涨26.93%，兆易创新(03986.HK)收涨12.92%。",
+          "url": "https://flash.jin10.com/detail/20260522160853480800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "星巴克在北美全线叫停AI库存盘点工具",
@@ -111,7 +133,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -151,6 +173,30 @@
           "time_info": "[03时49分 ~ 05时25分]"
         },
         {
+          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
+          "url": "https://www.zhihu.com/question/2040809853350831319",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 16时23分]"
+        },
+        {
+          "title": "朱自清散文AI率超60%",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 16时23分]"
+        },
+        {
           "title": "美联储巴尔金：我不相信人工智能对就业的净影响会是负面的，但过渡期可能会很困难。",
           "url": "https://flash.jin10.com/detail/20260522005058018800",
           "source": "金十数据",
@@ -162,24 +208,35 @@
           "time_info": "01时31分"
         },
         {
+          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
+          "url": "https://wallstreetcn.com/articles/3772862",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "港股午评：恒指高开高走收涨1.22% AI应用、存储芯片板块领涨大盘",
           "url": "https://flash.jin10.com/detail/20260522120616602800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
-          "url": "https://www.zhihu.com/question/2040809853350831319",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -190,7 +247,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -201,7 +258,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -234,7 +291,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -267,7 +324,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -278,20 +335,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
         {
           "title": "朱自清散文AI率超60%",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25",
+          "source": "百度热搜",
           "ranks": [
-            25
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "16时23分"
         },
         {
           "title": "美联储巴尔金：软件行业以外的雇主尚未因人工智能减少员工人数。",
@@ -333,7 +390,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         }
@@ -423,11 +480,12 @@
           "ranks": [
             10,
             11,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时31分 ~ 12时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 16时23分]"
         },
         {
           "title": "豆包炒股建议",
@@ -455,22 +513,24 @@
           "ranks": [
             16,
             10,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 12时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 16时23分]"
         },
         {
           "title": "国网68亿采购引爆电力机器人赛道 申昊科技订单放量力争扭亏 | 直击股东会",
           "url": "https://www.cls.cn/detail/2378518",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 16时23分]"
         }
       ]
     },
@@ -484,11 +544,12 @@
           "source": "微博",
           "ranks": [
             6,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 05时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 16时23分]"
         }
       ]
     },
