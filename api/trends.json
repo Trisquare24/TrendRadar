@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T15:29:48.541598+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-05-23T17:49:27.751021+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时06分 ~ 06时55分]"
+        },
+        {
+          "title": "英伟达黄仁勋：Vera Rubin将成为迄今为止最成功的一代。 希望Super Micro能够提升合规性。 明年我们将继续保持高速增长。 人工智能将影响每一个行业。 内存价格对消费者来说是一个挑战。 希望内存供应商能尽快提升产能。",
+          "url": "https://wallstreetcn.com/livenews/3108333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CEO黄仁勋：人工智能将影响每个行业。",
+          "url": "https://flash.jin10.com/detail/20260523171540861800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
@@ -123,6 +145,17 @@
           "time_info": "12时37分"
         },
         {
+          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
           "title": "标普500成分股有望创五年来最强财报季，增长势头从AI向其他行业扩展",
           "url": "https://wallstreetcn.com/livenews/3108153",
           "source": "华尔街见闻-快讯",
@@ -137,7 +170,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
@@ -162,8 +195,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 15时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 17时49分]"
         },
         {
           "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
@@ -172,9 +205,20 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 17时49分]"
+        },
+        {
+          "title": "DeepSeek-V4-Pro API价格永久下调至原价25%",
+          "url": "https://flash.jin10.com/detail/20260523153803265800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时29分"
+          "time_info": "17时49分"
         }
       ]
     },
@@ -188,11 +232,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 15时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 17时49分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
@@ -255,8 +300,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 15时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 17时49分]"
         }
       ]
     },
@@ -276,8 +321,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 15时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 17时49分]"
         }
       ]
     }
