@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T17:20:28.642522+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-05-24T19:14:07.215509+08:00",
+  "total_titles_processed": 1112,
   "failed_sources": [],
   "trends": [
     {
@@ -53,6 +53,19 @@
           "time_info": "[07时54分 ~ 17时20分]"
         },
         {
+          "title": "世界杯主题曲Dai Dai MV正式上线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 19时14分]"
+        },
+        {
           "title": "AI 泡沫还能持续多久？",
           "url": "https://www.zhihu.com/question/1903030274536743238",
           "source": "知乎",
@@ -64,29 +77,6 @@
           "time_info": "[00时03分 ~ 06时50分]"
         },
         {
-          "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
-          "url": "https://flash.jin10.com/detail/20260524165346994800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "世界杯主题曲Dai Dai MV正式上线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 17时20分]"
-        },
-        {
           "title": "华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长",
           "url": "https://flash.jin10.com/detail/20260524095245715800",
           "source": "金十数据",
@@ -96,6 +86,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "一季度AI领域融资超1100亿元 国产大模型融资金额暴增",
+          "url": "https://flash.jin10.com/detail/20260524165346994800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 19时14分]"
         },
         {
           "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
@@ -115,11 +117,12 @@
           "url": "https://wallstreetcn.com/articles/3772986",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时14分]"
         },
         {
           "title": "AI时代最不可替代的东西",
@@ -169,22 +172,8 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "deepseek狂降价,友商被卷哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 17时20分]"
-        },
         {
           "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
           "url": "https://m.thepaper.cn/newsDetail_forward_33220418",
@@ -197,8 +186,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时58分 ~ 17时20分]"
+          "appearance_count": 13,
+          "time_info": "[01时58分 ~ 19时14分]"
+        },
+        {
+          "title": "deepseek狂降价,友商被卷哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时03分 ~ 19时14分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -222,8 +226,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 17时20分]"
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 19时14分]"
         },
         {
           "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
@@ -241,6 +245,28 @@
           "time_info": "[00时03分 ~ 07时54分]"
         },
         {
+          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2380075",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
+        },
+        {
+          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
+          "url": "https://www.zhihu.com/question/2041119709844788638",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时14分]"
+        },
+        {
           "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
           "url": "https://wallstreetcn.com/articles/3772969",
           "source": "华尔街见闻",
@@ -252,15 +278,15 @@
           "time_info": "[10时53分 ~ 14时36分]"
         },
         {
-          "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
-          "url": "https://www.zhihu.com/question/2041119709844788638",
-          "source": "知乎",
+          "title": "梁文锋与DeepSeek的十万亿美元棋盘",
+          "url": "https://wallstreetcn.com/articles/3772995",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "DeepSeek崩了",
@@ -269,7 +295,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         }
@@ -279,6 +305,18 @@
       "keyword_group": "机器人 具身智能",
       "match_count": 7,
       "titles": [
+        {
+          "title": "机器人行业资本化加速：一二级市场同步活跃 头部公司量产节奏渐清晰",
+          "url": "https://www.cls.cn/detail/2378982",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 19时14分]"
+        },
         {
           "title": "记者直击：凌晨3点救援机器人下井探测",
           "url": "https://www.baidu.com/s?wd=%E8%AE%B0%E8%80%85%E7%9B%B4%E5%87%BB%EF%BC%9A%E5%87%8C%E6%99%A83%E7%82%B9%E6%95%91%E6%8F%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8B%E4%BA%95%E6%8E%A2%E6%B5%8B",
@@ -291,16 +329,16 @@
           "time_info": "[10时53分 ~ 10时54分]"
         },
         {
-          "title": "机器人行业资本化加速：一二级市场同步活跃 头部公司量产节奏渐清晰",
-          "url": "https://www.cls.cn/detail/2378982",
-          "source": "财联社热门",
+          "title": "直击山西留神峪煤矿救援：凌晨三点巡检机器人下井探测",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33221870",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
+            14,
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 17时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时14分]"
         },
         {
           "title": "山西煤矿事故现场机器人参与搜救",
@@ -343,18 +381,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
-          "title": "直击山西留神峪煤矿救援：凌晨三点巡检机器人下井探测",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33221870",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         }
