@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T16:40:40.188629+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-05-28T20:25:13.216000+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 26,
+      "match_count": 34,
       "titles": [
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -14,11 +14,26 @@
           "ranks": [
             3,
             9,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时24分 ~ 16时40分]"
+          "appearance_count": 10,
+          "time_info": "[02时24分 ~ 20时25分]"
+        },
+        {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            19,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时24分 ~ 20时25分]"
         },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -40,19 +55,6 @@
             14,
             12,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时24分 ~ 16时40分]"
-        },
-        {
-          "title": "野生vs养殖,AI大战鲤鱼图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            19,
-            24
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -150,6 +152,56 @@
           "time_info": "[02时24分 ~ 06时49分]"
         },
         {
+          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 20时25分]"
+        },
+        {
+          "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 20时25分]"
+        },
+        {
+          "title": "AI改写黑袍纠察队结局",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 20时25分]"
+        },
+        {
+          "title": "小说AI直出?8u评论区吵翻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 20时25分]"
+        },
+        {
           "title": "中信证券：“AI+能化”构成今年杠铃配置结构",
           "url": "https://wallstreetcn.com/livenews/3110288",
           "source": "华尔街见闻-快讯",
@@ -160,6 +212,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时49分 ~ 08时03分]"
+        },
+        {
+          "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
+          "url": "https://wallstreetcn.com/articles/3773322",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "两部门联手 系统布局人工智能计量能力建设",
+          "url": "https://www.cls.cn/detail/2384415",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "美国网红券商允许散户用AI炒股 段永平举牌泡泡玛特 | 环球市场",
@@ -174,6 +248,17 @@
           "time_info": "[12时02分 ~ 16时40分]"
         },
         {
+          "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
+          "url": "https://www.cls.cn/detail/2384259",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
           "title": "报道：Meta拟成立新部门 为企业客户定制AI服务",
           "url": "https://wallstreetcn.com/livenews/3110284",
           "source": "华尔街见闻-快讯",
@@ -186,28 +271,26 @@
           "time_info": "[06时49分 ~ 08时03分]"
         },
         {
-          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
-          "source": "澎湃新闻",
+          "title": "清宵立绘被嘲像AI生图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354664&amp;topic_name=%E6%B8%85%E5%AE%B5%E7%AB%8B%E7%BB%98%E8%A2%AB%E5%98%B2%E5%83%8FAI%E7%94%9F%E5%9B%BE",
+          "source": "贴吧",
           "ranks": [
-            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "三星罢工的众生相，捅破AI时代“不患寡而患不均”这层窗户纸",
+          "url": "https://news.ifeng.com/c/8tUekOdGeku",
+          "source": "凤凰网",
+          "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时02分 ~ 16时40分]"
-        },
-        {
-          "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 16时40分]"
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "Asahi Kasei等将投资日本软银集团AI风投公司。（日经新闻）",
@@ -222,26 +305,48 @@
           "time_info": "[06时49分 ~ 08时03分]"
         },
         {
+          "title": "香港拟将「中国内地」英译改为「Chinese Mainland」，此举释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2042897105346368773",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
           "title": "高市早苗卷入“AI抹黑门”，但真正致命的是另两件事",
           "url": "https://news.ifeng.com/c/8tUlGJACbtc",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
         {
-          "title": "AI改写黑袍纠察队结局",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
-          "source": "bilibili 热搜",
+          "title": "雷神科技创始人路凯林：将全面发力AI端侧算力新赛道",
+          "url": "https://flash.jin10.com/detail/20260528200928039800",
+          "source": "金十数据",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时40分"
+          "time_info": "20时25分"
+        },
+        {
+          "title": "【何小鹏：面向量产版本的机器人预计三季度正式亮相 年底实现量产】小鹏集团董事长何小鹏今日在公司一季度财报电话会上表示，小鹏面向量产版本的新一代IRON人形机器人软硬件研发进展顺利，并即将进入ET2软硬件合围阶段，计划于今年三季度正式亮相。小鹏目标在今年底实现高阶人形机器人量产，首先在小鹏门店试商用，明年起面向中国及海外商业客户交付。从明年起，人形机器人的硬件收入和AI模型收入将会是小鹏集团收入和毛利增长的重要驱动力之一。",
+          "url": "https://wallstreetcn.com/livenews/3110722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "当AI愈发相信“光”的力量！美股光通信龙头大幅上调营收预期",
@@ -250,7 +355,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -272,7 +377,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -288,24 +393,13 @@
           "time_info": "12时02分"
         },
         {
-          "title": "小说AI直出?8u评论区吵翻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
           "title": "李心洁终于知道罗伯特是AI了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BF%83%E6%B4%81%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E7%BD%97%E4%BC%AF%E7%89%B9%E6%98%AFAI%E4%BA%86%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         }
@@ -313,7 +407,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "武契奇观看机器人跳塞尔维亚舞蹈：跳得比我还好",
@@ -346,7 +440,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -363,13 +457,25 @@
           "time_info": "[06时48分 ~ 08时03分]"
         },
         {
+          "title": "美国年轻人街头围攻外卖机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E5%9B%B4%E6%94%BB%E5%A4%96%E5%8D%96%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 20时25分]"
+        },
+        {
           "title": "女生看直播下单手机 机器人送货上门",
           "url": "https://www.toutiao.com/trending/7644412401445765163/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -391,20 +497,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
         {
-          "title": "美国年轻人街头围攻外卖机器人",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E5%9B%B4%E6%94%BB%E5%A4%96%E5%8D%96%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "何小鹏：面向量产版本的机器人预计三季度正式亮相 年底实现量产",
+          "url": "https://flash.jin10.com/detail/20260528194955864800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时40分"
+          "time_info": "20时25分"
         },
         {
           "title": "波士顿动力：机器人技术或很快受到地缘政治影响",
@@ -421,7 +527,7 @@
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何评价阿里十三薪将并入年终奖，发放时间延至 4-5 月？对员工是好消息吗？会成为行业趋势吗？",
@@ -451,11 +557,23 @@
           "url": "https://www.zhihu.com/question/2042588462981939735",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 20时25分]"
+        },
+        {
+          "title": "阿里达摩院首次发布GPU版本求解器 突破亿级变量“不可解”难题",
+          "url": "https://www.cls.cn/detail/2384059",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1%。 热门中概股里，蔚来初步收涨9.3%，小马智行涨4.5%，百度涨2.5%，小鹏、理想、腾讯至多地萼%，阿里巴巴跌1.2%，比亚迪跌2.1%，小米跌6.1%。",
@@ -479,11 +597,12 @@
           "url": "https://wallstreetcn.com/articles/3773316",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 20时25分]"
         },
         {
           "title": "DeepSeek崩了",
