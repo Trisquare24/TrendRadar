@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T10:54:12.196804+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2026-05-29T14:53:34.111974+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "两部门联手 系统布局人工智能计量能力建设",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 10时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 14时53分]"
         },
         {
           "title": "AI会带来怎样的社会变革",
@@ -39,11 +39,12 @@
             10,
             9,
             7,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 10时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 14时53分]"
         },
         {
           "title": "三星罢工的众生相，捅破AI时代“不患寡而患不均”这层窗户纸",
@@ -95,6 +96,17 @@
           "time_info": "[00时52分 ~ 10时54分]"
         },
         {
+          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
+          "url": "https://www.cls.cn/detail/2384785",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 14时53分]"
+        },
+        {
           "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
           "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
           "source": "澎湃新闻",
@@ -120,15 +132,17 @@
           "time_info": "[00时52分 ~ 07时13分]"
         },
         {
-          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
-          "url": "https://www.cls.cn/detail/2384785",
+          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
+          "url": "https://www.cls.cn/detail/2384768",
           "source": "财联社热门",
           "ranks": [
-            1
+            8,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
+          "appearance_count": 4,
+          "time_info": "[07时13分 ~ 14时53分]"
         },
         {
           "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
@@ -188,16 +202,15 @@
           "time_info": "[00时52分 ~ 05时54分]"
         },
         {
-          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
-          "url": "https://www.cls.cn/detail/2384768",
-          "source": "财联社热门",
+          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
+          "url": "https://wallstreetcn.com/articles/3773407",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            3
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 10时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "教皇利奥十四世发布AI通谕，撼动硅谷权力格局",
@@ -222,37 +235,52 @@
           "time_info": "07时13分"
         },
         {
-          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
-          "url": "https://wallstreetcn.com/articles/3773387",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
-        },
-        {
           "title": "登顶全球最值钱AI创企！Anthropic官宣估值升至9650亿美元",
           "url": "https://www.cls.cn/detail/2384760",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 14时53分]"
+        },
+        {
+          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
+          "url": "https://wallstreetcn.com/articles/3773387",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 14时53分]"
         },
         {
           "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3773393",
           "source": "华尔街见闻",
           "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 14时53分]"
+        },
+        {
+          "title": "92岁老艺术家手搓AI写了封情书",
+          "url": "https://www.douyin.com/hot/2515594",
+          "source": "抖音",
+          "ranks": [
+            22,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 14时53分]"
         },
         {
           "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
@@ -262,8 +290,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 14时53分]"
+        },
+        {
+          "title": "你们有没有跟 AI 吵过架，是因为什么事情才跟它吵起来的？是它的认知或者观点跟你的不一样吗？",
+          "url": "https://www.zhihu.com/question/2033211575792841118",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 14时53分]"
         },
         {
           "title": "戴尔(DELL.N)首席财务官：剔除人工智能组合的影响，我们的毛利率展望比上个季度更好；预计全年毛利率将继续扩张。",
@@ -278,28 +317,6 @@
           "time_info": "[05时54分 ~ 07时13分]"
         },
         {
-          "title": "你们有没有跟 AI 吵过架，是因为什么事情才跟它吵起来的？是它的认知或者观点跟你的不一样吗？",
-          "url": "https://www.zhihu.com/question/2033211575792841118",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
-        },
-        {
-          "title": "92岁老艺术家手搓AI写了封情书",
-          "url": "https://www.douyin.com/hot/2515594",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
-        },
-        {
           "title": "戴尔美股盘后狂飙将近40%，高管直呼“AI机遇未见放缓迹象”",
           "url": "https://wallstreetcn.com/livenews/3110974",
           "source": "华尔街见闻-快讯",
@@ -309,6 +326,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "AI服务器收入激增757%！戴尔交出炸裂财报 盘后股价暴涨近40%",
+          "url": "https://www.cls.cn/detail/2384829",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "国产AI芯片三国杀",
+          "url": "https://www.toutiao.com/trending/7645160711315787327/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "美国财长贝森特：美国是人工智能超级大国。",
@@ -366,6 +405,17 @@
           "time_info": "05时54分"
         },
         {
+          "title": "黄仁勋谈AI：浪费Token没事别浪费时间",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%EF%BC%9A%E6%B5%AA%E8%B4%B9Token%E6%B2%A1%E4%BA%8B%E5%88%AB%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "据英国金融时报：亚马逊(AMZN.O)取消人工智能排行榜，以阻止员工追求使用分数。",
           "url": "https://flash.jin10.com/detail/20260529043255539800",
           "source": "金十数据",
@@ -397,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
+        },
+        {
+          "title": "联发科：着眼于2026年从AI芯片业务获得20亿美元营收，2027年获得至多120亿美元营收。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3111169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         }
       ]
     },
@@ -491,8 +552,19 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美国年轻人街头暴揍机器人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354688&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E6%9A%B4%E6%8F%8D%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
         {
           "title": "当煎饼机器人来到煎饼果子之乡",
           "url": "https://www.baidu.com/s?wd=%E5%BD%93%E7%85%8E%E9%A5%BC%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9D%A5%E5%88%B0%E7%85%8E%E9%A5%BC%E6%9E%9C%E5%AD%90%E4%B9%8B%E4%B9%A1",
@@ -511,7 +583,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         }
