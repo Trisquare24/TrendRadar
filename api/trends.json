@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T04:44:09.409834+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-06-03T07:01:49.420047+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时01分]"
         },
         {
           "title": "白嫖结束!豆包AI开始收费",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时01分]"
         },
         {
           "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
@@ -37,8 +37,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时01分]"
+        },
+        {
+          "title": "美国众议院推出跨党派立法草案，建议在AI繁荣期保护作者，Adobe支持这样的建议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3113331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "优步（Uber Technologies Inc.）对Claude等AI工具设置员工使用上限，希望借机管控成本。",
@@ -52,6 +63,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "据AXIOS：美国两党议员共同提出一项法案，旨在为视觉艺术家提供法律保护，防止未经许可的商业人工智能生成的作品模仿行为。",
+          "url": "https://flash.jin10.com/detail/20260603063717778800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "微软推出微软Web IQ套件，包含一系列AI原生Grounding API。 Web IQ是一款针对AI系统的搜索引擎。",
           "url": "https://wallstreetcn.com/livenews/3113213",
           "source": "华尔街见闻-快讯",
@@ -63,6 +85,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
+          "url": "https://www.cls.cn/detail/2388968",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "AI坑健身小白买20kg哑铃",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
           "source": "贴吧",
@@ -70,8 +103,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时01分]"
         },
         {
           "title": "我用AI做了祖国人胜利结局",
@@ -106,6 +139,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 01时20分]"
+        },
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "市场消息：欧盟的人工智能数据中心计划因延误和资金问题受阻。",
@@ -147,7 +191,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         },
@@ -158,7 +202,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         },
@@ -169,7 +213,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         },
@@ -180,7 +224,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         }
@@ -188,7 +232,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -198,8 +242,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 04时44分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时01分]"
         },
         {
           "title": "标普500指数初步收涨0.1%，公用事业板、原材料、能源、工业板块至少涨约1%，电信板块跌2.6%。 纳斯达克100指数初步收涨0.5%，成分股中，黄仁勋一句话让迈威尔科技/美满科技初步收涨32.2%，Lumentum涨13.9%，应用材料涨7.1%，思科、高通涨超3.4%，谷歌A跌3.8%，Autodesk跌4.3%，Palantir跌5.4%，Workday跌6%，Zscaler跌7.6%，汤森路透跌7.9%，财捷跌8.9%，Strategy跌9.2%。 卡特彼勒涨超5%，IBM涨超3%，苹果涨约2.8%，与思科领跑道指成分股，波音、微软、Salesforce、耐克至少跌超3%表现最差。",
@@ -208,7 +252,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         },
@@ -222,12 +266,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "创业板大涨超2%，算力硬件全线爆发，恒科指狂飙超4%，美团、阿里、腾讯集体猛拉",
@@ -247,9 +302,48 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "据伊朗德黑兰时报：有报告称，位于科威特的“阿里·萨利姆”（Ali Al-Salem）基地遭到袭击。",
+          "url": "https://flash.jin10.com/detail/20260603061931766800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI的CEO Altman将于周三会见美国白宫高级官员。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3113311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "OpenAI计划为金融、法律领域开发AI工具，从而与Anthropic竞争。",
+          "url": "https://wallstreetcn.com/livenews/3113188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
         }
       ]
     },
@@ -257,6 +351,18 @@
       "keyword_group": "字节 Kimi 豆包",
       "match_count": 2,
       "titles": [
+        {
+          "title": "豆包预计 6 月下旬正式收费，并于 Force 大会上更新相关功能，收费会对用户造成哪些影响？",
+          "url": "https://www.zhihu.com/question/2044897263168616422",
+          "source": "知乎",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时01分]"
+        },
         {
           "title": "豆包和豆包吵架",
           "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8C%E8%B1%86%E5%8C%85%E5%90%B5%E6%9E%B6&t=31&band_rank=7&Refer=top",
@@ -268,35 +374,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时19分 ~ 04时44分]"
-        },
-        {
-          "title": "豆包预计 6 月下旬正式收费，并于 Force 大会上更新相关功能，收费会对用户造成哪些影响？",
-          "url": "https://www.zhihu.com/question/2044897263168616422",
-          "source": "知乎",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 04时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI计划为金融、法律领域开发AI工具，从而与Anthropic竞争。",
-          "url": "https://wallstreetcn.com/livenews/3113188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
         }
       ]
     }
