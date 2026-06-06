@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T03:17:36.813636+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-06-07T05:02:01.476238+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
         },
         {
           "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
         },
         {
           "title": "报道：美国白宫AI政策顾问Krisnan将离职",
@@ -35,11 +35,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 05时02分]"
+        },
+        {
+          "title": "美股暴跌是AI第一次冲击人类经济吗",
+          "url": "https://www.toutiao.com/trending/7648276875000679942/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
         },
         {
           "title": "特朗普首席人工智能顾问克里希南将于月底离职",
@@ -54,6 +68,19 @@
           "time_info": "[01时09分 ~ 03时17分]"
         },
         {
+          "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
+          "url": "https://www.zhihu.com/question/2044941270087463980",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
+        },
+        {
           "title": "据The Information报道，白宫人工智能高级政策顾问克里希南将离职。",
           "url": "https://flash.jin10.com/detail/20260607002909708800",
           "source": "金十数据",
@@ -66,40 +93,17 @@
           "time_info": "[01时09分 ~ 03时17分]"
         },
         {
-          "title": "美股暴跌是AI第一次冲击人类经济吗",
-          "url": "https://www.toutiao.com/trending/7648276875000679942/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时17分]"
-        },
-        {
           "title": "高考新增AI监考员",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%96%B0%E5%A2%9EAI%E7%9B%91%E8%80%83%E5%91%98%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
             8,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时17分]"
-        },
-        {
-          "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
-          "url": "https://www.zhihu.com/question/2044941270087463980",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
@@ -109,8 +113,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
         },
         {
           "title": "据The Information报道，美国白宫科技政策办公室人工智能高级政策顾问克里希南已讨论建立一个支持特朗普政府的政策机构。",
@@ -137,6 +141,62 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
+          "url": "https://wallstreetcn.com/articles/3774025",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时02分]"
+        },
+        {
+          "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
+          "url": "https://wallstreetcn.com/articles/3774016",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "豆包认错蘑菇,高管:仅供参考",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354925&amp;topic_name=%E8%B1%86%E5%8C%85%E8%AE%A4%E9%94%99%E8%98%91%E8%8F%87%2C%E9%AB%98%E7%AE%A1%3A%E4%BB%85%E4%BE%9B%E5%8F%82%E8%80%83",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
+        },
+        {
+          "title": "字节再度否认造车",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%97%E8%8A%82%E5%86%8D%E5%BA%A6%E5%90%A6%E8%AE%A4%E9%80%A0%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时02分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 具身智能",
       "match_count": 2,
       "titles": [
@@ -146,11 +206,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
         },
         {
           "title": "机器人表演飞踢误伤小孩哥",
@@ -160,8 +221,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
         }
       ]
     },
@@ -178,25 +239,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "字节 Kimi 豆包",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "豆包认错蘑菇,高管:仅供参考",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354925&amp;topic_name=%E8%B1%86%E5%8C%85%E8%AE%A4%E9%94%99%E8%98%91%E8%8F%87%2C%E9%AB%98%E7%AE%A1%3A%E4%BB%85%E4%BE%9B%E5%8F%82%E8%80%83",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 05时02分]"
         }
       ]
     }
