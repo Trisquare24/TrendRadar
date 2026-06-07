@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T19:07:38.603584+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-06-07T21:46:01.358208+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 19时07分]"
+          "appearance_count": 11,
+          "time_info": "[01时09分 ~ 21时46分]"
         },
         {
           "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
@@ -88,6 +89,59 @@
           "time_info": "[01时09分 ~ 08时02分]"
         },
         {
+          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
+          "url": "https://www.cls.cn/detail/2392589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时02分 ~ 21时46分]"
+        },
+        {
+          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
+          "url": "https://wallstreetcn.com/articles/3774027",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 21时46分]"
+        },
+        {
+          "title": "AI如何写全国I卷高考作文",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            28,
+            30,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 21时46分]"
+        },
+        {
+          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 21时46分]"
+        },
+        {
           "title": "美股暴跌是AI第一次冲击人类经济吗",
           "url": "https://www.toutiao.com/trending/7648276875000679942/",
           "source": "今日头条",
@@ -137,31 +191,6 @@
           "time_info": "[16时52分 ~ 19时07分]"
         },
         {
-          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
-          "url": "https://www.cls.cn/detail/2392589",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 19时07分]"
-        },
-        {
-          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
-          "url": "https://wallstreetcn.com/articles/3774027",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 19时07分]"
-        },
-        {
           "title": "AI 让个人效率涨 10 倍，为什么公司却没赚更多的钱？",
           "url": "https://www.zhihu.com/question/2025012000539846038",
           "source": "知乎",
@@ -174,30 +203,16 @@
           "time_info": "[13时20分 ~ 19时07分]"
         },
         {
-          "title": "AI如何写全国I卷高考作文",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
-          "source": "bilibili 热搜",
+          "title": "AI短剧 100集浓缩成3分钟",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20100%E9%9B%86%E6%B5%93%E7%BC%A9%E6%88%903%E5%88%86%E9%92%9F&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            6,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 19时07分]"
-        },
-        {
-          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
             20,
-            16
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时20分 ~ 19时07分]"
+          "time_info": "[19时07分 ~ 21时46分]"
         },
         {
           "title": "黄仁勋会见韩国两大游戏商代表，共商游戏AI合作方案",
@@ -290,17 +305,6 @@
           "time_info": "13时20分"
         },
         {
-          "title": "AI短剧 100集浓缩成3分钟",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20100%E9%9B%86%E6%B5%93%E7%BC%A9%E6%88%903%E5%88%86%E9%92%9F&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
           "title": "陈茂波：香港AI+与产业发展策略委员会顺利组成",
           "url": "https://flash.jin10.com/detail/20260607145850352800",
           "source": "金十数据",
@@ -326,7 +330,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
@@ -377,8 +381,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 21时46分]"
+        },
+        {
+          "title": "ChatGPT即将迎来大改造：告别单一聊天 变身“超级应用”",
+          "url": "https://www.cls.cn/detail/2392807",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时52分 ~ 19时07分]"
+          "time_info": "[21时45分 ~ 21时46分]"
         },
         {
           "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
@@ -495,11 +510,12 @@
           "url": "https://wallstreetcn.com/articles/3774034",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 21时46分]"
         }
       ]
     },
@@ -515,11 +531,12 @@
             4,
             7,
             12,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 19时07分]"
+          "appearance_count": 11,
+          "time_info": "[01时09分 ~ 21时46分]"
         },
         {
           "title": "字节再度否认造车",
