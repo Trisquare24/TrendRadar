@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T13:02:56.906431+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-06-09T17:37:00.827430+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
@@ -60,9 +60,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 17时37分]"
+        },
+        {
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
         },
         {
           "title": "苹果软件主管克雷格·费德里吉：苹果(AAPL.O)不会根据新版Siri AI系统的屏幕感知功能来投放广告。",
@@ -74,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "2连20CM板格灵深瞳：公司不直接从事物理AI的产品及业务",
+          "url": "https://flash.jin10.com/detail/20260609172212616800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "马上评｜人们厌恶AI脸，又是在期盼什么",
@@ -166,6 +188,29 @@
           "time_info": "[04时10分 ~ 06时24分]"
         },
         {
+          "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
+          "url": "https://www.cls.cn/detail/2394326",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 17时37分]"
+        },
+        {
+          "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
+          "url": "https://www.cls.cn/detail/2394424",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
+        },
+        {
           "title": "CPU重返数据中心C位 “某国内大模型厂商CPU需求提高了5倍”",
           "url": "https://www.cls.cn/detail/2393706",
           "source": "财联社热门",
@@ -199,13 +244,24 @@
           "time_info": "08时03分"
         },
         {
+          "title": "美团发布AI浏览器Tabbit 1.0",
+          "url": "https://wallstreetcn.com/livenews/3116689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
           "url": "https://www.cls.cn/detail/2394258",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -216,18 +272,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
-          "url": "https://www.cls.cn/detail/2394326",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -271,7 +316,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -309,6 +354,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "中证协启动证券行业AI应用案例征集 涵盖六大类场景",
+          "url": "https://wallstreetcn.com/livenews/3116672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "库克最后一场WWDC：AI Siri登场",
           "url": "https://www.baidu.com/s?wd=%E5%BA%93%E5%85%8B%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%BAWWDC%EF%BC%9AAI+Siri%E7%99%BB%E5%9C%BA",
           "source": "百度热搜",
@@ -326,7 +382,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -348,7 +404,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
@@ -369,6 +425,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 08时03分]"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 17时37分]"
         },
         {
           "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
@@ -404,24 +472,13 @@
           "time_info": "06时24分"
         },
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
           "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
           "url": "https://www.cls.cn/detail/2394212",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -443,7 +500,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -499,6 +556,17 @@
           "time_info": "[08时03分 ~ 13时02分]"
         },
         {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 17时37分]"
+        },
+        {
           "title": "苹果公司Federighi：我们并没有采用谷歌公司向用户部署的那些模型。",
           "url": "https://wallstreetcn.com/livenews/3116327",
           "source": "华尔街见闻-快讯",
@@ -509,17 +577,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时10分 ~ 06时24分]"
-        },
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
         },
         {
           "title": "苹果(AAPL.O)：无论基础设施托管在何处，苹果始终保持对Private Cloud Compute软件的完全控制权。苹果设备仅信任经由苹果加密认证的Private Cloud Compute软件。在Google Cloud上运行的Private Cloud Compute服务，将在整个夏季预览期间逐步落实全套保护措施。",
@@ -601,8 +658,91 @@
       ]
     },
     {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美方将阿里巴巴等中企列入“涉军”清单，中方：坚决反对",
+          "url": "https://news.ifeng.com/c/8tojgYoyeXn",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
+        },
+        {
+          "title": "阿里巴巴ADR短线昨日，日内整体跌超0.2%。 百度ADR跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3116278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "阿里巴巴百度蔚来紧急公告",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%99%BE%E5%BA%A6%E8%94%9A%E6%9D%A5%E7%B4%A7%E6%80%A5%E5%85%AC%E5%91%8A%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
+        },
+        {
+          "title": "阿里巴巴、百度、药明康德回应“被美国防部列入中国军工企业名单”",
+          "url": "https://www.cls.cn/detail/2394636",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
+        },
+        {
+          "title": "美方将阿里巴巴、比亚迪等列入“涉军”清单，外交部：敦促美方停止无理打压中企",
+          "url": "https://www.cls.cn/detail/2394752",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
+        },
+        {
+          "title": "阿里巴巴：美国将公司列入中国军工企业名单是一个错误",
+          "url": "https://wallstreetcn.com/livenews/3116536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "阿里巴巴：注意到美国国防部已将阿里巴巴集团列入中国军工企业名单",
+          "url": "https://flash.jin10.com/detail/20260609122502333800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "机器人 具身智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "连获2个30cm涨停！机器人热股逼近新高，大号连板股年内盘点，这些板块占比领先",
@@ -617,6 +757,18 @@
           "time_info": "[01时20分 ~ 08时03分]"
         },
         {
+          "title": "两部门：到2026年底人形机器人等重点产品在一批代表性场景中率先完成应用验证和常态部署 开启“作业模式”",
+          "url": "https://www.cls.cn/detail/2394324",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 17时37分]"
+        },
+        {
           "title": "创业板重挫超3%，芯片半导体集体下跌，机器人逆势拉升，恒科指跌超2%，沪银狂泻10%",
           "url": "https://wallstreetcn.com/articles/3774065",
           "source": "华尔街见闻",
@@ -628,15 +780,15 @@
           "time_info": "[01时20分 ~ 04时10分]"
         },
         {
-          "title": "两部门：到2026年底人形机器人等重点产品在一批代表性场景中率先完成应用验证和常态部署 开启“作业模式”",
-          "url": "https://www.cls.cn/detail/2394324",
-          "source": "财联社热门",
+          "title": "优必选：优世界超仿生人形机器人首发预订单量累计超3000台",
+          "url": "https://flash.jin10.com/detail/20260609170450093800",
+          "source": "金十数据",
           "ranks": [
-            8
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "17时37分"
         },
         {
           "title": "IDC：第一季度全球家用清洁机器人市场出货893.6万台，同比增长36.7%",
@@ -645,54 +797,26 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里 Qwen",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "阿里巴巴ADR短线昨日，日内整体跌超0.2%。 百度ADR跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3116278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "13时02分"
         },
         {
-          "title": "阿里巴巴：美国将公司列入中国军工企业名单是一个错误",
-          "url": "https://wallstreetcn.com/livenews/3116536",
+          "title": "实景实训行动启动 人形机器人加速开启“作业模式”",
+          "url": "https://wallstreetcn.com/livenews/3116673",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "阿里巴巴：注意到美国国防部已将阿里巴巴集团列入中国军工企业名单",
-          "url": "https://flash.jin10.com/detail/20260609122502333800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "17时37分"
         }
       ]
     },
     {
       "keyword_group": "字节 Kimi 豆包",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "追妹不开口,豆包化身代聊侠",
@@ -700,11 +824,23 @@
           "source": "贴吧",
           "ranks": [
             15,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 13时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 17时37分]"
+        },
+        {
+          "title": "豆包也吃上姓名红利了",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E4%B9%9F%E5%90%83%E4%B8%8A%E5%A7%93%E5%90%8D%E7%BA%A2%E5%88%A9%E4%BA%86&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
         }
       ]
     }
