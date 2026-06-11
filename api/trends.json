@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T16:43:13.365333+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-06-11T20:42:57.721024+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时33分 ~ 16时43分]"
+          "appearance_count": 7,
+          "time_info": "[03时33分 ~ 20时42分]"
         },
         {
           "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
@@ -71,11 +71,12 @@
           "source": "抖音",
           "ranks": [
             2,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 16时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时36分 ~ 20时42分]"
         },
         {
           "title": "于娜看到已故老公AI形象崩溃大哭",
@@ -118,37 +119,40 @@
           "time_info": "[00时33分 ~ 07时25分]"
         },
         {
-          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
-          "url": "https://wallstreetcn.com/articles/3774376",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
-        },
-        {
           "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 20时42分]"
+        },
+        {
+          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
+          "url": "https://wallstreetcn.com/articles/3774376",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 20时42分]"
         },
         {
           "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33352580",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
+          "appearance_count": 3,
+          "time_info": "[16时42分 ~ 20时42分]"
         },
         {
           "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
@@ -174,6 +178,17 @@
           "time_info": "[00时33分 ~ 03时33分]"
         },
         {
+          "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
+          "url": "https://www.cls.cn/detail/2397230",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "美国总统特朗普：已经与多家人工智能（AI）公司开会（讨论政府持股问题）。 很快将会见15位顶级高管。 我认为他们会那样做（让我的政府入股）。",
           "url": "https://wallstreetcn.com/livenews/3117617",
           "source": "华尔街见闻-快讯",
@@ -183,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "模拟20000次用AI预测世界杯冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A8%A1%E6%8B%9F20000%E6%AC%A1%E7%94%A8AI%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "甲骨文(ORCL.N)CEO：2026财年Q4签署了670亿美元的人工智能基础设施合同，其中大部分要么自带硬件，要么预付款项。",
@@ -229,6 +255,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "AI大神做漫剧真有一套",
+          "url": "https://www.douyin.com/hot/2530023",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "Anthropic首席执行官阿莫代伊：政府应当有权叫停新人工智能模型的发布。",
           "url": "https://flash.jin10.com/detail/20260611023504794800",
           "source": "金十数据",
@@ -268,7 +305,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -326,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "英伟达与Abridge合作开发人工智能医疗保健模型。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3118158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
@@ -385,7 +433,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -538,6 +586,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek为何发力Agent",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%8F%91%E5%8A%9BAgent%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
