@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T11:36:21.822442+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-06-12T16:22:29.568862+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "一份研报引爆AI硬件“惊魂时刻”，CPO和800VDC故事要改写？",
@@ -18,6 +18,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时52分 ~ 11时36分]"
+        },
+        {
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
+          "ranks": [
+            7,
+            19,
+            28,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 16时22分]"
         },
         {
           "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
@@ -33,18 +48,15 @@
           "time_info": "[00时52分 ~ 07时44分]"
         },
         {
-          "title": "抖音AI创作大赛来了",
-          "url": "https://www.douyin.com/hot/2529851",
-          "source": "抖音",
+          "title": "AI正在杀死音乐吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%AD%A3%E5%9C%A8%E6%9D%80%E6%AD%BB%E9%9F%B3%E4%B9%90%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            19,
-            28,
-            21
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 11时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
@@ -133,13 +145,35 @@
           "time_info": "[06时01分 ~ 07时44分]"
         },
         {
+          "title": "代理式AI引爆CPU需求！美银：到2030年服务器CPU市场规模料激增4倍",
+          "url": "https://www.cls.cn/detail/2397804",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "猛男舞团翻跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代",
           "url": "https://www.cls.cn/detail/2397705",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -150,9 +184,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "权威机构：SpaceX世纪IPO引爆“散户套现热”，热门AI股成“ATM机”！",
+          "url": "https://www.cls.cn/detail/2398028",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "如何看待 Spacex 新发布的 AI 卫星？",
+          "url": "https://www.zhihu.com/question/2047773618428437482",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
@@ -202,7 +258,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -213,7 +269,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         }
@@ -269,7 +325,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -280,7 +336,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -291,7 +347,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         }
@@ -299,18 +355,47 @@
     },
     {
       "keyword_group": "字节 Kimi 豆包",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "神豆包锐评C罗是短板",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355099&amp;topic_name=%E7%A5%9E%E8%B1%86%E5%8C%85%E9%94%90%E8%AF%84C%E7%BD%97%E6%98%AF%E7%9F%AD%E6%9D%BF",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 16时22分]"
+        },
+        {
+          "title": "字节跳动成立科技公司，注册资本16亿元",
+          "url": "https://flash.jin10.com/detail/20260612153415954800",
+          "source": "金十数据",
+          "ranks": [
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时36分"
+          "time_info": "16时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我们真的需要又一个 DeepSeek V5 吗？",
+          "url": "https://www.zhihu.com/question/2031303606524186735",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     }
