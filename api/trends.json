@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T05:29:45.365972+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-06-13T07:15:11.620574+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "猛男舞团翻跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 07时15分]"
+        },
+        {
           "title": "据知情人士称，SpaceX(SPCX.O)在利用孟菲斯的Colossus 1数据中心开发和运行Grok人工智能模型时遇到技术挑战后，决定将该数据中心的全部容量出租给Anthropic。",
           "url": "https://flash.jin10.com/detail/20260613023941326800",
           "source": "金十数据",
@@ -42,15 +53,16 @@
           "time_info": "03时03分"
         },
         {
-          "title": "猛男舞团翻跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
+          "title": "抖音AI反网暴行动来了",
+          "url": "https://www.douyin.com/hot/2531858",
+          "source": "抖音",
           "ranks": [
-            11
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时15分]"
         },
         {
           "title": "全抖音都在DaiDai",
@@ -63,17 +75,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 05时29分]"
-        },
-        {
-          "title": "抖音AI反网暴行动来了",
-          "url": "https://www.douyin.com/hot/2531858",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
         },
         {
           "title": "软件股迈向二十年来最长连跌，AI扰动之忧再度来袭",
@@ -140,8 +141,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 05时29分]"
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 07时15分]"
         }
       ]
     },
@@ -159,8 +160,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 05时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 07时15分]"
         }
       ]
     }
