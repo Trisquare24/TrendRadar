@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-16T09:45:25.797646+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-06-16T15:24:34.324842+08:00",
+  "total_titles_processed": 927,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "A股收盘：创业板指冲高回落涨1.72%，AI硬件股持续爆发",
+          "url": "https://wallstreetcn.com/livenews/3120126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
         {
           "title": "伊朗用AI让球员牵遇难儿童入场",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%94%A8AI%E8%AE%A9%E7%90%83%E5%91%98%E7%89%B5%E9%81%87%E9%9A%BE%E5%84%BF%E7%AB%A5%E5%85%A5%E5%9C%BA",
@@ -117,6 +128,18 @@
           "time_info": "[00时14分 ~ 00时15分]"
         },
         {
+          "title": "瞄准AI数据中心需求 磷化铟衬底巨头计划将产能扩大至多10倍",
+          "url": "https://www.cls.cn/detail/2400563",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 15时24分]"
+        },
+        {
           "title": "小米工程师称怕某大模型刷水军",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%A7%B0%E6%80%95%E6%9F%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%88%B7%E6%B0%B4%E5%86%9B&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -128,15 +151,37 @@
           "time_info": "[00时14分 ~ 00时15分]"
         },
         {
-          "title": "瞄准AI数据中心需求 磷化铟衬底巨头计划将产能扩大至多10倍",
-          "url": "https://www.cls.cn/detail/2400563",
-          "source": "财联社热门",
+          "title": "华为盘古大模型",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E7%9B%98%E5%8F%A4%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "15时24分"
+        },
+        {
+          "title": "如果一门文科课程的作业可以用 AI 完成，这门课该不该取消？",
+          "url": "https://www.zhihu.com/question/2045831566538924509",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "GPT-5.6 惊现 150 万上下文窗口，将如何影响大模型竞争格局？",
+          "url": "https://www.zhihu.com/question/2042539496676352614",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
@@ -145,7 +190,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -164,7 +209,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "机器人伴侣开售,人机恋成真",
@@ -172,11 +217,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 09时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 15时24分]"
         },
         {
           "title": "优必选「机器人伴侣」10 天预售 3800 台，限成年人购买，不做家务只做陪伴，你看好这款产品市场前景吗？",
@@ -188,6 +234,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "2026张江具身智能供应链大会开幕 张江南供应链平台订单签约仪式举行",
+          "url": "https://wallstreetcn.com/livenews/3120105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek完成超500亿元融资",
+          "url": "https://www.toutiao.com/trending/7651870742430092836/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
@@ -205,6 +279,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里QoderWork上线“意识”功能",
+          "url": "https://wallstreetcn.com/livenews/3120098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     }
