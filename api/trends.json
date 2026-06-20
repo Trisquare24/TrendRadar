@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T05:14:31.934332+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-06-21T07:05:13.351830+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 07时05分]"
         },
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 07时05分]"
         },
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
@@ -35,33 +35,36 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 07时05分]"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
           "url": "https://wallstreetcn.com/articles/3775113",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 07时05分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
           "url": "https://wallstreetcn.com/articles/3775114",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 07时05分]"
         },
         {
           "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
@@ -70,11 +73,12 @@
           "ranks": [
             18,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 07时05分]"
         },
         {
           "title": "AI短剧“买脸” 每张脸500元一年",
@@ -86,19 +90,31 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 07时05分]"
         },
         {
           "title": "谐音歌词版WAIYA",
           "url": "https://www.douyin.com/hot/2541878",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时05分]"
+        },
+        {
+          "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
+          "url": "https://wallstreetcn.com/premium/articles/3774876?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 07时05分]"
         }
       ]
     },
@@ -112,11 +128,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 05时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 07时05分]"
         },
         {
           "title": "据以色列《新消息报》援引军方消息人士称，以色列军队正在阿里·塔赫尔地区（Ali al-Taher）围困数十名真主党武装人员。",
@@ -128,6 +145,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 07时05分]"
         }
       ]
     }
