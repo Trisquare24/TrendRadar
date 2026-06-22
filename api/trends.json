@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T01:29:25.668562+08:00",
-  "total_titles_processed": 296,
+  "generated_at": "2026-06-23T04:42:05.709789+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "谷歌母公司Alphabet收跌5%，此前该公司AI负责人Jumper离职。",
+          "url": "https://wallstreetcn.com/livenews/3123013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "谷歌股价下跌，因又一位AI明星人才跳槽至竞争对手公司",
@@ -33,18 +44,30 @@
     },
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
           "url": "https://www.cls.cn/detail/2405734",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 04时42分]"
+        },
+        {
+          "title": "据Business Insider：在近期发生敏感数据泄露并可被全公司访问事件后，Meta公司暂停了一项内部人工智能培训项目。",
+          "url": "https://flash.jin10.com/detail/20260623043007263800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "04时42分"
         },
         {
           "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
@@ -52,6 +75,45 @@
           "source": "华尔街见闻",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 04时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马云带队！阿里、蚂蚁核心高管“团建”下田插秧",
+          "url": "https://www.cls.cn/detail/2405942",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时41分 ~ 04时42分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.35%，报5986.28点，逼近2024年9月23日收盘位5917.72点。 热门中概股里，小马智行初步收跌5.5%，文远知行跌4.6%，小米跌4.1%，比亚迪跌3.5%，阿里跌2.1%，拼多多跌1.8%，再鼎医药涨1.6%，携程涨3%。 ETF中，中概互联网指数ETF（KWEB）收跌0.75%，中国科技指数ETF（CQQQ）收涨0.02%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.70%，XtrackersHarvest中证50（ASHS）收涨2.15%，德银嘉实沪深300指数ETF（ASHR）收涨2.64%。",
+          "url": "https://wallstreetcn.com/livenews/3123011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "女子称44岁在阿里工作22年被裁",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E7%A7%B044%E5%B2%81%E5%9C%A8%E9%98%BF%E9%87%8C%E5%B7%A5%E4%BD%9C22%E5%B9%B4%E8%A2%AB%E8%A3%81&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -71,19 +133,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 04时42分]"
         },
         {
           "title": "清华教授造的机器人去顺丰打工了",
           "url": "https://www.toutiao.com/trending/7654134773532262463/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 04时42分]"
         }
       ]
     },
@@ -99,25 +162,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 04时42分]"
         }
       ]
     },
     {
-      "keyword_group": "阿里 Qwen",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "女子称44岁在阿里工作22年被裁",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E7%A7%B044%E5%B2%81%E5%9C%A8%E9%98%BF%E9%87%8C%E5%B7%A5%E4%BD%9C22%E5%B9%B4%E8%A2%AB%E8%A3%81&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "IBM(IBM.N)与OpenAI扩大网络安全合作，推出前沿人工智能能力，帮助企业抵御机器速度的网络威胁。",
+          "url": "https://flash.jin10.com/detail/20260623043203412800",
+          "source": "金十数据",
           "ranks": [
-            28
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "04时42分"
         }
       ]
     }
