@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-24T14:46:20.877436+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-06-24T18:20:49.540709+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
+          "url": "https://wallstreetcn.com/articles/3775302",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 18时20分]"
+        },
         {
           "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
           "url": "https://www.cls.cn/detail/2407151",
@@ -30,19 +44,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 07时07分]"
-        },
-        {
-          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
-          "url": "https://wallstreetcn.com/articles/3775302",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 14时46分]"
         },
         {
           "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
@@ -70,6 +71,22 @@
           "time_info": "[01时15分 ~ 07时07分]"
         },
         {
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13,
+            14,
+            19,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时15分 ~ 18时20分]"
+        },
+        {
           "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
           "url": "https://wallstreetcn.com/articles/3775254",
           "source": "华尔街见闻",
@@ -80,32 +97,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时15分 ~ 14时46分]"
-        },
-        {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13,
-            14,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 14时46分]"
-        },
-        {
-          "title": "据纽约时报：Meta Platforms(META.O)公司还在尝试开发一款名为Meta Photos的应用程序，该程序将利用人工智能创造新型媒体。",
-          "url": "https://flash.jin10.com/detail/20260624004750674800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
         },
         {
           "title": "用AI小卡应援世界杯",
@@ -119,8 +110,31 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时57分 ~ 14时46分]"
+          "appearance_count": 7,
+          "time_info": "[03时57分 ~ 18时20分]"
+        },
+        {
+          "title": "霓虹AI超美?实则组队打工仔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 18时20分]"
+        },
+        {
+          "title": "据纽约时报：Meta Platforms(META.O)公司还在尝试开发一款名为Meta Photos的应用程序，该程序将利用人工智能创造新型媒体。",
+          "url": "https://flash.jin10.com/detail/20260624004750674800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
         },
         {
           "title": "软银CEO孙正义：公司已开始利用机器人装配线大规模生产AI机器人。",
@@ -156,15 +170,15 @@
           "time_info": "[01时15分 ~ 07时07分]"
         },
         {
-          "title": "霓虹AI超美?实则组队打工仔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
-          "source": "贴吧",
+          "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
+          "url": "https://www.cls.cn/detail/2407855",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时46分"
+          "time_info": "18时20分"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -177,6 +191,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 07时07分]"
+        },
+        {
+          "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
+          "url": "https://www.cls.cn/detail/2408054",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
@@ -218,6 +243,30 @@
           "time_info": "[01时15分 ~ 07时07分]"
         },
         {
+          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
+          "url": "https://wallstreetcn.com/articles/3775294",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 18时20分]"
+        },
+        {
+          "title": "用AI制作一部玄幻短片",
+          "url": "https://www.douyin.com/hot/2545425",
+          "source": "抖音",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 18时20分]"
+        },
+        {
           "title": "AI时代计算机专业还能学吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%BF%98%E8%83%BD%E5%AD%A6%E5%90%97",
           "source": "bilibili 热搜",
@@ -228,29 +277,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时43分 ~ 07时07分]"
-        },
-        {
-          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
-          "url": "https://wallstreetcn.com/articles/3775294",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 14时46分]"
-        },
-        {
-          "title": "用AI制作一部玄幻短片",
-          "url": "https://www.douyin.com/hot/2545425",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 14时46分]"
         },
         {
           "title": "Anthropic因Fable AI模型的限制措施而遭到用户起诉。",
@@ -281,7 +307,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -292,7 +318,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -317,6 +343,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "为什么豆包 AI 老是会被调侃成糖包？取这个名字，是不是从一开始就没打算走专业 AI 路线？",
+          "url": "https://www.zhihu.com/question/2035742574737143093",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2408036",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "Meta Platforms(META.O)：（关于美国政府人工智能审查）在我们处理细节的同时，希望尽快签署协议。",
@@ -476,7 +524,7 @@
     },
     {
       "keyword_group": "字节 Kimi 豆包",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何评价字节刚推出的 Seedance 2.5？",
@@ -495,11 +543,23 @@
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%20%E8%B1%86%E5%8C%85&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 18时20分]"
+        },
+        {
+          "title": "豆包正式推出收费版，三档定价、最高一年6000元，贵不贵？",
+          "url": "https://wallstreetcn.com/articles/3775360",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时46分"
+          "time_info": "18时20分"
         },
         {
           "title": "如何评价字节发布的豆包 Seed 2.1 Pro Preview？",
@@ -591,7 +651,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         }
@@ -607,11 +667,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 14时46分]"
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 18时20分]"
         },
         {
           "title": "A股机器人概念股局部异动，日发精机直线涨停。",
@@ -620,7 +681,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -649,8 +710,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 18时20分]"
         },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
