@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T19:39:10.962558+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-06-25T22:24:51.747336+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 52,
+      "match_count": 59,
       "titles": [
         {
           "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时07分 ~ 19时39分]"
+          "appearance_count": 7,
+          "time_info": "[08时07分 ~ 22时24分]"
         },
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
@@ -58,8 +58,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 19时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 22时24分]"
+        },
+        {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时55分 ~ 22时24分]"
         },
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -74,18 +86,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时16分 ~ 08时07分]"
-        },
-        {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时55分 ~ 19时39分]"
         },
         {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
@@ -115,6 +115,18 @@
           "time_info": "[00时16分 ~ 08时07分]"
         },
         {
+          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
+          "url": "https://www.cls.cn/detail/2409082",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时24分]"
+        },
+        {
           "title": "用AI制作一部玄幻短片",
           "url": "https://www.douyin.com/hot/2545425",
           "source": "抖音",
@@ -125,6 +137,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时16分 ~ 13时02分]"
+        },
+        {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 22时24分]"
         },
         {
           "title": "建议大家不要和AI太好了",
@@ -139,17 +163,6 @@
           "time_info": "[16时55分 ~ 19时39分]"
         },
         {
-          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
-          "url": "https://www.cls.cn/detail/2409082",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 19时39分]"
-        },
-        {
           "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
           "source": "澎湃新闻",
@@ -160,6 +173,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时07分 ~ 16时56分]"
+        },
+        {
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 22时24分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -185,18 +211,6 @@
           "time_info": "04时46分"
         },
         {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 19时39分]"
-        },
-        {
           "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
           "url": "https://www.cls.cn/detail/2407855",
           "source": "财联社热门",
@@ -208,6 +222,19 @@
           "time_info": "00时16分"
         },
         {
+          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时55分 ~ 22时24分]"
+        },
+        {
           "title": "美财长大放厥词：AI的最大风险是中国超越美国",
           "url": "https://news.ifeng.com/c/8uDioiTwhfp",
           "source": "凤凰网",
@@ -217,18 +244,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时16分 ~ 06时15分]"
-        },
-        {
-          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
-          "url": "https://wallstreetcn.com/articles/3775441",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 19时39分]"
         },
         {
           "title": "美光强劲财报引爆芯片股盘后行情 高通AI前景助推股价飙升",
@@ -278,18 +293,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时16分 ~ 08时07分]"
-        },
-        {
-          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时55分 ~ 19时39分]"
         },
         {
           "title": "用AI小卡应援世界杯",
@@ -363,6 +366,17 @@
           "time_info": "[19时38分 ~ 19时39分]"
         },
         {
+          "title": "高考志愿要选AI专业吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E8%A6%81%E9%80%89AI%E4%B8%93%E4%B8%9A%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "Scale AI与Circadence构建合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3124185",
           "source": "华尔街见闻-快讯",
@@ -396,6 +410,17 @@
           "time_info": "16时56分"
         },
         {
+          "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33450214",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "黄仁勋：本轮AI基建周期长达数十年",
           "url": "https://flash.jin10.com/detail/20260625071208706800",
           "source": "金十数据",
@@ -405,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2409159",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "高通与Hugging Face扩大合作关系，推动从设备到云的开放、开发者驱动的人工智能。",
@@ -473,6 +509,17 @@
           "time_info": "08时07分"
         },
         {
+          "title": "你对AI脸产生生理性厌恶了吗",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%AF%B9AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "SpaceX投资者Andreessen：“星舰”为太空AI发展铺平了道路",
           "url": "https://flash.jin10.com/detail/20260625021429927800",
           "source": "金十数据",
@@ -482,6 +529,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "新加坡金管局：研究院初期将重点关注人工智能（AI）和代币化。",
+          "url": "https://flash.jin10.com/detail/20260625214857598800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "广电总局发布AI微短剧分类分层标准",
+          "url": "https://wallstreetcn.com/livenews/3124710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "高通(QCOM.O)：公司目标是在2029财年实现Personal AI 与计算业务收入约60亿美元。",
@@ -504,6 +573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "美国银行策略师质疑AI热潮 建议关注防御性板块",
+          "url": "https://wallstreetcn.com/livenews/3124707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "高通：面向数据中心推出DragonFly（飞龙） C1000 CPU。 发布全新 Dragonfly（飞龙）产品组合，揭晓面向智能体AI时代的全面数据中心路线图。 推出Pam4电信号与光信号传输服务及相关解决方案服务。 与一家超大规模云服务商（Hyperscaler）在新款通信芯片上合作。 预计数据中心将在2027年带来（至少）数十亿美元收入。 汽车业务2026财年年化营收将达到60亿美元。",
@@ -619,7 +699,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
@@ -637,11 +717,12 @@
           "url": "https://www.zhihu.com/question/2053015352347293676",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 19时39分]"
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时24分]"
         },
         {
           "title": "谷歌前CEO批中国AI开源",
@@ -677,6 +758,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "谷歌正对新的AI编码工具“突击队”进行重组",
+          "url": "https://wallstreetcn.com/livenews/3124704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",
           "url": "https://wallstreetcn.com/livenews/3124168",
           "source": "华尔街见闻-快讯",
@@ -702,7 +794,7 @@
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "阿里巴巴已起诉美国国防部",
@@ -725,6 +817,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "纳斯达克中国金龙指数跌超2%，携程跌超15%，阿里巴巴跌超4%，理想汽车跌近4%，百度、贝壳跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3124720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，蔚来、美团、阿里至少跌约3%，百度跌2.3%，拼多多跌1%，腾讯涨2.4%，日月光半导体涨3.5%。KWEB跌0.7%，CQQQ涨0.8%。",
@@ -785,8 +888,20 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美光“定心丸”带动芯片股反攻 人形机器人或接棒算力成存储应用下一站",
+          "url": "https://www.cls.cn/detail/2408999",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时55分 ~ 22时24分]"
+        },
         {
           "title": "中国人形机器人商业化部署提速！大摩年内第二次翻倍上调出货量预测",
           "url": "https://www.cls.cn/detail/2407968",
@@ -815,17 +930,6 @@
           "time_info": "[06时14分 ~ 08时07分]"
         },
         {
-          "title": "美光“定心丸”带动芯片股反攻 人形机器人或接棒算力成存储应用下一站",
-          "url": "https://www.cls.cn/detail/2408999",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时55分 ~ 19时39分]"
-        },
-        {
           "title": "高通(QCOM.O)：目标是在2029财年实现工业、网络与机器人业务收入约80亿美元。",
           "url": "https://flash.jin10.com/detail/20260625045402856800",
           "source": "金十数据",
@@ -835,6 +939,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "我国首台重载智能盾构换刀机器人正式发布 机器人整机软硬件实现100%国产化",
+          "url": "https://wallstreetcn.com/livenews/3124706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "宇树R1人形机器人降价至2.99万元起",
@@ -913,6 +1028,34 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek发布招聘广告：正努力将所有部门的规模扩大至少一倍",
+          "url": "https://wallstreetcn.com/livenews/3124723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "DeepSeek发布招聘广告：正努力将所有部门的规模扩大至少一倍",
+          "url": "https://flash.jin10.com/detail/20260625215747135800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -937,6 +1080,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "影视飓风",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "影视飓风Tim怎么变成老司机的",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8ETim%E6%80%8E%E4%B9%88%E5%8F%98%E6%88%90%E8%80%81%E5%8F%B8%E6%9C%BA%E7%9A%84%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "罗永浩",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "罗永浩说零跑造车就是交个朋友",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%AF%B4%E9%9B%B6%E8%B7%91%E9%80%A0%E8%BD%A6%E5%B0%B1%E6%98%AF%E4%BA%A4%E4%B8%AA%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     }
