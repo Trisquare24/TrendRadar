@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T11:29:05.948132+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-07-01T16:09:34.532964+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 16时09分]"
         },
         {
           "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
@@ -41,6 +41,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "数百万辆特斯拉HW3迎来FSD V14，中国车型是否同步升级？官方客服：目前仅适配AI4硬件部分车型",
+          "url": "https://wallstreetcn.com/livenews/3127257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
           "title": "澳大利亚6月AIG建筑业表现指数 -38.1，前值-9.9。",
           "url": "https://flash.jin10.com/detail/20260701070002368800",
           "source": "金十数据",
@@ -50,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "数百万辆特斯拉HW3迎来FSD V14，中国车型是否同步升级？官方客服：目前仅适配AI4硬件部分车型",
+          "url": "https://flash.jin10.com/detail/20260701154708866800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "苹果公司库克、欧盟官员Virkkunen讨论“Siri AI”。（英国金融时报）",
@@ -85,6 +107,17 @@
           "time_info": "07时08分"
         },
         {
+          "title": "magixx残局1v4纪念彩蛋",
+          "url": "https://search.bilibili.com/all?keyword=magixx%E6%AE%8B%E5%B1%801v4%E7%BA%AA%E5%BF%B5%E5%BD%A9%E8%9B%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
           "title": "英媒：苹果CEO与欧盟技术主管就“Siri AI”举行建设性会谈",
           "url": "https://flash.jin10.com/detail/20260701065200498800",
           "source": "金十数据",
@@ -94,6 +127,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2055055883843925167",
+          "source": "知乎",
+          "ranks": [
+            19,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 16时09分]"
         },
         {
           "title": "终于明白AI免费和订阅的区别了",
@@ -107,17 +152,6 @@
           "time_info": "[01时03分 ~ 01时04分]"
         },
         {
-          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
-          "url": "https://www.zhihu.com/question/2055055883843925167",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
-        },
-        {
           "title": "Magisk加入BCG",
           "url": "https://search.bilibili.com/all?keyword=Magisk%E5%8A%A0%E5%85%A5BCG",
           "source": "bilibili 热搜",
@@ -127,6 +161,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时28分 ~ 11时29分]"
+        },
+        {
+          "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
+          "url": "https://www.cls.cn/detail/2413771",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "A股已有35家公司预告上半年业绩，预喜比例达74.29%，AI、锂电、化工三大板块领衔高增长",
@@ -140,6 +185,28 @@
           "time_info": "07时08分"
         },
         {
+          "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
+          "url": "https://www.cls.cn/detail/2413870",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
+          "url": "https://www.cls.cn/detail/2413957",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
           "title": "据英国金融时报：苹果(AAPL.O)CEO库克与欧盟科技主管就“Siri AI”展开建设性的对话。",
           "url": "https://flash.jin10.com/detail/20260701063003352800",
           "source": "金十数据",
@@ -149,6 +216,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "当一人公司加上 AI 杠杆，能做出多有趣的项目来？",
+          "url": "https://www.zhihu.com/question/2053591589927262082",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "AI裁员 硅谷叶文洁出现了",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%A3%81%E5%91%98%20%E7%A1%85%E8%B0%B7%E5%8F%B6%E6%96%87%E6%B4%81%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "英国央行官员称AI模型犹如会说谎的青少年，智能体兴起或引发市场崩盘",
@@ -168,7 +257,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         }
@@ -176,7 +265,7 @@
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "机器人女友来了！优必选重磅首发，最高售价99万元",
@@ -185,22 +274,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时03分 ~ 11时29分]"
-        },
-        {
-          "title": "订单破万!机器人伴侣卖爆",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355782&amp;topic_name=%E8%AE%A2%E5%8D%95%E7%A0%B4%E4%B8%87%21%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%8D%96%E7%88%86",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 16时09分]"
         },
         {
           "title": "中国第一所机器人学校开学，30台机器人率先入学",
@@ -212,6 +291,41 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时03分 ~ 07时08分]"
+        },
+        {
+          "title": "机器人伴侣价格11.98万至99万",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E4%BB%B7%E6%A0%BC11.98%E4%B8%87%E8%87%B399%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "订单破万!机器人伴侣卖爆",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355782&amp;topic_name=%E8%AE%A2%E5%8D%95%E7%A0%B4%E4%B8%87%21%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E5%8D%96%E7%88%86",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 16时09分]"
+        },
+        {
+          "title": "机器人伴侣订单破1万 仅限成人购买",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E8%AE%A2%E5%8D%95%E7%A0%B41%E4%B8%87+%E4%BB%85%E9%99%90%E6%88%90%E4%BA%BA%E8%B4%AD%E4%B9%B0",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 16时09分]"
         },
         {
           "title": "“机器人伴侣”订单破1.1万台",
@@ -236,15 +350,15 @@
           "time_info": "[11时28分 ~ 11时29分]"
         },
         {
-          "title": "机器人伴侣订单破1万 仅限成人购买",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E8%AE%A2%E5%8D%95%E7%A0%B41%E4%B8%87+%E4%BB%85%E9%99%90%E6%88%90%E4%BA%BA%E8%B4%AD%E4%B9%B0",
-          "source": "百度热搜",
+          "title": "哈尔滨独立研发手术机器人",
+          "url": "https://www.toutiao.com/trending/7656826620321562667/",
+          "source": "今日头条",
           "ranks": [
-            13
+            18
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 11时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         }
       ]
     },
@@ -299,6 +413,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
+          "url": "https://wallstreetcn.com/livenews/3126913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "软银：已执行对OpenAI300亿美元后续投资中的100亿美元。 计划于10月1日进行对OpenAI的第三轮投资。",
+          "url": "https://wallstreetcn.com/livenews/3127224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -318,23 +460,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
-          "url": "https://wallstreetcn.com/livenews/3126913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "阿里 Qwen",
       "match_count": 1,
       "titles": [
@@ -348,6 +473,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网传字节员工炒股赚3000万离职",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E5%AD%97%E8%8A%82%E5%91%98%E5%B7%A5%E7%82%92%E8%82%A1%E8%B5%9A3000%E4%B8%87%E7%A6%BB%E8%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         }
       ]
     }
