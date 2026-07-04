@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T15:43:31.052336+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-07-04T18:06:50.001423+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,19 @@
           "time_info": "[01时22分 ~ 08时03分]"
         },
         {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 18时06分]"
+        },
+        {
           "title": "4名大学生出题 AI考了0分",
           "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E9%A2%98+AI%E8%80%83%E4%BA%860%E5%88%86",
           "source": "百度热搜",
@@ -29,18 +42,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时22分 ~ 06时13分]"
-        },
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 15时43分]"
         },
         {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
@@ -201,6 +202,18 @@
           "time_info": "[08时02分 ~ 08时03分]"
         },
         {
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://wallstreetcn.com/livenews/3128902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 18时06分]"
+        },
+        {
           "title": "如何看待AI模型蒸馏",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -222,17 +235,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
-        },
-        {
-          "title": "业内首个AI-eSIM产业协同平台成立",
-          "url": "https://wallstreetcn.com/livenews/3128902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
         },
         {
           "title": "常州市市长周伟调研人工智能上游产业",
@@ -309,33 +311,36 @@
           "source": "知乎",
           "ranks": [
             4,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 15时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 18时06分]"
         },
         {
           "title": "规范引导情感陪伴人形机器人健康发展，两协会联合倡议",
           "url": "https://wallstreetcn.com/livenews/3128913",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 18时06分]"
         },
         {
           "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
           "url": "https://flash.jin10.com/detail/20260704150630005800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 18时06分]"
         },
         {
           "title": "无界动力张玉峰：2025年全球人形机器人产量约2万台 商用落地仍接近空白",
@@ -356,38 +361,41 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "豆包、千问：将下线智能体功能",
+          "url": "https://wallstreetcn.com/articles/3776193",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 18时06分]"
+        },
+        {
           "title": "企鹅女管归字节,鹰角被摘桃",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355882&amp;topic_name=%E4%BC%81%E9%B9%85%E5%A5%B3%E7%AE%A1%E5%BD%92%E5%AD%97%E8%8A%82%2C%E9%B9%B0%E8%A7%92%E8%A2%AB%E6%91%98%E6%A1%83",
           "source": "贴吧",
           "ranks": [
             5,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 15时43分]"
-        },
-        {
-          "title": "豆包、千问：将下线智能体功能",
-          "url": "https://wallstreetcn.com/articles/3776193",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 18时06分]"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
           "url": "https://www.cls.cn/detail/2417079",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 18时06分]"
         },
         {
           "title": "豆包：智能体功能将于7月15日下线",
@@ -485,8 +493,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 15时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 18时06分]"
         }
       ]
     },
