@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T04:53:27.623468+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-07-05T05:56:40.579509+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时56分]"
         },
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时56分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
           "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时56分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -48,19 +49,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时56分]"
         },
         {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
           "url": "https://flash.jin10.com/detail/20260705041238253800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时56分]"
         }
       ]
     },
@@ -76,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时56分]"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
@@ -88,8 +90,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时56分]"
         },
         {
           "title": "企鹅女管归字节,鹰角被摘桃",
@@ -101,8 +103,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时56分]"
         },
         {
           "title": "豆包、千问将于7月15日下线智能体功能：建议用户提前备份数据",
@@ -113,8 +115,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时56分]"
         }
       ]
     },
@@ -130,8 +132,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 05时56分]"
         },
         {
           "title": "阿里·奥兹马伊正式被任命为伊朗革命卫队海军司令。",
@@ -140,7 +142,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         }
@@ -158,8 +160,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时56分]"
         },
         {
           "title": "机器人出口每4元产值有1元深圳造 深圳机器人全球卖爆",
