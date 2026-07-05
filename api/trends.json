@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-07-05T12:02:23.073297+08:00",
-  "total_titles_processed": 702,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-07-05T15:34:42.358301+08:00",
+  "total_titles_processed": 847,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "卡点发布！GPT-5.6三大模型全曝，定档7月7日？",
@@ -30,11 +28,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 12时02分]"
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 15时34分]"
         },
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -53,22 +52,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 12时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 15时34分]"
+        },
+        {
+          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
+          "url": "https://wallstreetcn.com/articles/3776203",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时59分 ~ 15时34分]"
         },
         {
           "title": "野村证券：当前全球存储行业仍严重供应短缺 AI驱动的结构性需求增长尚未见顶",
           "url": "https://flash.jin10.com/detail/20260705113833548800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 15时34分]"
         },
         {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
@@ -83,27 +96,37 @@
           "time_info": "[04时53分 ~ 05时56分]"
         },
         {
-          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
-          "url": "https://wallstreetcn.com/articles/3776203",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 12时02分]"
-        },
-        {
           "title": "“AI+”OPC供需生态对接会在珠海举行",
           "url": "https://flash.jin10.com/detail/20260705103842899800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "嘉实基金王贵重：对中国科技资产及国内AI加速追赶趋势持积极乐观态度",
+          "url": "https://flash.jin10.com/detail/20260705142201827800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "《北京数字经济发展报告（2025—2026）》发布 2025年人工智能核心产业规模约4500亿元",
+          "url": "https://flash.jin10.com/detail/20260705141115141800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "AI投资进入落地阶段 半导体价格开始显著上涨",
@@ -112,9 +135,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "AI都进入吃播时代了",
+          "url": "https://s.weibo.com/weibo?q=AI%E9%83%BD%E8%BF%9B%E5%85%A5%E5%90%83%E6%92%AD%E6%97%B6%E4%BB%A3%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
@@ -123,7 +157,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
@@ -131,7 +165,7 @@
     },
     {
       "keyword_group": "字节 Kimi 豆包",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "豆包、千问：将下线智能体功能",
@@ -153,8 +187,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 12时02分]"
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 15时34分]"
         },
         {
           "title": "企鹅女管归字节,鹰角被摘桃",
@@ -164,11 +198,12 @@
             16,
             17,
             18,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 12时02分]"
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 15时34分]"
         },
         {
           "title": "豆包、千问将于7月15日下线智能体功能：建议用户提前备份数据",
@@ -191,43 +226,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里 Qwen",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
-          "url": "https://wallstreetcn.com/livenews/3128945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 15时34分]"
         },
         {
-          "title": "阿里·奥兹马伊正式被任命为伊朗革命卫队海军司令。",
-          "url": "https://flash.jin10.com/detail/20260705030043564800",
-          "source": "金十数据",
+          "title": "如何看待字节员工靠炒美股财富自由后离职，称投资比大厂升职更容易实现财务自由？",
+          "url": "https://www.zhihu.com/question/2055415968537618014",
+          "source": "知乎",
           "ranks": [
-            15
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "15时34分"
         }
       ]
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "经纬度：具身智能进入“从1到100”的爆发期",
@@ -242,6 +259,17 @@
           "time_info": "[01时11分 ~ 08时00分]"
         },
         {
+          "title": "加速走向全球：今年前5个月我国机器人出口近200亿元",
+          "url": "https://wallstreetcn.com/livenews/3128970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "机器人出口每4元产值有1元深圳造 深圳机器人全球卖爆",
           "url": "https://flash.jin10.com/detail/20260704222818603800",
           "source": "金十数据",
@@ -251,6 +279,64 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
+          "url": "https://flash.jin10.com/detail/20260705000623395800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 Qwen",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
+          "url": "https://wallstreetcn.com/livenews/3128945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 15时34分]"
+        },
+        {
+          "title": "阿里·奥兹马伊正式被任命为伊朗革命卫队海军司令。",
+          "url": "https://flash.jin10.com/detail/20260705030043564800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
         }
       ]
     },
@@ -273,19 +359,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "罗永浩",
       "match_count": 1,
       "titles": [
         {
-          "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
-          "url": "https://flash.jin10.com/detail/20260705000623395800",
-          "source": "金十数据",
+          "title": "罗永浩称「没必要对电影人阴阳怪气，市场不行是因为流媒体长短视频、游戏等分流 」，如何看待这一说法？",
+          "url": "https://www.zhihu.com/question/2056128289513666049",
+          "source": "知乎",
           "ranks": [
-            13
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "15时34分"
         }
       ]
     }
