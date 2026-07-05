@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T04:56:18.079469+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-07-06T05:59:14.626651+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 04时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 05时59分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 04时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 05时59分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -38,11 +38,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时00分 ~ 04时56分]"
+          "appearance_count": 7,
+          "time_info": "[02时00分 ~ 05时59分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -51,11 +52,23 @@
           "ranks": [
             20,
             17,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时00分 ~ 04时56分]"
+          "appearance_count": 7,
+          "time_info": "[02时00分 ~ 05时59分]"
+        },
+        {
+          "title": "英国监管机构：金融服务业AI正引发“军备竞赛” 需扩大监管范围",
+          "url": "https://flash.jin10.com/detail/20260706053240940800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -65,8 +78,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 04时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 05时59分]"
         },
         {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长；整体运营前景预计季度和同比都会增长。",
@@ -76,8 +89,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 04时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 05时59分]"
         },
         {
           "title": "国泰海通：机器人、商业航天、AI新材料等主题投资再次兴起",
@@ -115,8 +128,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 04时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 05时59分]"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
@@ -126,8 +139,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 04时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 05时59分]"
         },
         {
           "title": "企鹅女管归字节,鹰角被摘桃",
@@ -154,8 +167,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 04时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 05时59分]"
         },
         {
           "title": "加速走向全球：今年前5个月我国机器人出口近200亿元",
@@ -165,8 +178,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 04时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 05时59分]"
         }
       ]
     },
@@ -183,8 +196,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 04时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 05时59分]"
         }
       ]
     },
