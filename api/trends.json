@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T06:11:49.306581+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-07-07T08:05:34.563355+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 08时05分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -26,11 +26,12 @@
           "ranks": [
             26,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 08时05分]"
         },
         {
           "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
@@ -60,11 +61,12 @@
           "url": "https://www.cls.cn/detail/2418217",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时11分]"
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 08时05分]"
         },
         {
           "title": "黑石出售 3 处数据中心，又叫停全球最大数据中心建设，这对「AI 经济」影响几何？",
@@ -76,6 +78,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 00时18分]"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
+          "url": "https://www.cls.cn/detail/2418586",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
+          "url": "https://wallstreetcn.com/articles/3776266",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "英国监管机构审查凸显金融服务AI风险",
@@ -111,6 +135,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "前苹果员工创办的中国AI眼镜公司获腾讯、美团投资，估值达10亿美元",
+          "url": "https://wallstreetcn.com/livenews/3129608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "美国财政部报告草案拟警示人工智能泡沫风险。（NOTUS）",
           "url": "https://wallstreetcn.com/livenews/3129460",
           "source": "华尔街见闻-快讯",
@@ -133,6 +168,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "三星二季度运营利润同比激增超1800%，AI需求继续提振存储芯片价格",
+          "url": "https://wallstreetcn.com/livenews/3129593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "英伟达回应AI服务器架构延后的报道，称：公司路线图保持不变",
           "url": "https://wallstreetcn.com/livenews/3129491",
           "source": "华尔街见闻-快讯",
@@ -142,12 +188,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "高盛：AI投资重心迈向实体产业，未来6年资本开支或达7.6万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3129433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         }
       ]
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "就在今天凌晨！人形机器人首度亮相世界杯赛场",
@@ -171,8 +228,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 08时05分]"
         },
         {
           "title": "【焦点复盘】科创50“深V”回升结束3连跌，新版“韬定律”提振芯片产业链，机器人概念遭深幅回调",
@@ -181,11 +238,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 08时05分]"
         },
         {
           "title": "优必选回应仿生机器人争议：续航2-4小时是行业普遍情况，定位是情感陪伴，不是伴侣",
@@ -193,11 +251,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 08时05分]"
         },
         {
           "title": "99万元机器人伴侣续航撑不过一晚",
@@ -243,6 +302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "前5月机器人规上企业营收超900亿元",
+          "url": "https://wallstreetcn.com/livenews/3129591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         }
       ]
     },
@@ -271,11 +341,12 @@
           "ranks": [
             18,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 06时11分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 08时05分]"
         },
         {
           "title": "字节 草地牛",
@@ -283,11 +354,12 @@
           "source": "微博",
           "ranks": [
             7,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 08时05分]"
         }
       ]
     },
