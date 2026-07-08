@@ -1,37 +1,12 @@
 {
-  "generated_at": "2026-07-08T21:56:09.803179+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2026-07-09T00:03:19.012208+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 33,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
-          "url": "https://wallstreetcn.com/articles/3776368",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 13时48分]"
-        },
-        {
-          "title": "2026人工智能大会将启幕",
-          "url": "https://www.douyin.com/hot/2562850",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 13时48分]"
-        },
         {
           "title": "我国人工智能产业加速发展壮大",
           "url": "https://www.douyin.com/hot/2563823",
@@ -41,402 +16,91 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
+          "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座",
-          "url": "https://www.cls.cn/detail/2419748",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 13时48分]"
-        },
-        {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 13时48分]"
-        },
-        {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            10,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 21时56分]"
-        },
-        {
-          "title": "SpaceXAI与Cursor最快将于周三发布模型。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3130175",
+          "title": "AI芯片公司SambaNova Systems Inc.的CEO Rodrigo Liang：对高速推理的需求非常可观。 预计公司客户规模到2026年年底将达到100家，甚至更多。 随着投资者参与，公司计划扩大规模。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3130812",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "00时03分"
         },
         {
-          "title": "据The Information：SpaceXAI计划最早于周三发布与Cursor合作的新模型。",
-          "url": "https://flash.jin10.com/detail/20260708045337952800",
-          "source": "金十数据",
+          "title": "淡马锡投资组合价值突破4000亿美元，对AI的押注提升回报率",
+          "url": "https://wallstreetcn.com/livenews/3130810",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "深圳发布15个政务领域人工智能应用场景",
-          "url": "https://flash.jin10.com/detail/20260708103427275800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 21时56分]"
-        },
-        {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时56分]"
+          "time_info": "00时03分"
         },
         {
           "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
           "url": "https://www.cls.cn/detail/2420504",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时56分]"
-        },
-        {
-          "title": "Papi酱AI单曲《生气了》爆火",
-          "url": "https://www.toutiao.com/trending/7658713514379345961/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 10时55分]"
-        },
-        {
-          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
-          "url": "https://wallstreetcn.com/articles/3776319",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 01时11分]"
-        },
-        {
-          "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
-          "url": "https://wallstreetcn.com/livenews/3130197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 07时59分]"
-        },
-        {
-          "title": "如何看待 anthropic 最新发表的论文，发现了能对大模型诛心和 PUA 的 J SPACE？",
-          "url": "https://www.zhihu.com/question/2057860832793453851",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "贝恩资本高级顾问Steve Pagliuca：人工智能（AI）领域的增长部署将迎来10-20年的发展期。 量子计算将是叠加在AI之上的下一波技术浪潮。 体育资产估值可能会继续增长。 最终市场将对（目前的）定价产生抵制情绪。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3130202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "中信建投：AI PCB需求放量 高阶升级趋势明确",
-          "url": "https://flash.jin10.com/detail/20260708073246828800",
-          "source": "金十数据",
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "Meta在聊天机器人和Instagram中推出AI图像生成模型",
-          "url": "https://wallstreetcn.com/livenews/3130132",
-          "source": "华尔街见闻-快讯",
+          "title": "替代HBM4？英特尔公布AI内存新专利 采用定制化封装方案",
+          "url": "https://www.cls.cn/detail/2420295",
+          "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "国际货币基金组织：人工智能领域的调整可能带来潜在风险，这也可能影响韩国及其他国家。",
-          "url": "https://flash.jin10.com/detail/20260708213506185800",
-          "source": "金十数据",
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "人社部：到2030年人社行业大模型成熟完备，人工智能应用体系基本健全",
-          "url": "https://wallstreetcn.com/livenews/3130471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "国际货币基金组织：因人工智能硬件出口增长显著，已将韩国2026年的经济增长预测上调0.7个百分点。",
-          "url": "https://flash.jin10.com/detail/20260708213350693800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "告别“无差别上涨”，AI行情进入下半场",
-          "url": "https://wallstreetcn.com/livenews/3130209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "花旗：关注金蝶AI操作系统“灵基”下半年贡献",
-          "url": "https://flash.jin10.com/detail/20260708102512443800",
-          "source": "金十数据",
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
           "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "人社部：建立人社行业领域人工智能应用协调机制，积极拓宽资金支持渠道",
-          "url": "https://wallstreetcn.com/livenews/3130465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "VinFast(VFS.O)：与Autobrains正在河内评估机器人汽车架构，并计划进行国际测试。",
-          "url": "https://flash.jin10.com/detail/20260708182731679800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "人社部：加快建立人工智能就业影响评估体系，引导创新资源向创造就业潜力大的方向倾斜",
-          "url": "https://wallstreetcn.com/livenews/3130464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "澳洲养老基金UniSuper无视AI泡沫担忧，计划逢低买入科技股",
-          "url": "https://flash.jin10.com/detail/20260708130125726800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "VinFast(VFS.O)：与Autobrains就机器人汽车自动驾驶架构展开合作。将在下一代车型中引入增强型L2+和L2++级自动驾驶功能。正在对VF 8和VF 9车型的增强型L2++系统进行试点测试。",
-          "url": "https://flash.jin10.com/detail/20260708182635769800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "人社部：搭建人工智能应用平台，建设行业高质量数据集和人工智能语料库",
-          "url": "https://wallstreetcn.com/livenews/3130463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "贝恩资本高级顾问Steve Pagliuca：人工智能（AI）领域的增长部署将迎来10-20年的发展期。 量子计算将是叠加在AI之上的下一波技术浪潮。 体育资产估值可能会继续增长。 最终市场将对（目前的）定价产生抵制情绪。 往往根据10-20年为周期进行投资。 量子计算、AI、医疗保健将适合这样的策略。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3130202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "算力硬件、AI服务器概念盘初拉升，浪潮信息、威尔高、紫光股份涨停，锐捷网络、长盈通、星网锐捷、华丰科技涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3130284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "报道：SpaceXAI与Cursor计划最快于周三推出新模型",
-          "url": "https://wallstreetcn.com/livenews/3130175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时03分]"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 13时48分]"
-        },
-        {
-          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
-          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 07时59分]"
-        },
-        {
-          "title": "DeepSeek被曝自研芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时58分 ~ 07时59分]"
-        },
-        {
-          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
-          "url": "https://www.zhihu.com/question/2057753624717911009",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 01时11分]"
-        },
         {
           "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2058168270499176758",
@@ -446,290 +110,24 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时55分 ~ 21时56分]"
-        },
-        {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://www.toutiao.com/trending/7658530038409969718/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时58分]"
-        },
-        {
-          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗跑路，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2058168270499176758",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "[00时02分 ~ 00时03分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
-          "title": "市场消息：美国银行近日向OpenAI提供了一笔5.2亿美元的授信额度。",
-          "url": "https://flash.jin10.com/detail/20260708214015006800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "美银向OpenAI提供5.2亿美元信贷额度，以争取IPO承销席位。",
-          "url": "https://wallstreetcn.com/livenews/3130727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "微软部分应用改用自研AI 替代OpenAI和Anthropic",
-          "url": "https://flash.jin10.com/detail/20260708003008011800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "市场消息：微软(MSFT.O)在部分应用中以自研AI模型取代OpenAI和Anthropic的模型。<br/>",
-          "url": "https://flash.jin10.com/detail/20260708002232140800",
-          "source": "金十数据",
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
-          "url": "https://wallstreetcn.com/livenews/3130102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "再挖OpenAI！腾讯宣布OpenAI前研究员田永龙入职，参与VLM研发",
-          "url": "https://wallstreetcn.com/livenews/3130374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于周四公开发布。",
-          "url": "https://wallstreetcn.com/livenews/3130368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人 具身智能",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "人形机器人成高端制造出口新名片",
-          "url": "https://www.douyin.com/hot/2562518",
-          "source": "抖音",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 07时59分]"
-        },
-        {
-          "title": "我国人形机器人整机产量有望破十万台",
-          "url": "https://www.toutiao.com/trending/7659749336267640329/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 07时59分]"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落跌1.7%，算力租赁逆势走强，机器人、锂电概念股集体重挫",
-          "url": "https://www.cls.cn/detail/2420430",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时56分]"
-        },
-        {
-          "title": "券商晨会精华：机器人轴承不可忽视，国产新势力乘势而上",
-          "url": "https://www.cls.cn/detail/2419816",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 16时22分]"
-        },
-        {
-          "title": "深成指、创业板指均跌超2%，沪指跌0.43%，锂矿、玻璃基板、机器人、半导体芯片等方向跌幅居前，沪深京三市下跌个股超3500只。",
-          "url": "https://wallstreetcn.com/livenews/3130311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "《2026年机器人白皮书》：中国机器人出海加速，供应链成核心竞争力",
-          "url": "https://wallstreetcn.com/livenews/3130711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "深成指跌超1%，沪指跌0.12%，创业板指跌0.62%，机器人、锂矿、钛白粉、猪肉等方向跌幅居前，沪深京三市下跌个股近4200只。",
-          "url": "https://wallstreetcn.com/livenews/3130290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里 Qwen",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "港股科网股午后持续走高，阿里巴巴股价涨幅扩大至10%，为2025年9月以来最大。快手涨近7%，小米集团涨超6%，百度集团涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3130391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "阿里 全员卸载Claude",
-          "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E9%87%8C%20%E5%85%A8%E5%91%98%E5%8D%B8%E8%BD%BDClaude&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 16时22分]"
-        },
-        {
-          "title": "港股收评：科指大涨近5% 阿里巴巴大涨12%",
-          "url": "https://flash.jin10.com/detail/20260708161413082800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "阿里巴巴(09988.HK)大涨10%，涨幅为2025年9月以来最大，成交额超110亿港元。",
-          "url": "https://flash.jin10.com/detail/20260708130548746800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.58%，报5978.44点。 热门中概股里，日月光半导体初步收跌8.9%，蔚来、百度、拼多多、新东方、京东、百胜中国之多跌2.6%，阿里巴巴涨0.1%，腾讯涨1.9%，金山云涨3.2%，美团涨6%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收跌3.38%，XtrackersHarvest中证50（ASHS）收跌1.47%，德银嘉实沪深300指数ETF（ASHR）收跌1.27%。 中国科技指数ETF（CQQQ）收跌0.92%，中概互联网指数ETF（KWEB）收跌0.31%。",
-          "url": "https://wallstreetcn.com/livenews/3130156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
-          "url": "https://wallstreetcn.com/livenews/3130107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
-          "url": "https://wallstreetcn.com/livenews/3130159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时03分]"
         }
       ]
     },
@@ -738,17 +136,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "字节外包违规薅公司零食薅出了 1 万块被追责，那有没有安全、合法的「薅公司羊毛」的方式？",
-          "url": "https://www.zhihu.com/question/2057498157362013490",
-          "source": "知乎",
+          "title": "字节跳动上线多模态图像创作模型Seedream 5.0 Pro",
+          "url": "https://wallstreetcn.com/livenews/3130783",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7,
-            9
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人 具身智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【每日收评】创业板指冲高回落跌1.7%，算力租赁逆势走强，机器人、锂电概念股集体重挫",
+          "url": "https://www.cls.cn/detail/2420430",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 19时02分]"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 00时03分]"
         }
       ]
     }
