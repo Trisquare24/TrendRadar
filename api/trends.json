@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T15:10:34.876138+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-07-11T17:25:35.918500+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -17,11 +17,12 @@
             7,
             6,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 15时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 17时25分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -38,6 +39,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 15时10分]"
+        },
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时01分 ~ 17时25分]"
         },
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
@@ -61,20 +76,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时53分 ~ 08时07分]"
-        },
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 15时10分]"
         },
         {
           "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
@@ -105,11 +106,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时07分 ~ 15时10分]"
+          "appearance_count": 4,
+          "time_info": "[08时07分 ~ 17时25分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -120,8 +122,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 15时10分]"
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 17时25分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -135,6 +137,18 @@
           "time_info": "[12时11分 ~ 15时10分]"
         },
         {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 17时25分]"
+        },
+        {
           "title": "美国放宽对阿联酋的出口限制，为AI芯片销售打开大门",
           "url": "https://flash.jin10.com/detail/20260711003717069800",
           "source": "金十数据",
@@ -144,6 +158,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "美联储半年度报告：通胀今春进一步升温，AI基建成推高通胀新因素，重申稳定价格承诺",
+          "url": "https://wallstreetcn.com/articles/3776678",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "《功夫女足》上映 AI预测总票房超10亿",
@@ -177,17 +213,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
-        },
-        {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
         },
         {
           "title": "给哈兰德做了一支AI大片",
@@ -305,19 +330,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 15时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 17时25分]"
         },
         {
           "title": "宇树机器人给猪做手术登上Nature",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8C%AA%E5%81%9A%E6%89%8B%E6%9C%AF%E7%99%BB%E4%B8%8ANature",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 17时25分]"
         },
         {
           "title": "售价十几万的仿生机器人有何卖点",
