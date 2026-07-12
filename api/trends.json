@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T22:53:58.391378+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-07-12T23:57:14.168222+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时53分 ~ 22时53分]"
+          "appearance_count": 20,
+          "time_info": "[00时53分 ~ 23时57分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时53分 ~ 22时53分]"
+          "appearance_count": 20,
+          "time_info": "[00时53分 ~ 23时57分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -42,6 +42,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时53分 ~ 04时06分]"
+        },
+        {
+          "title": "人口第一大国，被AI做空了",
+          "url": "https://wallstreetcn.com/articles/3776722",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时56分 ~ 23时57分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -69,16 +81,16 @@
           "time_info": "[00时53分 ~ 07时53分]"
         },
         {
-          "title": "人口第一大国，被AI做空了",
-          "url": "https://wallstreetcn.com/articles/3776722",
+          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            3
+            7,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时56分 ~ 22时53分]"
+          "time_info": "[21时15分 ~ 23时57分]"
         },
         {
           "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
@@ -92,18 +104,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时25分 ~ 18时24分]"
-        },
-        {
-          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 22时53分]"
         },
         {
           "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
@@ -214,8 +214,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 22时53分]"
+          "appearance_count": 7,
+          "time_info": "[18时24分 ~ 23时57分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
