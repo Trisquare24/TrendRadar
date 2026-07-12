@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T06:44:29.087897+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-07-13T07:51:07.163903+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3776722",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 07时51分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -27,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 07时51分]"
         },
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -38,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 07时51分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -62,14 +63,14 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 06时44分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 07时51分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -79,8 +80,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 06时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 07时51分]"
+        },
+        {
+          "title": "OpenAI宣称攻克CDC猜想",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E7%A7%B0%E6%94%BB%E5%85%8BCDC%E7%8C%9C%E6%83%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时50分 ~ 07时51分]"
         }
       ]
     }
