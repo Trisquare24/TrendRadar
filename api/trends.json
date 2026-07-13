@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T10:27:05.707139+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-07-13T14:13:18.873516+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 10,
+      "match_count": 17,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 10时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 14时13分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -58,11 +58,12 @@
           "url": "https://wallstreetcn.com/articles/3776632",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 14时13分]"
         },
         {
           "title": "AI是如何“杀死”印度IT行业的",
@@ -76,6 +77,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时58分 ~ 07时51分]"
+        },
+        {
+          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 14时13分]"
+        },
+        {
+          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 14时13分]"
         },
         {
           "title": "手机成大模型竞争新赛场 AI“超级载体”利好哪些硬件环节？",
@@ -100,26 +125,81 @@
           "time_info": "[10时26分 ~ 10时27分]"
         },
         {
-          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
-          "source": "澎湃新闻",
+          "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
+          "url": "https://www.cls.cn/detail/2424196",
+          "source": "财联社热门",
           "ranks": [
-            17
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
-          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
-          "source": "澎湃新闻",
+          "title": "A股AI应用概念局部异动，中国软件直线涨停，浪潮软件触及涨停，国子软件、绿盟科技、诚迈科技、久其软件等快速冲高。",
+          "url": "https://wallstreetcn.com/livenews/3132644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "“存储双雄”又暴跌！韩国央行发声：AI驱动的芯片超级周期将持续",
+          "url": "https://www.cls.cn/detail/2424084",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "A股AI应用概念局部异动，中国软件直线涨停，浪潮软件触及涨停，国子软件、绿盟科技、诚迈科技、久其软件等快速冲高。",
+          "url": "https://flash.jin10.com/detail/20260713134245676800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "韩国总统李在明：将设立“未来应对基金”，将超额税收收入引导至有成效的未来投资项目。将政府支持引导至芯片、AI数据中心和物理AI三大巨型项目。",
+          "url": "https://wallstreetcn.com/livenews/3132624",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "韩国总统李在明：将设立“未来应对基金”，将超额税收收入引导至生产性未来投资。 将高于趋势水平的税收收入投资于青年、增长引擎、地区和人才。 将政府支持引导至芯片、AI数据中心和物理AI三大巨型项目。",
+          "url": "https://wallstreetcn.com/livenews/3132623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "特斯拉次时代AI芯片AI5，已完成设计定案，即将进入大规模量产准备阶段。该芯片由三星电子德州泰勒厂采用2纳米制程制造。 (台湾电子时报)",
+          "url": "https://wallstreetcn.com/livenews/3132618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     },
@@ -132,11 +212,12 @@
           "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 10时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 14时13分]"
         },
         {
           "title": "OpenAI宣称攻克CDC猜想",
@@ -182,11 +263,12 @@
           "url": "https://www.zhihu.com/question/2059117314616907688",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 14时13分]"
         }
       ]
     },
@@ -201,7 +283,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
