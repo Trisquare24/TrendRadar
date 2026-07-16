@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T20:19:36.832711+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2026-07-16T22:59:17.187763+08:00",
+  "total_titles_processed": 1720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 61,
+      "match_count": 68,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -51,11 +51,12 @@
             10,
             9,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时57分 ~ 20时19分]"
+          "appearance_count": 11,
+          "time_info": "[06时57分 ~ 22时59分]"
         },
         {
           "title": "国行苹果AI完成备案",
@@ -112,6 +113,17 @@
           "time_info": "[10时35分 ~ 13时37分]"
         },
         {
+          "title": "世界人工智能合作组织协定签署",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E5%8D%8F%E5%AE%9A%E7%AD%BE%E7%BD%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
+        },
+        {
           "title": "世界人工智能大会逛展攻略来了",
           "url": "https://www.douyin.com/hot/2570881",
           "source": "抖音",
@@ -125,6 +137,41 @@
           "time_info": "[06时57分 ~ 13时37分]"
         },
         {
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时37分 ~ 22时59分]"
+        },
+        {
+          "title": "世界人工智能合作组织协定签署仪式举行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33599928",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
+        },
+        {
+          "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
+          "url": "https://www.cls.cn/detail/2428746",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
+        },
+        {
           "title": "礼来将以每股6.75美元现金加CVR收购AtaiBeckley。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3135027",
           "source": "华尔街见闻-快讯",
@@ -136,13 +183,27 @@
           "time_info": "18时56分"
         },
         {
+          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时06分 ~ 22时59分]"
+        },
+        {
           "title": "世界人工智能合作组织协定签署仪式举行。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3135070",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -153,7 +214,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -180,17 +241,17 @@
           "time_info": "10时36分"
         },
         {
-          "title": "花钱就看这?功夫女足公开用AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
-          "source": "贴吧",
+          "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            16,
-            22
+            17,
+            15,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时37分 ~ 20时19分]"
+          "time_info": "[18时55分 ~ 22时59分]"
         },
         {
           "title": "AirNow：美国纽约市空气质量指数现在为“中等”。",
@@ -217,19 +278,6 @@
           "time_info": "[10时35分 ~ 16时06分]"
         },
         {
-          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时06分 ~ 20时19分]"
-        },
-        {
           "title": "披着AI外衣的现实短片",
           "url": "https://www.douyin.com/hot/2573340",
           "source": "抖音",
@@ -254,18 +302,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时35分 ~ 16时06分]"
-        },
-        {
-          "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 20时19分]"
         },
         {
           "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
@@ -303,6 +339,17 @@
           "time_info": "[05时57分 ~ 06时57分]"
         },
         {
+          "title": "经纬度：在上海，WAIC见证人工智能改变未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583299",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
+        },
+        {
           "title": "面对 AI 冲击，职场人应该赌「专业深度」还是拼「跨界广度」？",
           "url": "https://www.zhihu.com/question/2058593716542222509",
           "source": "知乎",
@@ -336,6 +383,17 @@
           "time_info": "[18时55分 ~ 18时56分]"
         },
         {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://wallstreetcn.com/livenews/3135148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
+        },
+        {
           "title": "英伟达：推出全新Jetson Thor计算机，以推进主流机器人技术和边缘人工智能（Edge AI）。 日本企业正利用NVIDIA Nemotron开源模型构建AI模型。 使用NVIDIA Nemotron的公司包括引能仕、NTT DATA和日立。 扩大与丰田的合作伙伴关系，以推进汽车、机器人和城市领域的具身智能。",
           "url": "https://wallstreetcn.com/livenews/3134643",
           "source": "华尔街见闻-快讯",
@@ -353,9 +411,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
+        },
+        {
+          "title": "选民炸锅！AI数据中心从地方争端升级成政治火药桶",
+          "url": "https://flash.jin10.com/detail/20260716222937201800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "国会山作证第二天，沃什称：AI造成的价格效应未必推高通胀",
@@ -551,7 +620,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -565,6 +634,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "美银CEO加入警告“Mythos”AI风险的银行高管行列",
+          "url": "https://flash.jin10.com/detail/20260716222023330800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "日本拟采购2.75万颗英伟达Rubin芯片 开发本土机器人AI模型",
@@ -584,7 +664,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -617,7 +697,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -650,7 +730,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -705,7 +785,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         }
@@ -727,8 +807,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时35分 ~ 20时19分]"
+          "appearance_count": 9,
+          "time_info": "[10时35分 ~ 22时59分]"
         },
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -794,7 +874,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -955,18 +1035,30 @@
           "source": "今日头条",
           "ranks": [
             15,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 20时19分]"
+          "appearance_count": 5,
+          "time_info": "[18时55分 ~ 22时59分]"
         }
       ]
     },
     {
       "keyword_group": "机器人 具身智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "格斗赛机器人头被打飞 甄子丹看呆",
+          "url": "https://www.baidu.com/s?wd=%E6%A0%BC%E6%96%97%E8%B5%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%B4%E8%A2%AB%E6%89%93%E9%A3%9E+%E7%94%84%E5%AD%90%E4%B8%B9%E7%9C%8B%E5%91%86",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时58分 ~ 22时59分]"
+        },
         {
           "title": "机器人灵巧手大降价 全球人形机器人市场规模将破200亿元",
           "url": "https://flash.jin10.com/detail/20260716192415285800",
@@ -974,7 +1066,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -985,9 +1077,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "月之暗面Kimi K3已经开始向用户提供使用",
+          "url": "https://flash.jin10.com/detail/20260716220404472800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         }
       ]
     }
