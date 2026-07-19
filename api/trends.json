@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T21:09:58.315348+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2026-07-19T22:52:52.245434+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 87,
+      "match_count": 92,
       "titles": [
         {
           "title": "《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误",
@@ -98,8 +98,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时05分 ~ 21时09分]"
+          "appearance_count": 11,
+          "time_info": "[04时05分 ~ 22时52分]"
         },
         {
           "title": "美企抄袭中国AI玩双标被点名",
@@ -191,6 +191,18 @@
           "time_info": "[16时11分 ~ 19时55分]"
         },
         {
+          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
+          "url": "https://www.cls.cn/detail/2430318",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时22分 ~ 22时52分]"
+        },
+        {
           "title": "报道：白宫正主导前沿AI模型的访问权限，权力正从科技巨头手中转移",
           "url": "https://wallstreetcn.com/livenews/3136069",
           "source": "华尔街见闻-快讯",
@@ -225,6 +237,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时54分 ~ 07时51分]"
+        },
+        {
+          "title": "中国大模型首次登顶全球代码榜",
+          "url": "https://www.douyin.com/hot/2577641",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 22时52分]"
         },
         {
           "title": "阿里云WAIC论坛： “AI爆发不靠一两颗芯片”、SaaS将转向“按结果付费”、模型不再是唯一核心",
@@ -273,18 +296,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时54分 ~ 05时47分]"
-        },
-        {
-          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
-          "url": "https://www.cls.cn/detail/2430318",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时22分 ~ 21时09分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -346,17 +357,6 @@
           "time_info": "13时48分"
         },
         {
-          "title": "中国大模型首次登顶全球代码榜",
-          "url": "https://www.douyin.com/hot/2577641",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
           "title": "AI赋能先进核能凝练八大共识",
           "url": "https://www.toutiao.com/trending/7663872937329430062/",
           "source": "今日头条",
@@ -366,6 +366,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
+          "url": "https://wallstreetcn.com/livenews/3136307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
+          "url": "https://www.cls.cn/detail/2430367",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时11分 ~ 22时52分]"
         },
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -392,18 +417,29 @@
           "time_info": "[19时55分 ~ 21时09分]"
         },
         {
-          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
-          "url": "https://www.cls.cn/detail/2430367",
-          "source": "财联社热门",
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            9,
-            8,
-            7
+            7,
+            6,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时11分 ~ 21时09分]"
+          "time_info": "[18时25分 ~ 22时52分]"
+        },
+        {
+          "title": "“中国AI只差两三个月”，硅谷坐不住了",
+          "url": "https://news.ifeng.com/c/8ut3mOkXOOH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 22时52分]"
         },
         {
           "title": "诊疗方案与病历书写两大赛道，全国上百支队伍在沪比拼AI临床应用",
@@ -468,28 +504,16 @@
           "time_info": "[00时54分 ~ 16时11分]"
         },
         {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
+          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
+          "url": "https://www.zhihu.com/question/2061156114658485568",
+          "source": "知乎",
           "ranks": [
-            7,
-            6
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时25分 ~ 21时09分]"
-        },
-        {
-          "title": "“中国AI只差两三个月”，硅谷坐不住了",
-          "url": "https://news.ifeng.com/c/8ut3mOkXOOH",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 21时09分]"
+          "time_info": "[19时55分 ~ 22时52分]"
         },
         {
           "title": "国产AI算力迈入万卡集群时代：超节点市场刚起步，供应链依旧紧张",
@@ -513,6 +537,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时54分 ~ 05时47分]"
+        },
+        {
+          "title": "Kimi K3让全球AI圈炸锅了",
+          "url": "https://www.toutiao.com/trending/7664192249667784198/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 22时52分]"
         },
         {
           "title": "有道AI耳机在WAIC首秀：让会议记录变成“可追问的Agent”",
@@ -562,15 +598,16 @@
           "time_info": "[19时55分 ~ 21时09分]"
         },
         {
-          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
-          "url": "https://www.zhihu.com/question/2061156114658485568",
-          "source": "知乎",
+          "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
+          "url": "https://wallstreetcn.com/livenews/3136278",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时55分 ~ 21时09分]"
+          "time_info": "[21时09分 ~ 22时52分]"
         },
         {
           "title": "世界两大AI组织都是狠角色",
@@ -619,17 +656,6 @@
           "time_info": "[19时55分 ~ 21时09分]"
         },
         {
-          "title": "Kimi K3让全球AI圈炸锅了",
-          "url": "https://www.toutiao.com/trending/7664192249667784198/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
           "title": "多份AI安全治理成果在上海集中发布",
           "url": "https://wallstreetcn.com/livenews/3136115",
           "source": "华尔街见闻-快讯",
@@ -661,6 +687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "Kimi K3让美国AI巨头慌了",
+          "url": "https://www.baidu.com/s?wd=Kimi+K3%E8%AE%A9%E7%BE%8E%E5%9B%BDAI%E5%B7%A8%E5%A4%B4%E6%85%8C%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "WAIC AI会客厅回顾",
@@ -702,7 +739,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -751,15 +788,15 @@
           "time_info": "10时22分"
         },
         {
-          "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
-          "url": "https://wallstreetcn.com/livenews/3136278",
-          "source": "华尔街见闻-快讯",
+          "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614666",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时09分"
+          "time_info": "22时52分"
         },
         {
           "title": "响应“AI牛股”激励风向 阿斯麦将向全体员工发放2万欧元大红包",
@@ -839,6 +876,17 @@
           "time_info": "16时11分"
         },
         {
+          "title": "中国气象局总工程师潘进军：下一步将推动AI气象从“能预测”向“可信赖、可业务化”转变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614137",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "后摩智能WAIC展出M50芯片落地的多款AI终端，10W功耗下算力达160 TOPS",
           "url": "https://wallstreetcn.com/livenews/3136130",
           "source": "华尔街见闻-快讯",
@@ -872,13 +920,24 @@
           "time_info": "10时22分"
         },
         {
+          "title": "无锡梁溪区组团参访2026世界人工智能大会：AI浪潮中梁溪该怎么干？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33614322",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "用AI预测西班牙vs阿根廷",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
           "source": "bilibili 热搜",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1048,11 +1107,36 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时55分 ~ 22时52分]"
+        },
+        {
+          "title": "创通联达具身智能产品TurboX IRB10全球首发落地",
+          "url": "https://wallstreetcn.com/livenews/3136277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
             30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时55分 ~ 21时09分]"
+          "time_info": "[21时09分 ~ 22时52分]"
+        },
+        {
+          "title": "中国机器人现在有多疯狂",
+          "url": "https://www.toutiao.com/trending/7664204045283757611/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 22时52分]"
         },
         {
           "title": "地瓜机器人携手芯视界，推出行业首个专为具身机器人打造的1:1面阵固态激光雷达方案",
@@ -1121,17 +1205,6 @@
           "time_info": "19时55分"
         },
         {
-          "title": "创通联达具身智能产品TurboX IRB10全球首发落地",
-          "url": "https://wallstreetcn.com/livenews/3136277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
           "title": "监管部门急开闭门会，探讨情感机器人万亿市场与合规困局",
           "url": "https://wallstreetcn.com/livenews/3136247",
           "source": "华尔街见闻-快讯",
@@ -1141,17 +1214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
-        },
-        {
-          "title": "中国机器人现在有多疯狂",
-          "url": "https://www.toutiao.com/trending/7664204045283757611/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
         },
         {
           "title": "优必选携手韩国伙伴，推动人形机器人落地汽车零部件制造场景",
@@ -1273,11 +1335,12 @@
             24,
             26,
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 21时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 22时52分]"
         },
         {
           "title": "Kimi K3测评报告",
@@ -1303,8 +1366,21 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时11分 ~ 22时52分]"
+        },
+        {
+          "title": "马斯克宣称要赶超Kimi",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            20,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时11分 ~ 21时09分]"
+          "time_info": "[18时25分 ~ 22时52分]"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
@@ -1317,18 +1393,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时48分 ~ 18时25分]"
-        },
-        {
-          "title": "马斯克宣称要赶超Kimi",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E7%A7%B0%E8%A6%81%E8%B5%B6%E8%B6%85Kimi%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 21时09分]"
         },
         {
           "title": "曝Kimi最快6个月内完成港股上市",
@@ -1378,8 +1442,19 @@
     },
     {
       "keyword_group": "阿里 Qwen",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "如何评价 7 月 19 日上线的阿里 Qwen 3.8 Max Preview 模型？其性能如何？",
+          "url": "https://www.zhihu.com/question/2062219946885657098",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
         {
           "title": "阿里Token Plan个人版发布，Qwen3.8-Max预览版同步上线",
           "url": "https://flash.jin10.com/detail/20260719185426934800",
@@ -1479,8 +1554,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 21时09分]"
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 22时52分]"
         },
         {
           "title": "Kimi K3重演“DeepSeek时刻”",
@@ -1517,11 +1592,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 19时55分]"
+          "appearance_count": 5,
+          "time_info": "[13时48分 ~ 22时52分]"
         },
         {
           "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
