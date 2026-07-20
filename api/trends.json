@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T06:57:03.389214+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-07-21T07:56:03.930703+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "今天为什么需要世界人工智能大会",
@@ -15,8 +15,47 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 07时56分]"
+        },
+        {
+          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
+          "url": "https://wallstreetcn.com/articles/3777388",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 07时56分]"
+        },
+        {
+          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 07时56分]"
+        },
+        {
+          "title": "清华姚班 全球AI半壁江山",
+          "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%20%E5%85%A8%E7%90%83AI%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            5,
+            7,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 07时56分]"
         },
         {
           "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
@@ -30,44 +69,6 @@
           "time_info": "[01时57分 ~ 05时09分]"
         },
         {
-          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
-          "url": "https://wallstreetcn.com/articles/3777388",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 06时57分]"
-        },
-        {
-          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 06时57分]"
-        },
-        {
-          "title": "清华姚班 全球AI半壁江山",
-          "url": "https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%20%E5%85%A8%E7%90%83AI%E5%8D%8A%E5%A3%81%E6%B1%9F%E5%B1%B1&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            5,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 06时57分]"
-        },
-        {
           "title": "AI不准用,日本漫画家被迫停更",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
           "source": "贴吧",
@@ -76,8 +77,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 07时56分]"
         },
         {
           "title": "王祖贤肖像授权网易AI",
@@ -88,8 +89,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 07时56分]"
         },
         {
           "title": "建议普通人都尽早用上AI",
@@ -98,11 +99,23 @@
           "ranks": [
             21,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 07时56分]"
+        },
+        {
+          "title": "WAIC预计达成超200亿元意向采购金额",
+          "url": "https://s.weibo.com/weibo?q=%23WAIC%E9%A2%84%E8%AE%A1%E8%BE%BE%E6%88%90%E8%B6%85200%E4%BA%BF%E5%85%83%E6%84%8F%E5%90%91%E9%87%87%E8%B4%AD%E9%87%91%E9%A2%9D%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 07时56分]"
         },
         {
           "title": "市场消息：Anthropic与作者团体达成15亿美元版权和解，以终结其因下载数百万本盗版书籍训练AI引发的集体诉讼。",
@@ -115,6 +128,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 06时57分]"
+        },
+        {
+          "title": "WAIC机器人格斗拳拳到铁",
+          "url": "https://www.douyin.com/hot/2576677",
+          "source": "抖音",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时56分 ~ 07时56分]"
         },
         {
           "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
@@ -140,15 +165,15 @@
           "time_info": "[05时09分 ~ 06时57分]"
         },
         {
-          "title": "WAIC机器人格斗拳拳到铁",
-          "url": "https://www.douyin.com/hot/2576677",
-          "source": "抖音",
+          "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
+          "url": "https://www.cls.cn/detail/2431826",
+          "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时56分 ~ 06时57分]"
+          "time_info": "[07时55分 ~ 07时56分]"
         },
         {
           "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
@@ -166,11 +191,12 @@
           "url": "https://wallstreetcn.com/livenews/3137105",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时57分 ~ 07时56分]"
         }
       ]
     },
@@ -183,11 +209,12 @@
           "url": "https://wallstreetcn.com/livenews/3137118",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时57分 ~ 07时56分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.90%，报6337.52点，（高开之后）美股早盘呈现出V形走势，北京时间00:33刷新日高至6397.94点，之后再次回吐涨幅。 热门中概股里，阿里巴巴初步收涨4.7%，腾讯涨3.6%，百度涨2.4%，拼多多涨2.3%，网易涨2.2%，小鹏则跌2.6%，日月光半导体跌3.7%。 ETF中，中概互联网指数ETF（KWEB）收涨2.35%，中国科技指数ETF（CQQQ）收涨0.22%。 德银嘉实沪深300指数ETF（ASHR）收涨1.04%，MSCI新兴市场ex中国ETF（EMXC）收跌0.12%，XtrackersHarvest中证50（ASHS）收跌1.39%。",
@@ -207,7 +234,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
         },
@@ -236,11 +263,12 @@
             15,
             13,
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 07时56分]"
         },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
@@ -258,11 +286,12 @@
           "url": "https://www.zhihu.com/question/2061868472049652679",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 06时57分]"
+          "appearance_count": 4,
+          "time_info": "[06时56分 ~ 07时56分]"
         }
       ]
     },
@@ -279,19 +308,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 07时56分]"
         },
         {
           "title": "更多Token、更多芯片！Kimi K3体现“杰文斯悖论”，效率提升反而增加资源消耗",
           "url": "https://wallstreetcn.com/articles/3777389",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 07时56分]"
         }
       ]
     },
@@ -325,8 +355,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 06时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 07时56分]"
         }
       ]
     }
