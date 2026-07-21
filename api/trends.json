@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T13:47:37.192191+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-07-21T16:22:12.784733+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "今天为什么需要世界人工智能大会",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时57分 ~ 13时47分]"
+          "appearance_count": 12,
+          "time_info": "[01时57分 ~ 16时22分]"
         },
         {
           "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
@@ -50,11 +50,12 @@
             10,
             11,
             13,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时57分 ~ 13时47分]"
+          "appearance_count": 12,
+          "time_info": "[01时57分 ~ 16时22分]"
         },
         {
           "title": "王祖贤肖像授权网易AI",
@@ -64,11 +65,12 @@
             12,
             13,
             15,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时57分 ~ 13时47分]"
+          "appearance_count": 12,
+          "time_info": "[01时57分 ~ 16时22分]"
         },
         {
           "title": "清华姚班 全球AI半壁江山",
@@ -122,17 +124,6 @@
           "time_info": "[07时55分 ~ 07时56分]"
         },
         {
-          "title": "Rain喊话NiKo大表哥对决",
-          "url": "https://search.bilibili.com/all?keyword=Rain%E5%96%8A%E8%AF%9DNiKo%E5%A4%A7%E8%A1%A8%E5%93%A5%E5%AF%B9%E5%86%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
           "title": "超节点、超集群、TPU方案涌现 算力“拼系统”时代产业最关心Token性价比|WAIC观察",
           "url": "https://www.cls.cn/detail/2432010",
           "source": "财联社热门",
@@ -141,8 +132,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时22分 ~ 16时22分]"
+        },
+        {
+          "title": "Rain喊话NiKo大表哥对决",
+          "url": "https://search.bilibili.com/all?keyword=Rain%E5%96%8A%E8%AF%9DNiKo%E5%A4%A7%E8%A1%A8%E5%93%A5%E5%AF%B9%E5%86%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 16时22分]"
         },
         {
           "title": "市场消息：Anthropic与作者团体达成15亿美元版权和解，以终结其因下载数百万本盗版书籍训练AI引发的集体诉讼。",
@@ -169,6 +172,18 @@
           "time_info": "[06时56分 ~ 07时56分]"
         },
         {
+          "title": "抛售已近尾声？瑞银喊话：逢低买入AI与半导体股时机已到",
+          "url": "https://www.cls.cn/detail/2432258",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 16时22分]"
+        },
+        {
           "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
           "url": "https://wallstreetcn.com/articles/3777377",
           "source": "华尔街见闻",
@@ -178,6 +193,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时57分 ~ 03时44分]"
+        },
+        {
+          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
+          "url": "https://wallstreetcn.com/articles/3777491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 16时22分]"
         },
         {
           "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
@@ -191,6 +217,30 @@
           "time_info": "[07时55分 ~ 10时22分]"
         },
         {
+          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 16时22分]"
+        },
+        {
+          "title": "对话︱图灵奖得主萨顿：智慧并不等于知识的堆砌，AI迈向“经验时代”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33620327",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 16时22分]"
+        },
+        {
           "title": "美国为何急着打压中国开源大模型",
           "url": "https://www.toutiao.com/trending/7663664769782431787/",
           "source": "今日头条",
@@ -201,6 +251,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时09分 ~ 06时57分]"
+        },
+        {
+          "title": "AI的猴子为什么能让菲律宾“破防”",
+          "url": "https://www.toutiao.com/trending/7664683124179337279/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
+        {
+          "title": "锁定万亿订单就能躺赚？这可能是AI产业链条上最大的“伪命题”！",
+          "url": "https://www.cls.cn/detail/2432387",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
+        {
+          "title": "AI 的「最后一公里」，还要走多久？",
+          "url": "https://www.zhihu.com/question/2058520434031555606",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "中国 K3 大模型震惊 AI 界，美巨头高价模式还能撑多久？",
@@ -226,15 +309,15 @@
           "time_info": "[06时57分 ~ 07时56分]"
         },
         {
-          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
-          "url": "https://wallstreetcn.com/articles/3777491",
-          "source": "华尔街见闻",
+          "title": "AI都扛不住反复焦虑的人",
+          "url": "https://s.weibo.com/weibo?q=AI%E9%83%BD%E6%89%9B%E4%B8%8D%E4%BD%8F%E5%8F%8D%E5%A4%8D%E7%84%A6%E8%99%91%E7%9A%84%E4%BA%BA&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "港股大模型概念股走高，智谱涨近30%，MINIMAX涨近13%。",
@@ -243,7 +326,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -254,40 +337,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "抛售已近尾声？瑞银喊话：逢低买入AI与半导体股时机已到",
-          "url": "https://www.cls.cn/detail/2432258",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "对话︱图灵奖得主萨顿：智慧并不等于知识的堆砌，AI迈向“经验时代”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33620327",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -298,7 +348,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -309,7 +359,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -331,9 +381,83 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "字节 Kimi 豆包",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "Kimi：算力紧缺，即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户",
+          "url": "https://wallstreetcn.com/articles/3777376",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时57分 ~ 07时56分]"
+        },
+        {
+          "title": "更多Token、更多芯片！Kimi K3体现“杰文斯悖论”，效率提升反而增加资源消耗",
+          "url": "https://wallstreetcn.com/articles/3777389",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时57分 ~ 10时22分]"
+        },
+        {
+          "title": "我在豆包养宠物",
+          "url": "https://www.douyin.com/hot/2579333",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
+        {
+          "title": "Kimi官方欢迎马斯克来挑战",
+          "url": "https://www.toutiao.com/trending/7664222968784502838/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
+        {
+          "title": "Kimi称欢迎马斯克加入",
+          "url": "https://s.weibo.com/weibo?q=%23Kimi%E7%A7%B0%E6%AC%A2%E8%BF%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8A%A0%E5%85%A5%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "Kimi负责人回应三大争议：SOTA模型应有自己的定价权",
+          "url": "https://wallstreetcn.com/livenews/3137428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
@@ -385,6 +509,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "影视飓风",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "影视飓风被吐槽演松弛感白人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356370&amp;topic_name=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E8%A2%AB%E5%90%90%E6%A7%BD%E6%BC%94%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%99%BD%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
+        {
+          "title": "影视飓风被指一群员工陪老板演松弛感白人，影视飓风回应「解读太恶毒」，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2062642099518795923",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时22分 ~ 16时22分]"
+        },
+        {
+          "title": "影视飓风回怼博主恶意解读",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E5%9B%9E%E6%80%BC%E5%8D%9A%E4%B8%BB%E6%81%B6%E6%84%8F%E8%A7%A3%E8%AF%BB%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "影视飓风去年参保人数为122人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E5%8E%BB%E5%B9%B4%E5%8F%82%E4%BF%9D%E4%BA%BA%E6%95%B0%E4%B8%BA122%E4%BA%BA%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         }
       ]
     },
@@ -464,91 +639,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 13时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "字节 Kimi 豆包",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Kimi：算力紧缺，即日起暂停C端新用户订阅，将已有算力全部投入于服务已订阅用户",
-          "url": "https://wallstreetcn.com/articles/3777376",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时57分 ~ 07时56分]"
-        },
-        {
-          "title": "更多Token、更多芯片！Kimi K3体现“杰文斯悖论”，效率提升反而增加资源消耗",
-          "url": "https://wallstreetcn.com/articles/3777389",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时57分 ~ 10时22分]"
-        },
-        {
-          "title": "Kimi称欢迎马斯克加入",
-          "url": "https://s.weibo.com/weibo?q=%23Kimi%E7%A7%B0%E6%AC%A2%E8%BF%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8A%A0%E5%85%A5%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "影视飓风",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "影视飓风被指一群员工陪老板演松弛感白人，影视飓风回应「解读太恶毒」，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2062642099518795923",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 13时47分]"
-        },
-        {
-          "title": "影视飓风回怼博主恶意解读",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E5%9B%9E%E6%80%BC%E5%8D%9A%E4%B8%BB%E6%81%B6%E6%84%8F%E8%A7%A3%E8%AF%BB%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "影视飓风去年参保人数为122人",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8E%E5%8E%BB%E5%B9%B4%E5%8F%82%E4%BF%9D%E4%BA%BA%E6%95%B0%E4%B8%BA122%E4%BA%BA%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
+          "appearance_count": 4,
+          "time_info": "[10时22分 ~ 16时22分]"
         }
       ]
     },
@@ -562,22 +658,24 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时22分 ~ 16时22分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 16时22分]"
         }
       ]
     },
