@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T18:37:21.628484+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2026-07-25T20:02:18.324444+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -19,6 +19,33 @@
           "time_info": "[00时33分 ~ 06时03分]"
         },
         {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时28分 ~ 20时02分]"
+        },
+        {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时28分 ~ 20时02分]"
+        },
+        {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
           "url": "https://wallstreetcn.com/articles/3777849",
           "source": "华尔街见闻",
@@ -29,19 +56,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时33分 ~ 11时28分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时28分 ~ 18时37分]"
         },
         {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
@@ -70,17 +84,18 @@
           "time_info": "[00时33分 ~ 11时28分]"
         },
         {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
           "ranks": [
-            8,
-            6,
+            18,
+            12,
+            13,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时28分 ~ 18时37分]"
+          "appearance_count": 6,
+          "time_info": "[14时14分 ~ 20时02分]"
         },
         {
           "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
@@ -89,11 +104,12 @@
           "ranks": [
             3,
             8,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时15分 ~ 18时37分]"
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 20时02分]"
         },
         {
           "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
@@ -102,11 +118,12 @@
           "ranks": [
             4,
             9,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时15分 ~ 18时37分]"
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 20时02分]"
         },
         {
           "title": "韩国科学部：SK集团将与Anthropic在韩国推进千兆瓦级AI数据中心项目投资合作。",
@@ -115,11 +132,12 @@
           "ranks": [
             5,
             10,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时15分 ~ 18时37分]"
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 20时02分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -131,19 +149,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 04时18分]"
-        },
-        {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时14分 ~ 18时37分]"
         },
         {
           "title": "AI重现狼牙山五壮士英雄壮举",
@@ -170,6 +175,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时16分 ~ 06时03分]"
+        },
+        {
+          "title": "马斯克：中国很有可能成AI领导者",
+          "url": "https://www.toutiao.com/trending/7666381434109578761/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 20时02分]"
+        },
+        {
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
+        },
+        {
+          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
+          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "穆迪警告：“史无前例”的AI支出正威胁亚马逊、Meta、Alphabet等企业的信用质量",
@@ -205,17 +244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
-        },
-        {
-          "title": "马斯克：中国很有可能成AI领导者",
-          "url": "https://www.toutiao.com/trending/7666381434109578761/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
         },
         {
           "title": "SpaceX股价大跌后或迎来机会 摩根士丹利分析师看好其AI业务估值",
@@ -301,7 +329,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -412,17 +440,6 @@
           "time_info": "[00时33分 ~ 11时28分]"
         },
         {
-          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://wallstreetcn.com/livenews/3139736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
           "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
           "url": "https://flash.jin10.com/detail/20260725000422924800",
           "source": "金十数据",
@@ -457,15 +474,28 @@
           "time_info": "[00时33分 ~ 02时17分]"
         },
         {
+          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://wallstreetcn.com/livenews/3139736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 20时02分]"
+        },
+        {
           "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
           "url": "https://flash.jin10.com/detail/20260725172016965800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 20时02分]"
         },
         {
           "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
@@ -507,7 +537,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         }
@@ -568,6 +598,20 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "杨植麟团队 KimiK3 拥有 2.8 万亿参数且团队最小成员仅 17 岁，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2063822441583993476",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时14分 ~ 20时02分]"
+        },
+        {
           "title": "豆包帮我拍广告大片",
           "url": "https://www.douyin.com/hot/2582352",
           "source": "抖音",
@@ -579,19 +623,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时33分 ~ 06时03分]"
-        },
-        {
-          "title": "杨植麟团队 KimiK3 拥有 2.8 万亿参数且团队最小成员仅 17 岁，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2063822441583993476",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时14分 ~ 18时37分]"
         },
         {
           "title": "把豆包逼出来幸福者退让了",
