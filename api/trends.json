@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T03:20:03.313908+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-07-27T04:55:02.136127+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时55分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
@@ -27,8 +27,70 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时55分]"
+        },
+        {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时55分]"
+        },
+        {
+          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
+          "url": "https://www.cls.cn/detail/2437146",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时55分]"
+        },
+        {
+          "title": "AI冲击短剧行业 “戏王”也扛不住了",
+          "url": "https://www.baidu.com/s?wd=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A+%E2%80%9C%E6%88%8F%E7%8E%8B%E2%80%9D%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时55分]"
+        },
+        {
+          "title": "谁还没跳ACAI拖拉机舞",
+          "url": "https://www.douyin.com/hot/2586099",
+          "source": "抖音",
+          "ranks": [
+            23,
+            24,
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时55分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时55分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -44,65 +106,27 @@
           "time_info": "[00时55分 ~ 03时20分]"
         },
         {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
+          "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
+          "url": "https://flash.jin10.com/detail/20260727043919947800",
+          "source": "金十数据",
           "ranks": [
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         },
         {
-          "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
-          "url": "https://www.cls.cn/detail/2437146",
-          "source": "财联社热门",
+          "title": "AI短剧《被裁掉的女孩》播放破2亿",
+          "url": "https://www.toutiao.com/trending/7665929964277006363/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            9
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时20分]"
-        },
-        {
-          "title": "AI冲击短剧行业 “戏王”也扛不住了",
-          "url": "https://www.baidu.com/s?wd=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A+%E2%80%9C%E6%88%8F%E7%8E%8B%E2%80%9D%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时20分]"
-        },
-        {
-          "title": "谁还没跳ACAI拖拉机舞",
-          "url": "https://www.douyin.com/hot/2586099",
-          "source": "抖音",
-          "ranks": [
-            23,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时20分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[03时19分 ~ 04时55分]"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
@@ -112,19 +136,30 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 03时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时55分]"
         },
         {
-          "title": "AI短剧《被裁掉的女孩》播放破2亿",
-          "url": "https://www.toutiao.com/trending/7665929964277006363/",
-          "source": "今日头条",
+          "title": "特朗普在社交平台上发布伊朗油轮被炸毁的AI图片，并配文“动能已经耗尽”。",
+          "url": "https://flash.jin10.com/detail/20260727041540869800",
+          "source": "金十数据",
           "ranks": [
-            25
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 03时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
+          "url": "https://flash.jin10.com/detail/20260727034241267800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         },
         {
           "title": "观众为何不能容忍长剧片头用AI",
@@ -163,8 +198,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时55分]"
         },
         {
           "title": "日本机器人格斗赛没开打就撞门跑路",
@@ -172,11 +207,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时55分]"
         },
         {
           "title": "日本技术员拆完宇树机器人，当场破防",
@@ -186,8 +222,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时55分]"
         },
         {
           "title": "日本如何评价宇树机器人",
@@ -214,8 +250,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时55分]"
         },
         {
           "title": "考公人发现豆包的神奇用法",
@@ -236,29 +272,31 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "罗永浩炮轰智能电视「长辈模式」与「套娃收费」，为何能引发集体共鸣？这种过度商业化正在怎样影响电视行业？",
+          "url": "https://www.zhihu.com/question/2064500575325181312",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 04时55分]"
+        },
+        {
           "title": "如何看待罗永浩向电视行业“开炮”",
           "url": "https://www.toutiao.com/trending/7666821237020053055/",
           "source": "今日头条",
           "ranks": [
             7,
             27,
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时20分]"
-        },
-        {
-          "title": "罗永浩炮轰智能电视「长辈模式」与「套娃收费」，为何能引发集体共鸣？这种过度商业化正在怎样影响电视行业？",
-          "url": "https://www.zhihu.com/question/2064500575325181312",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时00分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时55分]"
         }
       ]
     }
