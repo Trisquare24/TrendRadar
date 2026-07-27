@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T02:23:00.466624+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-07-28T04:20:49.661875+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时20分]"
         },
         {
           "title": "国内首部AI长片首播",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时20分]"
         },
         {
           "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
@@ -35,11 +35,25 @@
           "source": "知乎",
           "ranks": [
             3,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时20分]"
+        },
+        {
+          "title": "各个行业被AI取代的概率",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时20分]"
         },
         {
           "title": "受AI热潮推动，贝莱德韩国ETF连续第三周录得资金净流入",
@@ -54,6 +68,31 @@
           "time_info": "[00时56分 ~ 02时23分]"
         },
         {
+          "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时20分]"
+        },
+        {
+          "title": "侵权零成本!电竞选手遭AI换脸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时20分]"
+        },
+        {
           "title": "AI挤占DRAM颗粒供应 又一模组厂预警“无货可卖”风险",
           "url": "https://www.cls.cn/detail/2437715",
           "source": "财联社热门",
@@ -65,40 +104,28 @@
           "time_info": "[00时56分 ~ 02时23分]"
         },
         {
-          "title": "各个行业被AI取代的概率",
-          "url": "https://s.weibo.com/weibo?q=%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=8&Refer=top",
+          "title": "真有人把AI的照片当成自己",
+          "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E6%9C%89%E4%BA%BA%E6%8A%8AAI%E7%9A%84%E7%85%A7%E7%89%87%E5%BD%93%E6%88%90%E8%87%AA%E5%B7%B1&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            8,
-            9
+            13,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时23分]"
+          "time_info": "[02时22分 ~ 04时20分]"
         },
         {
-          "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
-          "source": "澎湃新闻",
+          "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
+          "url": "https://www.zhihu.com/question/2058547288499119870",
+          "source": "知乎",
           "ranks": [
-            18,
-            16
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时23分]"
-        },
-        {
-          "title": "侵权零成本!电竞选手遭AI换脸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时23分]"
+          "time_info": "[02时22分 ~ 04时20分]"
         },
         {
           "title": "花40亿token做出AI督学官",
@@ -136,26 +163,16 @@
           "time_info": "[00时56分 ~ 02时23分]"
         },
         {
-          "title": "真有人把AI的照片当成自己",
-          "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E6%9C%89%E4%BA%BA%E6%8A%8AAI%E7%9A%84%E7%85%A7%E7%89%87%E5%BD%93%E6%88%90%E8%87%AA%E5%B7%B1&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "安徽卫视播AI剧 明确标注AI制作",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E6%92%ADAI%E5%89%A7+%E6%98%8E%E7%A1%AE%E6%A0%87%E6%B3%A8AI%E5%88%B6%E4%BD%9C",
+          "source": "百度热搜",
           "ranks": [
-            13
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 02时23分]"
-        },
-        {
-          "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
-          "url": "https://www.zhihu.com/question/2058547288499119870",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 04时20分]"
         },
         {
           "title": "佛得角门将签约“泪洒现场”图是AI",
@@ -169,24 +186,13 @@
           "time_info": "[02时22分 ~ 02时23分]"
         },
         {
-          "title": "安徽卫视播AI剧 明确标注AI制作",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E6%92%ADAI%E5%89%A7+%E6%98%8E%E7%A1%AE%E6%A0%87%E6%B3%A8AI%E5%88%B6%E4%BD%9C",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 02时23分]"
-        },
-        {
           "title": "Microsoft AI：推出MAI-Cyber-1-Flash，这是我们自主研发的新型网络安全模型。",
           "url": "https://flash.jin10.com/detail/20260728014141537800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -197,9 +203,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "美国总统特朗普谴责全美汽车工人联合会（UAW）的领导人Shawn Fain。",
+          "url": "https://wallstreetcn.com/livenews/3140484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         },
         {
           "title": "特朗普连发数十张AI图遭吐槽",
@@ -213,6 +230,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
+          "url": "https://www.cls.cn/detail/2438154",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
           "title": "虞书欣疑似被AI融脸和声音",
           "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%96%91%E4%BC%BC%E8%A2%ABAI%E8%9E%8D%E8%84%B8%E5%92%8C%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -224,13 +252,24 @@
           "time_info": "00时56分"
         },
         {
+          "title": "2026年AI发现的网络安全漏洞数量恐怕将是2025年的两倍",
+          "url": "https://wallstreetcn.com/livenews/3140476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
           "title": "报道：英伟达将向Ilya Sutskever的AI研究实验室投资50亿美元",
           "url": "https://wallstreetcn.com/livenews/3140439",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -258,7 +297,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -271,8 +310,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时20分]"
         },
         {
           "title": "英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。（The Information）",
@@ -297,11 +336,12 @@
           "source": "微博",
           "ranks": [
             6,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时20分]"
         },
         {
           "title": "阿里76亿元投资长鑫搏出近1700亿",
@@ -309,11 +349,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时20分]"
         },
         {
           "title": "据伊朗媒体Fars News：消息人士称，以色列炮击了黎巴嫩南部的阿里·塔希尔高地。",
@@ -322,7 +363,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         }
@@ -341,8 +382,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时20分]"
         },
         {
           "title": "林志颖回应Kimi网上照片",
@@ -380,8 +421,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 04时20分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -389,11 +430,12 @@
           "source": "微博",
           "ranks": [
             13,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时20分]"
         }
       ]
     },
@@ -410,8 +452,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时20分]"
         }
       ]
     }
