@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T04:47:02.823935+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-08-02T05:52:22.093204+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
@@ -15,8 +15,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 04时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时52分]"
+        },
+        {
+          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
+          "url": "https://wallstreetcn.com/articles/3778475",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时52分]"
         },
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -26,20 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 04时47分]"
-        },
-        {
-          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
-          "url": "https://wallstreetcn.com/articles/3778475",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 04时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时52分]"
         },
         {
           "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
@@ -47,11 +48,25 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时52分]"
+        },
+        {
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 04时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时52分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -61,20 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 04时47分]"
-        },
-        {
-          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3778474",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 04时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时52分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -84,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 04时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时52分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -96,8 +99,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 04时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时52分]"
         },
         {
           "title": "人工智能助力直肠癌个性化化疗",
@@ -107,8 +110,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时52分]"
         },
         {
           "title": "美两家AI巨头承认自家大模型“失控”",
@@ -133,6 +136,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时09分]"
+        },
+        {
+          "title": "开源崛起、降价80%，大模型真的还能赚到钱吗？",
+          "url": "https://wallstreetcn.com/articles/3778491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         }
       ]
     },
@@ -148,8 +162,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 05时52分]"
         },
         {
           "title": "OpenAI 价格战",
@@ -176,19 +190,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 04时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时52分]"
         },
         {
           "title": "阿里董事会主席蔡崇信宣布离婚 对旗下资产有何影响？",
           "url": "https://www.cls.cn/detail/2443267",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 05时52分]"
         }
       ]
     },
@@ -204,8 +219,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 04时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时52分]"
         }
       ]
     },
@@ -222,8 +237,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 04时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 05时52分]"
         }
       ]
     }
