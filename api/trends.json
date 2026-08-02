@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-02T07:55:01.726197+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-08-02T10:26:34.159984+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时26分]"
+        },
         {
           "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
           "url": "https://wallstreetcn.com/articles/3778475",
@@ -16,17 +28,6 @@
             3,
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时55分]"
-        },
-        {
-          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -76,11 +77,12 @@
           "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时26分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -88,11 +90,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时26分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -112,11 +115,26 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 10时26分]"
+        },
+        {
+          "title": "开源崛起、降价80%，大模型真的还能赚到钱吗？",
+          "url": "https://wallstreetcn.com/articles/3778491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时52分 ~ 10时26分]"
         },
         {
           "title": "这届AI进化到开始玩心眼了",
@@ -126,8 +144,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时26分]"
         },
         {
           "title": "美两家AI巨头承认自家大模型“失控”",
@@ -143,19 +161,6 @@
           "time_info": "[00时01分 ~ 07时55分]"
         },
         {
-          "title": "开源崛起、降价80%，大模型真的还能赚到钱吗？",
-          "url": "https://wallstreetcn.com/articles/3778491",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时52分 ~ 07时55分]"
-        },
-        {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
           "url": "https://flash.jin10.com/detail/20260801222340904800",
           "source": "金十数据",
@@ -166,6 +171,91 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时09分]"
+        },
+        {
+          "title": "Visa(V.N)计划裁员2600人，因人工智能应用和成本削减推动重组。",
+          "url": "https://flash.jin10.com/detail/20260802094512188800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
+          "url": "https://wallstreetcn.com/articles/3778495",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "美股这个财报季盈利增长“超预期”，科技巨头“资本开支与AI回报”双涨",
+          "url": "https://wallstreetcn.com/articles/3778478",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时09分 ~ 10时26分]"
+        },
+        {
+          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
+          "url": "https://wallstreetcn.com/articles/3778497",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时51分 ~ 10时26分]"
+        },
+        {
+          "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
+          "url": "https://flash.jin10.com/detail/20260802095047745800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "OpenAI 价格战",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%20%E4%BB%B7%E6%A0%BC%E6%88%98&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 00时02分]"
         }
       ]
     },
@@ -178,11 +268,12 @@
           "url": "https://www.zhihu.com/question/2066595452238160814",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时26分]"
         },
         {
           "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
@@ -209,46 +300,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 07时55分]"
-        },
-        {
-          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
-          "url": "https://wallstreetcn.com/articles/3778497",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时51分 ~ 07时55分]"
-        },
-        {
-          "title": "OpenAI 价格战",
-          "url": "https://s.weibo.com/weibo?q=OpenAI%20%E4%BB%B7%E6%A0%BC%E6%88%98&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "阿里 Qwen",
       "match_count": 3,
       "titles": [
@@ -257,11 +308,12 @@
           "url": "https://news.ifeng.com/c/8vEMQDCNZQw",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时26分]"
         },
         {
           "title": "阿里董事会主席蔡崇信宣布离婚 对旗下资产有何影响？",
@@ -272,19 +324,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时03分 ~ 07时55分]"
+          "appearance_count": 9,
+          "time_info": "[03时03分 ~ 10时26分]"
         },
         {
           "title": "阿里巴巴集团主席蔡崇信离婚：无出售阿里股份计划，职务不受影响",
           "url": "https://m.thepaper.cn/newsDetail_forward_33693478",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 06时52分]"
+          "appearance_count": 3,
+          "time_info": "[06时51分 ~ 10时26分]"
         }
       ]
     },
@@ -301,8 +354,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时26分]"
         }
       ]
     }
