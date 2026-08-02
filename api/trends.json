@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T21:41:35.500198+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-08-02T22:59:55.501146+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -73,6 +73,21 @@
           "time_info": "[00时01分 ~ 07时55分]"
         },
         {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时53分 ~ 22时59分]"
+        },
+        {
           "title": "这届AI进化到开始玩心眼了",
           "url": "https://www.douyin.com/hot/2592773",
           "source": "抖音",
@@ -83,22 +98,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时54分 ~ 21时41分]"
-        },
-        {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时53分 ~ 21时41分]"
+          "appearance_count": 12,
+          "time_info": "[07时54分 ~ 22时59分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -111,8 +112,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时01分 ~ 21时41分]"
+          "appearance_count": 21,
+          "time_info": "[00时01分 ~ 22时59分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -185,11 +186,23 @@
           "ranks": [
             12,
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时16分 ~ 21时41分]"
+          "appearance_count": 7,
+          "time_info": "[16时16分 ~ 22时59分]"
+        },
+        {
+          "title": "国产大模型调用量全球领先",
+          "url": "https://www.douyin.com/hot/2594706",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时59分]"
         },
         {
           "title": "美两家AI巨头承认自家大模型“失控”",
@@ -205,15 +218,17 @@
           "time_info": "[00时01分 ~ 07时55分]"
         },
         {
-          "title": "国产大模型调用量全球领先",
-          "url": "https://www.douyin.com/hot/2594706",
-          "source": "抖音",
+          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
+          "url": "https://wallstreetcn.com/articles/3778505",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            9,
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时38分 ~ 22时59分]"
         },
         {
           "title": "从韩国到美国：多亏了AI，蓝领越来越吃香了",
@@ -233,24 +248,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 21时41分]"
-        },
-        {
-          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
-          "url": "https://wallstreetcn.com/articles/3778505",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 21时41分]"
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 22时59分]"
         },
         {
           "title": "便宜90%！美企偷偷换上中国大模型",
@@ -262,6 +265,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时38分 ~ 20时02分]"
+        },
+        {
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时59分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -344,17 +359,6 @@
           "time_info": "10时26分"
         },
         {
-          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
-          "url": "https://wallstreetcn.com/articles/3778516",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
           "title": "AI股神爆仓有哪些启示",
           "url": "https://search.bilibili.com/all?keyword=AI%E8%82%A1%E7%A5%9E%E7%88%86%E4%BB%93%E6%9C%89%E5%93%AA%E4%BA%9B%E5%90%AF%E7%A4%BA",
           "source": "bilibili 热搜",
@@ -364,6 +368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时59分"
         },
         {
           "title": "陆毅鲍蕾看女儿做的AI生日短片",
@@ -401,11 +416,12 @@
           "ranks": [
             6,
             23,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 21时41分]"
+          "appearance_count": 5,
+          "time_info": "[18时38分 ~ 22时59分]"
         },
         {
           "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
@@ -457,11 +473,12 @@
             4,
             10,
             12,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时09分 ~ 21时41分]"
+          "appearance_count": 19,
+          "time_info": "[01时09分 ~ 22时59分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
@@ -544,11 +561,12 @@
             10,
             19,
             21,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时01分 ~ 21时41分]"
+          "appearance_count": 21,
+          "time_info": "[00时01分 ~ 22时59分]"
         },
         {
           "title": "人形机器人做家政：每小时30美元",
