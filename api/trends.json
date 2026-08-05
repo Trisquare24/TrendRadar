@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T11:58:04.700623+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-08-05T14:29:54.774394+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "AI做题吊打日本名校状元",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时43分 ~ 11时58分]"
+          "appearance_count": 11,
+          "time_info": "[01时43分 ~ 14时29分]"
         },
         {
           "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
@@ -46,6 +47,18 @@
           "time_info": "[01时43分 ~ 08时11分]"
         },
         {
+          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778691",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时10分 ~ 14时29分]"
+        },
+        {
           "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
           "url": "https://www.zhihu.com/question/2066578072997049748",
           "source": "知乎",
@@ -59,27 +72,16 @@
           "time_info": "[01时43分 ~ 08时11分]"
         },
         {
-          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778691",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时10分 ~ 11时58分]"
-        },
-        {
           "title": "AI短剧市场有多火？虚拟演员商单报价超真人网红 但爆款率不足0.5%困局待解",
           "url": "https://www.cls.cn/detail/2445817",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时29分]"
         },
         {
           "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
@@ -100,8 +102,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时29分]"
         },
         {
           "title": "小鹏G9L首发AI主动贴合零重力座椅",
@@ -133,7 +135,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -160,6 +162,17 @@
           "time_info": "05时08分"
         },
         {
+          "title": "梁文峰会不会成为中国 AI 里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "美媒：白宫不计划公开先进AI模型评估框架细节",
           "url": "https://flash.jin10.com/detail/20260805023142240800",
           "source": "金十数据",
@@ -180,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "软银加码AI布局，投资7-11母公司打造智能零售生态",
+          "url": "https://flash.jin10.com/detail/20260805140536190800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "马斯克：往后我们决定完全基于英伟达开展技术搭建。 人工智能与机器人技术将大幅提升带宽需求。",
@@ -210,7 +234,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         },
@@ -292,6 +316,17 @@
           "time_info": "05时08分"
         },
         {
+          "title": "御廷谣疑似AI换脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%A1%E5%BB%B7%E8%B0%A3%E7%96%91%E4%BC%BCAI%E6%8D%A2%E8%84%B8%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
+        },
+        {
           "title": "据AXIOS：白宫将开源模型排除在先进AI能力测试框架之外。",
           "url": "https://flash.jin10.com/detail/20260805051558907800",
           "source": "金十数据",
@@ -312,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "英飞凌季度营收指引超预期，AI数据中心芯片需求持续升温",
+          "url": "https://flash.jin10.com/detail/20260805134306778800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时29分"
         },
         {
           "title": "SpaceX营收在二季度增超90%，AI成本飙涨",
@@ -371,8 +417,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时29分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
@@ -529,7 +575,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
         }
