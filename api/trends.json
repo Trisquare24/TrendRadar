@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-06T04:24:24.234434+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-08-06T06:10:53.277403+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778691",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 06时10分]"
+        },
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
           "url": "https://wallstreetcn.com/articles/3778704",
@@ -14,17 +25,6 @@
           "ranks": [
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时24分]"
-        },
-        {
-          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778691",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 06时10分]"
         },
         {
           "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
@@ -49,11 +49,12 @@
           "ranks": [
             20,
             19,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 06时10分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -64,8 +65,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 06时10分]"
         },
         {
           "title": "AI风险需要更严厉的网络防御，美国高级官员警告",
@@ -74,7 +75,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -85,7 +86,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -96,7 +97,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -112,15 +113,37 @@
           "time_info": "02时19分"
         },
         {
+          "title": "私募资本涌入新兴市场，竞相为AI基础设施建设提供资金",
+          "url": "https://wallstreetcn.com/livenews/3145609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
           "title": "侧重于AI投资的Altimeter资产管理规模在7月份缩水11%。 数据显示，多家基金公司已经在7月表现惨淡。",
           "url": "https://wallstreetcn.com/livenews/3145558",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：市场杠杆相当高。 市场杠杆越高，发生市场动荡的概率就越大。 AI Token相关支出 “将得到控制”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3145598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "大摩：两家AI实验室的芯片融资需求或达6000亿美元",
@@ -129,7 +152,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         }
@@ -137,7 +160,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌对AI领导层进行重大调整 AI负责人卸任主要管理职务",
@@ -161,6 +184,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 02时19分]"
+        },
+        {
+          "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
+          "url": "https://wallstreetcn.com/livenews/3145619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "谷歌AI核心人物Jeff Dean离职 创办AI初创公司",
@@ -246,7 +280,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         }
@@ -254,7 +288,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据微软(MSFT.O)披露的信息，OpenAI约占其人工智能销售额的70%，OpenAI在2026财年的收入达到241亿美元。",
@@ -276,8 +310,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 06时10分]"
+        },
+        {
+          "title": "亚马逊旗下AWS与Anthropic、OpenAI构建合作伙伴关系。 三方将围绕AWS Continuum工作流合作。",
+          "url": "https://wallstreetcn.com/livenews/3145610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         },
         {
           "title": "Meta推出首款AI编程智能体，正面挑战Anthropic与OpenAI",
@@ -286,7 +331,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         }
@@ -319,11 +364,12 @@
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 06时10分]"
         }
       ]
     }
