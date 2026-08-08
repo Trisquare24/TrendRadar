@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T09:17:45.781209+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2026-08-08T11:22:43.262688+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI 大模型 LLM AGI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "如何看待张一鸣与梁文峰被评「正以完全不同的方向迈向 AGI」？",
@@ -31,11 +31,12 @@
             5,
             6,
             19,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 09时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 11时22分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -47,8 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 09时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 11时22分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -72,8 +73,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 09时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 11时22分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -96,8 +97,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时50分 ~ 09时17分]"
+          "appearance_count": 9,
+          "time_info": "[03时50分 ~ 11时22分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -150,6 +151,17 @@
           "time_info": "[01时46分 ~ 02时51分]"
         },
         {
+          "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
+          "url": "https://www.zhihu.com/question/2068674224802067300",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 11时22分]"
+        },
+        {
           "title": "据The Information：SpaceX(SPCX.O)最早可能在下周末完成对编程初创公司Cursor的600亿美元收购。Cursor将与SpaceX AI团队进行整合。",
           "url": "https://flash.jin10.com/detail/20260808032042397800",
           "source": "金十数据",
@@ -161,15 +173,15 @@
           "time_info": "03时51分"
         },
         {
-          "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
-          "url": "https://www.zhihu.com/question/2068674224802067300",
-          "source": "知乎",
+          "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
+          "url": "https://flash.jin10.com/detail/20260808100104329800",
+          "source": "金十数据",
           "ranks": [
-            13
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "11时22分"
         },
         {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
@@ -203,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "用AI造出新病毒意味着什么",
+          "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E9%80%A0%E5%87%BA%E6%96%B0%E7%97%85%E6%AF%92%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         }
       ]
     },
@@ -248,19 +271,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时50分 ~ 09时17分]"
+          "appearance_count": 9,
+          "time_info": "[03时50分 ~ 11时22分]"
         },
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
           "url": "https://www.zhihu.com/question/2068108635620774765",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 11时22分]"
         }
       ]
     },
@@ -285,11 +309,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 09时17分]"
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 11时22分]"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -316,11 +341,12 @@
           "ranks": [
             18,
             19,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 09时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 11时22分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -382,8 +408,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时51分 ~ 09时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时51分 ~ 11时22分]"
         }
       ]
     }
